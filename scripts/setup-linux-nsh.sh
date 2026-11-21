@@ -246,7 +246,7 @@ check() {
     else report "nsh CLI" "MISSING or not at ${REF:0:7}" 0; fi
     # The wrapper embeds the checkout and SDK paths; a move makes it stale.
     if [ -x "$WORK/nsh2404.sh" ] && grep -qxF "cd \"$REPO/nsh\"" "$WORK/nsh2404.sh" &&
-        grep -qF -- "-e ANDROID_HOME=\"$ANDROID_HOME\"" "$WORK/nsh2404.sh"; then
+        { [ "$WITH_ANDROID" -eq 0 ] || grep -qF -- "-e ANDROID_HOME=\"$ANDROID_HOME\"" "$WORK/nsh2404.sh"; }; then
         report "nsh2404.sh wrapper" present 1
     else report "nsh2404.sh wrapper" "MISSING or stale" 0; fi
     if [ "$WITH_ANDROID" -eq 1 ]; then
