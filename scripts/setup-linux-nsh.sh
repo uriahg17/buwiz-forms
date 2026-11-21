@@ -16,8 +16,8 @@
 #     android-35, build-tools 35.0.1, NDK 27, the API 35 x86_64 image, an AVD
 #     named "buwiz", the Rust Android targets and NSH's Android runtime
 #   - ~/BuwizNsh/nsh2404.sh <cmd>: runs <cmd> in the image from nsh/ with
-#     DISPLAY=:0, host networking (`just mock-account` on 127.0.0.1:3008) and
-#     the local-test safety variables
+#     $DISPLAY (default :0), host networking (`just mock-account` on 127.0.0.1:3008) and
+#     the local-test safety variables (baked into Android dev builds)
 #
 # Usage:
 #   scripts/setup-linux-nsh.sh               # everything
@@ -67,7 +67,14 @@ REF="$(sed -n 's/^ *NSH_PINNED_REF: *//p' "$REPO/.github/workflows/nsh.yml" | he
 SUDO=""
 [ "$(id -u)" -ne 0 ] && SUDO="sudo"
 
-# One-off command in the image as the calling user, $HOME mounted.
+# $HOME plus the checkouts and SDK when they live outside it, mounted at the
+# same paths so builds and the wrapper see the host layout.
+MOUNTS=(-v "$HOME:$HOME")
+for dir in "$REPO" "$NSH" "$ANDROID_HOME"; do
+    case "$dir/" in "$HOME"/*) ;; *) MOUNTS+=(-v "$dir:$dir") ;; esac
+done
+
+# One-off command in the image as the calling user.
 in_image() {  # in_image <workdir> <docker -e args...> -- <cmd...>
     local workdir="$1"; shift
     local envs=()
@@ -76,7 +83,7 @@ in_image() {  # in_image <workdir> <docker -e args...> -- <cmd...>
     docker run --rm -u "$(id -u):$(id -g)" \
         -e HOME="$HOME" -e PATH="$HOME/.cargo/bin:/usr/local/bin:/usr/bin:/bin" \
         -e CARGO_INCREMENTAL=0 "${envs[@]}" \
-        -v "$HOME:$HOME" -w "$workdir" "$IMAGE" "$@"
+        "${MOUNTS[@]}" -w "$workdir" "$IMAGE" "$@"
 }
 
 nsh_cli_current() {
@@ -121,14 +128,18 @@ write_wrapper() {
 # Written by scripts/setup-linux-nsh.sh.
 set -euo pipefail
 cd "@REPO@/nsh"
-DISPLAY=:0 xhost +SI:localuser:"$(id -un)" >/dev/null 2>&1 || true
+display="${DISPLAY:-:0}"
+DISPLAY="$display" xhost +SI:localuser:"$(id -un)" >/dev/null 2>&1 || true
 tty=(); [ -t 0 ] && [ -t 1 ] && tty=(-t)
 # NSH's CLI sets CC/AR for Android but not RANLIB, which vendored OpenSSL needs.
 RANLIB="@ANDROID_HOME@/ndk/@NDK@/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-ranlib"
 # Unset, the NSH app's own workspace builds full debuginfo: a 4 GB dev APK.
-dbg=(); case " $* " in *android*) dbg=(-e CARGO_PROFILE_DEV_DEBUG=0);; esac
+# The Android app reads test settings baked in at build time, not from the
+# environment it runs in (nsh/src/dev_env.rs).
+android=(); case " $* " in *android*) android=(-e CARGO_PROFILE_DEV_DEBUG=0
+  -e "BUWIZ_ANDROID_DEV_ENV=EBIR_TEST_ENV=1;BIR_AUTH_BYPASS=1;BUWIZ_NO_KEYCHAIN=1;BIR_SFTP_DRY_RUN=1");; esac
 uid="$(id -u)"
-exec docker run --rm -i "${tty[@]}" "${dbg[@]}" --network host --security-opt apparmor=unconfined -u "$uid:$(id -g)" \
+exec docker run --rm -i "${tty[@]}" "${android[@]}" --network host --security-opt apparmor=unconfined -u "$uid:$(id -g)" \
   -e HOME="$HOME" \
   -e PATH="$HOME/BuwizNsh/tools/bin:$HOME/.cargo/bin:@ANDROID_HOME@/platform-tools:/usr/local/bin:/usr/bin:/bin" \
   -e CARGO_TARGET_DIR="$HOME/BuwizNsh/target-nsh" \
@@ -136,17 +147,18 @@ exec docker run --rm -i "${tty[@]}" "${dbg[@]}" --network host --security-opt ap
   -e ANDROID_HOME="@ANDROID_HOME@" \
   -e JAVA_HOME=@JAVA_HOME@ \
   -e RANLIB_x86_64_linux_android="$RANLIB" -e RANLIB_aarch64_linux_android="$RANLIB" -e RANLIB_armv7_linux_androideabi="$RANLIB" \
-  -e DISPLAY=:0 -e XDG_RUNTIME_DIR="/run/user/$uid" \
+  -e DISPLAY="$display" -e XDG_RUNTIME_DIR="/run/user/$uid" \
   -e DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$uid/bus" \
   -e BUWIZ_NO_KEYCHAIN=1 -e EBIR_TEST_ENV=1 -e BIR_AUTH_BYPASS=1 -e BIR_SFTP_DRY_RUN=1 \
-  -v "$HOME:$HOME" \
+  @MOUNTS@ \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   -v "/run/user/$uid:/run/user/$uid" \
   -w "@REPO@/nsh" \
   buwiz-nsh-2404 "$@"
 NSH_EOF
     sed -i -e "s#@REPO@#$REPO#g" -e "s#@ANDROID_HOME@#$ANDROID_HOME#g" \
-        -e "s#@NDK@#$NDK_VERSION#g" -e "s#@JAVA_HOME@#$JAVA_HOME_IMAGE#g" "$WORK/nsh2404.sh"
+        -e "s#@NDK@#$NDK_VERSION#g" -e "s#@JAVA_HOME@#$JAVA_HOME_IMAGE#g" \
+        -e "s#@MOUNTS@#$(printf '%q ' "${MOUNTS[@]}")#" "$WORK/nsh2404.sh"
     chmod +x "$WORK/nsh2404.sh"
 }
 
@@ -236,6 +248,11 @@ main() {
     fi
     command -v docker >/dev/null 2>&1 || die "Docker is required (NSH builds in an Ubuntu 24.04 image)"
     docker info >/dev/null 2>&1 || die "Docker is not usable as $(id -un); add the user to the docker group"
+    # setup-linux.sh may have just installed rustup in another process.
+    if ! command -v cargo >/dev/null 2>&1 && [ -f "$HOME/.cargo/env" ]; then
+        # shellcheck disable=SC1091
+        . "$HOME/.cargo/env"
+    fi
     command -v cargo >/dev/null 2>&1 || die "run scripts/setup-linux.sh first (needs rustup)"
 
     checkout_nsh
