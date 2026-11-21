@@ -67,12 +67,20 @@ REF="$(sed -n 's/^ *NSH_PINNED_REF: *//p' "$REPO/.github/workflows/nsh.yml" | he
 SUDO=""
 [ "$(id -u)" -ne 0 ] && SUDO="sudo"
 
-# $HOME plus the checkouts and SDK when they live outside it, mounted at the
-# same paths so builds and the wrapper see the host layout.
+# $HOME plus the checkouts when they live outside it, mounted at the same
+# paths so builds and the wrapper see the host layout.
+outside_home() { case "$1/" in "$HOME"/*) return 1 ;; esac; }
 MOUNTS=(-v "$HOME:$HOME")
-for dir in "$REPO" "$NSH" "$ANDROID_HOME"; do
-    case "$dir/" in "$HOME"/*) ;; *) MOUNTS+=(-v "$dir:$dir") ;; esac
+for dir in "$REPO" "$NSH"; do
+    outside_home "$dir" && MOUNTS+=(-v "$dir:$dir")
 done
+# The SDK is mounted only for Android work, once the host install has created
+# it: a missing bind source would be created by Docker, owned by root.
+sdk_mount() {
+    if [ -d "$ANDROID_HOME" ] && outside_home "$ANDROID_HOME"; then
+        printf '%s\n' -v "$ANDROID_HOME:$ANDROID_HOME"
+    fi
+}
 
 # One-off command in the image as the calling user.
 in_image() {  # in_image <workdir> <docker -e args...> -- <cmd...>
@@ -87,7 +95,8 @@ in_image() {  # in_image <workdir> <docker -e args...> -- <cmd...>
 }
 
 nsh_cli_current() {
-    [ -x "$WORK/nsh2404.sh" ] && "$WORK/nsh2404.sh" nsh --version 2>/dev/null | grep -q "(${REF:0:7})"
+    [ -x "$WORK/tools/bin/nsh" ] &&
+        in_image "$NSH" -- "$WORK/tools/bin/nsh" --version 2>/dev/null | grep -q "(${REF:0:7})"
 }
 
 checkout_nsh() {
@@ -139,6 +148,11 @@ RANLIB="@ANDROID_HOME@/ndk/@NDK@/toolchains/llvm/prebuilt/linux-x86_64/bin/llvm-
 android=(); case " $* " in *android*) android=(-e CARGO_PROFILE_DEV_DEBUG=0
   -e "BUWIZ_ANDROID_DEV_ENV=EBIR_TEST_ENV=1;BIR_AUTH_BYPASS=1;BUWIZ_NO_KEYCHAIN=1;BIR_SFTP_DRY_RUN=1");; esac
 uid="$(id -u)"
+NSH_EOF
+    local mounts=("${MOUNTS[@]}") sdk
+    if [ "$WITH_ANDROID" -eq 1 ]; then mapfile -t sdk < <(sdk_mount); mounts+=("${sdk[@]}"); fi
+    printf 'mounts=(%s)\n' "$(printf '%q ' "${mounts[@]}")" >> "$WORK/nsh2404.sh"
+    cat >> "$WORK/nsh2404.sh" <<'NSH_EOF'
 exec docker run --rm -i "${tty[@]}" "${android[@]}" --network host --security-opt apparmor=unconfined -u "$uid:$(id -g)" \
   -e HOME="$HOME" \
   -e PATH="$HOME/BuwizNsh/tools/bin:$HOME/.cargo/bin:@ANDROID_HOME@/platform-tools:/usr/local/bin:/usr/bin:/bin" \
@@ -150,15 +164,14 @@ exec docker run --rm -i "${tty[@]}" "${android[@]}" --network host --security-op
   -e DISPLAY="$display" -e XDG_RUNTIME_DIR="/run/user/$uid" \
   -e DBUS_SESSION_BUS_ADDRESS="unix:path=/run/user/$uid/bus" \
   -e BUWIZ_NO_KEYCHAIN=1 -e EBIR_TEST_ENV=1 -e BIR_AUTH_BYPASS=1 -e BIR_SFTP_DRY_RUN=1 \
-  @MOUNTS@ \
+  "${mounts[@]}" \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   -v "/run/user/$uid:/run/user/$uid" \
   -w "@REPO@/nsh" \
   buwiz-nsh-2404 "$@"
 NSH_EOF
     sed -i -e "s#@REPO@#$REPO#g" -e "s#@ANDROID_HOME@#$ANDROID_HOME#g" \
-        -e "s#@NDK@#$NDK_VERSION#g" -e "s#@JAVA_HOME@#$JAVA_HOME_IMAGE#g" \
-        -e "s#@MOUNTS@#$(printf '%q ' "${MOUNTS[@]}")#" "$WORK/nsh2404.sh"
+        -e "s#@NDK@#$NDK_VERSION#g" -e "s#@JAVA_HOME@#$JAVA_HOME_IMAGE#g" "$WORK/nsh2404.sh"
     chmod +x "$WORK/nsh2404.sh"
 }
 
@@ -211,7 +224,8 @@ install_android_runtime() {
         return 0
     fi
     log "Building NSH's Android runtime in the image"
-    in_image "$NSH" -e ANDROID_HOME="$ANDROID_HOME" -e JAVA_HOME="$JAVA_HOME_IMAGE" -- \
+    local sdk; mapfile -t sdk < <(sdk_mount)
+    in_image "$NSH" "${sdk[@]}" -e ANDROID_HOME="$ANDROID_HOME" -e JAVA_HOME="$JAVA_HOME_IMAGE" -- \
         cargo xtask android --dev
     rm -rf "$dest" && mkdir -p "$WORK/tools/android"
     cp -r "$NSH/target/android/debug-dev" "$dest"
@@ -257,12 +271,12 @@ main() {
 
     checkout_nsh
     build_image
-    write_wrapper
     install_nsh_cli
     if [ "$WITH_ANDROID" -eq 1 ]; then
         install_android_sdk
         install_android_runtime
     fi
+    write_wrapper
 
     log "Verifying"
     check
