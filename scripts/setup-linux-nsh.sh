@@ -150,7 +150,8 @@ android=(); case " $* " in *android*) android=(-e CARGO_PROFILE_DEV_DEBUG=0
 uid="$(id -u)"
 NSH_EOF
     local mounts=("${MOUNTS[@]}") sdk
-    if [ "$WITH_ANDROID" -eq 1 ]; then mapfile -t sdk < <(sdk_mount); mounts+=("${sdk[@]}"); fi
+    # Kept on --no-android runs too, so they don't break an existing Android setup.
+    mapfile -t sdk < <(sdk_mount); mounts+=("${sdk[@]}")
     printf 'mounts=(%s)\n' "$(printf '%q ' "${mounts[@]}")" >> "$WORK/nsh2404.sh"
     cat >> "$WORK/nsh2404.sh" <<'NSH_EOF'
 exec docker run --rm -i "${tty[@]}" "${android[@]}" --network host --security-opt apparmor=unconfined -u "$uid:$(id -g)" \
@@ -243,6 +244,8 @@ check() {
     else report "../nsh" "MISSING or not at ${REF:0:7}" 0; fi
     if nsh_cli_current; then report "nsh CLI" "${REF:0:7}" 1
     else report "nsh CLI" "MISSING or not at ${REF:0:7}" 0; fi
+    if [ -x "$WORK/nsh2404.sh" ]; then report "nsh2404.sh wrapper" present 1
+    else report "nsh2404.sh wrapper" MISSING 0; fi
     if [ "$WITH_ANDROID" -eq 1 ]; then
         if [ -d "$ANDROID_HOME/ndk/$NDK_VERSION" ]; then report "android ndk" "$NDK_VERSION" 1
         else report "android ndk" MISSING 0; fi
