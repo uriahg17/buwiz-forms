@@ -19,7 +19,7 @@ use gpui::{
     App, AppContext, Bounds, Context, FocusHandle, ImageSource, InteractiveElement, IntoElement,
     KeyDownEvent, MouseButton, ParentElement, Render, RenderImage, SharedString,
     StatefulInteractiveElement, Styled, TitlebarOptions, WeakEntity, Window, WindowBounds,
-    WindowDecorations, WindowOptions, div, img, point, px, size,
+    WindowOptions, div, img, point, px, size,
 };
 
 const TITLE_BAR_H: f32 = 40.0;
@@ -701,7 +701,7 @@ fn open(r: Request, cx: &mut App) {
             appears_transparent: true,
             traffic_light_position: Some(point(px(14.0), px(14.0))),
         }),
-        window_decorations: Some(WindowDecorations::Client),
+        window_decorations: Some(crate::host::window_decorations()),
         window_background: crate::host::window_background(),
         ..Default::default()
     };

@@ -26,7 +26,7 @@ from the checked-out branch, so that branch must include them.
 | --- | --- | --- | --- |
 | Windows | `scripts/setup-windows.ps1` | `scripts/setup-android-windows.ps1` | not available |
 | macOS | `scripts/setup-macos.sh` + NSH CLI | not covered here yet | Xcode + iOS Rust targets |
-| Linux | `scripts/setup-linux.sh` + NSH sidecar | not covered here yet | not available |
+| Linux | `scripts/setup-linux.sh` + `scripts/setup-linux-nsh.sh` (NSH sidecar) | `scripts/setup-linux-nsh.sh` | not available |
 
 The NSH checkout is a sibling of this repository (`../nsh`), at `NSH_PINNED_REF` from `.github/workflows/nsh.yml`.
 It is read-only: never edit it.

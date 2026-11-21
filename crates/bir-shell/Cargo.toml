@@ -142,6 +142,8 @@ objc2-pdf-kit = { version = "0.3.2", features = ["PDFDocument", "PDFPage", "objc
 [target.'cfg(target_os = "linux")'.dependencies]
 # tray-icon's menu panics on Linux unless GTK is initialized first.
 gtk = "0.18.2"
+# Compositor check for window decorations (host.rs); the version gpui links.
+x11rb = "0.13"
 
 [target.'cfg(target_os = "windows")'.dependencies]
 windows = { version = "0.62.2", features = [

@@ -28,19 +28,27 @@
 #   scripts/setup-linux.sh --check      # verify only, install nothing
 #   scripts/setup-linux.sh --extras     # also install cargo-audit/outdated/machete
 #   scripts/setup-linux.sh --no-agent   # skip installing the gpui-agent CLI
+#   scripts/setup-linux.sh --compositor # also install xcompmgr and autostart it
+#
+# --compositor is for X11 sessions whose window manager does not composite
+# (KWin/Xfwm with compositing off, Openbox, VMs). The app then falls back to
+# server-side decorations; with xcompmgr it keeps its own frame and shadow.
+# NSH app and Android toolchain: scripts/setup-linux-nsh.sh.
 #
 set -euo pipefail
 
 CHECK_ONLY=0
 WITH_EXTRAS=0
 WITH_AGENT=1
+WITH_COMPOSITOR=0
 for arg in "$@"; do
     case "$arg" in
         --check)    CHECK_ONLY=1 ;;
         --extras)   WITH_EXTRAS=1 ;;
         --no-agent) WITH_AGENT=0 ;;
+        --compositor) WITH_COMPOSITOR=1 ;;
         -h|--help)
-            sed -n '2,30p' "$0"
+            sed -n '2,37p' "$0"
             exit 0
             ;;
         *) echo "Unknown option: $arg (see --help)" >&2; exit 2 ;;
@@ -253,6 +261,24 @@ install_gpui_agent() {
 }
 
 # ---------------------------------------------------------------------------
+# xcompmgr — a minimal X11 compositing manager. Without one, GPUI's
+# transparent client-decoration shadow has nothing to blend it; the app then
+# asks the window manager for a frame instead. Autostarted for the next login
+# and started now when an X display is up.
+# ---------------------------------------------------------------------------
+install_compositor() {
+    install_pkgs xcompmgr
+    local autostart="${XDG_CONFIG_HOME:-$HOME/.config}/autostart"
+    mkdir -p "$autostart"
+    printf '[Desktop Entry]\nType=Application\nName=xcompmgr\nExec=xcompmgr\nX-KDE-autostart-phase=1\n' \
+        > "$autostart/xcompmgr.desktop"
+    if [ -n "${DISPLAY:-}" ] && ! pgrep -x xcompmgr >/dev/null 2>&1; then
+        log "Starting xcompmgr on $DISPLAY"
+        (setsid xcompmgr >/dev/null 2>&1 &)
+    fi
+}
+
+# ---------------------------------------------------------------------------
 # --check mode: verify the toolchain end to end
 # ---------------------------------------------------------------------------
 check() {
@@ -308,6 +334,11 @@ main() {
     install_just
     if [ "$WITH_AGENT" -eq 1 ]; then
         install_gpui_agent
+    fi
+
+    if [ "$WITH_COMPOSITOR" -eq 1 ]; then
+        log "Installing xcompmgr"
+        install_compositor
     fi
 
     if [ "$WITH_EXTRAS" -eq 1 ]; then
