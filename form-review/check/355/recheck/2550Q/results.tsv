@@ -1,0 +1,5 @@
+case	fault_area	old_3e8b1212	new_05b9c989	verdict	note
+base	item19_specify_rule6	inline ellipsis in small specify box	full-width one-line rectangle under label; amount 2000000.00 level with item 19	fixed	exact specify text fits once on form and is not additionally duplicated
+base	additional_sheet_tin	000-123-453 without branch code	000-123-453-00000	fixed	branch code now present
+base	negative_excess	(1,989,308.62)	(1,989,308.62)	stable	arithmetic and signed display unchanged
+base	numeric_content	n/a	no numeric-token loss detected	pass	additional-sheet text entries disappear where full text now fits on the form, as intended

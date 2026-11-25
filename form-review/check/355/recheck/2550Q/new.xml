@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="9" family="Times" color="#000000"/>
+	<fontspec id="1" size="9" family="Times" color="#000000"/>
+	<fontspec id="2" size="19" family="Times" color="#000000"/>
+	<fontspec id="3" size="29" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+	<fontspec id="5" size="11" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="9" family="Times" color="#000000"/>
+	<fontspec id="8" size="17" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+	<fontspec id="10" size="12" family="Times" color="#000000"/>
+	<fontspec id="11" size="10" family="Times" color="#000000"/>
+	<fontspec id="12" size="10" family="Times" color="#000000"/>
+<text top="35" left="397" width="125" height="13" font="0"><b>Republic of the Philippines</b></text>
+<text top="46" left="397" width="113" height="13" font="0"><b>    Department of Finance</b></text>
+<text top="50" left="101" width="32" height="13" font="1">For BIR </text>
+<text top="51" left="149" width="23" height="13" font="1">BCS/</text>
+<text top="57" left="397" width="123" height="13" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="61" left="101" width="70" height="13" font="1">Use Only Item:</text>
+<text top="76" left="130" width="56" height="13" font="1">BIR Form No.</text>
+<text top="78" left="285" width="239" height="25" font="2"><b>Quarterly Value-Added Tax</b></text>
+<text top="87" left="116" width="88" height="38" font="3"><b>2550Q</b></text>
+<text top="101" left="350" width="121" height="25" font="2"><b>(VAT) Return</b></text>
+<text top="121" left="119" width="79" height="13" font="1">April 2024 (ENCS) </text>
+<text top="123" left="231" width="350" height="11" font="4"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes</i></text>
+<text top="132" left="144" width="31" height="13" font="0"><b>Page 1</b></text>
+<text top="133" left="251" width="314" height="11" font="4"><i>with an “X”.  Two copies MUST be filed with the BIR and one held by the Taxpayer.</i></text>
+<text top="134" left="695" width="97" height="13" font="1">2550Q 04/24ENCS P1 </text>
+<text top="149" left="772" width="15" height="14" font="5">4th</text>
+<text top="151" left="104" width="43" height="14" font="6"><b>1</b> For the </text>
+<text top="151" left="311" width="70" height="14" font="6"><b>2</b> Year Ended </text>
+<text top="151" left="553" width="46" height="14" font="6"><b>3 </b>Quarter</text>
+<text top="151" left="186" width="45" height="14" font="5">Calendar</text>
+<text top="151" left="272" width="29" height="14" font="5">Fiscal</text>
+<text top="151" left="626" width="15" height="14" font="5">1st</text>
+<text top="151" left="671" width="18" height="14" font="5">2nd</text>
+<text top="151" left="724" width="16" height="14" font="5">3rd</text>
+<text top="152" left="381" width="52" height="13" font="7"><i>(MM/YYYY)</i></text>
+<text top="168" left="105" width="80" height="14" font="6"><b>4</b> Return Period </text>
+<text top="168" left="468" width="97" height="14" font="6"><b>5</b> Amended Return? </text>
+<text top="168" left="624" width="108" height="14" font="6"><b>6 </b>Short Period Return?</text>
+<text top="170" left="185" width="68" height="13" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="186" left="115" width="26" height="14" font="5">From</text>
+<text top="186" left="298" width="13" height="14" font="5">To</text>
+<text top="186" left="520" width="19" height="14" font="5">Yes</text>
+<text top="186" left="573" width="14" height="14" font="5">No</text>
+<text top="186" left="678" width="19" height="14" font="5">Yes</text>
+<text top="186" left="747" width="14" height="14" font="5">No</text>
+<text top="207" left="364" width="168" height="14" font="6"><b>Part I – Background Information</b></text>
+<text top="222" left="570" width="77" height="22" font="8"><b>0 0 0 0 0</b></text>
+<text top="222" left="414" width="6" height="22" font="8"><b>-</b></text>
+<text top="222" left="484" width="6" height="22" font="8"><b>-</b></text>
+<text top="222" left="553" width="6" height="22" font="8"><b>-</b></text>
+<text top="225" left="106" width="190" height="14" font="6"><b>7 </b>Taxpayer Identification Number <i>(TIN)</i></text>
+<text top="225" left="660" width="63" height="14" font="6"><b>8 </b>RDO Code</text>
+<text top="242" left="106" width="98" height="14" font="6"><b>9</b> Taxpayer’s Name </text>
+<text top="244" left="204" width="379" height="12" font="7"><i>(Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)</i></text>
+<text top="277" left="104" width="115" height="14" font="6"><b>10 </b>Registered Address </text>
+<text top="280" left="219" width="567" height="11" font="4"><i>(Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="317" left="643" width="70" height="14" font="6"><b>10A </b>ZIP Code</text>
+<text top="335" left="106" width="99" height="14" font="6"><b>11 </b>Contact Number </text>
+<text top="335" left="329" width="86" height="14" font="6"><b>12 </b>Email Address</text>
+<text top="336" left="204" width="101" height="12" font="7"><i>(Landline/Cellphone No.)</i></text>
+<text top="374" left="291" width="30" height="16" font="10">Micro</text>
+<text top="374" left="377" width="31" height="16" font="10">Small</text>
+<text top="374" left="465" width="43" height="16" font="10">Medium</text>
+<text top="374" left="569" width="31" height="16" font="10">Large</text>
+<text top="375" left="106" width="129" height="14" font="6"><b>13 </b>Taxpayer Classification</text>
+<text top="394" left="133" width="137" height="12" font="1">Are you availing of tax relief under </text>
+<text top="399" left="106" width="12" height="14" font="6"><b>14</b></text>
+<text top="399" left="416" width="90" height="14" font="6"><b>14A </b>If yes, specify</text>
+<text top="399" left="329" width="19" height="14" font="5">Yes</text>
+<text top="399" left="381" width="14" height="14" font="5">No</text>
+<text top="405" left="133" width="161" height="12" font="1">Special Law or International Tax Treaty?</text>
+<text top="421" left="380" width="131" height="14" font="6"><b>Part II – Total Tax Payable</b></text>
+<text top="437" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="441" left="106" width="197" height="14" font="6"><b>15 </b>Net VAT Payable/(Excess Input Tax) </text>
+<text top="442" left="303" width="94" height="12" font="7"><i>(From Part IV, Item 61)</i></text>
+<text top="458" left="121" width="136" height="14" font="5">Less: Tax Credits/Payments </text>
+<text top="472" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="476" left="106" width="136" height="14" font="6"><b>16 </b>Creditable VAT Withheld</text>
+<text top="478" left="245" width="155" height="12" font="7"><i>(From Part V - Schedule 3, Column D)</i></text>
+<text top="495" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="498" left="106" width="138" height="14" font="6"><b>17 </b>Advance VAT Payments </text>
+<text top="500" left="243" width="110" height="12" font="7"><i>(From Part V - Schedule 4)</i></text>
+<text top="517" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="521" left="106" width="319" height="14" font="6"><b>18 </b>VAT paid in return previously filed, if this is an amended return</text>
+<text top="539" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="543" left="106" width="130" height="14" font="6"><b>19 </b>Other Credits/Payment </text>
+<text top="545" left="236" width="38" height="13" font="7"><i>(Specify)</i></text>
+<text top="579" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="583" left="106" width="146" height="14" font="6"><b>20 </b>Total Tax Credits/Payment</text>
+<text top="585" left="254" width="96" height="12" font="7"><i>(Sum of Items 16 to 19)</i></text>
+<text top="605" left="106" width="184" height="14" font="6"><b>21 </b>Tax Still Payable/(Excess Credits) </text>
+<text top="607" left="290" width="92" height="12" font="7"><i>(Item 15 Less Item 20)</i></text>
+<text top="624" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="627" left="124" width="146" height="14" font="5">Add: Penalties <b>22 </b>Surcharge</text>
+<text top="646" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="650" left="204" width="52" height="14" font="6"><b>23 </b>Interest</text>
+<text top="668" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="672" left="204" width="78" height="14" font="6"><b>24 </b>Compromise</text>
+<text top="691" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="694" left="204" width="91" height="14" font="6"><b>25 </b>Total Penalties </text>
+<text top="696" left="295" width="96" height="12" font="7"><i>(Sum of Items 22 to 24)</i></text>
+<text top="713" left="748" width="5" height="22" font="8"><b>.</b></text>
+<text top="717" left="106" width="166" height="14" font="6"><b>26 TOTAL AMOUNT PAYABLE/(</b></text>
+<text top="717" left="271" width="81" height="14" font="11"><b>Excess Credits) </b></text>
+<text top="718" left="352" width="104" height="12" font="7"><i>(Sum of Items 21 and 25)</i></text>
+<text top="739" left="126" width="659" height="13" font="1">I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our</text>
+<text top="750" left="106" width="679" height="13" font="1">knowledge and belief, is true and correct pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority</text>
+<text top="762" left="106" width="680" height="13" font="1">thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate</text>
+<text top="773" left="106" width="388" height="13" font="1">and lawful purposes. <i>(If Authorized Representative, attach authorization letter and indicate TIN)</i></text>
+<text top="787" left="106" width="56" height="12" font="1">For Individual: </text>
+<text top="787" left="469" width="78" height="12" font="1">For Non-Individual:</text>
+<text top="844" left="106" width="344" height="13" font="1">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent  </text>
+<text top="844" left="481" width="295" height="13" font="1">Signature over Printed Name of President/Vice President/Authorized </text>
+<text top="855" left="216" width="135" height="11" font="4"><i>(Indicate Title/Designation and TIN)</i></text>
+<text top="855" left="483" width="159" height="13" font="1">Officer or Representative/Tax Agent </text>
+<text top="856" left="641" width="135" height="11" font="4"><i>(Indicate Title/Designation and TIN)</i></text>
+<text top="867" left="431" width="60" height="14" font="12">Date of Issue </text>
+<text top="867" left="619" width="50" height="14" font="12">Expiry Date</text>
+<text top="867" left="110" width="120" height="13" font="1">Tax Agent Accreditation No./</text>
+<text top="878" left="106" width="139" height="13" font="1">Attorney’s Roll No. <i>(If applicable)</i></text>
+<text top="879" left="429" width="64" height="12" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="879" left="614" width="64" height="12" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="895" left="376" width="143" height="14" font="6"><b>Part III – Details of Payment </b></text>
+<text top="909" left="227" width="38" height="14" font="5">Drawee</text>
+<text top="915" left="123" width="57" height="14" font="6"><b>Particulars</b></text>
+<text top="915" left="321" width="42" height="14" font="6"><b>Number</b></text>
+<text top="915" left="420" width="24" height="14" font="6"><b>Date</b></text>
+<text top="915" left="644" width="41" height="14" font="6"><b>Amount</b></text>
+<text top="917" left="446" width="62" height="13" font="7"><i>(MM/DD/YYY)</i></text>
+<text top="922" left="214" width="65" height="14" font="5">Bank/Agency</text>
+<text top="935" left="750" width="5" height="22" font="8"><b>.</b></text>
+<text top="939" left="105" width="12" height="14" font="6"><b>27</b></text>
+<text top="941" left="120" width="81" height="12" font="1">Cash/Bank Debit Advice</text>
+<text top="956" left="750" width="5" height="22" font="8"><b>.</b></text>
+<text top="960" left="105" width="46" height="14" font="6"><b>28 </b>Check</text>
+<text top="977" left="750" width="5" height="22" font="8"><b>.</b></text>
+<text top="981" left="105" width="96" height="14" font="6"><b>29</b> Tax Debit Memo</text>
+<text top="998" left="105" width="48" height="14" font="6"><b>30 </b>Others</text>
+<text top="999" left="156" width="63" height="12" font="7"><i>(Specify below)</i></text>
+<text top="1011" left="750" width="5" height="22" font="8"><b>.</b></text>
+<text top="1039" left="106" width="415" height="12" font="7"><i>Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank) </i></text>
+<text top="1033" left="552" width="223" height="13" font="7"><i>Stamp of Receiving Office/AAB and Date of Receipt </i></text>
+<text top="1043" left="586" width="157" height="13" font="7"><i>(RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="1116" left="99" width="325" height="13" font="1">*<b>NOTE</b>: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph) </text>
+<text top="151" left="450" width="93" height="14" font="5">1 2 2 0 2 5</text>
+<text top="150" left="167" width="7" height="14" font="5">X</text>
+<text top="150" left="608" width="7" height="14" font="5">X</text>
+<text top="186" left="156" width="126" height="14" font="5">0 1 0 1 2 0 2 5</text>
+<text top="186" left="328" width="128" height="14" font="5">0 3 3 1 2 0 2 5</text>
+<text top="186" left="553" width="7" height="14" font="5">X</text>
+<text top="186" left="729" width="7" height="14" font="5">X</text>
+<text top="226" left="363" width="40" height="14" font="5">0 0 0</text>
+<text top="226" left="432" width="41" height="14" font="5">1 2 3</text>
+<text top="226" left="502" width="41" height="14" font="5">4 5 3</text>
+<text top="226" left="747" width="42" height="14" font="5">0 3 9</text>
+<text top="256" left="102" width="643" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT</text>
+<text top="265" left="102" width="98" height="12" font="1">OVERFLOW TESTING</text>
+<text top="295" left="102" width="516" height="14" font="5">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="317" left="102" width="380" height="14" font="5">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="317" left="729" width="60" height="14" font="5">1 1 0 0</text>
+<text top="353" left="105" width="177" height="14" font="5">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="353" left="325" width="259" height="14" font="5">juana.santos.independent.print.check@example.com</text>
+<text top="374" left="360" width="7" height="14" font="5">X</text>
+<text top="398" left="364" width="7" height="14" font="5">X</text>
+<text top="441" left="642" width="93" height="14" font="5">3 6 8 7 1 6</text>
+<text top="441" left="765" width="24" height="14" font="5">0 5</text>
+<text top="476" left="642" width="93" height="14" font="5">1 2 3 4 5 6</text>
+<text top="476" left="765" width="24" height="14" font="5">7 8</text>
+<text top="498" left="642" width="93" height="14" font="5">2 3 4 5 6 7</text>
+<text top="498" left="765" width="24" height="14" font="5">8 9</text>
+<text top="521" left="729" width="6" height="14" font="5">0</text>
+<text top="521" left="765" width="24" height="14" font="5">0 0</text>
+<text top="542" left="624" width="110" height="14" font="5">2 0 0 0 0 0 0</text>
+<text top="542" left="765" width="24" height="14" font="5">0 0</text>
+<text top="583" left="624" width="110" height="14" font="5">2 3 5 8 0 2 4</text>
+<text top="583" left="765" width="24" height="14" font="5">6 7</text>
+<text top="605" left="722" width="72" height="14" font="5">(1,989,308.62)</text>
+<text top="628" left="659" width="76" height="14" font="5">1 2 3 4 5</text>
+<text top="628" left="765" width="24" height="14" font="5">6 7</text>
+<text top="649" left="659" width="76" height="14" font="5">2 3 4 5 6</text>
+<text top="649" left="765" width="24" height="14" font="5">7 8</text>
+<text top="672" left="677" width="58" height="14" font="5">3 4 5 6</text>
+<text top="672" left="765" width="24" height="14" font="5">8 9</text>
+<text top="694" left="659" width="76" height="14" font="5">3 9 2 5 9</text>
+<text top="694" left="765" width="24" height="14" font="5">3 4</text>
+<text top="717" left="659" width="76" height="14" font="5">3 9 2 5 9</text>
+<text top="717" left="765" width="24" height="14" font="5">3 4</text>
+<text top="563" left="104" width="583" height="14" font="12">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="13" size="9" family="Times" color="#000000"/>
+	<fontspec id="14" size="15" family="Times" color="#000000"/>
+	<fontspec id="15" size="7" family="Times" color="#000000"/>
+	<fontspec id="16" size="12" family="Times" color="#000000"/>
+	<fontspec id="17" size="7" family="Times" color="#000000"/>
+	<fontspec id="18" size="8" family="Times" color="#000000"/>
+	<fontspec id="19" size="8" family="Times" color="#000000"/>
+<text top="43" left="130" width="56" height="13" font="1">BIR Form No.</text>
+<text top="54" left="285" width="245" height="25" font="2"><b>Quarterly Value-Added Tax</b></text>
+<text top="54" left="116" width="88" height="38" font="3"><b>2550Q</b></text>
+<text top="76" left="350" width="121" height="25" font="2"><b>(VAT) Return</b></text>
+<text top="88" left="119" width="79" height="13" font="1">April 2024 (ENCS) </text>
+<text top="99" left="144" width="31" height="13" font="0"><b>Page 2</b></text>
+<text top="99" left="690" width="97" height="13" font="1">2550Q 04/24ENCS P2 </text>
+<text top="112" left="347" width="113" height="14" font="5">Taxpayer’s Last Name </text>
+<text top="112" left="516" width="92" height="14" font="9"><i>/ </i>Registered Name</text>
+<text top="112" left="106" width="18" height="14" font="5">TIN</text>
+<text top="113" left="460" width="55" height="13" font="7"><i>(if Individual)</i></text>
+<text top="113" left="611" width="76" height="13" font="7"><i>(if Non-Individual)</i></text>
+<text top="125" left="257" width="77" height="22" font="8"><b>0 0 0 0 0</b></text>
+<text top="150" left="350" width="191" height="14" font="6"><b>Part IV – Details of VAT Computation  </b></text>
+<text top="164" left="124" width="125" height="13" font="0"><b>Total Sales and Output Tax </b></text>
+<text top="164" left="296" width="10" height="13" font="0"><b>A.</b></text>
+<text top="164" left="321" width="185" height="13" font="0"><b>Sales for the Quarter <i>(Exclusive of VAT)</i></b></text>
+<text top="164" left="605" width="133" height="13" font="0"><b>B.  Output Tax for the Quarter</b></text>
+<text top="176" left="486" width="4" height="21" font="14"><b>.</b></text>
+<text top="176" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="179" left="102" width="87" height="14" font="6"><b>31 </b>VATable Sales</text>
+<text top="196" left="486" width="4" height="21" font="14"><b>.</b></text>
+<text top="199" left="102" width="101" height="14" font="6"><b>32 </b>Zero-Rated Sales</text>
+<text top="215" left="486" width="4" height="21" font="14"><b>.</b></text>
+<text top="218" left="102" width="83" height="14" font="6"><b>33 </b>Exempt Sales</text>
+<text top="235" left="117" width="126" height="14" font="6"><b>Total Sales &amp; Output Tax Due</b></text>
+<text top="235" left="102" width="12" height="14" font="6"><b>34</b></text>
+<text top="236" left="486" width="4" height="21" font="14"><b>.</b></text>
+<text top="236" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="247" left="117" width="106" height="10" font="15"><i><b>(Sum of Items 31A to 33A) / (Item 31B)</b></i></text>
+<text top="257" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="259" left="101" width="241" height="14" font="6"><b>35 </b>Less: Output VAT on Uncollected Receivables</text>
+<text top="276" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="279" left="101" width="398" height="14" font="6"><b>36 </b>Add: Output VAT on Recovered Uncollected Receivables Previously Deducted</text>
+<text top="296" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="298" left="102" width="177" height="14" font="6"><b>37 Total Adjusted Output Tax Due</b></text>
+<text top="300" left="280" width="162" height="12" font="7"><i>(Item 34B Less Item 35B Add Item 36B)</i></text>
+<text top="315" left="633" width="57" height="13" font="0"><b>B.  Input Tax </b></text>
+<text top="315" left="106" width="135" height="14" font="11"><b>   Less: Allowable Input Tax  </b></text>
+<text top="328" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="331" left="102" width="238" height="14" font="6"><b>38 </b>Input Tax Carried Over from Previous Quarter</text>
+<text top="347" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="350" left="102" width="12" height="14" font="6"><b>39</b></text>
+<text top="351" left="117" width="307" height="14" font="12">Input Tax Deferred on Capital Goods Exceeding P1 Million from Previous Quarter</text>
+<text top="352" left="426" width="103" height="11" font="4"><i>(From Part V - Schedule 1 Col E)</i></text>
+<text top="367" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="370" left="102" width="120" height="14" font="6"><b>40 </b>Transitional Input Tax</text>
+<text top="386" left="747" width="4" height="21" font="14"><b>.</b></text>
+<text top="389" left="102" width="124" height="14" font="6"><b>41 </b>Presumptive Input Tax</text>
+<text top="408" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="409" left="102" width="47" height="14" font="6"><b>42 </b>Others</text>
+<text top="410" left="152" width="38" height="13" font="7"><i>(Specify)</i></text>
+<text top="445" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="446" left="102" width="40" height="14" font="6"><b>43 Total</b></text>
+<text top="447" left="145" width="108" height="12" font="7"><i>(Sum of Items 38B to 42B)</i></text>
+<text top="466" left="137" width="98" height="13" font="0"><b>Current Transactions </b></text>
+<text top="466" left="370" width="62" height="13" font="0"><b>A. Purchases</b></text>
+<text top="466" left="633" width="59" height="13" font="0"><b>B.  Input Tax</b></text>
+<text top="482" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="482" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="483" left="102" width="116" height="14" font="6"><b>44 </b>Domestic Purchases</text>
+<text top="501" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="501" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="502" left="116" width="151" height="14" font="5">Services Rendered by Non-Residents</text>
+<text top="502" left="102" width="12" height="14" font="6"><b>45</b></text>
+<text top="521" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="521" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="522" left="102" width="75" height="14" font="6"><b>46 </b>Importations</text>
+<text top="540" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="540" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="541" left="102" width="47" height="14" font="6"><b>47 </b>Others</text>
+<text top="542" left="152" width="38" height="13" font="7"><i>(Specify)</i></text>
+<text top="577" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="578" left="102" width="12" height="14" font="6"><b>48</b></text>
+<text top="579" left="116" width="147" height="14" font="12">Domestic Purchases with No Input Tax</text>
+<text top="597" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="597" left="102" width="40" height="14" font="6"><b>49 </b>VAT<b>-</b></text>
+<text top="598" left="144" width="95" height="14" font="12">Exempt Importations</text>
+<text top="614" left="102" width="12" height="14" font="6"><b>50</b></text>
+<text top="615" left="116" width="149" height="13" font="1">Total Current Purchases/Input Tax</text>
+<text top="618" left="486" width="3" height="16" font="16"><b>.</b></text>
+<text top="618" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="627" left="111" width="155" height="10" font="17"><i>(Sum of Items 44A to 49A)/(Sum of Items 44B to 47B)</i></text>
+<text top="639" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="639" left="102" width="144" height="14" font="6"><b>51 Total Available Input Tax</b></text>
+<text top="641" left="248" width="116" height="12" font="7"><i>(Sum of Items 43B and 50B)</i></text>
+<text top="656" left="106" width="218" height="13" font="0"><b>    Less: Adjustment/Deductions from Input Tax </b></text>
+<text top="656" left="635" width="56" height="13" font="0"><b>B. Input Tax</b></text>
+<text top="668" left="102" width="12" height="14" font="6"><b>52</b></text>
+<text top="669" left="116" width="389" height="13" font="1">Input Tax on Purchases/Importation of Capital Goods exceeding P1 Million deferred for the succeeding period</text>
+<text top="671" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="680" left="116" width="113" height="10" font="17"><i>(From Part V Schedule 1, Column I)</i></text>
+<text top="692" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="692" left="102" width="227" height="14" font="6"><b>53 </b>Input Tax Attributable to VAT Exempt Sales</text>
+<text top="694" left="331" width="110" height="12" font="7"><i>(From Part V - Schedule 2)</i></text>
+<text top="711" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="712" left="102" width="143" height="14" font="6"><b>54 </b>VAT Refund/TCC Claimed</text>
+<text top="731" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="731" left="102" width="165" height="14" font="6"><b>55 </b>Input VAT on Unpaid Payables</text>
+<text top="750" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="751" left="102" width="47" height="14" font="6"><b>56 </b>Others</text>
+<text top="752" left="152" width="38" height="13" font="7"><i>(Specify)</i></text>
+<text top="770" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="770" left="102" width="174" height="14" font="6"><b>57 </b>Total Deductions from Input Tax </text>
+<text top="772" left="276" width="108" height="12" font="7"><i>(Sum of Items 52B to 56B)</i></text>
+<text top="789" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="790" left="102" width="332" height="14" font="6"><b>58 </b>Add: Input VAT on Settled Unpaid Payables Previously Deducted</text>
+<text top="809" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="809" left="102" width="192" height="14" font="6"><b>59 </b>Adjusted Deductions from Input Tax </text>
+<text top="811" left="294" width="116" height="12" font="7"><i>(Sum of Items 57B and 58B)</i></text>
+<text top="828" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="829" left="102" width="138" height="14" font="6"><b>60 </b>Total Allowable Input Tax</text>
+<text top="831" left="243" width="104" height="12" font="7"><i>(Item 51B Less Item 59B)</i></text>
+<text top="848" left="748" width="3" height="16" font="16"><b>.</b></text>
+<text top="848" left="102" width="202" height="14" font="6"><b>61 Net VAT Payable/(Excess Input Tax)</b></text>
+<text top="850" left="306" width="186" height="12" font="7"><i>(Item 37B Less Item 60B) (To Part II, Item 15)</i></text>
+<text top="869" left="397" width="98" height="14" font="6"><b>Part V – Schedules  </b></text>
+<text top="884" left="106" width="397" height="12" font="0"><b>Schedule 1 – Amortized Input Tax from Capital Goods </b><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="896" left="108" width="58" height="12" font="0"><b>Date Purchased/  </b></text>
+<text top="896" left="311" width="79" height="12" font="0"><b>Amount of Purchases/ </b></text>
+<text top="896" left="414" width="57" height="12" font="0"><b>Balance of Input </b></text>
+<text top="896" left="556" width="56" height="12" font="0"><b>Recognized Life </b></text>
+<text top="896" left="708" width="81" height="12" font="0"><b>Balance of Input Tax to </b></text>
+<text top="902" left="177" width="26" height="12" font="0"><b>Source</b></text>
+<text top="902" left="491" width="50" height="12" font="0"><b>Estimated Life </b></text>
+<text top="902" left="628" width="69" height="12" font="0"><b>Allowable Input Tax </b></text>
+<text top="907" left="121" width="32" height="12" font="0"><b>Imported</b></text>
+<text top="907" left="235" width="41" height="12" font="0"><b>Description</b></text>
+<text top="907" left="312" width="76" height="12" font="0"><b>Importation of Capital </b></text>
+<text top="907" left="410" width="64" height="12" font="0"><b>Tax from Previous </b></text>
+<text top="907" left="565" width="39" height="12" font="0"><b>(in Months) </b></text>
+<text top="907" left="716" width="66" height="12" font="0"><b>  be carried to Next </b></text>
+<text top="912" left="179" width="22" height="12" font="0"><b>Code*</b></text>
+<text top="912" left="496" width="40" height="12" font="0"><b>(in months) </b></text>
+<text top="912" left="636" width="52" height="12" font="0"><b>for the Period**</b></text>
+<text top="917" left="111" width="53" height="12" font="13"><i><b>(MM/DD/YYYY)</b></i></text>
+<text top="917" left="309" width="84" height="12" font="0"><b>Goods Exceeding P 1 M </b></text>
+<text top="917" left="431" width="23" height="12" font="0"><b>Period</b></text>
+<text top="917" left="560" width="50" height="12" font="1">Remaining Life</text>
+<text top="917" left="715" width="67" height="12" font="0"><b>Period (E) Less (H)</b></text>
+<text top="928" left="128" width="12" height="11" font="18"><b>(A)</b></text>
+<text top="928" left="184" width="12" height="11" font="18"><b>(B)</b></text>
+<text top="928" left="250" width="12" height="11" font="18"><b>(C)</b></text>
+<text top="928" left="346" width="12" height="11" font="18"><b>(D)</b></text>
+<text top="928" left="437" width="11" height="11" font="18"><b>(E)</b></text>
+<text top="928" left="511" width="11" height="11" font="18"><b>(F)</b></text>
+<text top="928" left="579" width="12" height="11" font="18"><b>(G)</b></text>
+<text top="928" left="657" width="12" height="11" font="18"><b>(H)</b></text>
+<text top="928" left="746" width="8" height="11" font="18"><b>(I)</b></text>
+<text top="960" left="105" width="22" height="12" font="0"><b>Total</b></text>
+<text top="960" left="130" width="256" height="11" font="4"><i>(Column E - To Part IV, Item 39B)/(Column I - To Part IV, Item 52B)</i></text>
+<text top="971" left="136" width="473" height="13" font="13"><i><b>* D </b>for Domestic Purchase; <b>I</b> for Importation                   <b>**E</b> divided by <b>G</b> multiplied by the Number of months in use during the quarter</i></text>
+<text top="984" left="106" width="248" height="12" font="0"><b>Schedule 2 – Input Tax Attributable to VAT Exempt Sales</b></text>
+<text top="996" left="106" width="216" height="13" font="1">Input Tax directly attributable to VAT Exempt Sale</text>
+<text top="1008" left="106" width="311" height="13" font="1">Add:  Ratable portion of Input Tax not directly attributable to any activity:</text>
+<text top="1020" left="106" width="94" height="12" font="1">          VAT Exempt Sale</text>
+<text top="1032" left="324" width="180" height="12" font="1">Amount of Input Tax not directly attributable </text>
+<text top="1032" left="309" width="6" height="11" font="18"><b>X</b></text>
+<text top="1039" left="106" width="80" height="12" font="1">               Total Sales</text>
+<text top="1042" left="106" width="271" height="13" font="1">Total Input Tax attributable to Exempt Sale <i>(To Part IV, Item 53)</i></text>
+<text top="1055" left="101" width="327" height="12" font="0"><b>Schedule 3 – Creditable VAT Withheld </b><i>(Attach additional sheet/s, if necessary)   </i></text>
+<text top="1067" left="106" width="13" height="13" font="0"><b>(A)</b></text>
+<text top="1067" left="306" width="14" height="13" font="0"><b>(B)</b></text>
+<text top="1067" left="573" width="14" height="13" font="0"><b>(C)</b></text>
+<text top="1067" left="691" width="14" height="13" font="0"><b>(D)</b></text>
+<text top="1068" left="121" width="67" height="12" font="0"><b>Period Covered </b></text>
+<text top="1068" left="323" width="117" height="12" font="0"><b>Name of Withholding Agent</b></text>
+<text top="1068" left="590" width="72" height="12" font="0"><b>Income Payment </b></text>
+<text top="1068" left="707" width="78" height="12" font="0"><b>Total Tax Withheld</b></text>
+<text top="1102" left="102" width="155" height="13" font="0"><b>Total </b><i>(Column D - To Part II, Item 16)</i></text>
+<text top="1115" left="101" width="321" height="12" font="0"><b>Schedule 4 – Advance VAT Payment </b><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="1127" left="701" width="13" height="13" font="0"><b>(E)</b></text>
+<text top="1128" left="110" width="82" height="12" font="0"><b>(A) Period Covered </b></text>
+<text top="1128" left="255" width="77" height="12" font="0"><b>(B) Name of Miller </b></text>
+<text top="1128" left="420" width="93" height="12" font="0"><b>(C) Name of Taxpayer </b></text>
+<text top="1128" left="559" width="116" height="12" font="0"><b>(D) Official Receipt Number</b></text>
+<text top="1128" left="717" width="53" height="12" font="0"><b>Amount Paid</b></text>
+<text top="1160" left="106" width="106" height="13" font="0"><b>Total </b><i>(To Part II, Item 17)</i></text>
+<text top="129" left="105" width="144" height="14" font="5">0 0 0 1 2 3 4 5 3</text>
+<text top="125" left="343" width="435" height="13" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME</text>
+<text top="135" left="343" width="341" height="13" font="1">WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="179" left="363" width="110" height="14" font="5">9 8 7 6 5 4 3</text>
+<text top="179" left="503" width="23" height="14" font="5">2 1</text>
+<text top="179" left="624" width="110" height="14" font="5">1 1 8 5 1 8 5</text>
+<text top="179" left="764" width="23" height="14" font="5">1 9</text>
+<text top="199" left="363" width="110" height="14" font="5">1 2 3 4 5 6 7</text>
+<text top="199" left="503" width="23" height="14" font="5">8 9</text>
+<text top="219" left="380" width="93" height="14" font="5">2 3 4 5 6 7</text>
+<text top="219" left="503" width="23" height="14" font="5">8 9</text>
+<text top="239" left="346" width="128" height="14" font="5">1 1 3 4 5 6 7 8</text>
+<text top="239" left="503" width="23" height="14" font="5">9 9</text>
+<text top="239" left="624" width="110" height="14" font="5">1 1 8 5 1 8 5</text>
+<text top="239" left="764" width="23" height="14" font="5">1 9</text>
+<text top="259" left="728" width="6" height="14" font="5">0</text>
+<text top="259" left="764" width="23" height="14" font="5">0 0</text>
+<text top="279" left="728" width="6" height="14" font="5">0</text>
+<text top="279" left="764" width="23" height="14" font="5">0 0</text>
+<text top="299" left="624" width="110" height="14" font="5">1 1 8 5 1 8 5</text>
+<text top="299" left="764" width="23" height="14" font="5">1 9</text>
+<text top="331" left="728" width="6" height="14" font="5">0</text>
+<text top="331" left="764" width="23" height="14" font="5">0 0</text>
+<text top="350" left="642" width="93" height="14" font="5">1 4 8 1 4 8</text>
+<text top="350" left="764" width="23" height="14" font="5">1 5</text>
+<text top="370" left="728" width="6" height="14" font="5">0</text>
+<text top="370" left="764" width="23" height="14" font="5">0 0</text>
+<text top="388" left="728" width="6" height="14" font="5">0</text>
+<text top="388" left="764" width="23" height="14" font="5">0 0</text>
+<text top="409" left="659" width="76" height="14" font="5">2 0 0 0 0</text>
+<text top="409" left="764" width="23" height="14" font="5">0 0</text>
+<text top="446" left="642" width="93" height="14" font="5">1 6 8 1 4 8</text>
+<text top="446" left="764" width="23" height="14" font="5">1 5</text>
+<text top="482" left="363" width="110" height="14" font="5">5 0 0 0 0 0 0</text>
+<text top="482" left="503" width="23" height="14" font="5">0 0</text>
+<text top="482" left="642" width="93" height="14" font="5">6 0 0 0 0 0</text>
+<text top="482" left="764" width="23" height="14" font="5">0 0</text>
+<text top="501" left="363" width="110" height="14" font="5">1 0 0 0 0 0 0</text>
+<text top="501" left="503" width="23" height="14" font="5">0 0</text>
+<text top="501" left="642" width="93" height="14" font="5">1 2 0 0 0 0</text>
+<text top="501" left="764" width="23" height="14" font="5">0 0</text>
+<text top="521" left="380" width="93" height="14" font="5">5 0 0 0 0 0</text>
+<text top="521" left="503" width="23" height="14" font="5">0 0</text>
+<text top="521" left="659" width="76" height="14" font="5">6 0 0 0 0</text>
+<text top="521" left="764" width="23" height="14" font="5">0 0</text>
+<text top="541" left="380" width="93" height="14" font="5">2 5 0 0 0 0</text>
+<text top="541" left="503" width="23" height="14" font="5">0 0</text>
+<text top="541" left="659" width="76" height="14" font="5">3 0 0 0 0</text>
+<text top="541" left="764" width="23" height="14" font="5">0 0</text>
+<text top="577" left="467" width="6" height="14" font="5">0</text>
+<text top="577" left="503" width="23" height="14" font="5">0 0</text>
+<text top="597" left="467" width="6" height="14" font="5">0</text>
+<text top="597" left="503" width="23" height="14" font="5">0 0</text>
+<text top="618" left="363" width="110" height="14" font="5">6 7 5 0 0 0 0</text>
+<text top="618" left="503" width="23" height="14" font="5">0 0</text>
+<text top="618" left="642" width="93" height="14" font="5">8 1 0 0 0 0</text>
+<text top="618" left="764" width="23" height="14" font="5">0 0</text>
+<text top="639" left="642" width="93" height="14" font="5">9 7 8 1 4 8</text>
+<text top="639" left="764" width="23" height="14" font="5">1 5</text>
+<text top="672" left="642" width="93" height="14" font="5">1 4 5 6 7 9</text>
+<text top="672" left="764" width="23" height="14" font="5">0 1</text>
+<text top="692" left="676" width="58" height="14" font="5">1 0 0 0</text>
+<text top="692" left="764" width="23" height="14" font="5">0 0</text>
+<text top="711" left="728" width="6" height="14" font="5">0</text>
+<text top="711" left="764" width="23" height="14" font="5">0 0</text>
+<text top="731" left="728" width="6" height="14" font="5">0</text>
+<text top="731" left="764" width="23" height="14" font="5">0 0</text>
+<text top="750" left="659" width="76" height="14" font="5">1 5 0 0 0</text>
+<text top="750" left="764" width="23" height="14" font="5">0 0</text>
+<text top="770" left="642" width="93" height="14" font="5">1 6 1 6 7 9</text>
+<text top="770" left="764" width="23" height="14" font="5">0 1</text>
+<text top="789" left="728" width="6" height="14" font="5">0</text>
+<text top="789" left="764" width="23" height="14" font="5">0 0</text>
+<text top="809" left="642" width="93" height="14" font="5">1 6 1 6 7 9</text>
+<text top="809" left="764" width="23" height="14" font="5">0 1</text>
+<text top="828" left="642" width="93" height="14" font="5">8 1 6 4 6 9</text>
+<text top="828" left="764" width="23" height="14" font="5">1 4</text>
+<text top="848" left="642" width="93" height="14" font="5">3 6 8 7 1 6</text>
+<text top="848" left="764" width="23" height="14" font="5">0 5</text>
+<text top="938" left="101" width="36" height="11" font="19">5/15/2026</text>
+<text top="938" left="170" width="123" height="12" font="1">INVOI... CAPITAL GOODS...</text>
+<text top="938" left="352" width="48" height="11" font="19">1,234,567.89</text>
+<text top="938" left="440" width="65" height="11" font="19">148,148.15 60.00</text>
+<text top="938" left="550" width="21" height="11" font="19">12.00</text>
+<text top="938" left="671" width="32" height="11" font="19">2,469.14</text>
+<text top="938" left="749" width="41" height="11" font="19">145,679.01</text>
+<text top="949" left="383" width="16" height="11" font="19">0.00</text>
+<text top="949" left="464" width="36" height="11" font="19">0.00 0.00</text>
+<text top="949" left="550" width="16" height="11" font="19">0.00</text>
+<text top="949" left="686" width="16" height="11" font="19">0.00</text>
+<text top="949" left="774" width="16" height="11" font="19">0.00</text>
+<text top="959" left="436" width="44" height="12" font="19">148,148.15</text>
+<text top="959" left="746" width="44" height="12" font="19">145,679.01</text>
+<text top="996" left="755" width="35" height="12" font="19">1,000.00</text>
+<text top="1017" left="768" width="21" height="14" font="5">0.00</text>
+<text top="1041" left="755" width="35" height="12" font="19">1,000.00</text>
+<text top="1079" left="101" width="73" height="12" font="19">04/01/26-06/30/26</text>
+<text top="1079" left="204" width="344" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG...</text>
+<text top="1079" left="632" width="52" height="12" font="19">1,234,567.89</text>
+<text top="1079" left="745" width="45" height="12" font="19">123,456.78</text>
+<text top="1090" left="667" width="17" height="12" font="19">0.00</text>
+<text top="1090" left="773" width="17" height="12" font="19">0.00</text>
+<text top="1102" left="632" width="52" height="12" font="19">1,234,567.89</text>
+<text top="1102" left="745" width="45" height="12" font="19">123,456.78</text>
+<text top="1139" left="101" width="67" height="11" font="19">04/01/26-06/30/26</text>
+<text top="1138" left="204" width="343" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VI... SANTOS, JUANA MARIE DELA CRU...</text>
+<text top="1139" left="550" width="83" height="11" font="19">OR-123456789012345</text>
+<text top="1139" left="749" width="41" height="11" font="19">234,567.89</text>
+<text top="1149" left="668" width="16" height="11" font="19">0.00</text>
+<text top="1149" left="774" width="16" height="11" font="19">0.00</text>
+<text top="1160" left="745" width="45" height="12" font="19">234,567.89</text>
+<text top="427" left="104" width="583" height="14" font="12">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING</text>
+<text top="560" left="104" width="583" height="14" font="12">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="20" size="13" family="Times" color="#000000"/>
+	<fontspec id="21" size="10" family="Times" color="#212121"/>
+	<fontspec id="22" size="9" family="Times" color="#444444"/>
+	<fontspec id="23" size="9" family="Times" color="#444444"/>
+	<fontspec id="24" size="9" family="Times" color="#333333"/>
+<text top="44" left="106" width="130" height="17" font="20"><b>BIR Form No. 2550Q</b></text>
+<text top="46" left="671" width="115" height="14" font="6"><b>ADDITIONAL SHEET</b></text>
+<text top="64" left="106" width="158" height="14" font="21">Quarterly Value-Added Tax Return</text>
+<text top="81" left="106" width="255" height="12" font="22">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="104" left="106" width="19" height="13" font="23"><b>TIN:</b></text>
+<text top="104" left="125" width="89" height="13" font="1"> 000-123-453-00000</text>
+<text top="104" left="297" width="83" height="13" font="23"><b>Taxpayer's Name:</b></text>
+<text top="104" left="379" width="174" height="13" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="116" left="297" width="279" height="13" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="128" left="297" width="262" height="13" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="140" left="297" width="42" height="13" font="1">TESTING</text>
+<text top="181" left="106" width="177" height="15" font="6"><b>Entries continued from the form</b></text>
+<text top="184" left="586" width="200" height="12" font="22">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="206" left="130" width="22" height="12" font="0"><b>Page</b></text>
+<text top="206" left="180" width="48" height="12" font="0"><b>Item / Field</b></text>
+<text top="206" left="397" width="42" height="12" font="0"><b>Full Entry</b></text>
+<text top="226" left="126" width="29" height="12" font="24">Page 2</text>
+<text top="226" left="180" width="152" height="12" font="1">Schedule 1, row 1, (B) Source Code</text>
+<text top="226" left="397" width="87" height="12" font="1">INVOICE-123456789</text>
+<text top="246" left="126" width="29" height="12" font="24">Page 2</text>
+<text top="246" left="180" width="145" height="12" font="1">Schedule 1, row 1, (C) Description</text>
+<text top="246" left="397" width="272" height="12" font="1">CAPITAL GOODS LONG DESCRIPTION FOR PRINT WRAPPING</text>
+<text top="266" left="126" width="29" height="12" font="24">Page 2</text>
+<text top="266" left="180" width="186" height="12" font="1">Schedule 3, row 1, (B) Name of Withholding</text>
+<text top="278" left="180" width="25" height="12" font="1">Agent</text>
+<text top="266" left="397" width="370" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="278" left="397" width="343" height="12" font="1">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="298" left="126" width="29" height="12" font="24">Page 2</text>
+<text top="298" left="180" width="158" height="12" font="1">Schedule 4, row 1, (B) Name of Miller</text>
+<text top="298" left="397" width="370" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="310" left="397" width="343" height="12" font="1">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="331" left="126" width="29" height="12" font="24">Page 2</text>
+<text top="331" left="180" width="174" height="12" font="1">Schedule 4, row 1, (C) Name of Taxpayer</text>
+<text top="331" left="397" width="370" height="12" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="342" left="397" width="343" height="12" font="1">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+</page>
+</pdf2xml>
