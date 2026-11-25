@@ -1,0 +1,176 @@
+                                                                                          Republic of the Philippines
+For BIR BCS/                                                                                Department of Finance
+Use Only: Item:                                                                           Bureau of Internal Revenue
+       BIR Form No.                                       Annual Income Tax Return
+ 1702-EX
+January 2018 (ENCS) v2
+                                        Corporation, Partnership and Other Non-Individual Taxpayer EXEMPT
+                                        under the Tax Code, as Amended, [Sec. 30 and those exempted in Sec.
+                                           27(C)] and Other Special Laws, with NO Other Taxable Income]
+       Page 1                            Enter all required information in CAPITAL LETTERS. Mark applicable boxes with an “X”.
+                                                    Two copies MUST be filed with the BIR and one held by the taxpayer.                                                        1702-EX 01/18ENCS v2 P1
+ 1 For X Calendar Fiscal 3 Amended Return? 4 Short Period Return? 5 Alphanumeric Tax Code (ATC)
+ 2 Year Ended (MM/20YY)                                                                                                IC 011           Exempt Corporation on Exempt Activities                          X
+    1 2 /20 2 5
+                                              Yes X No                               Yes X No                          IC 021           General Professional Partnership
+                                                                      Part I – Background Information
+ 6 Taxpayer Identification Number (TIN)                         0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 7 RDO Code 0 3 9
+ 8 Registered Name (Enter only 1 letter per box using CAPITAL LETTERS)
+ S A N T O S ,                    J U A N A                          M A R I E                            D E L A                    C R U Z - V I L L A N U E
+ V A         E X T R A O R D I N A R I L Y                                                          L O N G                    F A M I L Y                             N A M E                          W I
+ T H        M I D D L E                     N A M E S                             A N D                   S U F F I X E S                                  F O R                    P R I N T
+ 9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+ U N I T             2 7 F             T H E                    V E R Y                       L O N G                      C O R P O R A T E                                        T O W E R
+     1 2 3 4 5              D O N A                       J U A N A                           M A R I E                        D E L A                     C R U Z                         A V E N
+ U E         C O R N E R                    V I L L A N U E V A                                                B O U L E V A R D 9A ZIP Code 1 1 0 0
+10 Date of Incorporation/Organization              0 3 / 0 1 / 2 0 1 0 11 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+          (MM/DD/YYYY)
+12 Email Address        juana.santos.independent.print.check@example.com
+13 Method of Deductions X Itemized                    Deductions
+                                      [Section 34 (A-J) of NIRC, as amended]
+                                                                                              Optional Standard Deduction (OSD) – 40% of Gross Income
+                                                                                              [applicable only to General Professional Partnership (GPP) per RA No. 10963]
+ 14 Legal Basis of Tax Relief/Exemption (specify)                     15 Investment Promotion Agency (IPA)/Government Agency (specify)
+ S E C           3 0        N I R C                                  S A M P L E                               A G E N C Y
+ 16 Registered Activity/Program (Registration Number)                                   17 Effectivity Date of Tax Relief/Exemption (MM/DD/YYYY)
+ R E G - 0 0 0 1                                                                            From 0 1 0 1 2 0 1 0 To 1 2 3 1 2 0 3 0
+                                                                           Part II – Total Tax Payable                                   (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+ 18 Tax Due (From Part IV Item 41)                                                                                                                                                               000
+ 19 Less: Total Tax Credits/Payments (From Part IV Item 50)                                                                                                                                1 0 0 0
+ 20 Total (Overpayment) (Item 18 Less Item 19) (From Part IV Item 51)                                                                                                         ( 1 0 0 0 )
+ 21 Add: Penalty - Compromise                                                                                                                                                                                   0
+ 22 TOTAL AMOUNT PAYABLE / (Overpayment) (Sum of Items 20 and 21)                                                                                                             ( 1 0 0 0 )
+    If overpayment, mark one (1) box only. (Once the choice is made, the same is irrevocable)
+      X To be refunded             To be issued a Tax Credit Certificate (TCC)                                      To be carried over as tax credit for next year/quarter
+       We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, are true and
+ correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. (If signed by an Authorized Representative, indicate TIN and
+ attach authorization letter)
+
+                                                                                                                                                                                          23 Number of
+                                                                                                                                                                                            Attachments
+Signature over Printed Name of President/Principal Officer/ Authorized Representative Signature over Printed Name of Treasurer/ Assistant Treasurer                                                0
+ Title of Signatory                                 TIN                               Title of Signatory                        TIN
+                                                                                  Part III – Details of Payment
+       Particulars        Drawee Bank/Agency                                     Number                 Date (MM/DD/YYYY)                                                     Amount
+24 Cash/Bank Debit Memo
+25 Check
+26 Tax Debit Memo
+27 Others (specify below)
+
+ Machine Validation/Revenue Official Receipt Details [if not filed with an Authorized Agent Bank (AAB)]                                               Stamp of Receiving Office/AAB and Date of
+
+                                                                                                                                                      Receipt (RO’s Signature/Bank Teller’s Initial)
+    BIR Form No.                              Annual Income Tax Return
+1702-EX
+January 2018 (ENCS) v2
+                           For Use ONLY by Corporation, Partnership and Other Non-Individual
+                         Taxpayer EXEMPT Under the Tax Code, as Amended, [Sec. 30 and those
+                                     exempted in Sec. 27(C)] and Other Special Laws,
+       Page 2                                 with NO Other Taxable Income                                              1702-EX 01/19ENCS v2 P2
+Taxpayer Identification Number (TIN)                Registered Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LON
+                                             Part IV – Computation of Tax                 (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+28 Sales/Receipts/Revenues/Fees                                                                                        5 0 0 0 0 0 1
+29 Less: Sales Returns, Allowances and Discounts                                                                              1 0 0 0 0 0
+30 Net Sales/Receipts/Revenues/Fees (Item 28 Less Item 29)                                                                              4 9 0 0 0 0 1
+31 Less: Cost of Sales/Services                                                                                                         2 0 0 0 0 0 0
+32 Gross Income from Operation (Item 30 Less Item 31)                                                                                   2 9 0 0 0 0 1
+33 Add: Other Income                                                                                                                        5 0 0 0 0
+34 Total Gross Income (Sum of Items 32 and 33)                                                                                          2 9 5 0 0 0 1
+   Less: Deductions Allowable under Existing Law
+         A. Itemized Deduction
+   35 Ordinary Allowable Itemized Deductions (From Part VI Schedule I Item 18)                                                              7 6 4 5 6 8
+    36 Special Allowable Itemized Deductions (From Part VI Schedule II Item 5)                                                                1 5 0 0 0
+   37 Total Itemized Deductions (Sum of Items 35 and 36)                                                                                    7 7 9 5 6 8
+         B. Optional Standard Deduction (OSD)
+   38 OSD (40% of Item 34) (applicable only to GPP per RA No. 10963)                                                                                0
+39 Net Taxable Income/(Loss) (If Itemized Deductions: Item 34 Less Item 37; If OSD: Item 34 Less Item 38)                               2 1 7 0 4 3 3
+40 Tax Rate                                                                                                                                               0%
+41 Tax Due (Item 39 x Item 40) (To Part II Item 18)                                                                                                      000
+   Less: Tax Credits/Payments (attach proof)
+   42 Prior Year’s Excess Credits                                                                                                                                 0
+    43 Income Tax Payment from Previous Quarter/s                                                                                                                 0
+    44 Creditable Tax Withheld from Previous Quarter/s per BIR Form No. 2307                                                                                      0
+   45 Creditable Tax Withheld per BIR Form No. 2307 for the 4th Quarter                                                                              1 0 0 0
+    46 Foreign Tax Credits, if applicable                                                                                                                         0
+   47 Tax Paid in Return Previously Filed, if this is an Amended Return                                                                                           0
+      Other Tax Credits/Payments (specify)
+   48
+   49
+50 Total Tax Credits/Payments (Sum of Items 42 to 49) (To Part II Item 19)                                                                           1 0 0 0
+51 Total (Overpayment) (Item 41 Less Item 50) (To Part II Item 20)                                                                          ( 1 0 0 0 )
+                                                                   Part V – Tax Relief Availment
+52 Regular Income Tax Otherwise Due (Item 39 of Part IV x Applicable Income Tax Rate)                                                       6 0 0 0 0 0
+53 Special Allowable Itemized Deductions (Item 36 of Part IV x Applicable Income Tax Rate)                                                       1 5 0 0 0
+                                                                                                                                            6 1 5 0 0 0
+54 Total Tax Relief Availment (Sum of Items 52 and 53)
+     BIR Form No.
+                                  Annual Income Tax Return
+ 1702-EX               Corporation, Partnership and Other Non-Individual Taxpayer EXEMPT
+January 2018 (ENCS) v2 Under the Tax Code, as Amended, [Sec. 30 and those exempted in Sec.
+         Page 3                  27(C)] and Other Special Laws, with NO Other Taxable Income]                                   1702-EX 01/19ENCS v2 P3
+ Taxpayer Identification Number (TIN)                 Registered Name
+ 0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LON
+                                                             Part VI – Schedules                  (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+ Schedule 1 – Ordinary Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+ 1 Amortizations                                                                                                                                                         0
+ 2 Bad Debts                                                                                                                                 1 0 0 0 0
+ 3 Charitable and Contributions                                                                                                                                          0
+ 4 Depletion                                                                                                                                                             0
+ 5 Depreciation                                                                                                                                                          0
+ 6 Entertainment, Amusement and Recreation                                                                                                                               0
+ 7 Fringe Benefits                                                                                                                                                       0
+ 8 Interest                                                                                                                                                              0
+ 9 Losses                                                                                                                                                                0
+10 Pension Trusts                                                                                                                                                        0
+11 Rental                                                                                                                                                                0
+12 Research and Development                                                                                                                                              0
+13 Salaries, Wages and Allowances                                                                                                     5 0 0 0 0 0
+14 SSS, GSIS, Philhealth, HDMF and Other Contributions                                                                                                                   0
+15 Taxes and Licenses                                                                                                                                                    0
+16 Transportation and Travel                                                                                                                                             0
+17 Others (Deductions Subject to Withholding Tax and Other Expenses) [Specify below; Add additional sheet(s), if necessary]
+     a Janitorial and Messengerial Services                                                                                                  2 0 0 0 0
+     b Professional Fees                                                                                                                                                 0
+     c Security Services                                                                                                                                                 0
+     d DEDUCTION SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MAN...                                                   2 3 4 5 6 8
+     e
+     f
+     g
+     h
+     i
+18 Total Ordinary Allowable Itemized Deductions (Sum of Items 1 to 17i) (To Part IV Item 35)                                          7 6 4 5 6 8
+ Schedule 2 – Special Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+                           Description                                   Legal Basis                                         Amount
+ 1 SAMPLE DEDUCTION                                          R A        0 0 0 0                                                              1 5 0 0 0
+ 2
+ 3
+ 4
+ 5 Total Special Allowable Itemized Deductions (Sum of Items 1 to 4) (To Part IV Item 36)                                                    1 5 0 0 0
+ Schedule 3 – Reconciliation of Net Income per Books Against Taxable Income (attach additional sheet/s, if necessary)
+ 1 Net Income/(Loss) per Books                                                                                                 2 3 0 0 0 0 0
+   Add: Non-Deductible Expenses/Other Income
+ 2 SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EX...                                                    1 2 3 4 5 7
+ 3
+ 4 Total (Sum of Items 1 to 3)                                                                                                 2 4 2 3 4 5 7
+   Less: A) Non-Taxable Income and Income Subjected to Final Tax
+ 5 I N T E R E S T                       I N C O M E                                                                                         2 0 0 0 0
+ 6
+7       B) Special Deductions
+8
+9 Total (Sum of Items 5 to 8)                                                                                                                     2 0 0 0 0
+10 Net Taxable Income/(Loss) (Item 4 Less Item 9)                                                                                             2 4 0 3 4 5 7
+BIR Form No. 1702EX                                                                                                     ADDITIONAL SHEET
+Annual Income Tax Return — Tax-Exempt
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                             Return Period: 12/25
+                                                 VILLANUE VA EXTRAORDINARILY LONG FAMILY NAME WI TH
+                                                 MIDDLE NAMES AND SUFFIXES FOR PRINT
+
+Entries continued from the form                                                               Full text of entries shortened with "..." on the form
+     Page          Item / Field                                       Full Entry
+    Page 3         Schedule 1 Item 17d description                    DEDUCTION SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF
+                                                                      PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+    Page 3         Schedule 3 Item 2 description                      SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH
+                                                                      MANY WORDS TO EXERCISE WRAPPING
+
