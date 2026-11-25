@@ -1,0 +1,197 @@
+# 1601C Upload XML Comparison (head 0c2af498 vs base 6ddcac3f vs official sample)
+# No official sample in crates/bir-core/tests/sample-payloads/ has > 3 Schedule I rows.
+
+## 1. Official sample (1601C-062025.official.xml) vs App head 0c2af498 (upload-head-2025-02.xml)
+  OFFICIAL: <div>frm1601c:txtTax26=250.00frm1601c:txtTax26=</div>
+  APP_HEAD: <div>frm1601c:txtTax26=250.00frm1601c:txtTax26=</div>
+  OFFICIAL: <div>frm1601c:txtTax27=19,000.00frm1601c:txtTax27=</div>
+  APP_HEAD: <div>frm1601c:txtTax27=15,250.00frm1601c:txtTax27=</div>
+  OFFICIAL: <div>chkScheduleDelete0=falsechkScheduleDelete0=</div>
+  APP_HEAD: <div>chkScheduleDelete0=falsechkScheduleDelete0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtMonthYear0=04/2025frm1601c:sched1:txtMonthYear0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtMonthYear0=frm1601c:sched1:txtMonthYear0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtDatePaid0=05/09/2025frm1601c:sched1:txtDatePaid0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtDatePaid0=05/09/2025frm1601c:sched1:txtDatePaid0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtBankCode0=SAMPLE BANKfrm1601c:sched1:txtBankCode0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtBankCode0=BDOfrm1601c:sched1:txtBankCode0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtNumber0=REF-0001frm1601c:sched1:txtNumber0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtNumber0=00012345frm1601c:sched1:txtNumber0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtTaxPaid0=15,000.00frm1601c:sched1:txtTaxPaid0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtTaxPaid0=15,000.00frm1601c:sched1:txtTaxPaid0=</div>
+  OFFICIAL: <div>chkScheduleDelete1=falsechkScheduleDelete1=</div>
+  APP_HEAD: <div>chkScheduleDelete1=falsechkScheduleDelete1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtMonthYear1=frm1601c:sched1:txtMonthYear1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtMonthYear1=frm1601c:sched1:txtMonthYear1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtDatePaid1=frm1601c:sched1:txtDatePaid1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtDatePaid1=frm1601c:sched1:txtDatePaid1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtBankCode1=frm1601c:sched1:txtBankCode1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtBankCode1=frm1601c:sched1:txtBankCode1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtNumber1=frm1601c:sched1:txtNumber1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtNumber1=frm1601c:sched1:txtNumber1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtTaxPaid1=0.00frm1601c:sched1:txtTaxPaid1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtTaxPaid1=0.00frm1601c:sched1:txtTaxPaid1=</div>
+  OFFICIAL: <div>chkScheduleDelete2=falsechkScheduleDelete2=</div>
+  APP_HEAD: <div>chkScheduleDelete2=falsechkScheduleDelete2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtMonthYear2=frm1601c:sched1:txtMonthYear2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtMonthYear2=frm1601c:sched1:txtMonthYear2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtDatePaid2=frm1601c:sched1:txtDatePaid2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtDatePaid2=frm1601c:sched1:txtDatePaid2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtBankCode2=frm1601c:sched1:txtBankCode2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtBankCode2=frm1601c:sched1:txtBankCode2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtNumber2=frm1601c:sched1:txtNumber2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtNumber2=frm1601c:sched1:txtNumber2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtTaxPaid2=0.00frm1601c:sched1:txtTaxPaid2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtTaxPaid2=0.00frm1601c:sched1:txtTaxPaid2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtShouldTaxDue0=15,250.00frm1601c:sched1:txtShouldTaxDue0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtShouldTaxDue0=15,250.00frm1601c:sched1:txtShouldTaxDue0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtAdjustments0=250.00frm1601c:sched1:txtAdjustments0=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtAdjustments0=250.00frm1601c:sched1:txtAdjustments0=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtShouldTaxDue1=0.00frm1601c:sched1:txtShouldTaxDue1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtShouldTaxDue1=0.00frm1601c:sched1:txtShouldTaxDue1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtAdjustments1=0.00frm1601c:sched1:txtAdjustments1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtAdjustments1=0.00frm1601c:sched1:txtAdjustments1=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtShouldTaxDue2=0.00frm1601c:sched1:txtShouldTaxDue2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtShouldTaxDue2=0.00frm1601c:sched1:txtShouldTaxDue2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtAdjustments2=0.00frm1601c:sched1:txtAdjustments2=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtAdjustments2=0.00frm1601c:sched1:txtAdjustments2=</div>
+  OFFICIAL: <div>frm1601c:sched1:txtTotal1=250.00frm1601c:sched1:txtTotal1=</div>
+  APP_HEAD: <div>frm1601c:sched1:txtTotal1=250.00frm1601c:sched1:txtTotal1=</div>
+
+## 2. Base 6ddcac3f vs Head 0c2af498 byte-for-byte parity (<= 3 rows)
+  official-sample-values (2025-02): head_bytes=7587 base_bytes=7587 byte_identical=True
+  1-row (2025-03): head_bytes=7541 base_bytes=7541 byte_identical=True
+  3-row (2025-04): head_bytes=7606 base_bytes=7606 byte_identical=True
+
+## 3. Untouched preallocated rows 1 & 2 (1-row return, upload-head-2025-03.xml)
+  <div>frm1601c:txtTax26=500.10frm1601c:txtTax26=</div>
+  <div>frm1601c:txtTax27=10,500.10frm1601c:txtTax27=</div>
+  <div>chkScheduleDelete0=falsechkScheduleDelete0=</div>
+  <div>frm1601c:sched1:txtMonthYear0=frm1601c:sched1:txtMonthYear0=</div>
+  <div>frm1601c:sched1:txtDatePaid0=02/10/2025frm1601c:sched1:txtDatePaid0=</div>
+  <div>frm1601c:sched1:txtBankCode0=BDO1frm1601c:sched1:txtBankCode0=</div>
+  <div>frm1601c:sched1:txtNumber0=REF101frm1601c:sched1:txtNumber0=</div>
+  <div>frm1601c:sched1:txtTaxPaid0=1,000.01frm1601c:sched1:txtTaxPaid0=</div>
+  <div>chkScheduleDelete1=falsechkScheduleDelete1=</div>
+  <div>frm1601c:sched1:txtMonthYear1=frm1601c:sched1:txtMonthYear1=</div>
+  <div>frm1601c:sched1:txtDatePaid1=frm1601c:sched1:txtDatePaid1=</div>
+  <div>frm1601c:sched1:txtBankCode1=frm1601c:sched1:txtBankCode1=</div>
+  <div>frm1601c:sched1:txtNumber1=frm1601c:sched1:txtNumber1=</div>
+  <div>frm1601c:sched1:txtTaxPaid1=0.00frm1601c:sched1:txtTaxPaid1=</div>
+  <div>chkScheduleDelete2=falsechkScheduleDelete2=</div>
+  <div>frm1601c:sched1:txtMonthYear2=frm1601c:sched1:txtMonthYear2=</div>
+  <div>frm1601c:sched1:txtDatePaid2=frm1601c:sched1:txtDatePaid2=</div>
+  <div>frm1601c:sched1:txtBankCode2=frm1601c:sched1:txtBankCode2=</div>
+  <div>frm1601c:sched1:txtNumber2=frm1601c:sched1:txtNumber2=</div>
+  <div>frm1601c:sched1:txtTaxPaid2=0.00frm1601c:sched1:txtTaxPaid2=</div>
+  <div>frm1601c:sched1:txtShouldTaxDue0=1,500.11frm1601c:sched1:txtShouldTaxDue0=</div>
+  <div>frm1601c:sched1:txtAdjustments0=500.10frm1601c:sched1:txtAdjustments0=</div>
+  <div>frm1601c:sched1:txtShouldTaxDue1=0.00frm1601c:sched1:txtShouldTaxDue1=</div>
+  <div>frm1601c:sched1:txtAdjustments1=0.00frm1601c:sched1:txtAdjustments1=</div>
+  <div>frm1601c:sched1:txtShouldTaxDue2=0.00frm1601c:sched1:txtShouldTaxDue2=</div>
+  <div>frm1601c:sched1:txtAdjustments2=0.00frm1601c:sched1:txtAdjustments2=</div>
+  <div>frm1601c:sched1:txtTotal1=500.10frm1601c:sched1:txtTotal1=</div>
+
+## 4. 4-row return (upload-head-2025-10.xml) — EVERY row-3 key duplicated 3x; from_bir_xml_payload REJECTS
+   1: <div>frm1601c:txtTax26=2,601.00frm1601c:txtTax26=</div>
+   2: <div>frm1601c:txtTax27=12,601.00frm1601c:txtTax27=</div>
+   3: <div>chkScheduleDelete0=falsechkScheduleDelete0=</div>
+   4: <div>chkScheduleDelete3=falsechkScheduleDelete3=</div>
+   5: <div>frm1601c:sched1:txtMonthYear0=frm1601c:sched1:txtMonthYear0=</div>
+   6: <div>frm1601c:sched1:txtMonthYear3=frm1601c:sched1:txtMonthYear3=</div>
+   7: <div>frm1601c:sched1:txtDatePaid0=02/10/2025frm1601c:sched1:txtDatePaid0=</div>
+   8: <div>frm1601c:sched1:txtDatePaid3=05/10/2025frm1601c:sched1:txtDatePaid3=</div>
+   9: <div>frm1601c:sched1:txtBankCode0=BDO1frm1601c:sched1:txtBankCode0=</div>
+  10: <div>frm1601c:sched1:txtBankCode3=UBP4frm1601c:sched1:txtBankCode3=</div>
+  11: <div>frm1601c:sched1:txtNumber0=REF101frm1601c:sched1:txtNumber0=</div>
+  12: <div>frm1601c:sched1:txtNumber3=REF404frm1601c:sched1:txtNumber3=</div>
+  13: <div>frm1601c:sched1:txtTaxPaid0=1,000.01frm1601c:sched1:txtTaxPaid0=</div>
+  14: <div>frm1601c:sched1:txtTaxPaid3=4,000.04frm1601c:sched1:txtTaxPaid3=</div>
+  15: <div>chkScheduleDelete1=falsechkScheduleDelete1=</div>
+  16: <div>chkScheduleDelete3=falsechkScheduleDelete3=</div>
+  17: <div>frm1601c:sched1:txtMonthYear1=frm1601c:sched1:txtMonthYear1=</div>
+  18: <div>frm1601c:sched1:txtMonthYear3=frm1601c:sched1:txtMonthYear3=</div>
+  19: <div>frm1601c:sched1:txtDatePaid1=03/10/2025frm1601c:sched1:txtDatePaid1=</div>
+  20: <div>frm1601c:sched1:txtDatePaid3=05/10/2025frm1601c:sched1:txtDatePaid3=</div>
+  21: <div>frm1601c:sched1:txtBankCode1=BPI2frm1601c:sched1:txtBankCode1=</div>
+  22: <div>frm1601c:sched1:txtBankCode3=UBP4frm1601c:sched1:txtBankCode3=</div>
+  23: <div>frm1601c:sched1:txtNumber1=REF202frm1601c:sched1:txtNumber1=</div>
+  24: <div>frm1601c:sched1:txtNumber3=REF404frm1601c:sched1:txtNumber3=</div>
+  25: <div>frm1601c:sched1:txtTaxPaid1=2,000.02frm1601c:sched1:txtTaxPaid1=</div>
+  26: <div>frm1601c:sched1:txtTaxPaid3=4,000.04frm1601c:sched1:txtTaxPaid3=</div>
+  27: <div>chkScheduleDelete2=falsechkScheduleDelete2=</div>
+  28: <div>chkScheduleDelete3=falsechkScheduleDelete3=</div>
+  29: <div>frm1601c:sched1:txtMonthYear2=frm1601c:sched1:txtMonthYear2=</div>
+  30: <div>frm1601c:sched1:txtMonthYear3=frm1601c:sched1:txtMonthYear3=</div>
+  31: <div>frm1601c:sched1:txtDatePaid2=04/10/2025frm1601c:sched1:txtDatePaid2=</div>
+  32: <div>frm1601c:sched1:txtDatePaid3=05/10/2025frm1601c:sched1:txtDatePaid3=</div>
+  33: <div>frm1601c:sched1:txtBankCode2=MBT3frm1601c:sched1:txtBankCode2=</div>
+  34: <div>frm1601c:sched1:txtBankCode3=UBP4frm1601c:sched1:txtBankCode3=</div>
+  35: <div>frm1601c:sched1:txtNumber2=REF303frm1601c:sched1:txtNumber2=</div>
+  36: <div>frm1601c:sched1:txtNumber3=REF404frm1601c:sched1:txtNumber3=</div>
+  37: <div>frm1601c:sched1:txtTaxPaid2=3,000.03frm1601c:sched1:txtTaxPaid2=</div>
+  38: <div>frm1601c:sched1:txtTaxPaid3=4,000.04frm1601c:sched1:txtTaxPaid3=</div>
+  39: <div>frm1601c:sched1:txtShouldTaxDue0=1,500.11frm1601c:sched1:txtShouldTaxDue0=</div>
+  40: <div>frm1601c:sched1:txtShouldTaxDue3=4,800.44frm1601c:sched1:txtShouldTaxDue3=</div>
+  41: <div>frm1601c:sched1:txtAdjustments0=500.10frm1601c:sched1:txtAdjustments0=</div>
+  42: <div>frm1601c:sched1:txtAdjustments3=800.40frm1601c:sched1:txtAdjustments3=</div>
+  43: <div>frm1601c:sched1:txtShouldTaxDue1=2,600.22frm1601c:sched1:txtShouldTaxDue1=</div>
+  44: <div>frm1601c:sched1:txtShouldTaxDue3=4,800.44frm1601c:sched1:txtShouldTaxDue3=</div>
+  45: <div>frm1601c:sched1:txtAdjustments1=600.20frm1601c:sched1:txtAdjustments1=</div>
+  46: <div>frm1601c:sched1:txtAdjustments3=800.40frm1601c:sched1:txtAdjustments3=</div>
+  47: <div>frm1601c:sched1:txtShouldTaxDue2=3,700.33frm1601c:sched1:txtShouldTaxDue2=</div>
+  48: <div>frm1601c:sched1:txtShouldTaxDue3=4,800.44frm1601c:sched1:txtShouldTaxDue3=</div>
+  49: <div>frm1601c:sched1:txtAdjustments2=700.30frm1601c:sched1:txtAdjustments2=</div>
+  50: <div>frm1601c:sched1:txtAdjustments3=800.40frm1601c:sched1:txtAdjustments3=</div>
+  51: <div>frm1601c:sched1:txtTotal1=2,601.00frm1601c:sched1:txtTotal1=</div>
+
+## 5. 6-row return (upload-head-2025-09.xml) — row 3: 3x, row 4: 3x, row 5: 6x (121 sched keys vs 49 unique)
+  Total sched1+tax26/27 lines: 123
+    1: <div>frm1601c:txtTax26=4,502.10frm1601c:txtTax26=</div>
+    2: <div>frm1601c:txtTax27=14,502.10frm1601c:txtTax27=</div>
+    3: <div>chkScheduleDelete0=falsechkScheduleDelete0=</div>
+    4: <div>chkScheduleDelete3=falsechkScheduleDelete3=</div>
+    5: <div>chkScheduleDelete4=falsechkScheduleDelete4=</div>
+    6: <div>chkScheduleDelete5=falsechkScheduleDelete5=</div>
+    7: <div>chkScheduleDelete5=falsechkScheduleDelete5=</div>
+    8: <div>frm1601c:sched1:txtMonthYear0=01/2025frm1601c:sched1:txtMonthYear0=</div>
+    9: <div>frm1601c:sched1:txtMonthYear3=04/2025frm1601c:sched1:txtMonthYear3=</div>
+   10: <div>frm1601c:sched1:txtMonthYear4=05/2025frm1601c:sched1:txtMonthYear4=</div>
+   11: <div>frm1601c:sched1:txtMonthYear5=06/2025frm1601c:sched1:txtMonthYear5=</div>
+   12: <div>frm1601c:sched1:txtMonthYear5=06/2025frm1601c:sched1:txtMonthYear5=</div>
+   13: <div>frm1601c:sched1:txtDatePaid0=02/10/2025frm1601c:sched1:txtDatePaid0=</div>
+   14: <div>frm1601c:sched1:txtDatePaid3=05/10/2025frm1601c:sched1:txtDatePaid3=</div>
+   15: <div>frm1601c:sched1:txtDatePaid4=06/10/2025frm1601c:sched1:txtDatePaid4=</div>
+   16: <div>frm1601c:sched1:txtDatePaid5=07/10/2025frm1601c:sched1:txtDatePaid5=</div>
+   17: <div>frm1601c:sched1:txtDatePaid5=07/10/2025frm1601c:sched1:txtDatePaid5=</div>
+   18: <div>frm1601c:sched1:txtBankCode0=BDO1frm1601c:sched1:txtBankCode0=</div>
+   19: <div>frm1601c:sched1:txtBankCode3=UBP4frm1601c:sched1:txtBankCode3=</div>
+   20: <div>frm1601c:sched1:txtBankCode4=PNB5frm1601c:sched1:txtBankCode4=</div>
+   21: <div>frm1601c:sched1:txtBankCode5=SBC6frm1601c:sched1:txtBankCode5=</div>
+   22: <div>frm1601c:sched1:txtBankCode5=SBC6frm1601c:sched1:txtBankCode5=</div>
+   23: <div>frm1601c:sched1:txtNumber0=REF101frm1601c:sched1:txtNumber0=</div>
+   24: <div>frm1601c:sched1:txtNumber3=REF404frm1601c:sched1:txtNumber3=</div>
+   25: <div>frm1601c:sched1:txtNumber4=REF505frm1601c:sched1:txtNumber4=</div>
+   26: <div>frm1601c:sched1:txtNumber5=REF606frm1601c:sched1:txtNumber5=</div>
+   27: <div>frm1601c:sched1:txtNumber5=REF606frm1601c:sched1:txtNumber5=</div>
+   28: <div>frm1601c:sched1:txtTaxPaid0=1,000.01frm1601c:sched1:txtTaxPaid0=</div>
+   29: <div>frm1601c:sched1:txtTaxPaid3=4,000.04frm1601c:sched1:txtTaxPaid3=</div>
+   30: <div>frm1601c:sched1:txtTaxPaid4=5,000.05frm1601c:sched1:txtTaxPaid4=</div>
+   31: <div>frm1601c:sched1:txtTaxPaid5=6,000.06frm1601c:sched1:txtTaxPaid5=</div>
+   32: <div>frm1601c:sched1:txtTaxPaid5=6,000.06frm1601c:sched1:txtTaxPaid5=</div>
+   33: <div>chkScheduleDelete1=falsechkScheduleDelete1=</div>
+   34: <div>chkScheduleDelete3=falsechkScheduleDelete3=</div>
+   35: <div>chkScheduleDelete4=falsechkScheduleDelete4=</div>
+   36: <div>chkScheduleDelete5=falsechkScheduleDelete5=</div>
+   37: <div>chkScheduleDelete5=falsechkScheduleDelete5=</div>
+   38: <div>frm1601c:sched1:txtMonthYear1=02/2025frm1601c:sched1:txtMonthYear1=</div>
+   39: <div>frm1601c:sched1:txtMonthYear3=04/2025frm1601c:sched1:txtMonthYear3=</div>
+   40: <div>frm1601c:sched1:txtMonthYear4=05/2025frm1601c:sched1:txtMonthYear4=</div>
+   41: <div>frm1601c:sched1:txtMonthYear5=06/2025frm1601c:sched1:txtMonthYear5=</div>
+   42: <div>frm1601c:sched1:txtMonthYear5=06/2025frm1601c:sched1:txtMonthYear5=</div>
+   43: <div>frm1601c:sched1:txtDatePaid1=03/10/2025frm1601c:sched1:txtDatePaid1=</div>
+   44: <div>frm1601c:sched1:txtDatePaid3=05/10/2025frm1601c:sched1:txtDatePaid3=</div>
+   45: <div>frm1601c:sched1:txtDatePaid4=06/10/2025frm1601c:sched1:txtDatePaid4=</div>
+  ... (78 more lines; full file in upload-head-2025-09.xml)
+
+## 6. 9-row return (upload-head-2025-06.xml) — Fibonacci blowup: row3=3x, row4=3x, row5=6x, row6=9x, row7=15x, row8=24x (505 sched keys vs 73 unique, 50,107 bytes)
+## 7. 50-row return (2025-05) — exponential O(3 * F_47 ~= 8.9e9 per col) blowup in official_xml.rs:310-375; killed at 1.3 GB RAM / 3m30s without finishing.

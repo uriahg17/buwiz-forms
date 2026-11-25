@@ -1,0 +1,10 @@
+case	period	draft_rows	tax26_saved	tax27_saved	upload_sched_keys	upload_unique_keys	upload_duplicates	roundtrip_from_xml	print_pages	print_rows_shown	print_total	verdict	notes
+official_sample	2025-02	1	250.00	15250.00	25	25	0	blocked_demo_addr_only	2	1	250.00	clean_xml_parity	Identical to base 6ddcac3f (7587B); txtMonthYear0 refused by form.fill
+1_row_untouched	2025-03	1	500.10	10500.10	25	25	0	blocked_demo_addr_only	2	1	500.10	clean_xml_parity	Rows 1-2 untouched: chkScheduleDelete=false, blank strings, 0.00 amounts; byte-identical to base
+3_rows_cap	2025-04	3	1800.60	11800.60	25	25	0	blocked_demo_addr_only	2	3	1800.60	clean_xml_parity	Byte-identical to base 6ddcac3f (7606B); all 3 rows print
+4_rows_cap_plus_1	2025-10	4	2601.00	12601.00	49	33	8_keys_3x_each	FAIL_duplicate_chkScheduleDelete3	2	3	2601.00	BROKEN	Upload duplicates every row-3 key 3x & interleaves cols; from_bir_xml_payload rejects; print drops row 4 (UBP4 800.40) while total prints 2601.00
+6_rows_x11_cap_plus_3	2025-09	6	4502.10	14502.10	121	49	24_keys_3x_3x_6x	FAIL_duplicate_chkScheduleDelete5	2	3	4502.10	BROKEN	Entered via X11; upload duplicates row3 3x, row4 3x, row5 6x; print drops rows 4-6 (UBP4/PNB5/SBC6, sum 2701.50) while total prints 4502.10
+delete_middle_and_end	2025-07	6	2801.20	12801.20	121	49	24_keys_3x_3x_6x	FAIL_duplicate_chkScheduleDelete5	2	3	2801.20	BROKEN	Deleting Row 3 (MBT3) & Row 6 (SBC6) leaves zombie rows with Date Paid intact (len stays 6, no compaction per deleteSchedule:L3387-L3439)
+9_rows_blowup_check	2025-06	9	5403.00	15403.00	505	73	48_keys_3x_to_24x	FAIL_duplicate_chkScheduleDelete7	N/A	N/A	N/A	BROKEN	3x Fibonacci blowup (3,3,6,9,15,24 copies per key; 50,107B)
+50_rows_branch_max	2025-05	50	5005.00	15005.00	OOM_8.9e9_per_col	401	EXPONENTIAL_OOM	OOM_HANG	2	3	5005.00	BROKEN	UI hides Add row at 50 (official is unbounded); to_bir_xml_payload hangs/OOMs (1.3GB RAM at 3m30s); print drops 47 rows (BK04..BK50, sum 4704.70) while total prints 5005.00
+51st_row_beyond_max	2025-05	50	5005.00	15005.00	N/A	N/A	N/A	N/A	N/A	N/A	N/A	refused_at_50	form.fill refuses index 50 (not a box on Form 1601C); UI hides Add row at 50

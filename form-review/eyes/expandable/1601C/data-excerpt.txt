@@ -1,0 +1,49 @@
+=== 1-row (2025-03) ===
+  schedule_1 len=1, tax_25=None, tax_26_adjustment=500.1, tax_27=10500.1
+    row[0]: {"previous_month": "", "date_paid": "02/10/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "REF101", "tax_paid": 1000.01, "should_be_tax_due": 1500.11, "adjustment": 500.1}
+
+=== 3-row (2025-04) ===
+  schedule_1 len=3, tax_25=None, tax_26_adjustment=1800.6, tax_27=11800.6
+    row[0]: {"previous_month": "", "date_paid": "02/10/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "REF101", "tax_paid": 1000.01, "should_be_tax_due": 1500.11, "adjustment": 500.1}
+    row[1]: {"previous_month": "", "date_paid": "03/10/2025", "drawee_bank_code_or_agency": "BPI2", "payment_number": "REF202", "tax_paid": 2000.02, "should_be_tax_due": 2600.22, "adjustment": 600.2}
+    row[2]: {"previous_month": "", "date_paid": "04/10/2025", "drawee_bank_code_or_agency": "MBT3", "payment_number": "REF303", "tax_paid": 3000.03, "should_be_tax_due": 3700.33, "adjustment": 700.3}
+
+=== 4-row (2025-10) ===
+  schedule_1 len=4, tax_25=None, tax_26_adjustment=2601.0, tax_27=12601.0
+    row[0]: {"previous_month": "", "date_paid": "02/10/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "REF101", "tax_paid": 1000.01, "should_be_tax_due": 1500.11, "adjustment": 500.1}
+    row[1]: {"previous_month": "", "date_paid": "03/10/2025", "drawee_bank_code_or_agency": "BPI2", "payment_number": "REF202", "tax_paid": 2000.02, "should_be_tax_due": 2600.22, "adjustment": 600.2}
+    row[2]: {"previous_month": "", "date_paid": "04/10/2025", "drawee_bank_code_or_agency": "MBT3", "payment_number": "REF303", "tax_paid": 3000.03, "should_be_tax_due": 3700.33, "adjustment": 700.3}
+    row[3]: {"previous_month": "", "date_paid": "05/10/2025", "drawee_bank_code_or_agency": "UBP4", "payment_number": "REF404", "tax_paid": 4000.04, "should_be_tax_due": 4800.44, "adjustment": 800.4}
+
+=== 6-row (2025-09, grew 4->6 via X11) ===
+  schedule_1 len=6, tax_25=None, tax_26_adjustment=4502.1, tax_27=14502.1
+    row[0]: {"previous_month": "01/2025", "date_paid": "02/10/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "REF101", "tax_paid": 1000.01, "should_be_tax_due": 1500.11, "adjustment": 500.1}
+    row[1]: {"previous_month": "02/2025", "date_paid": "03/10/2025", "drawee_bank_code_or_agency": "BPI2", "payment_number": "REF202", "tax_paid": 2000.02, "should_be_tax_due": 2600.22, "adjustment": 600.2}
+    row[2]: {"previous_month": "03/2025", "date_paid": "04/10/2025", "drawee_bank_code_or_agency": "MBT3", "payment_number": "REF303", "tax_paid": 3000.03, "should_be_tax_due": 3700.33, "adjustment": 700.3}
+    row[3]: {"previous_month": "04/2025", "date_paid": "05/10/2025", "drawee_bank_code_or_agency": "UBP4", "payment_number": "REF404", "tax_paid": 4000.04, "should_be_tax_due": 4800.44, "adjustment": 800.4}
+    row[4]: {"previous_month": "05/2025", "date_paid": "06/10/2025", "drawee_bank_code_or_agency": "PNB5", "payment_number": "REF505", "tax_paid": 5000.05, "should_be_tax_due": 5900.55, "adjustment": 900.5}
+    row[5]: {"previous_month": "06/2025", "date_paid": "07/10/2025", "drawee_bank_code_or_agency": "SBC6", "payment_number": "REF606", "tax_paid": 6000.06, "should_be_tax_due": 7000.66, "adjustment": 1000.6}
+
+=== after-delete (2025-07, deleted middle row 3 MBT3 & last row 6 SBC6) ===
+  schedule_1 len=6, tax_25=None, tax_26_adjustment=2801.2, tax_27=12801.2
+    row[0]: {"previous_month": "", "date_paid": "02/10/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "REF101", "tax_paid": 1000.01, "should_be_tax_due": 1500.11, "adjustment": 500.1}
+    row[1]: {"previous_month": "", "date_paid": "03/10/2025", "drawee_bank_code_or_agency": "BPI2", "payment_number": "REF202", "tax_paid": 2000.02, "should_be_tax_due": 2600.22, "adjustment": 600.2}
+    row[2]: {"previous_month": "", "date_paid": "04/10/2025", "drawee_bank_code_or_agency": "", "payment_number": "", "tax_paid": 0.0, "should_be_tax_due": 0.0, "adjustment": 0.0}
+    row[3]: {"previous_month": "", "date_paid": "05/10/2025", "drawee_bank_code_or_agency": "UBP4", "payment_number": "REF404", "tax_paid": 4000.04, "should_be_tax_due": 4800.44, "adjustment": 800.4}
+    row[4]: {"previous_month": "", "date_paid": "06/10/2025", "drawee_bank_code_or_agency": "PNB5", "payment_number": "REF505", "tax_paid": 5000.05, "should_be_tax_due": 5900.55, "adjustment": 900.5}
+    row[5]: {"previous_month": "", "date_paid": "07/10/2025", "drawee_bank_code_or_agency": "", "payment_number": "", "tax_paid": 0.0, "should_be_tax_due": 0.0, "adjustment": 0.0}
+
+=== 50-row max (2025-05) ===
+  schedule_1 len=50, tax_25=None, tax_26_adjustment=5005.0, tax_27=15005.0
+    row[0]: {"previous_month": "", "date_paid": "01/15/2024", "drawee_bank_code_or_agency": "BK01", "payment_number": "R001", "tax_paid": 1000.01, "should_be_tax_due": 1100.11, "adjustment": 100.1}
+    row[1]: {"previous_month": "", "date_paid": "02/15/2024", "drawee_bank_code_or_agency": "BK02", "payment_number": "R002", "tax_paid": 1001.01, "should_be_tax_due": 1101.11, "adjustment": 100.1}
+    row[2]: {"previous_month": "", "date_paid": "03/15/2024", "drawee_bank_code_or_agency": "BK03", "payment_number": "R003", "tax_paid": 1002.01, "should_be_tax_due": 1102.11, "adjustment": 100.1}
+    row[3]: {"previous_month": "", "date_paid": "04/15/2024", "drawee_bank_code_or_agency": "BK04", "payment_number": "R004", "tax_paid": 1003.01, "should_be_tax_due": 1103.11, "adjustment": 100.1}
+    row[4]: {"previous_month": "", "date_paid": "05/15/2024", "drawee_bank_code_or_agency": "BK05", "payment_number": "R005", "tax_paid": 1004.01, "should_be_tax_due": 1104.11, "adjustment": 100.1}
+    row[48]: {"previous_month": "", "date_paid": "01/15/2024", "drawee_bank_code_or_agency": "BK49", "payment_number": "R049", "tax_paid": 1048.01, "should_be_tax_due": 1148.11, "adjustment": 100.1}
+    row[49]: {"previous_month": "", "date_paid": "02/15/2024", "drawee_bank_code_or_agency": "BK50", "payment_number": "R050", "tax_paid": 1049.01, "should_be_tax_due": 1149.11, "adjustment": 100.1}
+
+=== official-sample-values (2025-02) ===
+  schedule_1 len=1, tax_25=None, tax_26_adjustment=250.0, tax_27=15250.0
+    row[0]: {"previous_month": "", "date_paid": "05/09/2025", "drawee_bank_code_or_agency": "BDO", "payment_number": "00012345", "tax_paid": 15000.0, "should_be_tax_due": 15250.0, "adjustment": 250.0}
+

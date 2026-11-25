@@ -525,3 +525,52 @@ Re-audited box-by-box from persisted SQLite drafts (`r3-redo-g2.db`, reopened `f
 2. **Visual/structural band-flow break (`1800`, `plus3-p2.png`, `plus3-p3.png`, Rule 5)**: Extra rows in Schedule A (`GIFT_PERS_R06..R08`) and Schedule B (`OCT-006..OCT-010`) are inserted after 5 blank rows (`6..10`) and misnumbered `11..13` / `11..15` instead of directly under row 5; Schedule B Continuation breaks to `plus3-p3.png` with **no repeated table head and no section title** (starts directly at row `2`).
 3. **Legacy Additional Sheet fallback & blank pages (`1707A` `plus3-p3.png`, `1702EX` `plus3-p4.png`/`plus3-p5.png`, `2000OT` `plus3-p3.png`, `2550M` `maxui-p3.png`, `1602Q` `plus3-p3.png`, Rule 5)**: `1707A`, `1702EX`, and `2000OT` Sched 1.B fall back to legacy `ADDITIONAL SHEET` with missing header metadata (`Taxpayer's Name: —`, `Return Period: —`); `1702EX` emits a completely blank 5th page (`plus3-p5.png`).
 4. **Cosmetic/alignment (`1600PT` `plus3-p2.png`, `2000` `maxui-p2.png`, Rule 4)**: `1600PT` p2 Sched 1 Total `7,999,999.95` is left-aligned; `2000` p2 TIN touches Taxpayer's Name without separator.
+
+---
+
+## Expandable rows
+
+- **Target audited**: `hexuria/buwiz-forms`, branch `try/forms-expandable-rows` at **`0c2af498`** (14 commits)
+- **Branch base**: **`6ddcac3f`** (`origin/main` at audit time: `92b3e201`, 35 commits ahead of base; overlapping main commits since base include `af1e801f`, `4b2ea358`, `86f7eb19`, `a07173bf`, `46a0f44e`, `83586c32`, `be1051a6`, `2678c124`, `d31921db`)
+- **Evidence folder**: `form-review/eyes/expandable/<CODE>/`
+
+### Part 1 — Form 1601C (Schedule I) — Verdict: **BROKEN**
+
+#### 1. Official program comparison (`rules/forms/1601c-v2018/`)
+- **Allowed rows**: **Unbounded** (`rules/forms/1601c-v2018/fixtures/schedule-family-inventory-v796.json`: `source_unbounded: true`, `observed_indices: [0, 1, 2]`). The branch caps Schedule I at `MAX_SCHEDULE_1_EXPANDED_ROWS = 50` (`crates/bir-core/src/forms/form_1601c.rs:36`).
+- **How a filer adds/deletes rows officially**: "Add Schedule I row" (`official-hta-runtime#addSchedule:L3349-L3385`) appends one zero-based indexed row and rebuilds both Schedule I tables; "Delete selected Schedule I rows" (`official-hta-runtime#deleteSchedule:L3387-L3439`) **compacts surviving rows to zero-based indices** and recomputes adjustments (`rules/forms/1601c-v2018/workflow.json`).
+- **Official upload keys for rows 4, 5, ... (0-based index `N >= 3`)**: `chkScheduleDelete{N}`, `frm1601c:sched1:txtMonthYear{N}`, `frm1601c:sched1:txtDatePaid{N}`, `frm1601c:sched1:txtBankCode{N}`, `frm1601c:sched1:txtNumber{N}`, `frm1601c:sched1:txtTaxPaid{N}`, `frm1601c:sched1:txtShouldTaxDue{N}`, `frm1601c:sched1:txtAdjustments{N}` (`schedule-family-inventory-v796.json`).
+- **Official samples**: **No official sample** in `crates/bir-core/tests/sample-payloads/` has > 3 Schedule I rows (`1601C-062025.official.xml` has 3 pre-allocated rows, 1 filled). Extra-row key names rest on reading `official-hta-runtime#loadSchedule`/`addSchedule`/`deleteSchedule` (high confidence on key pattern, zero fixture proof on wire ordering/behavior).
+
+#### 2. Live form page (`0c2af498`, scratch DB `exp-head-1601c.db`, real X11 input)
+- **Add/save/reopen**: Added 4 rows (`2025-09`, `form-4rows.png`) and grew to 6 rows (`form-6rows.png`) via real X11 mouse/keyboard inside the row drawer. After save, close, and reopen, SQLite holds all 6 rows (`data-excerpt.txt`); arithmetic matches (`tax_26 = 2,601.00` for 4 rows, `4,502.10` for 6 rows; `tax_27 = 12,601.00` / `14,502.10`).
+- **50-row branch max & 51st row (`2025-05`, `form-50rows.png`)**: Persists 50 rows (`tax_26 = 5,005.00`, `tax_27 = 15,005.00`); `Add row` disappears at 50 rows and `form.fill` refuses index 50 (`is not a box on Form 1601C`).
+- **Delete row (`2025-07`, `form-after-delete.png`)**: Clicking `Delete row` on middle row 3 (`MBT3`) and end row 6 (`SBC6`) **does NOT delete or compact the rows** (contrary to `deleteSchedule:L3387-L3439`) and **leaves `Date Paid` intact** (`April 10, 2025`, `July 10, 2025`) as zombie partial rows (`len` stays 6, "to do" jumps to 5).
+- **Agent `form.fill` gap**: `frm1601c:sched1:txtMonthYear{0..49}` is still refused by `form.fill` (`"cannot be filled from here: it is written through the form's own editors"`).
+
+#### 3. Upload XML & `sample_payloads_test` (`0c2af498` vs base `6ddcac3f`)
+- **Base parity (`<= 3` rows)**: `2025-02` (official-sample values, 7,587 B), `2025-03` (1 row, 7,541 B), and `2025-04` (3 rows, 7,606 B) are **byte-for-byte identical** between `0c2af498` and `6ddcac3f`. Untouched pre-allocated rows 1–2 emit `chkScheduleDelete{1,2}=false`, empty strings, and `0.00` amounts matching `1601C-062025.official.xml` (`upload-comparison.txt`).
+- **4+ rows upload CORRUPTED & OOMs (`crates/bir-core/src/official_xml.rs:310-375`)**:
+  - Every static row (`0`, `1`, `2`) expands all higher rows AND line 375 advances `at = insert_at + 1` instead of `at = insert_at + extra.len()`, causing **duplicate interleaved XML keys with `3 × Fibonacci` exponential blowup**:
+    - **4 rows (`upload-head-2025-10.xml`)**: every row-3 key emitted **3×** (49 sched keys vs 33 unique).
+    - **6 rows (`upload-head-2025-09.xml`)**: row 3 **3×**, row 4 **3×**, row 5 **6×** (121 sched keys vs 49 unique).
+    - **9 rows (`upload-head-2025-06.xml`)**: rows 3..8 emitted **3×, 3×, 6×, 9×, 15×, 24×** (505 sched keys vs 73 unique, 50,107 B).
+    - **50 rows (`2025-05`)**: \(3 \times F_{47} \approx 8.9 \times 10^9\) copies per column — **hangs / OOMs** (`1.3 GB` RAM after 3m30s before killed).
+  - **Round-trip BROKEN**: `Form1601CDraft::from_bir_xml_payload(&xml)` **rejects every 4+ row XML that `to_bir_xml_payload()` emits** with `BIR payload contains duplicate field ID "chkScheduleDelete3"` (or `5`/`7`).
+- **`cargo test --locked -p bir-core --test sample_payloads_test`**:
+  - Base `6ddcac3f`: **142 passed, 0 failed, 1 ignored**.
+  - Head `0c2af498`: **139 passed, 3 failed, 1 ignored** (`pinned_agent_form_serialization_is_canonical`, `fillable_boxes_are_labelled` on duplicate `2200a-v2020.json` `txtSched1_xa_others1_Due`, `agent_forms_are_derived_from_the_samples` on `1601c-v2018`).
+  - Samples whose expected output changed: **none** (0 files changed under `crates/bir-core/tests/sample-payloads/`).
+
+#### 4. Paper / Print (`print-4rows-p{1,2}.png`, `print-6rows-p{1,2}.png`, `print-50rows-p{1,2}.png`)
+- **First-rank finding — filed values absent from paper**: Every over-capacity return prints only **2 pages** (no Additional Sheet) showing **only rows 1–3**, while Item 4 (`Total Adjustment`, p2) and Item 26 (p1) print the full total covering the unprinted rows:
+  - **4 rows (`print-4rows-p2.png`)**: rows 1–3 sum `1,800.60`; **row 4 (`04/2025 UBP4 REF404`, `800.40`) is missing from paper** while Total prints `2,601.00`.
+  - **6 rows (`print-6rows-p2.png`)**: rows 1–3 sum `1,800.60`; **rows 4–6 (`UBP4 800.40`, `PNB5 900.50`, `SBC6 1,000.60`, total `2,701.50`) are missing from paper** while Total prints `4,502.10`.
+  - **50 rows (`print-50rows-p2.png`)**: rows 1–3 sum `300.30`; **47 rows (`BK04..BK50`, total `4,704.70`) are missing from paper** while Total prints `5,005.00`.
+
+#### 5. Ranked Faults for 1601C (by Harm)
+1. **Wrong/corrupted upload & OOM (`crates/bir-core/src/official_xml.rs:310-375`, `upload-head-2025-{10,09,06}.xml`)**: Any 4+ row 1601C upload emits duplicate interleaved keys in `3 × Fibonacci` blowup, fails `Form1601CDraft::from_bir_xml_payload()` round-trip (`duplicate field ID`), and hangs/OOMs on 50 rows.
+2. **Filed values absent from paper (`print-4rows-p2.png`, `print-6rows-p2.png`, `print-50rows-p2.png`, Rule 5)**: Rows 4..50 are omitted with no Additional Sheet while Item 4 and Item 26 print the full multi-row total.
+3. **Broken row deletion (`form-after-delete.png`, `official-hta-runtime#deleteSchedule:L3387-L3439`)**: `Delete row` does not delete or compact rows and leaves `Date Paid` behind as zombie partial rows (`5 to do`).
+4. **Failing test suite & agent `form.fill` gap (`crates/bir-core/data/agent-forms/1601c-v2018.json`, `2200a-v2020.json`)**: `sample_payloads_test` fails 3 tests at `0c2af498` (vs 0 at `6ddcac3f`); `form.fill` still refuses `frm1601c:sched1:txtMonthYear{0..49}`; branch caps Schedule I at 50 rows vs unbounded official program.
+
