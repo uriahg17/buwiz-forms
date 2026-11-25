@@ -1,0 +1,27 @@
+official.xml taxpayer type entries:
+13:            <div>frm1701:rdoPg1I6TaxpayerTypeS=truefrm1701:rdoPg1I6TaxpayerTypeS=</div>	
+14:            <div>frm1701:rdoPg1I6TaxpayerTypeP=falsefrm1701:rdoPg1I6TaxpayerTypeP=</div>	
+15:            <div>frm1701:rdoPg1I6TaxpayerTypeE=falsefrm1701:rdoPg1I6TaxpayerTypeE=</div>	
+16:            <div>frm1701:rdoPg1I6TaxpayerTypeT=falsefrm1701:rdoPg1I6TaxpayerTypeT=</div>	
+17:            <div>frm1701:rdoPg1I6TaxpayerTypeC=truefrm1701:rdoPg1I6TaxpayerTypeC=</div>	
+
+1701-122025.steps.json taxpayer type entries:
+190- {
+191:  "set": "frm1701:rdoPg1I6TaxpayerTypeS",
+192-  "value": "true"
+193- },
+--
+197- {
+198:  "set": "frm1701:rdoPg1I6TaxpayerTypeC",
+199-  "value": "true"
+200- },
+
+sample payload seed values used by harness:
+taxpayer_type 'SingleProprietor'
+taxpayer_also_compensation_earner True
+spouse_also_compensation_earner False
+atc 'Ii013'
+
+harness explicit overrides:
+120:    taxpayer_type: "SingleProprietor",
+142:    spouse_also_compensation_earner: true,

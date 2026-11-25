@@ -1,0 +1,22 @@
+Official payload evidence (not runtime):
+13:            <div>frm1701:rdoPg1I6TaxpayerTypeS=truefrm1701:rdoPg1I6TaxpayerTypeS=</div>	
+17:            <div>frm1701:rdoPg1I6TaxpayerTypeC=truefrm1701:rdoPg1I6TaxpayerTypeC=</div>	
+
+Steps file evidence (actual filename is 1701-122025.steps.json; no 1701-122025.official.steps.json exists):
+190- {
+191:  "set": "frm1701:rdoPg1I6TaxpayerTypeS",
+192-  "value": "true"
+193- },
+--
+197- {
+198:  "set": "frm1701:rdoPg1I6TaxpayerTypeC",
+199-  "value": "true"
+200- },
+
+Harness base/sample inherited values:
+taxpayer_type "SingleProprietor"
+taxpayer_also_compensation_earner true
+spouse_also_compensation_earner false
+
+Harness seed1701 explicit values:
+120-    taxpayer_type: "SingleProprietor",
