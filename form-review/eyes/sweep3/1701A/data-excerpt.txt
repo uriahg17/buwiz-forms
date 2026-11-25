@@ -1,0 +1,21 @@
+# 1701A Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
+# Note: Form page exposes 2 paper rows (Items 41-42) + 13 modal rows (txtmodalPartIVA_1..13); +40 cannot be entered through the form page.
+
+=== cap (2025) | pages=2 ===
+  other_income_more: []
+
+=== plus3 (2024) | pages=2 ===
+  other_income_more: [{"description": "INCOME_ROW_03_EXTRA_01", "taxpayer": 103333333.03, "spouse": 0.0}, {"description": "INCOME_ROW_04_EXTRA_02", "taxpayer": 104444444.04, "spouse": 0.0}, {"description": "INCOME_ROW_05_EXTRA_03", "taxpayer": 105555555.05, "spouse": 0.0}]
+
+=== maxui (2023) | pages=3 ===
+  other_income_more: [{"description": "INCOME_ROW_03_EXTRA_01", "taxpayer": 103333333.03, "spouse": 0.0}, {"description": "INCOME_ROW_04_EXTRA_02", "taxpayer": 104444444.04, "spouse": 0.0}, {"description": "INCOME_ROW_05_EXTRA_03", "taxpayer": 105555555.05, "spouse": 0.0}, {"description": "INCOME_ROW_06_EXTRA_04", "taxpayer": 106666666.06, "spouse": 0.0}, {"description": "INCOME_ROW_07_EXTRA_05", "taxpayer": 107777777.07, "spouse": 0.0}, {"description": "INCOME_ROW_08_EXTRA_06", "taxpayer": 108888888.08, "spouse": 0.0}, {"description": "INCOME_ROW_09_EXTRA_07", "taxpayer": 109999999.09, "spouse": 0.0}, {"description": "INCOME_ROW_10_EXTRA_08", "taxpayer": 111111110.1, "spouse": 0.0}, {"description": "INCOME_ROW_11_EXTRA_09", "taxpayer": 112222221.11, "spouse": 0.0}, {"description": "INCOME_ROW_12_EXTRA_10", "taxpayer": 113333332.12, "spouse": 0.0}, {"description": "INCOME_ROW_13_EXTRA_11", "taxpayer": 114444443.13, "spouse": 0.0}, {"description": "INCOME_ROW_14_EXTRA_12", "taxpayer": 115555554.14, "spouse": 0.0}]
+
+=== r6-fit (2022) | pages=2 ===
+  other_income_more: []
+
+=== r6-over (2021) | pages=2 ===
+  other_income_more: []
+
+=== cap-plus1 (2020) | pages=2 ===
+  other_income_more: []
+

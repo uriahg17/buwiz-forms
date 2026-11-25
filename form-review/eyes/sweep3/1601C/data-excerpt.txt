@@ -1,0 +1,12 @@
+# 1601C Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
+# Note: Form page Schedule I caps at 3 rows (exact paper capacity); +3 and +40 cannot be entered through the form page.
+
+=== cap (2014 M03) | pages=2 | add_row_after_3=False ===
+  schedule_1: [{"previous_month": "", "date_paid": "01/11/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "TXN-1601C-R01", "tax_paid": 101111111.01, "should_be_tax_due": 111111111.01, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/12/2025", "drawee_bank_code_or_agency": "BDO2", "payment_number": "TXN-1601C-R02", "tax_paid": 102222222.02, "should_be_tax_due": 112222222.02, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/13/2025", "drawee_bank_code_or_agency": "BDO3", "payment_number": "TXN-1601C-R03", "tax_paid": 103333333.03, "should_be_tax_due": 113333333.03, "adjustment": 10000000.0}]
+
+=== r6-fit (2014 M04) | pages=2 | add_row_after_3=False ===
+  schedule_1: [{"previous_month": "", "date_paid": "01/11/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "TXN-1601C-R01", "tax_paid": 101111111.01, "should_be_tax_due": 111111111.01, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/12/2025", "drawee_bank_code_or_agency": "BDO2", "payment_number": "TXN-1601C-R02", "tax_paid": 102222222.02, "should_be_tax_due": 112222222.02, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/13/2025", "drawee_bank_code_or_agency": "BDO3", "payment_number": "TXN-1601C-R03", "tax_paid": 103333333.03, "should_be_tax_due": 113333333.03, "adjustment": 10000000.0}]
+
+=== r6-over (2014 M05) | pages=3 | add_row_after_3=False ===
+  schedule_1: [{"previous_month": "", "date_paid": "01/11/2025", "drawee_bank_code_or_agency": "BDO1", "payment_number": "TXN-1601C-R01", "tax_paid": 101111111.01, "should_be_tax_due": 111111111.01, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/12/2025", "drawee_bank_code_or_agency": "BDO2", "payment_number": "TXN-1601C-R02", "tax_paid": 102222222.02, "should_be_tax_due": 112222222.02, "adjustment": 10000000.0}, {"previous_month": "", "date_paid": "01/13/2025", "drawee_bank_code_or_agency": "BDO3", "payment_number": "TXN-1601C-R03", "tax_paid": 103333333.03, "should_be_tax_due": 113333333.03, "adjustment": 10000000.0}]
+

@@ -1,0 +1,8 @@
+# 1601EQ Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
+
+=== cap (2013 Q3) | pages=2 | extra_added=0 ===
+  schedule: [{"atc_code": "WI020", "tax_base": 101111111.01, "tax_withheld": 5055555.55}, {"atc_code": "WI021", "tax_base": 102222222.02, "tax_withheld": 10222222.2}, {"atc_code": "WI030", "tax_base": 103333333.03, "tax_withheld": 5166666.65}, {"atc_code": "WI031", "tax_base": 104444444.04, "tax_withheld": 10444444.4}, {"atc_code": "WI040", "tax_base": 105555555.05, "tax_withheld": 5277777.75}, {"atc_code": "WI041", "tax_base": 106666666.06, "tax_withheld": 10666666.61}]
+
+=== plus3 (2013 Q4) | pages=2 | extra_added=0 ===
+  schedule: [{"atc_code": "WI020", "tax_base": 101111111.01, "tax_withheld": 5055555.55}, {"atc_code": "WI021", "tax_base": 102222222.02, "tax_withheld": 10222222.2}, {"atc_code": "WI030", "tax_base": 103333333.03, "tax_withheld": 5166666.65}, {"atc_code": "WI031", "tax_base": 104444444.04, "tax_withheld": 10444444.4}, {"atc_code": "WI040", "tax_base": 105555555.05, "tax_withheld": 5277777.75}, {"atc_code": "WI041", "tax_base": 106666666.06, "tax_withheld": 10666666.61}]
+

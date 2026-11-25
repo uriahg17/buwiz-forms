@@ -1,0 +1,48 @@
+# 2551Q Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
+# Note: Form page Schedule 1 caps at 6 rows (paper capacity); Add row disappears after row 6.
+
+=== cap (2025 Q1, 6 rows) | period_key=Q1 ===
+schedule_1:
+  row 1: {"atc": "PT010", "atc_description": "Persons exempt from VAT under Sec. 109(BB) [Sec. 116]", "taxable_amount": 101111111.01, "tax_rate": 0.03, "tax_due": 3033333.33}
+  row 2: {"atc": "", "atc_description": "", "taxable_amount": 102222222.02, "tax_rate": 0.0, "tax_due": 0.0}
+  row 3: {"atc": "", "atc_description": "", "taxable_amount": 103333333.03, "tax_rate": 0.0, "tax_due": 0.0}
+  row 4: {"atc": "", "atc_description": "", "taxable_amount": 104444444.04, "tax_rate": 0.0, "tax_due": 0.0}
+  row 5: {"atc": "", "atc_description": "", "taxable_amount": 105555555.05, "tax_rate": 0.0, "tax_due": 0.0}
+  row 6: {"atc": "", "atc_description": "", "taxable_amount": 106666666.06, "tax_rate": 0.0, "tax_due": 0.0}
+  total_tax_due: 3033333.33
+  creditable_tax_withheld: 1111111.15
+  other_tax_credit: 123456789.17
+  total_tax_credits: 124567900.32
+  tax_payable: -121534566.99
+  total_amount_payable: -121509566.99
+
+=== r6-fit (2025 Q2) | period_key=Q2 ===
+schedule_1:
+  row 1: {"atc": "PT010", "atc_description": "Persons exempt from VAT under Sec. 109(BB) [Sec. 116]", "taxable_amount": 101111111.01, "tax_rate": 0.03, "tax_due": 3033333.33}
+  row 2: {"atc": "", "atc_description": "", "taxable_amount": 102222222.02, "tax_rate": 0.0, "tax_due": 0.0}
+  row 3: {"atc": "", "atc_description": "", "taxable_amount": 103333333.03, "tax_rate": 0.0, "tax_due": 0.0}
+  row 4: {"atc": "", "atc_description": "", "taxable_amount": 104444444.04, "tax_rate": 0.0, "tax_due": 0.0}
+  row 5: {"atc": "", "atc_description": "", "taxable_amount": 105555555.05, "tax_rate": 0.0, "tax_due": 0.0}
+  row 6: {"atc": "", "atc_description": "", "taxable_amount": 106666666.06, "tax_rate": 0.0, "tax_due": 0.0}
+  total_tax_due: 3033333.33
+  creditable_tax_withheld: 1111111.15
+  other_tax_credit: 123456789.17
+  total_tax_credits: 124567900.32
+  tax_payable: -121534566.99
+  total_amount_payable: -121509566.99
+
+=== r6-over (2025 Q3) | period_key=Q3 ===
+schedule_1:
+  row 1: {"atc": "PT010", "atc_description": "Persons exempt from VAT under Sec. 109(BB) [Sec. 116]", "taxable_amount": 101111111.01, "tax_rate": 0.03, "tax_due": 3033333.33}
+  row 2: {"atc": "", "atc_description": "", "taxable_amount": 102222222.02, "tax_rate": 0.0, "tax_due": 0.0}
+  row 3: {"atc": "", "atc_description": "", "taxable_amount": 103333333.03, "tax_rate": 0.0, "tax_due": 0.0}
+  row 4: {"atc": "", "atc_description": "", "taxable_amount": 104444444.04, "tax_rate": 0.0, "tax_due": 0.0}
+  row 5: {"atc": "", "atc_description": "", "taxable_amount": 105555555.05, "tax_rate": 0.0, "tax_due": 0.0}
+  row 6: {"atc": "", "atc_description": "", "taxable_amount": 106666666.06, "tax_rate": 0.0, "tax_due": 0.0}
+  total_tax_due: 3033333.33
+  creditable_tax_withheld: 1111111.15
+  other_tax_credit: 123456789.17
+  total_tax_credits: 124567900.32
+  tax_payable: -121534566.99
+  total_amount_payable: -121509566.99
+

@@ -1,0 +1,11 @@
+# 2550M Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
+# Note: Form page Schedules 2, 3A, 3B, 6, 7, 8 each cap at 12 rows; +40 cannot be entered through the form page.
+
+=== cap (2022 M01) | pages=2 ===
+
+=== plus3 (2022 M02) | pages=2 ===
+
+=== maxui (2022 M03) | pages=2 ===
+
+=== cap-plus1 (2022 M04) | pages=2 ===
+
