@@ -1,0 +1,11 @@
+form	pages_old_new	picture_comparison	text_comparison	content_change_beyond_five_faults	verdict_about_change
+0605	1->1	page 1 diff 1.69%	identity rows changed intentionally; amounts/combs remain present	none detected beyond intended name/address/LOB repair	stable
+1701	5->5	p1 0.08 p2 3.87 p3 0.15 p4 18.57 p5 0.34	Part VII specify now fits page 4; additional TIN fixed	Part I item 6 now marks Compensation Earner in addition to Single Proprietor	wrong-box regression
+1600WP	2->2	p1 0.89 p2 0.11	form page tokens stable	additional-sheet TIN concatenates schedule/payee TINs into taxpayer TIN	severe wrong-value regression
+1702Q	3->3	p1 0.00 p2 0.83 p3 0.41	numeric tokens stable	Schedule 4 item 6a specify truncates although old fit it in two lines; row-6 overlap preexisting	questionable readability/rule regression
+2550Q	3->3	p1 14.23 p2 25.59 p3 3.59	large intended specify/alignment movement; no semantic amount loss found	none detected beyond intended Rule 6/TIN repair	stable
+2551Q	3->2	p1 17.21 p2 0.50	page count drops because specify now fits and continuation is unnecessary	none detected beyond intended Rule 6 repair	correct
+1601C	3->3	p1 22.42 p2 0.68 p3 0.76	large intended item-20 insertion; additional copies disappear where full text fits	none detected beyond intended Rule 6 repair	stable
+1702MX	5->5	p1 0.09 p2 0.48 p3 0.49 p4 0.51 p5 0.04	TIN fixed; no schedule amount loss detected	additional header still lacks period/date	incomplete identity header, preexisting
+2000OT	4->4	p1 0.02 p2 2.86 p3 0.45 p4 0.33	header fixed; Others specify now fits page 1	none detected beyond intended header/specify repairs	stable
+0619E	2->2	p1 0.78 p2 0.00	payment truncation boundaries shift slightly; continuations intact	no harmful change detected	correct/cosmetic

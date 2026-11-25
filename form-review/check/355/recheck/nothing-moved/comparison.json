@@ -1,0 +1,419 @@
+{
+  "0605": {
+    "form": "0605",
+    "old_pages": 1,
+    "new_pages": 1,
+    "page_diffs": [
+      1.69
+    ],
+    "num_missing_total": 14,
+    "num_added_total": 4,
+    "num_missing_samples": [
+      "1",
+      "3",
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "num_added_samples": [
+      "000",
+      "123",
+      "453",
+      "00000"
+    ],
+    "token_missing_samples": [
+      "1",
+      "3",
+      "3",
+      "4",
+      "5",
+      "2",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "token_added_samples": [
+      "000",
+      "123",
+      "453",
+      "00000"
+    ]
+  },
+  "1701": {
+    "form": "1701",
+    "old_pages": 5,
+    "new_pages": 5,
+    "page_diffs": [
+      0.08,
+      3.87,
+      0.15,
+      18.57,
+      0.34
+    ],
+    "num_missing_total": 5,
+    "num_added_total": 4,
+    "num_missing_samples": [
+      "4",
+      "4",
+      "9",
+      "9",
+      "7"
+    ],
+    "num_added_samples": [
+      "000",
+      "123",
+      "453",
+      "00000"
+    ],
+    "token_missing_samples": [
+      "BRA...",
+      "(specify",
+      "SPECI...",
+      "TXTPG4IPART7_9SPE...",
+      "ADDITIONAL",
+      "SHEET",
+      "Page",
+      "VERY",
+      "LONG",
+      "SPECIFY",
+      "TEXT",
+      "4",
+      "Part",
+      "VII"
+    ],
+    "token_added_samples": [
+      "X",
+      "BR...",
+      "(specifySPEC...",
+      "TXTPG4IPART7_9SPECIFY",
+      "VERY",
+      "LONG",
+      "SPECIFY",
+      "TEXT",
+      "FOR",
+      "ADDITIONAL",
+      "SHEET",
+      "000-123-453-00000"
+    ]
+  },
+  "1600WP": {
+    "form": "1600WP",
+    "old_pages": 2,
+    "new_pages": 2,
+    "page_diffs": [
+      0.89,
+      0.11
+    ],
+    "num_missing_total": 2,
+    "num_added_total": 2,
+    "num_missing_samples": [
+      "000",
+      "123"
+    ],
+    "num_added_samples": [
+      "12345678900001",
+      "12345678900002"
+    ],
+    "token_missing_samples": [
+      "000-123-453-00000"
+    ],
+    "token_added_samples": [
+      "12345678900001-12345678900002-",
+      "453-00000"
+    ]
+  },
+  "1702Q": {
+    "form": "1702Q",
+    "old_pages": 3,
+    "new_pages": 3,
+    "page_diffs": [
+      0.0,
+      0.83,
+      0.41
+    ],
+    "num_missing_total": 0,
+    "num_added_total": 3,
+    "num_missing_samples": [],
+    "num_added_samples": [
+      "2",
+      "4",
+      "6"
+    ],
+    "token_missing_samples": [
+      "TO",
+      "EXERCISE",
+      "WRAPPING"
+    ],
+    "token_added_samples": [
+      "TO...",
+      "Tax",
+      "LONG",
+      "WITH",
+      "FOR",
+      "Page",
+      "Item",
+      "2",
+      "Schedule",
+      "4",
+      "6a"
+    ]
+  },
+  "2550Q": {
+    "form": "2550Q",
+    "old_pages": 3,
+    "new_pages": 3,
+    "page_diffs": [
+      14.23,
+      25.59,
+      3.59
+    ],
+    "num_missing_total": 6,
+    "num_added_total": 1,
+    "num_missing_samples": [
+      "1",
+      "19",
+      "2",
+      "2",
+      "42",
+      "47"
+    ],
+    "num_added_samples": [
+      "00000"
+    ],
+    "token_missing_samples": [
+      "MAN...",
+      "Sales",
+      "PAYMEN...",
+      "LO...",
+      "necessary)Agent",
+      "Tax123,456.78",
+      "000-123-453",
+      "LONG",
+      "LONG",
+      "LONG",
+      "WITH",
+      "WITH",
+      "WITH",
+      "FOR",
+      "FOR",
+      "FOR"
+    ],
+    "token_added_samples": [
+      "WITH",
+      "MANNER",
+      "OF",
+      "PAYMENT",
+      "MANY",
+      "WORDS",
+      "TO",
+      "EXERCISE",
+      "WRAPPING",
+      "WITH",
+      "WITH",
+      "LONG",
+      "FOR",
+      "SPECIFY",
+      "TEXT",
+      "OTHER",
+      "MANNER",
+      "OF",
+      "PAYMENT",
+      "000-123-453-00000"
+    ]
+  },
+  "2551Q": {
+    "form": "2551Q",
+    "old_pages": 3,
+    "new_pages": 2,
+    "page_diffs": [
+      17.21,
+      0.5
+    ],
+    "num_missing_total": 0,
+    "num_added_total": 0,
+    "num_missing_samples": [],
+    "num_added_samples": [],
+    "token_missing_samples": [
+      "OT..."
+    ],
+    "token_added_samples": [
+      "WITH",
+      "OTHER",
+      "MANNER",
+      "OF",
+      "PAYMENT",
+      "MANY",
+      "WORDS",
+      "TO",
+      "EXERCISE",
+      "WRAPPING"
+    ]
+  },
+  "1601C": {
+    "form": "1601C",
+    "old_pages": 3,
+    "new_pages": 3,
+    "page_diffs": [
+      22.42,
+      0.68,
+      0.76
+    ],
+    "num_missing_total": 4,
+    "num_added_total": 0,
+    "num_missing_samples": [
+      "1",
+      "1",
+      "20",
+      "29"
+    ],
+    "num_added_samples": [],
+    "token_missing_samples": [
+      "TEST...",
+      "MA",
+      "L...",
+      "Memobelow)",
+      "Compensation",
+      "LONG",
+      "LONG",
+      "NAME",
+      "WITH",
+      "WITH",
+      "AND",
+      "FOR",
+      "FOR",
+      "Page"
+    ],
+    "token_added_samples": [
+      "LONG",
+      "NAME",
+      "WITH",
+      "AND",
+      "FOR",
+      "TES...",
+      "MANNER",
+      "OF",
+      "PAYMENT",
+      "MANY"
+    ]
+  },
+  "1702MX": {
+    "form": "1702MX",
+    "old_pages": 5,
+    "new_pages": 5,
+    "page_diffs": [
+      0.09,
+      0.48,
+      0.49,
+      0.51,
+      0.04
+    ],
+    "num_missing_total": 2,
+    "num_added_total": 6,
+    "num_missing_samples": [
+      "123456789012345",
+      "67890"
+    ],
+    "num_added_samples": [
+      "7890",
+      "1234567890123456",
+      "000",
+      "123",
+      "453",
+      "00000"
+    ],
+    "token_missing_samples": [
+      "PAY-123456789012345",
+      "67890"
+    ],
+    "token_added_samples": [
+      "7890PAY-1234567890123456",
+      "000-123-453-00000"
+    ]
+  },
+  "2000OT": {
+    "form": "2000OT",
+    "old_pages": 4,
+    "new_pages": 4,
+    "page_diffs": [
+      0.02,
+      2.86,
+      0.45,
+      0.33
+    ],
+    "num_missing_total": 1,
+    "num_added_total": 0,
+    "num_missing_samples": [
+      "2"
+    ],
+    "num_added_samples": [],
+    "token_missing_samples": [
+      "OVERFLOW...",
+      "NameMARIE",
+      "W...",
+      "NameMARIE",
+      "LONG",
+      "WITH",
+      "FOR",
+      "Page",
+      "2",
+      "C",
+      "Others",
+      "(Specify)",
+      "SPECIMEN",
+      "SPECIFY"
+    ],
+    "token_added_samples": [
+      "OVERFLO...",
+      "Name",
+      "MARIE",
+      "WORDS",
+      "TO",
+      "EXERCISE",
+      "WRAPPING",
+      "Name",
+      "MARIE"
+    ]
+  },
+  "0619E": {
+    "form": "0619E",
+    "old_pages": 2,
+    "new_pages": 2,
+    "page_diffs": [
+      0.78,
+      0.0
+    ],
+    "num_missing_total": 4,
+    "num_added_total": 4,
+    "num_missing_samples": [
+      "1234567890123",
+      "1234567890123",
+      "4567890",
+      "4567890"
+    ],
+    "num_added_samples": [
+      "12345678901234",
+      "12345678901234",
+      "567890",
+      "567890"
+    ],
+    "token_missing_samples": [
+      "PAY-1234567890123",
+      "DRA...",
+      "4567890",
+      "4567890",
+      "OTH-1234567890123",
+      "OTHER",
+      "MANN..."
+    ],
+    "token_added_samples": [
+      "PAY-12345678901234",
+      "DR...",
+      "567890",
+      "567890",
+      "OTH-12345678901234",
+      "OTH..."
+    ]
+  }
+}
