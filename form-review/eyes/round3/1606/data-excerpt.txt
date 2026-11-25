@@ -1,0 +1,106 @@
+# Form 1606 — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 1 | Period: O1
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1606:txtOthers = VAL019
+frm1606:txtGross = 1,612.46
+frm1606:txtBid = 1,884.62
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 10,
+  "filing_year": 2025,
+  "open_ended_key": 1,
+  "transaction_month": 3,
+  "transaction_day": 15,
+  "transaction_year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "taxes_withheld": true,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "seller_tin": "",
+  "seller_rdo_code": "",
+  "buyer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "seller_name": "VAL008",
+  "buyer_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "seller_address": "VAL009",
+  "seller_type": "individual",
+  "agent_category": "private",
+  "property_class": "residential",
+  "property_class_other": "",
+  "property_location": "VAL014",
+  "property_rdo_code": "",
+  "tct_number": "VAL016",
+  "area_sold": "VAL017",
+  "tax_declaration_number": "1306.28",
+  "other_description": "VAL019",
+  "covers_more_than_one_property": true,
+  "tax_relief": "special_law",
+  "transaction": "cash_sale",
+  "transaction_other": "",
+  "cost_and_expenses": 0.0,
+  "mortgage_assumed": 0.0,
+  "initial_year_payments": 0.0,
+  "installment_this_month": 0.0,
+  "number_of_installments": 0.0,
+  "fmv_land_tax_declaration": 1527.41,
+  "fmv_land_zonal": 1544.42,
+  "fmv_improvements_tax_declaration": 1561.43,
+  "fmv_improvements_bir": 1578.44,
+  "taxable_base_box": "gross_selling_price",
+  "gross_selling_price": 1612.46,
+  "installment_collected": 0.0,
+  "fmv_land_and_improvement": 3122.86,
+  "others_base_description": "VAL038",
+  "others_base": 1918.64,
+  "bid_price": 1884.62,
+  "seller_habitual": true,
+  "taxable_base": 3122.86,
+  "tax_rate": "1.5",
+  "tax_required": 46.84,
+  "tax_remitted_previous": 1952.66,
+  "tax_still_due": -1905.82,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_due_date": "2025-04-10",
+  "computed_penalties": {
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "inputs": {
+      "due_date": "2025-04-10",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 594,
+      "basic_tax_due": 0.0,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "Withholding"
+    }
+  },
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_due": -1905.82,
+  "overremittance": "none",
+  "email": "juana.santos@example.com",
+  "status": "Draft",
+  "created_at": "2026-11-25T08:54:03.327231450+00:00",
+  "updated_at": "2026-11-25T08:54:03.327231450+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/buyer_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/buyer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/email": "juana.santos@example.com",
+    "/rdo_code": "008"
+  },
+  "trigger_date_entered": true,
+  "trigger_parts_typed": [
+    "transaction_day",
+    "transaction_month",
+    "transaction_year"
+  ]
+}

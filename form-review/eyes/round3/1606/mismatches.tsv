@@ -1,0 +1,4 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1606:txtOthers	txtOthers	1	VAL019	BLANK	BLANK	yes	yes	N	older layout Item 17 Others description; the 2018 Schedule 1 has no Others column
+frm1606:txtGross	txtGross	1	1,612.46	BLANK	BLANK	yes	yes	N	prints from derived:sched3_1a (the print map shapes Schedule 3 A, the gross selling price or, on a foreclosure, the bid price for the sheet)
+frm1606:txtBid	txtBid	1	1,884.62	BLANK	BLANK	yes	yes	N	prints from derived:sched3_1a (the print map shapes Schedule 3 A, the gross selling price or, on a foreclosure, the bid price for the sheet)

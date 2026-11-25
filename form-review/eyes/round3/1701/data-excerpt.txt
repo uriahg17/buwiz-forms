@@ -1,0 +1,291 @@
+# Form 1701 — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1701:txtPg2IShed1a_1TPName = ACME CORP EMPLOYER 1
+frm1701:txtPg2IShed3_8A = 1,234,567,890.00
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 5,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "period_end_month": 12,
+  "is_amended": false,
+  "is_short_period": false,
+  "rdo_code": "008",
+  "taxpayer_type": "SingleProprietor",
+  "atc": "Ii013",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "date_of_birth": "01/15/1988",
+  "email": "juana.santos@example.com",
+  "citizenship": "",
+  "claims_foreign_tax_credits": true,
+  "foreign_tax_number": "11515",
+  "contact_number": "09171234567",
+  "civil_status": "Married",
+  "spouse_has_income": true,
+  "joint_filing_status": "Joint",
+  "has_exempt_income": true,
+  "has_special_rate_income": true,
+  "tax_rate": "Graduated",
+  "deduction_method": "Itemized",
+  "number_of_attachments": null,
+  "overpayment_disposition": "None",
+  "spouse": {
+    "enabled": true,
+    "tin": "",
+    "rdo_code": "",
+    "filer_type": "SingleProprietor",
+    "atc": "Ii013",
+    "name": "DELA CRUZ, PEDRO 44",
+    "contact_number": "",
+    "citizenship": "",
+    "claims_foreign_tax_credits": true,
+    "foreign_tax_number": "14848",
+    "has_exempt_income": true,
+    "has_special_rate_income": true,
+    "tax_rate": "Graduated",
+    "deduction_method": "Itemized"
+  },
+  "employers": [
+    {
+      "owner": "Taxpayer",
+      "employer_name": "ACME CORP EMPLOYER 1",
+      "employer_tin": "",
+      "compensation_income": 500000.0,
+      "tax_withheld": 45000.0
+    },
+    {
+      "owner": null,
+      "employer_name": "VAL059",
+      "employer_tin": "",
+      "compensation_income": 10909.0,
+      "tax_withheld": 11010.0
+    }
+  ],
+  "computations": {
+    "part_ii": {
+      "22": {
+        "taxpayer": 431552851.0,
+        "spouse": -101.0
+      },
+      "23": {
+        "taxpayer": 215091.0,
+        "spouse": 92824.0
+      },
+      "24": {
+        "taxpayer": 431337760.0,
+        "spouse": -92925.0
+      },
+      "25": {
+        "taxpayer": 10101.0,
+        "spouse": 0.0
+      },
+      "26": {
+        "taxpayer": 431327659.0,
+        "spouse": -92925.0
+      },
+      "27": {
+        "taxpayer": 31764623.22,
+        "spouse": 0.0
+      },
+      "28": {
+        "taxpayer": 107831914.75,
+        "spouse": 0.0
+      },
+      "29": {
+        "taxpayer": 50000.0,
+        "spouse": 0.0
+      },
+      "30": {
+        "taxpayer": 139646537.97,
+        "spouse": 0.0
+      },
+      "31": {
+        "taxpayer": 570974196.97,
+        "spouse": -92925.0
+      }
+    },
+    "part_ii_item_32_aggregate": 570881271.97,
+    "schedule_2": {
+      "4": {
+        "taxpayer": 500000.0,
+        "spouse": 0.0
+      },
+      "5": {
+        "taxpayer": 11111.0,
+        "spouse": 11212.0
+      },
+      "6": {
+        "taxpayer": 488889.0,
+        "spouse": -11212.0
+      },
+      "7": {
+        "taxpayer": 40278.0,
+        "spouse": 0.0
+      }
+    },
+    "schedule_3": {
+      "8": {
+        "taxpayer": 1234567890.0,
+        "spouse": 11515.0
+      },
+      "9": {
+        "taxpayer": 11616.0,
+        "spouse": 11717.0
+      },
+      "10": {
+        "taxpayer": 1234556274.0,
+        "spouse": -202.0
+      },
+      "11": {
+        "taxpayer": 11313.0,
+        "spouse": 11414.0
+      },
+      "12": {
+        "taxpayer": 1234544961.0,
+        "spouse": -11616.0
+      },
+      "13": {
+        "taxpayer": 298980.0,
+        "spouse": 301000.0
+      },
+      "14": {
+        "taxpayer": 46967.0,
+        "spouse": 48179.0
+      },
+      "15": {
+        "taxpayer": 8096.0,
+        "spouse": 8096.0
+      },
+      "16": {
+        "taxpayer": 354043.0,
+        "spouse": 357275.0
+      },
+      "17": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "18": {
+        "taxpayer": 1234190918.0,
+        "spouse": -368891.0
+      },
+      "19": {
+        "taxpayer": 11818.0,
+        "spouse": 11919.0
+      },
+      "20": {
+        "taxpayer": 12020.0,
+        "spouse": 12121.0
+      },
+      "21": {
+        "taxpayer": 12222.0,
+        "spouse": 12323.0
+      },
+      "22": {
+        "taxpayer": 36060.0,
+        "spouse": 36363.0
+      },
+      "23": {
+        "taxpayer": 1234226978.0,
+        "spouse": -332528.0
+      },
+      "24": {
+        "taxpayer": 1234715867.0,
+        "spouse": -343740.0
+      },
+      "25": {
+        "taxpayer": 431553053.0,
+        "spouse": 0.0
+      },
+      "26": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "27": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "28": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "29": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "30": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "31": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      },
+      "32": {
+        "taxpayer": 0.0,
+        "spouse": 0.0
+      }
+    },
+    "schedule_3_descriptions": {
+      "20": "VAL077"
+    },
+    "schedule_4": {
+      "1": {
+        "taxpayer": 13030.0,
+        "spouse": 13131.0
+      },
+      "2": {
+        "taxpayer": 13232.0,
+        "spouse": 13333.0
+      },
+      "3": {
+        "taxpayer": 13434.0,
+        "spouse": 13535.0
+      },
+      "4": {
+        "taxpayer": 13636.0,
+        "spouse": 13737.0
+      },
+      "5": {
+        "taxpayer": 13838.0,
+        "spouse": 13939.0
+      },
+      "6": {
+        "taxpayer": 14040.0,
+        "spouse": 14141.0
+      },
+      "7": {
+        "taxpayer": 14848.0,
+        "spouse": 14949.0
+      },
+      "8": {
+        "taxpayer": 15050.0,
+        "spouse": 15151.0
+      },
+      "9": {
+        "taxpayer": 15252.0,
+        "spouse": 15353.0
+      },
+      "10": {
+        "taxpayer": 14242.0,
+        "spouse": 14343.0
+      },
+      "11": {
+        "taxpayer": 14444.0,
+        "spouse": 14545.0
+      },
+      "12": {
+        "taxpayer": 14646.0,
+        "spouse": 14747.0
+      },
+      "13": {
+        "taxpayer": 15454.0,
+        "spouse": 15555.0
+      },
+      "14": 
+... (truncated)

@@ -1,0 +1,6 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1701MS:txtAmended	2 Amended Return?	1	NoNo2	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm1701MS:txtReturnPeriod	3 Short Period Return?	1	NoNo3	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm1701MS:civilStatus	Status	1	Single	BLANK	BLANK	yes	yes	N	select value of the page; Item 11 prints from its civil-status boxes, which the field map writes as radios
+frm1701MS:printedName	Name	1	VAL046	BLANK	BLANK	yes	yes	N	signatory printed name / authorized representative, uploaded as typed; the signature block (Printed Name and Signature of Taxpayer/Authorized Representative) has no fillable cell
+frm1701MS:authorizeRepresentative	Representative	1	VAL047	BLANK	BLANK	yes	yes	N	signatory printed name / authorized representative, uploaded as typed; the signature block (Printed Name and Signature of Taxpayer/Authorized Representative) has no fillable cell

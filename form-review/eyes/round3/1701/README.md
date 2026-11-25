@@ -1,18 +1,15 @@
-# Round 3 Evidence — BIR Form 1701
+# Round 3 Redo Evidence — Form 1701
 
-1701: 13 ten-digit/10-char boxes blank on main (fixed on rules); Spouse TIN branch 00001 prints 00000 on both.
+- **Class counts on `origin/main` (`93820d0f`)**: `F=3`, `R=0`, `D=0`, `N=0`
+- **Class counts on `rules` (`8c3a7b53`)**: `F=2`, `R=0`, `D=0`, `N=0`
 
-## What each file shows
-- `main/p1-compare.png`: 1400 px side-by-side of the live form page (left) and `origin/main` (`93820d0f`) printed PDF crop (right) for 1701 Page 1 Part II Items 23A-32 (10-char blank on main).
-- `rules/p1-compare.png`: Same-named 1400 px side-by-side for `origin/feat/store-launch-field-rules` (`8c3a7b53`).
-- `main/p2-compare.png`: 1400 px side-by-side of the live form page (left) and `origin/main` (`93820d0f`) printed PDF crop (right) for 1701 Page 2 Part IV Item 1 (branch prints 00000).
-- `rules/p2-compare.png`: Same-named 1400 px side-by-side for `origin/feat/store-launch-field-rules` (`8c3a7b53`).
-- `main/p2-sched3-compare.png`: 1400 px side-by-side of the live form page (left) and `origin/main` (`93820d0f`) printed PDF crop (right) for 1701 Page 2 Sched 3.A Items 8A/10A/12A/18A/23A/24A.
-- `rules/p2-sched3-compare.png`: Same-named 1400 px side-by-side for `origin/feat/store-launch-field-rules` (`8c3a7b53`).
-- `main/p4-compare.png`: 1400 px side-by-side of the live form page (left) and `origin/main` (`93820d0f`) printed PDF crop (right) for 1701 Page 4 Part VII Items 8A/10A.
-- `rules/p4-compare.png`: Same-named 1400 px side-by-side for `origin/feat/store-launch-field-rules` (`8c3a7b53`).
-- `1701-flow.mp4`: Under-2-minute sequence showing the live form page (`gpui-agent screenshot`) followed by the `origin/main` (`93820d0f`) and `origin/feat/store-launch-field-rules` (`8c3a7b53`) printed PDF comparisons.
+## Files
+- `mismatches.tsv` — box-by-box list with key, printed item/label, page, saved value, paper output on main & rules, and class (`F`/`R`/`D`/`N`).
+- `data-excerpt.txt` — saved draft values read back from SQLite (`r3-redo-g1.db`) for the cited boxes.
+- `main/compare.png` — 1400 px crop of the actual form-page boxes beside `origin/main` (`93820d0f`) printed Page 2.
+- `rules/compare.png` — 1400 px crop of the actual form-page boxes beside `origin/feat/store-launch-field-rules` (`8c3a7b53`) printed Page 2.
+- `1701-flow.mp4` — short recording showing the filled form boxes and the resulting printed boxes on both commits.
 
 ## What these files do not show
-- Live BIR transmission or Queue submission (run exclusively with `BUWIZ_NO_KEYCHAIN=1 EBIR_TEST_ENV=1 BIR_AUTH_BYPASS=1 BIR_SFTP_DRY_RUN=1` and demo taxpayer Juana Santos `000-123-453`).
-- Real OS desktop chrome outside the app window (headless Linux/Xvfb uses `gpui-agent screenshot` frames plus the rendered `sheet.html`/PDF emitted by clicking Print preview).
+- Only the primary Class F boxes are cropped in `compare.png`; every other box and continuation row is itemized in `mismatches.tsv`.
+- Demo taxpayer Juana Santos (`000-123-453`) and invented values only; dry-run environment; Queue was never pressed.

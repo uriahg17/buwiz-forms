@@ -343,3 +343,38 @@ Every editable box, schedule row, spouse column, and mutually exclusive mode (`1
   - **Line 175**: `"official_formula": "Item 38 = Item 36 - 250,000, without a zero floor; Item 14 copies Item 38."`
   - **Line 197**: `"official_formula": "Item 16 = Item 14 × 6%."`
 - **Classification**: **`NOT A FAULT`** — the app matches the official BIR eBIRForms 1800-v2018 program (`0 - 250,000 = -250,000` without a zero floor; `-250,000 × 6% = -15,000.00`) in data, on screen, and on paper (while Item 14 itself remains blank on paper, which is already tracked above as a `WRONG ON PAPER ONLY` mismatch).
+
+
+---
+
+## Round 3 Redo — Part 1: 15 Priority Claimed Class F Forms + `1701` Spouse TIN
+
+Re-audited box-by-box from persisted SQLite drafts (`r3-redo-g1.db`, reopened `form.fields`, demo taxpayer Juana Santos `000-123-453`, 0 code changes) at `origin/main` (`93820d0f`) vs `origin/feat/store-launch-field-rules` (`8c3a7b53`). Every form below has `round3/<CODE>/mismatches.tsv`, `round3/<CODE>/data-excerpt.txt`, and `round3/<CODE>/README.md`; every form with `F > 0` also has `main/compare.png`, `rules/compare.png` (1400 px crops of the actual filled form-page boxes beside the printed boxes), and `<CODE>-flow.mp4`.
+
+**Classes**: `F` = drawn sheet box has saved data value and prints blank/wrong; `R` = extra rows beyond the rows drawn on the sheet; `D` = printed with different formatting/clipping; `N` = internal/helper/derived/signatory key not meant to print.
+
+### Per-form class totals (`main` `93820d0f` / `rules` `8c3a7b53`)
+
+| Form | Main `F` | Main `R` | Main `D` | Main `N` | Rules `F` | Rules `R` | Rules `D` | Rules `N` | Verdict & key Class F boxes |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| **1801** | **5** | 624 | 0 | 0 | **5** | 0 | 0 | 0 | **Class F confirmed**: p1 Item 5 TIN (digits 1–9), Item 16 Net Taxable Estate, Item 24 Total Payable, Item 37C & Sched 5 `Specify` blank on both. Rules prints all 624 `R` rows on p3–20 Add'l Sheets. |
+| **1800** | **1** | 134 | 0 | 0 | **1** | 0 | 0 | 0 | **Class F confirmed**: p1 Item 14 Total Net Gifts (`-144,262.42`) prints blank above Item 16 (`-8,655.75`) on both. *(9A ZIP `1003` confirmed printed by eye.)* Rules prints all 134 `R` rows on p3–6 Add'l Sheets. |
+| **1702MX** | **201** | 0 | 0 | 1 | **201** | 0 | 0 | 1 | **Class F confirmed**: p1 Part II Items 14–19 blank above Item 21; p2 Schedule 1 Items 1–3 misaligned/wrong values (`p2c21` prints `126358` instead of `VAL025`); p2 Schedule 2 Item 1 blank/`0`; Schedule 6 rows unmapped on both. |
+| **2200S** | **98** | 0 | 0 | 1 | **98** | 0 | 0 | 1 | **Class F confirmed**: p2 Schedule 1 every beverage row (`XB010`–`XB100` & Others) prints blank above `GRAND TOTAL` on both; p1 Items 19A, 19B, 25A blank on both. |
+| **2200T** | **48** | 0 | 0 | 12 | **48** | 0 | 0 | 12 | **Class F confirmed**: `v2020` data holds 2020/2021 Schedule 1 rows omitted on the Aug 2022 sheet (`2200t-2022`) on both commits. |
+| **1606** | **0** | 0 | 0 | 3 | **0** | 0 | 0 | 3 | **Class F withdrawn**: all persisted boxes print cleanly; 3 `N` keys (`txtOthers` old 2000 layout; `txtGross`/`txtBid` shaped via `derived:sched3_1a`). |
+| **1701MS** | **0** | 0 | 0 | 5 | **0** | 0 | 0 | 5 | **Class F withdrawn**: all persisted boxes print cleanly; 5 `N` keys (`txtAmended`, `txtReturnPeriod`, `civilStatus` select, `printedName`, `authorizeRepresentative`). |
+| **2200A** | **15** | 0 | 0 | 0 | **15** | 0 | 0 | 0 | **Class F confirmed**: p1 Part IV payment-detail rows (Items 25–28) print blank on both (`not_joined` in `writer-cells.json`). |
+| **1702RT** | **0** | 12 | 0 | 12 | **0** | 12 | 0 | 12 | **Class F withdrawn**: previous Batch 2 `compare.png` showed an unsaved/refused return; every value persisted in SQLite prints cleanly on both commits. Remaining 12 `R` are Sched 5 Item 3 add-more rows (`txtPg4Sc5I3.*`). |
+| **1707A** | **1** | 101 | 0 | 0 | **1** | 0 | 0 | 0 | **Class F confirmed**: p1 Item 12A `Specify` (`VAL010`) prints blank on both. Rules prints all 101 `R` rows on p3–8 Add'l Sheets. |
+| **1602Q** | **0** | 1 | 0 | 0 | **0** | 1 | 0 | 0 | **Class F withdrawn**: all drawn boxes print cleanly; 1 `R` (`txtSched1Amount15`, 15th row beyond the 14 rows drawn on the 2019 sheet). |
+| **1601C** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | **Class F withdrawn** (for valid `WW010` returns; Item 5 ATC is preprinted `WW010` on the sheet, `not_joined` in `writer-cells.json`). |
+| **1604C** | **1** | 0 | 0 | 1 | **1** | 0 | 0 | 1 | **Class F confirmed**: p1 Item 1 Year (`2025`) overprints preprinted `20` as `225 0` on both. 1 `N` (`txt12` blank when overremittance = No). |
+| **1604E** | **1** | 0 | 1 | 0 | **1** | 0 | 1 | 0 | **Class F confirmed**: p1 Item 1 Year (`2025`) overprints preprinted `20` as `225 0` on both. 1 `D` (Item 7 Address clipped at `...845 ARNAIZ AV`). |
+| **1701** | **3** | 0 | 0 | 0 | **2** | 0 | 0 | 0 | **Class F confirmed**: (1) p2 Sched 3.A Item 8A (`1,234,567,890`) blank on `main` (9-slot comb overflow), fixed on `rules`; (2) p2 Part IV Item 1 Spouse TIN branch prints `00000` instead of `00001` on both; (3) p2 Part V Sched 1 Row 1 Employer Name (`ACME CORP EMPLOYER 1`) prints blank on both. |
+
+### Question 5 — `1701` Joint Return Spouse TIN (Part IV Item 1) Settled
+- **Form page (`round3/1701/rules/compare.png`, left)**: `✓ Saved`, Part IV Item 1 Spouse TIN entered as `000` | `987` | `654` | `00001` (with `DELA CRUZ, PEDRO 44`, RDO `044`).
+- **Printed Page 2 (`round3/1701/main/compare.png` and `round3/1701/rules/compare.png`, right)**:
+  - **Nine TIN digits (`000-987-654`)**: **DO PRINT** cleanly in the 9-digit comb (`p2c5`) on both `origin/main` (`93820d0f`) and `rules` (`8c3a7b53`).
+  - **Five-digit branch code (`00001`)**: **DOES NOT PRINT** — remains preprinted `0 0 0 0 0` on both commits (`html-frozen/1701-2018/writer-cells.json` lists `frm1701:txtPg2I1BranchCode` as unfillable because the sheet preprints `0 0 0 0 0`).

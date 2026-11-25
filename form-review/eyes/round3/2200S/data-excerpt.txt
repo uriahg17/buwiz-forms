@@ -1,0 +1,340 @@
+# Form 2200S — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 630 | Period: O630
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2200S:txtPSIC = VAL003
+frm2200S:txtTax17A = 1,238.24
+frm2200S:txtTax17B = 1,255.25
+frm2200S:txtTax23A = 1,340.30
+frm2200S:txtSalesValue0 = 1,357.31
+frm2200S:txtVolumeRemovals0 = 1,374.32
+frm2200S:txtSalesValue1 = 1,391.33
+frm2200S:txtVolumeRemovals1 = 1,408.34
+frm2200S:txtSalesValue2 = 1,425.35
+frm2200S:txtVolumeRemovals2 = 1,442.36
+frm2200S:txtSalesValue3 = 1,459.37
+frm2200S:txtVolumeRemovals3 = 1,476.38
+frm2200S:txtSalesValue4 = 1,493.39
+frm2200S:txtVolumeRemovals4 = 1,510.40
+frm2200S:txtSalesValue5 = 1,527.41
+frm2200S:txtVolumeRemovals5 = 1,544.42
+frm2200S:txtSalesValue6 = 1,561.43
+frm2200S:txtVolumeRemovals6 = 1,578.44
+frm2200S:txtSalesValue7 = 1,595.45
+frm2200S:txtVolumeRemovals7 = 1,612.46
+frm2200S:txtSalesValue8 = 1,629.47
+frm2200S:txtVolumeRemovals8 = 1,646.48
+frm2200S:txtSalesValue9 = 1,663.49
+frm2200S:txtVolumeRemovals9 = 1,680.50
+frm2200S:txtsched1Atc0 = IC010
+frm2200S:txtsched1Desc0 = VAL042
+frm2200S:txtsched1TaxBracket0 = 1731.53
+frm2200S:txtsched1SalesValue0 = 1,748.54
+frm2200S:txtsched1VolumeRemovals0 = 1,765.55
+frm2200S:txtsched1Atc1 = IC010
+frm2200S:txtsched1Atc10 = IC010
+frm2200S:txtsched1Atc11 = IC010
+frm2200S:txtsched1Atc12 = IC010
+frm2200S:txtsched1Atc13 = IC010
+frm2200S:txtsched1Atc14 = IC010
+frm2200S:txtsched1Atc2 = IC010
+frm2200S:txtsched1Atc3 = IC010
+frm2200S:txtsched1Atc4 = IC010
+frm2200S:txtsched1Atc5 = IC010
+frm2200S:txtsched1Atc6 = IC010
+frm2200S:txtsched1Atc7 = IC010
+frm2200S:txtsched1Atc8 = IC010
+frm2200S:txtsched1Atc9 = IC010
+frm2200S:txtsched1Desc1 = VAL060
+frm2200S:txtsched1Desc10 = VAL061
+frm2200S:txtsched1Desc11 = VAL062
+frm2200S:txtsched1Desc12 = VAL063
+frm2200S:txtsched1Desc13 = VAL064
+frm2200S:txtsched1Desc14 = VAL065
+frm2200S:txtsched1Desc2 = VAL066
+frm2200S:txtsched1Desc3 = VAL067
+frm2200S:txtsched1Desc4 = VAL068
+frm2200S:txtsched1Desc5 = VAL069
+frm2200S:txtsched1Desc6 = VAL070
+frm2200S:txtsched1Desc7 = VAL071
+frm2200S:txtsched1Desc8 = VAL072
+frm2200S:txtsched1Desc9 = VAL073
+frm2200S:txtsched1SalesValue1 = 2,258.84
+frm2200S:txtsched1SalesValue10 = 2,275.85
+frm2200S:txtsched1SalesValue11 = 2,292.86
+frm2200S:txtsched1SalesValue12 = 2,309.87
+frm2200S:txtsched1SalesValue13 = 2,326.88
+frm2200S:txtsched1SalesValue14 = 2,343.89
+frm2200S:txtsched1SalesValue2 = 2,360.90
+frm2200S:txtsched1SalesValue3 = 2,377.91
+frm2200S:txtsched1SalesValue4 = 2,394.92
+frm2200S:txtsched1SalesValue5 = 2,411.93
+frm2200S:txtsched1SalesValue6 = 2,428.94
+frm2200S:txtsched1SalesValue7 = 2,445.95
+frm2200S:txtsched1SalesValue8 = 2,462.96
+frm2200S:txtsched1SalesValue9 = 2,479.97
+frm2200S:txtsched1TaxBracket1 = 2496.98
+frm2200S:txtsched1TaxBracket10 = 2513.10
+frm2200S:txtsched1TaxBracket11 = 2530.11
+frm2200S:txtsched1TaxBracket12 = 2547.12
+frm2200S:txtsched1TaxBracket13 = 2564.13
+frm2200S:txtsched1TaxBracket14 = 2581.14
+frm2200S:txtsched1TaxBracket2 = 2598.15
+frm2200S:txtsched1TaxBracket3 = 2615.16
+frm2200S:txtsched1TaxBracket4 = 2632.17
+... (19 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 8,
+  "month": 6,
+  "day": 30,
+  "year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "line_of_business": "",
+  "psic": "VAL003",
+  "email": "juana.santos@example.com",
+  "place_of_production": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "place_of_removal": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "tax_relief": "yes_unspecified",
+  "manner": "actual_removal",
+  "other_scheme": false,
+  "other_scheme_text": "",
+  "beverages": [
+    {
+      "sales_value": 1357.31,
+      "volume": 1374.32,
+      "basic_tax_due": 8245.92
+    },
+    {
+      "sales_value": 1391.33,
+      "volume": 1408.34,
+      "basic_tax_due": 8450.04
+    },
+    {
+      "sales_value": 1425.35,
+      "volume": 1442.36,
+      "basic_tax_due": 8654.16
+    },
+    {
+      "sales_value": 1459.37,
+      "volume": 1476.38,
+      "basic_tax_due": 8858.28
+    },
+    {
+      "sales_value": 1493.39,
+      "volume": 1510.4,
+      "basic_tax_due": 9062.4
+    },
+    {
+      "sales_value": 1527.41,
+      "volume": 1544.42,
+      "basic_tax_due": 9266.52
+    },
+    {
+      "sales_value": 1561.43,
+      "volume": 1578.44,
+      "basic_tax_due": 9470.64
+    },
+    {
+      "sales_value": 1595.45,
+      "volume": 1612.46,
+      "basic_tax_due": 9674.76
+    },
+    {
+      "sales_value": 1629.47,
+      "volume": 1646.48,
+      "basic_tax_due": 19757.76
+    },
+    {
+      "sales_value": 1663.49,
+      "volume": 1680.5,
+      "basic_tax_due": 0.0
+    }
+  ],
+  "others": [
+    {
+      "atc": "IC010",
+      "description": "VAL042",
+      "tax_bracket": "1731.53",
+      "rate": 0.0,
+      "sales_value": 1748.54,
+      "volume": 1765.55,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL060",
+      "tax_bracket": "2496.98",
+      "rate": 0.0,
+      "sales_value": 2258.84,
+      "volume": 2734.23,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL066",
+      "tax_bracket": "2598.15",
+      "rate": 0.0,
+      "sales_value": 2360.9,
+      "volume": 2836.29,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL067",
+      "tax_bracket": "2615.16",
+      "rate": 0.0,
+      "sales_value": 2377.91,
+      "volume": 2853.3,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL068",
+      "tax_bracket": "2632.17",
+      "rate": 0.0,
+      "sales_value": 2394.92,
+      "volume": 2870.31,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL069",
+      "tax_bracket": "2649.18",
+      "rate": 0.0,
+      "sales_value": 2411.93,
+      "volume": 2887.32,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL070",
+      "tax_bracket": "2666.19",
+      "rate": 0.0,
+      "sales_value": 2428.94,
+      "volume": 2904.33,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL071",
+      "tax_bracket": "2683.20",
+      "rate": 0.0,
+      "sales_value": 2445.95,
+      "volume": 2921.34,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL072",
+      "tax_bracket": "2700.21",
+      "rate": 0.0,
+      "sales_value": 2462.96,
+      "volume": 2938.35,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL073",
+      "tax_bracket": "2717.22",
+      "rate": 0.0,
+      "sales_value": 2479.97,
+      "volume": 2955.36,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL061",
+      "tax_bracket": "2513.10",
+      "rate": 0.0,
+      "sales_value": 2275.85,
+      "volume": 2751.24,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL062",
+      "tax_bracket": "2530.11",
+      "rate": 0.0,
+      "sales_value": 2292.86,
+      "volume": 2768.25,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL063",
+      "tax_bracket": "2547.12",
+      "rate": 0.0,
+      "sales_value": 2309.87,
+      "volume": 2785.26,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL064",
+      "tax_bracket": "2564.13",
+      "rate": 0.0,
+      "sales_value": 2326.88,
+      "volume": 2802.27,
+      "basic_tax_due": 0.0
+    },
+    {
+      "atc": "IC010",
+      "description": "VAL065",
+      "tax_bracket": "2581.14",
+      "rate": 0.0,
+      "sales_value": 2343.89,
+      "volume": 2819.28,
+      "basic_tax_due": 0.0
+    }
+  ],
+  "schedule_total": 91440.48,
+  "excise_tax_due": 91440.48,
+  "balance_carried_over": 1238.24,
+  "creditable_excise_tax": 1255.25,
+  "total_credits": 2493.49,
+  "net_tax_due": 88946.99,
+  "previous_payment": 0.0,
+  "tax_still_due": 88946.99,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 2,
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "amount_payable": 88946.99,
+  "tax_payment": 1340.3,
+  "penalties_paid": 0.0,
+  "total_payment": 1340.3,
+  "balance_carried_forward": 87606.69,
+  "status": "Draft",
+  "created_at": "2026-11-25T08:49:49.407383814+00:00",
+  "updated_at": "2026-11-25T08:49:49.407383814+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

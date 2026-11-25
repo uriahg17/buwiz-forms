@@ -1,0 +1,3 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1604c:txtYear	Item 1 For the Year (20YY)	1	2025	225 0 (overprints preprinted 20)	225 0 (overprints preprinted 20)	yes	yes	F	html-frozen/1604c-2018/writer-cells.json (4-digit year written over preprinted 20)
+frm1604c:txt12	Total amount of overremittance	1	1,153.19	BLANK	BLANK	yes	yes	N	prints from derived:overremittance (the print map shapes Item 12, blank on a No for the sheet)

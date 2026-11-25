@@ -1,0 +1,319 @@
+# Form 1800 — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 1 | Period: O1
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1800v2018:schedA:txtFairMarketValue10 = 2,343.89
+frm1800v2018:schedA:txtFairMarketValue11 = 2,360.90
+frm1800v2018:schedA:txtFairMarketValue12 = 2,377.91
+frm1800v2018:schedA:txtFairMarketValue13 = 2,394.92
+frm1800v2018:schedA:txtFairMarketValue14 = 2,411.93
+frm1800v2018:schedA:txtFairMarketValue15 = 2,428.94
+frm1800v2018:schedA:txtFairMarketValue16 = 2,445.95
+frm1800v2018:schedA:txtFairMarketValue17 = 2,462.96
+frm1800v2018:schedA:txtFairMarketValue5 = 2,479.97
+frm1800v2018:schedA:txtFairMarketValue6 = 2,496.98
+frm1800v2018:schedA:txtFairMarketValue7 = 2,513.10
+frm1800v2018:schedA:txtFairMarketValue8 = 2,530.11
+frm1800v2018:schedA:txtFairMarketValue9 = 2,547.12
+frm1800v2018:schedA:txtParticulars10 = VAL092
+frm1800v2018:schedA:txtParticulars11 = VAL093
+frm1800v2018:schedA:txtParticulars12 = VAL094
+frm1800v2018:schedA:txtParticulars13 = VAL095
+frm1800v2018:schedA:txtParticulars14 = VAL096
+frm1800v2018:schedA:txtParticulars15 = VAL097
+frm1800v2018:schedA:txtParticulars16 = VAL098
+frm1800v2018:schedA:txtParticulars17 = VAL099
+frm1800v2018:schedA:txtParticulars5 = VAL100
+frm1800v2018:schedA:txtParticulars6 = VAL101
+frm1800v2018:schedA:txtParticulars7 = VAL102
+frm1800v2018:schedA:txtParticulars8 = VAL103
+frm1800v2018:schedA:txtParticulars9 = VAL104
+frm1800v2018:schedB1:txtClassification10 = VAL105
+frm1800v2018:schedB1:txtClassification11 = VAL106
+frm1800v2018:schedB1:txtClassification12 = VAL107
+frm1800v2018:schedB1:txtClassification13 = VAL108
+frm1800v2018:schedB1:txtClassification14 = VAL109
+frm1800v2018:schedB1:txtClassification15 = VAL110
+frm1800v2018:schedB1:txtClassification16 = VAL111
+frm1800v2018:schedB1:txtClassification5 = VAL112
+frm1800v2018:schedB1:txtClassification6 = VAL113
+frm1800v2018:schedB1:txtClassification7 = VAL114
+frm1800v2018:schedB1:txtClassification8 = VAL115
+frm1800v2018:schedB1:txtClassification9 = VAL116
+frm1800v2018:schedB1:txtLocation10 = VAL117
+frm1800v2018:schedB1:txtLocation11 = VAL118
+frm1800v2018:schedB1:txtLocation12 = VAL119
+frm1800v2018:schedB1:txtLocation13 = VAL120
+frm1800v2018:schedB1:txtLocation14 = VAL121
+frm1800v2018:schedB1:txtLocation15 = VAL122
+frm1800v2018:schedB1:txtLocation16 = VAL123
+frm1800v2018:schedB1:txtLocation5 = VAL124
+frm1800v2018:schedB1:txtLocation6 = VAL125
+frm1800v2018:schedB1:txtLocation7 = VAL126
+frm1800v2018:schedB1:txtLocation8 = VAL127
+frm1800v2018:schedB1:txtLocation9 = VAL128
+frm1800v2018:schedB1:txtLotImprovement10 = VAL129
+frm1800v2018:schedB1:txtLotImprovement11 = VAL130
+frm1800v2018:schedB1:txtLotImprovement12 = VAL131
+frm1800v2018:schedB1:txtLotImprovement13 = VAL132
+frm1800v2018:schedB1:txtLotImprovement14 = VAL133
+frm1800v2018:schedB1:txtLotImprovement15 = VAL134
+frm1800v2018:schedB1:txtLotImprovement16 = VAL135
+frm1800v2018:schedB1:txtLotImprovement5 = VAL136
+frm1800v2018:schedB1:txtLotImprovement6 = VAL137
+frm1800v2018:schedB1:txtLotImprovement7 = VAL138
+frm1800v2018:schedB1:txtLotImprovement8 = VAL139
+frm1800v2018:schedB1:txtLotImprovement9 = VAL140
+frm1800v2018:schedB1:txtOCT10 = VAL141
+frm1800v2018:schedB1:txtOCT11 = VAL142
+frm1800v2018:schedB1:txtOCT12 = VAL143
+frm1800v2018:schedB1:txtOCT13 = VAL144
+frm1800v2018:schedB1:txtOCT14 = VAL145
+frm1800v2018:schedB1:txtOCT15 = VAL146
+frm1800v2018:schedB1:txtOCT16 = VAL147
+frm1800v2018:schedB1:txtOCT5 = VAL148
+frm1800v2018:schedB1:txtOCT6 = VAL149
+frm1800v2018:schedB1:txtOCT7 = VAL150
+frm1800v2018:schedB1:txtOCT8 = VAL151
+frm1800v2018:schedB1:txtOCT9 = VAL152
+frm1800v2018:schedB1:txtTaxDecNo10 = 3601.74
+frm1800v2018:schedB1:txtTaxDecNo11 = 3618.75
+frm1800v2018:schedB1:txtTaxDecNo12 = 3635.76
+frm1800v2018:schedB1:txtTaxDecNo13 = 3652.77
+frm1800v2018:schedB1:txtTaxDecNo14 = 3669.78
+frm1800v2018:schedB1:txtTaxDecNo15 = 3686.79
+... (54 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 6,
+  "filing_year": 2025,
+  "open_ended_key": 1,
+  "donation_month": 0,
+  "donation_day": 0,
+  "donation_year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 0,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "donor_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "residence_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "residence_zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "donees": [
+    {
+      "name": "VAL006",
+      "tin": "000-987-107-00001"
+    },
+    {
+      "name": "VAL008",
+      "tin": "000-987-109-00001"
+    },
+    {
+      "name": "VAL010",
+      "tin": "000-987-111-00001"
+    },
+    {
+      "name": "VAL012",
+      "tin": "000-987-113-00001"
+    },
+    {
+      "name": "VAL014",
+      "tin": "000-987-115-00001"
+    }
+  ],
+  "tax_relief": null,
+  "personal_properties": [
+    {
+      "particulars": "VAL024",
+      "fair_market_value": 1425.35
+    },
+    {
+      "particulars": "VAL026",
+      "fair_market_value": 1459.37
+    },
+    {
+      "particulars": "VAL028",
+      "fair_market_value": 1493.39
+    },
+    {
+      "particulars": "VAL030",
+      "fair_market_value": 1527.41
+    },
+    {
+      "particulars": "VAL032",
+      "fair_market_value": 1561.43
+    },
+    {
+      "particulars": "VAL100",
+      "fair_market_value": 2479.97
+    },
+    {
+      "particulars": "VAL101",
+      "fair_market_value": 2496.98
+    },
+    {
+      "particulars": "VAL102",
+      "fair_market_value": 2513.1
+    },
+    {
+      "particulars": "VAL103",
+      "fair_market_value": 2530.11
+    },
+    {
+      "particulars": "VAL104",
+      "fair_market_value": 2547.12
+    },
+    {
+      "particulars": "VAL092",
+      "fair_market_value": 2343.89
+    },
+    {
+      "particulars": "VAL093",
+      "fair_market_value": 2360.9
+    },
+    {
+      "particulars": "VAL094",
+      "fair_market_value": 2377.91
+    },
+    {
+      "particulars": "VAL095",
+      "fair_market_value": 2394.92
+    },
+    {
+      "particulars": "VAL096",
+      "fair_market_value": 2411.93
+    },
+    {
+      "particulars": "VAL097",
+      "fair_market_value": 2428.94
+    },
+    {
+      "particulars": "VAL098",
+      "fair_market_value": 2445.95
+    },
+    {
+      "particulars": "VAL099",
+      "fair_market_value": 2462.96
+    }
+  ],
+  "real_properties": [
+    {
+      "title_number": "VAL034",
+      "tax_declaration_number": "1595.45",
+      "location": "VAL036",
+      "lot_or_improvement": "VAL037",
+      "classification": "VAL038",
+      "area": "VAL059",
+      "fmv_per_tax_declaration": "VAL060",
+      "fmv_per_zonal_value": "2037.71",
+      "fair_market_value": 2054.72
+    },
+    {
+      "title_number": "VAL039",
+      "tax_declaration_number": "1680.50",
+      "location": "VAL041",
+      "lot_or_improvement": "VAL042",
+      "classification": "VAL043",
+      "area": "VAL063",
+      "fmv_per_tax_declaration": "VAL064",
+      "fmv_per_zonal_value": "2105.75",
+      "fair_market_value": 2122.76
+    },
+    {
+      "title_number": "VAL044",
+      "tax_declaration_number": "1765.55",
+      "location": "VAL046",
+      "lot_or_improvement": "VAL047",
+      "classification": "VAL048",
+      "area": "VAL067",
+      "fmv_per_tax_declaration": "VAL068",
+      "fmv_per_zonal_value": "2173.79",
+      "fair_market_value": 2190.8
+    },
+    {
+      "title_number": "VAL049",
+      "tax_declaration_number": "1850.60",
+      "location": "VAL051",
+      "lot_or_improvement": "VAL052",
+      "classification": "VAL053",
+      "area": "VAL071",
+      "fmv_per_tax_declaration": "VAL072",
+      "fmv_per_zonal_value": "2241.83",
+      "fair_market_value": 2258.84
+    },
+    {
+      "title_number": "VAL054",
+      "tax_declaration_number": "1935.65",
+      "location": "VAL056",
+      "lot_or_improvement": "VAL057",
+      "classification": "VAL058",
+      "area": "VAL075",
+      "fmv_per_tax_declaration": "VAL076",
+      "fmv_per_zonal_value": "2309.87",
+      "fair_market_value": 2326.88
+    },
+    {
+      "title_number": "VAL148",
+      "tax_declaration_number": "3720.81",
+      "location": "VAL124",
+      "lot_or_improvement": "VAL136",
+      "classification": "VAL112",
+      "area": "VAL172",
+      "fmv_per_tax_declaration": "VAL196",
+      "fmv_per_zonal_value": "4128.16",
+      "fair_market_value": 4536.4
+    },
+    {
+      "title_number": "VAL149",
+      "tax_declaration_number": "3737.82",
+      "location": "VAL125",
+      "lot_or_improvement": "VAL137",
+      "classification": "VAL113",
+      "area": "VAL173",
+      "fmv_per_tax_declaration": "VAL197",
+      "fmv_per_zonal_value": "4145.17",
+      "fair_market_value": 4553.41
+    },
+    {
+      "title_number": "VAL150",
+      "tax_declaration_number": "3754.83",
+      "location": "VAL126",
+      "lot_or_improvement": "VAL138",
+      "classification": "VAL114",
+      "area": "VAL174",
+      "fmv_per_tax_declaration": "VAL198",
+      "fmv_per_zonal_value": "4162.18",
+      "fair_market_value": 4570.42
+    },
+    {
+      "title_number": "VAL151",
+      "tax_declaration_number": "3771.84",
+      "location": "VAL127",
+      "lot_or_improvement": "VAL139",
+      "classification": "VAL115",
+      "area": "VAL175",
+      "fmv_per_tax_declaration": "VAL199",
+      "fmv_per_zonal_value": "4179.19",
+      "fair_market_value": 4587.43
+    },
+    {
+      "title_number": "VAL152",
+      "tax_declaration_number": "3788.85",
+      "location": "VAL128",
+      "lot_or_improvement": "VAL140",
+      "classification": "VAL116",
+      "area": "VAL176",
+      "fmv_per_tax_declaration": "VAL200",
+      "fmv_per_zonal_value": "4196.20",
+      "fair_market_value": 4604.44
+    },
+    {
+      "title_number": "VAL141",
+      "tax_declaration_number
+... (truncated)

@@ -1,0 +1,2 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1602Q:txtSched1Amount15	txtSched1Amount15	2	1,527.41	BLANK	BLANK	yes	yes	R	the 2019 sheet prints 14 Schedule 1 rows; its item 15 is the Total line (txtSched1Total), so the layout row 15 has no printed row

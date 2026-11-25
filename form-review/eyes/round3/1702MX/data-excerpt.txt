@@ -1,0 +1,371 @@
+# Form 1702MX — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1702MX:Inst = APg2Part4
+frm1702MX:txtPg2Pt4I31CA = VAL022
+frm1702MX:txtPg2Pt4I31CB = VAL023
+frm1702MX:txtPg2Pt4I31CC = VAL024
+frm1702MX:txtPg2Pt4I32CA = VAL025
+frm1702MX:txtPg2Pt4I32CB = VAL026
+frm1702MX:txtPg2Pt4I32CC = VAL027
+frm1702MX:txtPg2Pt4I33CA = VAL028
+frm1702MX:txtPg2Pt4I33CB = VAL029
+frm1702MX:txtPg2Pt4I33CC = VAL030
+frm1702MX:txtPg2Pt4I35CA = VAL031
+frm1702MX:txtPg2Pt4I35CC = VAL033
+frm1702MX:txtPg2Pt4I36CA = VAL034
+frm1702MX:txtPg2Pt4I36CC = VAL036
+frm1702MX:txtPg2Sc2Itm1A = 15656
+frm1702MX:txtPg2Sc2Itm1B = 15757
+frm1702MX:txtPg2Sc2Itm1C = 15858
+frm1702MX:txtPg2Sc2Itm2A = 15959
+frm1702MX:txtPg2Sc2Itm2B = 16060
+frm1702MX:txtPg2Sc2Itm2C = 16161
+frm1702MX:txtPg2Sc2Itm4A = 16363
+frm1702MX:txtPg2Sc2Itm4B = 16464
+frm1702MX:txtPg2Sc2Itm4C = 16565
+frm1702MX:txtPg2Sc2Itm6A = 16666
+frm1702MX:txtPg2Sc2Itm6B = 16767
+frm1702MX:txtPg2Sc2Itm6C = 16868
+frm1702MX:txtPg2Sc2It16B = 16262
+frm1702MX:txtPg2Sc3It20A = 16969
+frm1702MX:txtPg2Sc3It20B = 17070
+frm1702MX:txtPg2Sc3It20C = 17171
+frm1702MX:txtPg2Sc3It21C = 17272
+frm1702MX:txtPg2Sc3It22A = 17373
+frm1702MX:txtPg2Sc3It22B = 17474
+frm1702MX:txtPg2Sc3It22C = 17575
+frm1702MX:txtPg2Sc3It24A = 17676
+frm1702MX:txtPg2Sc3It24B = 17777
+frm1702MX:txtPg2Sc3It24C = 17878
+frm1702MX:txtPg2Sc3It25A = 17979
+frm1702MX:txtPg2Sc3It25B = 18080
+frm1702MX:txtPg2Sc3It25C = 18181
+frm1702MX:txtPg2Sc3It26A = 18282
+frm1702MX:txtPg2Sc3It26B = 18383
+frm1702MX:txtPg2Sc3It26C = 18484
+frm1702MX:txtPg2Sc3It28A = 18888
+frm1702MX:txtPg2Sc3It28B = 18989
+frm1702MX:txtPg2Sc3It28C = 19090
+frm1702MX:txtPg2Sc3It29A = 19191
+frm1702MX:txtPg2Sc3It29B = 19292
+frm1702MX:txtPg2Sc3It29C = 19393
+frm1702MX:txtPg3Sc4Itm1A = 19696
+frm1702MX:txtPg3Sc4Itm1B = 19797
+frm1702MX:txtPg2Sc4Itm2A = 19494
+frm1702MX:txtPg2Sc4Itm2B = 19595
+frm1702MX:txtPg2Sc4Itm2C = 19898
+frm1702MX:txtPg3Sc5Itm1A = 19999
+frm1702MX:txtPg3Sc5Itm1B = 20100
+frm1702MX:txtPg3Sc5Itm1C = 20201
+frm1702MX:txtPg3Sc5Itm2A = 20302
+frm1702MX:txtPg3Sc5Itm2B = 20403
+frm1702MX:txtPg3Sc5Itm2C = 20504
+frm1702MX:txtPg3Sc5Itm3A = 20605
+frm1702MX:txtPg3Sc5Itm3B = 20706
+frm1702MX:txtPg3Sc5Itm3C = 20807
+frm1702MX:txtPg3Sc5Itm4A = 20908
+frm1702MX:txtPg3Sc5Itm4B = 21009
+frm1702MX:txtPg3Sc5Itm4C = 21110
+frm1702MX:txtPg3Sc5Itm5A = 21211
+frm1702MX:txtPg3Sc5Itm5B = 21312
+frm1702MX:txtPg3Sc5Itm5C = 21413
+frm1702MX:txtPg3Sc5Itm6A = 21514
+frm1702MX:txtPg3Sc5Itm6B = 21615
+frm1702MX:txtPg3Sc5Itm6C = 21716
+frm1702MX:txtPg3Sc5Itm7A = 21817
+frm1702MX:txtPg3Sc5Itm7B = 21918
+frm1702MX:txtPg3Sc5Itm7C = 22019
+frm1702MX:txtPg3Sc5Itm8A = 22120
+frm1702MX:txtPg3Sc5Itm8B = 22221
+frm1702MX:txtPg3Sc5Itm8C = 23130
+frm1702MX:txtPg3Sc5Itm9A = 23231
+frm1702MX:txtPg3Sc5Itm9B = 23332
+... (122 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 7,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "month": 12,
+  "filing_basis": "Calendar",
+  "is_amended": false,
+  "is_short_period": false,
+  "atc": {
+    "mcit_selected": false,
+    "other_selected": true,
+    "other_code": "IC010"
+  },
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_name_lines": [
+    "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "",
+    ""
+  ],
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "registered_address_lines": [
+    "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "VAL010",
+    "VAL011"
+  ],
+  "zip_code": "1003",
+  "incorporation_date": "03/15/2025",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "deduction_method": "Unresolved",
+  "part_ii": {
+    "item_14_total_tax_due_or_overpayment": -16262,
+    "item_15_total_tax_credits": 398467,
+    "item_16_net_tax_payable_or_overpayment": -414729,
+    "item_17_surcharge": {
+      "amount": null,
+      "raw": ""
+    },
+    "item_18_interest": {
+      "amount": null,
+      "raw": ""
+    },
+    "item_19_compromise": {
+      "amount": null,
+      "raw": ""
+    },
+    "item_20_total_penalties": {
+      "amount": 0,
+      "raw": "0"
+    },
+    "item_21_total_amount_payable_or_overpayment": {
+      "amount": -414729,
+      "raw": "-414729"
+    },
+    "overpayment_disposition": null
+  },
+  "penalty_model_version": 1,
+  "penalty_due_date": "2026-04-15",
+  "computed_penalties": {
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "inputs": {
+      "due_date": "2026-04-15",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 224,
+      "basic_tax_due": 0.0,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "StandardFiling"
+    }
+  },
+  "penalty_overrides": {},
+  "relief_basis": {
+    "instruction_single_activity": false,
+    "instruction_multiple_activities": false,
+    "special_tax_rate": {
+      "hundredths": null,
+      "raw": ""
+    }
+  },
+  "schedule_2": {
+    "items": [
+      {
+        "exempt": {
+          "amount": 15656,
+          "raw": ""
+        },
+        "special": {
+          "amount": 15757,
+          "raw": ""
+        },
+        "regular": {
+          "amount": 15858,
+          "raw": ""
+        },
+        "total": {
+          "amount": 47271,
+          "raw": "47271"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 15959,
+          "raw": ""
+        },
+        "special": {
+          "amount": 16060,
+          "raw": ""
+        },
+        "regular": {
+          "amount": 16161,
+          "raw": ""
+        },
+        "total": {
+          "amount": 48180,
+          "raw": "48180"
+        }
+      },
+      {
+        "exempt": {
+          "amount": -303,
+          "raw": "-303"
+        },
+        "special": {
+          "amount": -303,
+          "raw": "-303"
+        },
+        "regular": {
+          "amount": -303,
+          "raw": "-303"
+        },
+        "total": {
+          "amount": -909,
+          "raw": "-909"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 16363,
+          "raw": ""
+        },
+        "special": {
+          "amount": 16464,
+          "raw": ""
+        },
+        "regular": {
+          "amount": 16565,
+          "raw": ""
+        },
+        "total": {
+          "amount": 49392,
+          "raw": "49392"
+        }
+      },
+      {
+        "exempt": {
+          "amount": -16666,
+          "raw": "-16666"
+        },
+        "special": {
+          "amount": -16767,
+          "raw": "-16767"
+        },
+        "regular": {
+          "amount": -16868,
+          "raw": "-16868"
+        },
+        "total": {
+          "amount": -50301,
+          "raw": "-50301"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 16666,
+          "raw": ""
+        },
+        "special": {
+          "amount": 16767,
+          "raw": ""
+        },
+        "regular": {
+          "amount": 16868,
+          "raw": ""
+        },
+        "total": {
+          "amount": 50301,
+          "raw": "50301"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "special": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "regular": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "total": {
+          "amount": 0,
+          "raw": "0"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 431390,
+          "raw": "431390"
+        },
+        "special": {
+          "amount": 433309,
+          "raw": "433309"
+        },
+        "regular": {
+          "amount": 436440,
+          "raw": "436440"
+        },
+        "total": {
+          "amount": 1301139,
+          "raw": "1301139"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 540974,
+          "raw": "540974"
+        },
+        "special": {
+          "amount": 542590,
+          "raw": "542590"
+        },
+        "regular": {
+          "amount": 544509,
+          "raw": "544509"
+        },
+        "total": {
+          "amount": 1628073,
+          "raw": "1628073"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "special": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "regular": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "total": {
+          "amount": 0,
+          "raw": "0"
+        }
+      },
+      {
+        "exempt": {
+          "amount": 972364,
+          "raw": "972364"
+        },
+        "special": {
+          "amount": 975899,
+          "raw": "975899"
+        },
+        "regular": {
+          "amount": 0,
+          "raw": "0"
+        },
+        "total": {
+          "amount": 1948263,
+          "raw": "1948263"
+        }
+... (truncated)

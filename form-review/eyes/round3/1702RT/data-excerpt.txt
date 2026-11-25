@@ -1,0 +1,255 @@
+# Form 1702RT — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1702RT:txtPg4Sc5I3.10C1 = VAL250
+frm1702RT:txtPg4Sc5I3.11C1 = VAL252
+frm1702RT:txtPg4Sc5I3.12C1 = VAL254
+frm1702RT:txtPg4Sc5I3.1C1 = VAL258
+frm1702RT:txtPg4Sc5I3.2C1 = VAL260
+frm1702RT:txtPg4Sc5I3.3C1 = VAL262
+frm1702RT:txtPg4Sc5I3.4C1 = VAL264
+frm1702RT:txtPg4Sc5I3.5C1 = VAL266
+frm1702RT:txtPg4Sc5I3.6C1 = VAL268
+frm1702RT:txtPg4Sc5I3.7C1 = VAL270
+frm1702RT:txtPg4Sc5I3.8C1 = VAL272
+frm1702RT:txtPg4Sc5I3.9C1 = VAL274
+frm1702RT:txtPg4Sc5I6.1C1 = VAL284
+frm1702RT:txtPg4Sc5I6.2C1 = VAL286
+frm1702RT:txtPg4Sc5I6.3C1 = VAL288
+frm1702RT:txtPg4Sc5I8.1C1 = VAL312
+frm1702RT:txtPg4Sc5I8.2C1 = VAL314
+frm1702RT:txtPg4Sc5I8.3C1 = VAL316
+frm1702RT:txtPg4Sc5I8.4C1 = VAL318
+frm1702RT:txtPg4Sc5I8.5C1 = VAL320
+frm1702RT:txtPg4Sc5I8.6C1 = VAL322
+frm1702RT:txtPg4Sc5I8.7C1 = VAL324
+frm1702RT:txtPg4Sc5I8.8C1 = VAL326
+frm1702RT:txtPg4Sc5I8.9C1 = VAL328
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 3,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "month": 12,
+  "filing_basis": "Calendar",
+  "is_amended": false,
+  "is_short_period": false,
+  "atc": {
+    "printed_mcit_selected": false,
+    "other_selected": true,
+    "other_code": "IC010"
+  },
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_name_lines": [
+    "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "VAL007",
+    "VAL008"
+  ],
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "registered_address_lines": [
+    "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "",
+    ""
+  ],
+  "zip_code": "1003",
+  "incorporation_date": null,
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "deduction_method": "Itemized",
+  "part_ii": {
+    "item_14_tax_due": 0,
+    "item_15_total_tax_credits": 119188,
+    "item_16_net_tax_payable_or_overpayment": -119188,
+    "item_17_surcharge": 0,
+    "item_18_interest": 0,
+    "item_19_compromise": 0,
+    "item_20_total_penalties": 0,
+    "item_21_total_amount_payable_or_overpayment": -119188,
+    "overpayment_disposition": null
+  },
+  "penalty_model_version": 1,
+  "penalty_due_date": "2026-04-15",
+  "computed_penalties": {
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "inputs": {
+      "due_date": "2026-04-15",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 224,
+      "basic_tax_due": 0.0,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "StandardFiling"
+    }
+  },
+  "penalty_overrides": {},
+  "payment_details": [
+    {
+      "specification": "",
+      "drawee_bank_or_agency": "VAL024",
+      "number": "VAL025",
+      "date": null,
+      "amount": 12626
+    },
+    {
+      "specification": "",
+      "drawee_bank_or_agency": "VAL027",
+      "number": "VAL028",
+      "date": null,
+      "amount": 12929
+    },
+    {
+      "specification": "",
+      "drawee_bank_or_agency": "",
+      "number": "13030",
+      "date": null,
+      "amount": 13131
+    },
+    {
+      "specification": "VAL032",
+      "drawee_bank_or_agency": "VAL033",
+      "number": "VAL034",
+      "date": null,
+      "amount": 13535
+    }
+  ],
+  "part_iv": {
+    "item_27_sales": 13636,
+    "item_28_sales_returns": 13737,
+    "item_29_net_sales": -101,
+    "item_30_cost_of_sales_or_services": 13838,
+    "item_31_gross_income_from_operations": -13939,
+    "item_32_other_taxable_income": 13939,
+    "item_33_total_taxable_income": 0,
+    "item_34_ordinary_itemized_deductions": 421397,
+    "item_35_special_itemized_deductions": 72926,
+    "item_36_nolco": 57674,
+    "item_37_total_itemized_deductions": 551997,
+    "item_38_optional_standard_deduction": 0,
+    "item_39_net_taxable_income_or_loss": -551997,
+    "item_40_income_tax_rate_percent": 30,
+    "item_41_normal_income_tax_due": 0,
+    "item_42_mcit_due": 0,
+    "item_43_tax_due": 0,
+    "tax_credits": {
+      "item_44_prior_year_excess_credits": 14242,
+      "item_45_previous_quarter_mcit_payments": 0,
+      "item_46_previous_quarter_regular_payments": 14444,
+      "item_47_excess_mcit_applied": 0,
+      "item_48_previous_quarter_withholding": 14545,
+      "item_49_fourth_quarter_withholding": 14646,
+      "item_50_foreign_tax_credits": 14747,
+      "item_51_tax_paid_on_previous_return": 0,
+      "item_52_special_tax_credits": 15555,
+      "item_53_other": {
+        "description": "15050",
+        "amount": 15454
+      },
+      "item_54_other": {
+        "description": "VAL052",
+        "amount": 15555
+      },
+      "item_55_total": 119188
+    },
+    "item_56_net_tax_payable_or_overpayment": -119188
+  },
+  "part_v": {
+    "item_57_special_allowable_deductions_tax_effect": 15656,
+    "item_58_special_tax_credits": 15555,
+    "item_59_total_tax_relief": 31211
+  },
+  "schedule_1": {
+    "amortizations": 15757,
+    "bad_debts": 15858,
+    "charitable_contributions": 15959,
+    "depletion": 16060,
+    "depreciation": 16161,
+    "entertainment": 16262,
+    "fringe_benefits": 16363,
+    "interest": 16363,
+    "losses": 17474,
+    "pension_trusts": 16464,
+    "rental": 16565,
+    "research_and_development": 16666,
+    "salaries_wages_allowances": 16767,
+    "statutory_contributions": 16868,
+    "taxes_and_licenses": 17070,
+    "transportation_and_travel": 16969,
+    "janitorial_and_messengerial": 17070,
+    "professional_fees": 17171,
+    "security_services": 17272,
+    "other": [
+      {
+        "description": "VAL075",
+        "amount": 17373
+      },
+      {
+        "description": "VAL077",
+        "amount": 17575
+      },
+      {
+        "description": "VAL079",
+        "amount": 17676
+      },
+      {
+        "description": "VAL081",
+        "amount": 17777
+      },
+      {
+        "description": "VAL083",
+        "amount": 17878
+      },
+      {
+        "description": "VAL085",
+        "amount": 17979
+      }
+    ],
+    "item_18_total": 421397
+  },
+  "schedule_2": {
+    "rows": [
+      {
+        "description": "VAL087",
+        "legal_basis": "VAL088",
+        "amount": 18080
+      },
+      {
+        "description": "VAL090",
+        "legal_basis": "VAL091",
+        "amount": 18181
+      },
+      {
+        "description": "VAL093",
+        "legal_basis": "VAL094",
+        "amount": 18282
+      },
+      {
+        "description": "VAL096",
+        "legal_basis": "VAL097",
+        "amount": 18383
+      }
+    ],
+    "item_5_total": 72926
+  },
+  "schedule_3": {
+    "item_1_gross_income": 0,
+    "item_2_ordinary_deductions": 421397,
+    "item_3_net_operating_loss": -421397,
+    "rows": [
+      {
+        "year_incurred": "2025",
+        "amount": 421397,
+        "applied_previous_years": 0,
+        "expired": 0,
+        "applied_current_year": 0,
+        "unapplied_balance": 421397
+      },
+      {
+        
+... (truncated)

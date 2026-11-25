@@ -1,0 +1,369 @@
+# Form 2200T — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2200Tv2020:txtSched1_1A_2020_Export = 1,901.63
+frm2200Tv2020:txtSched1_1A_2020_Taxable = 1,680.50
+frm2200Tv2020:txtSched1_1A_2020_Due = 1,884.62
+frm2200Tv2020:txtSched1_1A_2021_Export = 1,935.65
+frm2200Tv2020:txtSched1_1A_2021_Taxable = 1,731.53
+frm2200Tv2020:txtSched1_1A_2021_Due = 1,918.64
+frm2200Tv2020:txtSched1_1B_2020_Export = 2,020.70
+frm2200Tv2020:txtSched1_1B_2020_Taxable = 1,884.62
+frm2200Tv2020:txtSched1_1B_2020_Due = 2,054.72
+frm2200Tv2020:txtSched1_1B_2021_Export = 2,088.74
+frm2200Tv2020:txtSched1_1B_2021_Taxable = 1,935.65
+frm2200Tv2020:txtSched1_1B_2021_Due = 2,071.73
+frm2200Tv2020:txtSched1_1C_2020_Taxable = 2,088.74
+frm2200Tv2020:txtSched1_1C_2020_Due = 2,173.79
+frm2200Tv2020:txtSched1_1C_2021_Export = 2,224.82
+frm2200Tv2020:txtSched1_1C_2021_Due = 2,207.81
+frm2200Tv2020:txtSched1_2_2020_Export = 2,326.88
+frm2200Tv2020:txtSched1_2_2020_Due = 2,309.87
+frm2200Tv2020:txtSched1_2_2021_Export = 2,360.90
+frm2200Tv2020:txtSched1_2_2021_Taxable = 2,343.89
+frm2200Tv2020:txtSched1_2_2021_Due = 2,343.89
+frm2200Tv2020:txtSched1_3A_2020_Taxable = 2,496.98
+frm2200Tv2020:txtSched1_3A_2020_Due = 2,462.96
+frm2200Tv2020:txtSched1_3A_2021_Export = 2,496.98
+frm2200Tv2020:txtSched1_3A_2021_Due = 2,479.97
+frm2200Tv2020:txtSched1_3B_2020_Taxable = 2,700.21
+frm2200Tv2020:txtSched1_3B_2020_Due = 2,581.14
+frm2200Tv2020:txtSched1_3B_2021_Export = 2,632.17
+frm2200Tv2020:txtSched1_3B_2021_Due = 2,615.16
+frm2200Tv2020:txtSched1_4A_2020_Due = 2,666.19
+frm2200Tv2020:txtSched1_4A_2021_Export = 2,700.21
+frm2200Tv2020:txtSched1_4A_2021_Taxable = 2,955.36
+frm2200Tv2020:txtSched1_4A_2021_Due = 2,683.20
+frm2200Tv2020:txtSched1_4B_2020_Taxable = 3,108.45
+frm2200Tv2020:txtSched1_4B_2021_Taxable = 3,159.48
+frm2200Tv2020:txtSched1_5_2020_Export = 2,972.37
+frm2200Tv2020:txtSched1_5_2020_Taxable = 3,312.57
+frm2200Tv2020:txtSched1_5_2020_Due = 2,955.36
+frm2200Tv2020:txtSched1_5_1.23.2020_Export = 2,938.35
+frm2200Tv2020:txtSched1_5_1.23.2020_Due = 2,921.34
+frm2200Tv2020:txtSched1_5_2021_Due = 2,989.38
+frm2200Tv2020:txtSched1_6_10ml_Export = 3,108.45
+frm2200Tv2020:txtSched1_6_10ml_Due = 3,091.44
+frm2200Tv2020:txtSched1_6_20ml_Export = 3,142.47
+frm2200Tv2020:txtSched1_6_20ml_Due = 3,125.46
+frm2200Tv2020:txtSched1_6_30ml_Export = 3,176.49
+frm2200Tv2020:txtSched1_6_30ml_Due = 3,159.48
+frm2200Tv2020:txtSched1_6_40ml_Due = 3,193.50
+frm2200Tv2020:txtSched1_6_50ml_Export = 3,244.53
+frm2200Tv2020:txtSched1_6_50ml_Due = 3,227.52
+frm2200Tv2020:txtSched1_6_above_50ml_Due = 3,278.55
+frm2200Tv2020:txtSched1_7A_2020_Export = 3,312.57
+frm2200Tv2020:txtSched1_7A_2020_Due = 3,295.56
+frm2200Tv2020:txtSched1_7A_2021_Export = 3,346.59
+frm2200Tv2020:txtSched1_7A_2021_Due = 3,329.58
+frm2200Tv2020:txtSched1_7B_2020_Export = 3,448.65
+frm2200Tv2020:txtSched1_7B_2020_Taxable = 4,077.13
+frm2200Tv2020:txtSched1_7B_2020_Due = 3,431.64
+frm2200Tv2020:txtSched1_7B_2021_Taxable = 4,128.16
+frm2200Tv2020:txtSched1_7B_2021_Due = 3,482.67
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 9,
+  "month": 6,
+  "day": 15,
+  "year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "place_of_production": {
+    "region": "00",
+    "province": "00",
+    "city": "00"
+  },
+  "place_of_removal": {
+    "region": "00",
+    "province": "00",
+    "city": "00"
+  },
+  "tax_relief": true,
+  "tax_relief_specify": "1187.21",
+  "manner_of_payment": "other_scheme",
+  "other_scheme_description": "VAL015",
+  "schedule": [
+    {
+      "export_exempt": 1901.63,
+      "taxable": 1680.5,
+      "tax_due": 1884.62
+    },
+    {
+      "export_exempt": 1935.65,
+      "taxable": 1731.53,
+      "tax_due": 1918.64
+    },
+    {
+      "export_exempt": 1969.67,
+      "taxable": 1782.56,
+      "tax_due": 1952.66
+    },
+    {
+      "export_exempt": 2003.69,
+      "taxable": 1833.59,
+      "tax_due": 1986.68
+    },
+    {
+      "export_exempt": 2020.7,
+      "taxable": 1884.62,
+      "tax_due": 2054.72
+    },
+    {
+      "export_exempt": 2088.74,
+      "taxable": 1935.65,
+      "tax_due": 2071.73
+    },
+    {
+      "export_exempt": 2122.76,
+      "taxable": 1986.68,
+      "tax_due": 2105.75
+    },
+    {
+      "export_exempt": 2156.78,
+      "taxable": 2037.71,
+      "tax_due": 2139.77
+    },
+    {
+      "export_exempt": 2190.8,
+      "taxable": 2088.74,
+      "tax_due": 2173.79
+    },
+    {
+      "export_exempt": 2224.82,
+      "taxable": 2139.77,
+      "tax_due": 2207.81
+    },
+    {
+      "export_exempt": 2241.83,
+      "taxable": 2190.8,
+      "tax_due": 2258.84
+    },
+    {
+      "export_exempt": 2292.86,
+      "taxable": 2241.83,
+      "tax_due": 2275.85
+    },
+    {
+      "export_exempt": 2326.88,
+      "taxable": 2292.86,
+      "tax_due": 2309.87
+    },
+    {
+      "export_exempt": 2360.9,
+      "taxable": 2343.89,
+      "tax_due": 2343.89
+    },
+    {
+      "export_exempt": 2394.92,
+      "taxable": 2394.92,
+      "tax_due": 2377.91
+    },
+    {
+      "export_exempt": 2428.94,
+      "taxable": 2445.95,
+      "tax_due": 2411.93
+    },
+    {
+      "export_exempt": 2445.95,
+      "taxable": 2496.98,
+      "tax_due": 2462.96
+    },
+    {
+      "export_exempt": 2496.98,
+      "taxable": 2547.12,
+      "tax_due": 2479.97
+    },
+    {
+      "export_exempt": 2530.11,
+      "taxable": 2598.15,
+      "tax_due": 2513.1
+    },
+    {
+      "export_exempt": 2564.13,
+      "taxable": 2649.18,
+      "tax_due": 2547.12
+    },
+    {
+      "export_exempt": 2598.15,
+      "taxable": 2700.21,
+      "tax_due": 2581.14
+    },
+    {
+      "export_exempt": 2632.17,
+      "taxable": 2751.24,
+      "tax_due": 2615.16
+    },
+    {
+      "export_exempt": 2785.26,
+      "taxable": 2802.27,
+      "tax_due": 2819.28
+    },
+    {
+      "export_exempt": 2836.29,
+      "taxable": 2853.3,
+      "tax_due": 2870.31
+    },
+    {
+      "export_exempt": 2649.18,
+      "taxable": 2904.33,
+      "tax_due": 2666.19
+    },
+    {
+      "export_exempt": 2700.21,
+      "taxable": 2955.36,
+      "tax_due": 2683.2
+    },
+    {
+      "export_exempt": 2734.23,
+      "taxable": 3006.39,
+      "tax_due": 2717.22
+    },
+    {
+      "export_exempt": 2768.25,
+      "taxable": 3057.42,
+      "tax_due": 2751.24
+    },
+    {
+      "export_exempt": 2802.27,
+      "taxable": 3108.45,
+      "tax_due": 2785.26
+    },
+    {
+      "export_exempt": 2836.29,
+      "taxable": 3159.48,
+      "tax_due": 2819.28
+    },
+    {
+      "export_exempt": 2853.3,
+      "taxable": 3210.51,
+      "tax_due": 2870.31
+    },
+    {
+      "export_exempt": 2904.33,
+      "taxable": 3261.54,
+      "tax_due": 2887.32
+    },
+    {
+      "export_exempt": 2972.37,
+      "taxable": 3312.57,
+      "tax_due": 2955.36
+    },
+    {
+      "export_exempt": 2938.35,
+      "taxable": 3363.6,
+      "tax_due": 2921.34
+    },
+    {
+      "export_exempt": 3006.39,
+      "taxable": 3414.63,
+      "tax_due": 2989.38
+    },
+    {
+      "export_exempt": 3040.41,
+      "taxable": 3465.66,
+      "tax_due": 3023.4
+    },
+    {
+      "export_exempt": 3057.42,
+      "taxable": 3516.69,
+      "tax_due": 3074.43
+    },
+    {
+      "export_exempt": 3108.45,
+      "taxable": 3567.72,
+      "tax_due": 3091.44
+    },
+    {
+      "export_exempt": 3142.47,
+      "taxable": 3618.75,
+      "tax_due": 3125.46
+    },
+    {
+      "export_exempt": 3176.49,
+      "taxable": 3669.78,
+      "tax_due": 3159.48
+    },
+    {
+      "export_exempt": 3210.51,
+      "taxable": 3720.81,
+      "tax_due": 3193.5
+    },
+    {
+      "export_exempt": 3244.53,
+      "taxable": 3771.84,
+      "tax_due": 3227.52
+    },
+    {
+      "export_exempt": 3261.54,
+      "taxable": 3822.87,
+      "tax_due": 3278.55
+    },
+    {
+      "export_exempt": 3312.57,
+      "taxable": 3873.9,
+      "tax_due": 3295.56
+    },
+    {
+      "export_exempt": 3346.59,
+      "taxable": 3924.93,
+      "tax_due": 3329.58
+    },
+    {
+      "export_exempt": 3380.61,
+      "taxable": 3975.96,
+      "tax_due": 3363.6
+    },
+    {
+      "export_exempt": 3414.63,
+      "taxable": 4026.1,
+      "tax_due": 3397.62
+    },
+    {
+      "export_exempt": 3448.65,
+      "taxable": 4077.13,
+      "tax_due": 3431.64
+    },
+    {
+      "export_exempt": 3465.66,
+      "taxable": 4128.16,
+      "tax_due": 3482.67
+    },
+    {
+      "export_exempt": 3516.69,
+      "taxable": 4179.19,
+      "tax_due": 3499.68
+    },
+    {
+      "export_exempt": 3550.71,
+      "taxable": 4230.22,
+      "tax_due": 3533.7
+    },
+    {
+      "export_exempt": 3584.73,
+      "taxable": 4281.25,
+      "tax_due": 3567.72
+    },
+    {
+      "export_exempt": 3618.75,
+      "taxable": 4332.28,
+      "tax_due": 3601.74
+    },
+    {
+      "export_exempt": 3652.77,
+      "taxable": 4383.31,
+      "tax_due": 3635.76
+    },
+    {
+      "expor
+... (truncated)

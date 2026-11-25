@@ -1,0 +1,143 @@
+# Form 1602Q — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 1 | Period: Q1
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1602Q:txtSched1Amount15 = 1,527.41
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 12,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "quarter": 1,
+  "is_amended": true,
+  "any_tax_withheld": true,
+  "number_of_attached_sheets": 2,
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "category": "private",
+  "email": "juana.santos@example.com",
+  "availing_tax_relief": true,
+  "tax_relief": "special_rate",
+  "schedule1_amount": [
+    1255.25,
+    1272.26,
+    1289.27,
+    1306.28,
+    1323.29,
+    1340.3,
+    1357.31,
+    1374.32,
+    1391.33,
+    1408.34,
+    1425.35,
+    1442.36,
+    1459.37,
+    1493.39,
+    1527.41
+  ],
+  "bsp_rate": [
+    10.0,
+    10.0
+  ],
+  "schedule1_tax": [
+    251.05,
+    254.45,
+    257.85,
+    261.26,
+    264.66,
+    268.06,
+    271.46,
+    274.86,
+    278.27,
+    169.0,
+    71.27,
+    288.47,
+    2189.05,
+    2240.09,
+    0.0
+  ],
+  "schedule1_total": 7339.8,
+  "schedule2": [
+    {
+      "treaty_code": "VAL032",
+      "atc_code": "IC010",
+      "interest": 1578.44,
+      "tax_rate": 10.0,
+      "tax_withheld": 157.84
+    },
+    {
+      "treaty_code": "VAL036",
+      "atc_code": "IC010",
+      "interest": 1646.48,
+      "tax_rate": 10.0,
+      "tax_withheld": 164.65
+    }
+  ],
+  "schedule2_total": 322.49,
+  "schedule3": [
+    {
+      "ipa_code": "VAL040",
+      "interest": 0.0,
+      "tax_rate": 10.0,
+      "tax_withheld": 0.0
+    },
+    {
+      "ipa_code": "VAL043",
+      "interest": 0.0,
+      "tax_rate": 10.0,
+      "tax_withheld": 0.0
+    }
+  ],
+  "schedule3_total": 0.0,
+  "item14": 7339.8,
+  "item15": 322.49,
+  "item16": 0.0,
+  "item17": 7662.29,
+  "remittance_first_month": 1850.6,
+  "remittance_second_month": 1867.61,
+  "tax_remitted_previous": 1884.62,
+  "over_remittance_previous_quarter": 1901.63,
+  "item22": 7504.46,
+  "item23": 157.83,
+  "surcharge": 39.46,
+  "interest_penalty": 29.78,
+  "compromise": 1000.0,
+  "penalty_model_version": 1,
+  "penalty_due_date": "2025-04-30",
+  "computed_penalties": {
+    "surcharge": 39.46,
+    "interest": 29.78,
+    "compromise": 1000.0,
+    "inputs": {
+      "due_date": "2025-04-30",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 574,
+      "basic_tax_due": 157.83,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "Withholding"
+    }
+  },
+  "penalty_overrides": {},
+  "item27": 1069.24,
+  "item28": 1227.07,
+  "over_remittance": "none",
+  "status": "Draft",
+  "created_at": "2026-11-25T08:50:56.830616203+00:00",
+  "updated_at": "2026-11-25T08:50:56.830616203+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

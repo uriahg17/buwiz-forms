@@ -1,0 +1,310 @@
+# Form 1801 — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 1 | Period: O1
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1801v2018:txtOtherDed_Specify = VAL040
+frm1801v2018:sched5Others_Specify = VAL054
+frm1801v2018:sched1AArea_3 = VAL059
+frm1801v2018:sched1AArea_4 = VAL060
+frm1801v2018:sched1AArea_5 = VAL061
+frm1801v2018:sched1AArea_6 = VAL062
+frm1801v2018:sched1AArea_7 = VAL063
+frm1801v2018:sched1AConj_3 = 2,190.80
+frm1801v2018:sched1AConj_4 = 2,207.81
+frm1801v2018:sched1AConj_5 = 2,224.82
+frm1801v2018:sched1AConj_6 = 2,241.83
+frm1801v2018:sched1AConj_7 = 2,258.84
+frm1801v2018:sched1AExc_3 = 2,309.87
+frm1801v2018:sched1AExc_4 = 2,326.88
+frm1801v2018:sched1AExc_5 = 2,343.89
+frm1801v2018:sched1AExc_6 = 2,360.90
+frm1801v2018:sched1AExc_7 = 2,377.91
+frm1801v2018:sched1AFmv_3 = 2479.97
+frm1801v2018:sched1AFmv_4 = 2496.98
+frm1801v2018:sched1AFmv_5 = 2513.10
+frm1801v2018:sched1AFmv_6 = 2530.11
+frm1801v2018:sched1AFmv_7 = 2547.12
+frm1801v2018:sched1ALoc_3 = VAL094
+frm1801v2018:sched1ALoc_4 = VAL095
+frm1801v2018:sched1ALoc_5 = VAL096
+frm1801v2018:sched1ALoc_6 = VAL097
+frm1801v2018:sched1ALoc_7 = VAL098
+frm1801v2018:sched1AOct_3 = VAL101
+frm1801v2018:sched1AOct_4 = VAL102
+frm1801v2018:sched1AOct_5 = VAL103
+frm1801v2018:sched1AOct_6 = VAL104
+frm1801v2018:sched1AOct_7 = VAL105
+frm1801v2018:sched1ATd_3 = VAL108
+frm1801v2018:sched1ATd_4 = VAL109
+frm1801v2018:sched1ATd_5 = VAL110
+frm1801v2018:sched1ATd_6 = VAL111
+frm1801v2018:sched1ATd_7 = VAL112
+frm1801v2018:sched1AZonal_3 = VAL115
+frm1801v2018:sched1AZonal_4 = VAL116
+frm1801v2018:sched1AZonal_5 = VAL117
+frm1801v2018:sched1AZonal_6 = VAL118
+frm1801v2018:sched1AZonal_7 = VAL119
+frm1801v2018:sched1Area_10 = VAL121
+frm1801v2018:sched1Area_11 = VAL122
+frm1801v2018:sched1Area_12 = VAL123
+frm1801v2018:sched1Area_13 = VAL124
+frm1801v2018:sched1Area_14 = VAL125
+frm1801v2018:sched1Area_15 = VAL126
+frm1801v2018:sched1Area_16 = VAL127
+frm1801v2018:sched1Area_17 = VAL128
+frm1801v2018:sched1Area_18 = VAL129
+frm1801v2018:sched1Area_19 = VAL130
+frm1801v2018:sched1Area_20 = VAL132
+frm1801v2018:sched1Area_21 = VAL133
+frm1801v2018:sched1Area_3 = VAL134
+frm1801v2018:sched1Area_4 = VAL135
+frm1801v2018:sched1Area_5 = VAL136
+frm1801v2018:sched1Area_6 = VAL137
+frm1801v2018:sched1Area_7 = VAL138
+frm1801v2018:sched1Area_8 = VAL139
+frm1801v2018:sched1Area_9 = VAL140
+frm1801v2018:sched1Conj_10 = 2,394.92
+frm1801v2018:sched1Conj_11 = 2,411.93
+frm1801v2018:sched1Conj_12 = 2,428.94
+frm1801v2018:sched1Conj_15 = 2,479.97
+frm1801v2018:sched1Conj_16 = 2,496.98
+frm1801v2018:sched1Conj_17 = 2,513.10
+frm1801v2018:sched1Conj_18 = 2,530.11
+frm1801v2018:sched1Conj_19 = 2,547.12
+frm1801v2018:sched1Conj_20 = 2,564.13
+frm1801v2018:sched1Conj_21 = 2,581.14
+frm1801v2018:sched1Conj_3 = 2,598.15
+frm1801v2018:sched1Conj_4 = 2,615.16
+frm1801v2018:sched1Conj_5 = 2,632.17
+frm1801v2018:sched1Conj_6 = 2,649.18
+frm1801v2018:sched1Conj_7 = 2,666.19
+frm1801v2018:sched1Conj_8 = 2,683.20
+frm1801v2018:sched1Conj_9 = 2,700.21
+frm1801v2018:sched1Exc_10 = 2,717.22
+frm1801v2018:sched1Exc_11 = 2,734.23
+... (546 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 1,
+  "filing_year": 2025,
+  "open_ended_key": 1,
+  "death_month": 0,
+  "death_day": 0,
+  "death_year": 0,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "estate_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "residence_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "non_resident_alien": true,
+  "administrator_name": "VAL007",
+  "administrator_tin": "",
+  "administrator_branch_code": "VAL008",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "tax_relief": null,
+  "extension_to_file": true,
+  "settled_judicially": true,
+  "extension_to_pay": true,
+  "installment_granted": false,
+  "installment_frequency": null,
+  "installment_frequency_other": "",
+  "real_properties": [
+    {
+      "title_number": "VAL267",
+      "tax_declaration_number": "5896.31",
+      "location": "VAL225",
+      "lot_or_improvement": "VAL246",
+      "area": "VAL120",
+      "classification": "",
+      "fmv_per_tax_declaration": "",
+      "fmv_per_zonal_value": "",
+      "value": {
+        "exclusive": 0.0,
+        "conjugal": 0.0
+      }
+    },
+    {
+      "title_number": "VAL278",
+      "tax_declaration_number": "6083.42",
+      "location": "VAL236",
+      "lot_or_improvement": "VAL257",
+      "area": "VAL131",
+      "classification": "",
+      "fmv_per_tax_declaration": "",
+      "fmv_per_zonal_value": "",
+      "value": {
+        "exclusive": 0.0,
+        "conjugal": 0.0
+      }
+    },
+    {
+      "title_number": "VAL281",
+      "tax_declaration_number": "VAL302",
+      "location": "VAL239",
+      "lot_or_improvement": "VAL260",
+      "area": "VAL134",
+      "classification": "",
+      "fmv_per_tax_declaration": "4706.50",
+      "fmv_per_zonal_value": "VAL323",
+      "value": {
+        "exclusive": 2921.34,
+        "conjugal": 2598.15
+      }
+    },
+    {
+      "title_number": "VAL282",
+      "tax_declaration_number": "VAL303",
+      "location": "VAL240",
+      "lot_or_improvement": "VAL261",
+      "area": "VAL135",
+      "classification": "",
+      "fmv_per_tax_declaration": "4723.51",
+      "fmv_per_zonal_value": "VAL324",
+      "value": {
+        "exclusive": 2938.35,
+        "conjugal": 2615.16
+      }
+    },
+    {
+      "title_number": "VAL283",
+      "tax_declaration_number": "VAL304",
+      "location": "VAL241",
+      "lot_or_improvement": "VAL262",
+      "area": "VAL136",
+      "classification": "",
+      "fmv_per_tax_declaration": "4740.52",
+      "fmv_per_zonal_value": "VAL325",
+      "value": {
+        "exclusive": 2955.36,
+        "conjugal": 2632.17
+      }
+    },
+    {
+      "title_number": "VAL284",
+      "tax_declaration_number": "VAL305",
+      "location": "VAL242",
+      "lot_or_improvement": "VAL263",
+      "area": "VAL137",
+      "classification": "",
+      "fmv_per_tax_declaration": "4757.53",
+      "fmv_per_zonal_value": "VAL326",
+      "value": {
+        "exclusive": 2972.37,
+        "conjugal": 2649.18
+      }
+    },
+    {
+      "title_number": "VAL285",
+      "tax_declaration_number": "VAL306",
+      "location": "VAL243",
+      "lot_or_improvement": "VAL264",
+      "area": "VAL138",
+      "classification": "",
+      "fmv_per_tax_declaration": "4774.54",
+      "fmv_per_zonal_value": "VAL327",
+      "value": {
+        "exclusive": 2989.38,
+        "conjugal": 2666.19
+      }
+    },
+    {
+      "title_number": "VAL286",
+      "tax_declaration_number": "VAL307",
+      "location": "VAL244",
+      "lot_or_improvement": "VAL265",
+      "area": "VAL139",
+      "classification": "",
+      "fmv_per_tax_declaration": "4791.55",
+      "fmv_per_zonal_value": "VAL328",
+      "value": {
+        "exclusive": 3006.39,
+        "conjugal": 2683.2
+      }
+    },
+    {
+      "title_number": "VAL287",
+      "tax_declaration_number": "VAL308",
+      "location": "VAL245",
+      "lot_or_improvement": "VAL266",
+      "area": "VAL140",
+      "classification": "",
+      "fmv_per_tax_declaration": "4808.56",
+      "fmv_per_zonal_value": "VAL329",
+      "value": {
+        "exclusive": 3023.4,
+        "conjugal": 2700.21
+      }
+    },
+    {
+      "title_number": "VAL268",
+      "tax_declaration_number": "VAL289",
+      "location": "VAL226",
+      "lot_or_improvement": "VAL247",
+      "area": "VAL121",
+      "classification": "",
+      "fmv_per_tax_declaration": "4485.37",
+      "fmv_per_zonal_value": "VAL310",
+      "value": {
+        "exclusive": 2717.22,
+        "conjugal": 2394.92
+      }
+    },
+    {
+      "title_number": "VAL269",
+      "tax_declaration_number": "VAL290",
+      "location": "VAL227",
+      "lot_or_improvement": "VAL248",
+      "area": "VAL122",
+      "classification": "",
+      "fmv_per_tax_declaration": "4502.38",
+      "fmv_per_zonal_value": "VAL311",
+      "value": {
+        "exclusive": 2734.23,
+        "conjugal": 2411.93
+      }
+    },
+    {
+      "title_number": "VAL270",
+      "tax_declaration_number": "VAL291",
+      "location": "VAL228",
+      "lot_or_improvement": "VAL249",
+      "area": "VAL123",
+      "classification": "",
+      "fmv_per_tax_declaration": "4519.39",
+      "fmv_per_zonal_value": "VAL312",
+      "value": {
+        "exclusive": 2751.24,
+        "conjugal": 2428.94
+      }
+    },
+    {
+      "title_number": "VAL271",
+      "tax_declaration_number": "VAL292",
+      "location": "VAL229",
+      "lot_or_improvement": "VAL250",
+      "area": "VAL124",
+      "classification": "",
+      "fmv_per_tax_declaration": "4536.40",
+      "fmv_per_zonal_value": "VAL313",
+      "value": {
+        "exclusive": 2768.25,
+        "conjugal": 2445.95
+      }
+    },
+    {
+      "title_number": "VAL272",
+      "tax_declaration_number": "VAL293",
+      "location": "VAL230",
+      "lot_or_improvement": "VAL251",
+      "area": "VAL125",
+      "classification": "",
+      "fmv_per_tax_declaration": "4553.41",
+      "fmv_per_zonal_value": "VAL314",
+      "value": {
+        "exclusive": 2785.26,
+        
+... (truncated)

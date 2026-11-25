@@ -1,0 +1,203 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1702MX:Inst	InstAPg2Part4	1	APg2Part4	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm1702MX:txtPg2Pt4I31CA	Schedule 1 item 1 Investment Promotion Agency, column A	2	VAL022	BLANK	BLANK	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c17)
+frm1702MX:txtPg2Pt4I31CB	Schedule 1 item 1 Investment Promotion Agency, column B	2	VAL023	BLANK	BLANK	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c18)
+frm1702MX:txtPg2Pt4I31CC	Schedule 1 item 1 Investment Promotion Agency, column C	2	VAL024	BLANK	BLANK	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c19)
+frm1702MX:txtPg2Pt4I32CA	Schedule 1 item 2 Legal Basis, column A	2	VAL025	126358	126358	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c21)
+frm1702MX:txtPg2Pt4I32CB	Schedule 1 item 2 Legal Basis, column B	2	VAL026	127065	127065	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c22)
+frm1702MX:txtPg2Pt4I32CC	Schedule 1 item 2 Legal Basis, column C	2	VAL027	145044	145044	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c23)
+frm1702MX:txtPg2Pt4I33CA	Schedule 1 item 3 Registered Activity/Program, column A	2	VAL028	0	BLANK	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c25)
+frm1702MX:txtPg2Pt4I33CB	Schedule 1 item 3 Registered Activity/Program, column B	2	VAL029	-143327	-143327	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c26)
+frm1702MX:txtPg2Pt4I33CC	Schedule 1 item 3 Registered Activity/Program, column C	2	VAL030	-145044	-145044	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c27)
+frm1702MX:txtPg2Pt4I35CA	txtPg2Pt4I35CA	2	VAL031	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg2Pt4I35CC	txtPg2Pt4I35CC	2	VAL033	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg2Pt4I36CA	txtPg2Pt4I36CA	2	VAL034	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg2Pt4I36CC	txtPg2Pt4I36CC	2	VAL036	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg2Sc2Itm1A	Schedule 2 item 1 Sales/Receipts/Revenues/Fees, column A	2	15656	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c70)
+frm1702MX:txtPg2Sc2Itm1B	Schedule 2 item 1 Sales/Receipts/Revenues/Fees, column B	2	15757	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c71)
+frm1702MX:txtPg2Sc2Itm1C	Schedule 2 item 1 Sales/Receipts/Revenues/Fees, column C	2	15858	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c72)
+frm1702MX:txtPg2Sc2Itm2A	Schedule 2 item 2 Sales Returns, column A	2	15959	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c75)
+frm1702MX:txtPg2Sc2Itm2B	Schedule 2 item 2 Sales Returns, column B	2	16060	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c76)
+frm1702MX:txtPg2Sc2Itm2C	Schedule 2 item 2 Sales Returns, column C	2	16161	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c77)
+frm1702MX:txtPg2Sc2Itm4A	Schedule 2 item 4 Cost of Sales, column A	2	16363	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c85)
+frm1702MX:txtPg2Sc2Itm4B	Schedule 2 item 4 Cost of Sales, column B	2	16464	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c86)
+frm1702MX:txtPg2Sc2Itm4C	Schedule 2 item 4 Cost of Sales, column C	2	16565	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c87)
+frm1702MX:txtPg2Sc2Itm6A	Schedule 2 item 6 Other Taxable Income, column A	2	16666	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c95)
+frm1702MX:txtPg2Sc2Itm6B	Schedule 2 item 6 Other Taxable Income, column B	2	16767	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c96)
+frm1702MX:txtPg2Sc2Itm6C	Schedule 2 item 6 Other Taxable Income, column C	2	16868	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c97)
+frm1702MX:txtPg2Sc2It16B	Schedule 2 item 16 Share of Other Government Agency, column B	2	16262	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c163)
+frm1702MX:txtPg2Sc3It20A	Schedule 3 item 20 Prior Year Excess Credits, column A	2	16969	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c180)
+frm1702MX:txtPg2Sc3It20B	Schedule 3 item 20 Prior Year Excess Credits, column B	2	17070	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c181)
+frm1702MX:txtPg2Sc3It20C	Schedule 3 item 20 Prior Year Excess Credits, column C	2	17171	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c182)
+frm1702MX:txtPg2Sc3It21C	Schedule 3 item 21 MCIT payment from previous quarters, column C	2	17272	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c187)
+frm1702MX:txtPg2Sc3It22A	Schedule 3 item 22 Regular rate payment, column A	2	17373	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c190)
+frm1702MX:txtPg2Sc3It22B	Schedule 3 item 22 Regular rate payment, column B	2	17474	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c191)
+frm1702MX:txtPg2Sc3It22C	Schedule 3 item 22 Regular rate payment, column C	2	17575	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c192)
+frm1702MX:txtPg2Sc3It24A	Schedule 3 item 24 Creditable tax withheld, previous quarters, column A	2	17676	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c200)
+frm1702MX:txtPg2Sc3It24B	Schedule 3 item 24 Creditable tax withheld, previous quarters, column B	2	17777	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c201)
+frm1702MX:txtPg2Sc3It24C	Schedule 3 item 24 Creditable tax withheld, previous quarters, column C	2	17878	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c202)
+frm1702MX:txtPg2Sc3It25A	Schedule 3 item 25 Creditable tax withheld, 4th quarter, column A	2	17979	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c205)
+frm1702MX:txtPg2Sc3It25B	Schedule 3 item 25 Creditable tax withheld, 4th quarter, column B	2	18080	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c206)
+frm1702MX:txtPg2Sc3It25C	Schedule 3 item 25 Creditable tax withheld, 4th quarter, column C	2	18181	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c207)
+frm1702MX:txtPg2Sc3It26A	Schedule 3 item 26 Foreign tax credits, column A	2	18282	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c210)
+frm1702MX:txtPg2Sc3It26B	Schedule 3 item 26 Foreign tax credits, column B	2	18383	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c211)
+frm1702MX:txtPg2Sc3It26C	Schedule 3 item 26 Foreign tax credits, column C	2	18484	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c212)
+frm1702MX:txtPg2Sc3It28A	Schedule 3 item 28 Special rate payments, column A	2	18888	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c220)
+frm1702MX:txtPg2Sc3It28B	Schedule 3 item 28 Special rate payments, column B	2	18989	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c221)
+frm1702MX:txtPg2Sc3It28C	Schedule 3 item 28 Special rate payments, column C	2	19090	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c222)
+frm1702MX:txtPg2Sc3It29A	Schedule 3 item 29 Special tax credits, column A	2	19191	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c225)
+frm1702MX:txtPg2Sc3It29B	Schedule 3 item 29 Special tax credits, column B	2	19292	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c226)
+frm1702MX:txtPg2Sc3It29C	Schedule 3 item 29 Special tax credits, column C	2	19393	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p2c227)
+frm1702MX:txtPg3Sc4Itm1A	Schedule 4 item 1 Regular Income Tax Otherwise Due, column A	3	19696	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c14)
+frm1702MX:txtPg3Sc4Itm1B	Schedule 4 item 1 Regular Income Tax Otherwise Due, column B	3	19797	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c15)
+frm1702MX:txtPg2Sc4Itm2A	Schedule 4 item 2 Tax Relief, column A	3	19494	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c19)
+frm1702MX:txtPg2Sc4Itm2B	Schedule 4 item 2 Tax Relief, column B	3	19595	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c20)
+frm1702MX:txtPg2Sc4Itm2C	Schedule 4 item 2 Tax Relief, column C	3	19898	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c21)
+frm1702MX:txtPg3Sc5Itm1A	Schedule 5 item 1 Amortizations, column A	3	19999	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c50)
+frm1702MX:txtPg3Sc5Itm1B	Schedule 5 item 1 Amortizations, column B	3	20100	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c51)
+frm1702MX:txtPg3Sc5Itm1C	Schedule 5 item 1 Amortizations, column C	3	20201	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c52)
+frm1702MX:txtPg3Sc5Itm2A	Schedule 5 item 2 Bad Debts, column A	3	20302	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c55)
+frm1702MX:txtPg3Sc5Itm2B	Schedule 5 item 2 Bad Debts, column B	3	20403	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c56)
+frm1702MX:txtPg3Sc5Itm2C	Schedule 5 item 2 Bad Debts, column C	3	20504	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c57)
+frm1702MX:txtPg3Sc5Itm3A	Schedule 5 item 3 Charitable Contributions, column A	3	20605	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c60)
+frm1702MX:txtPg3Sc5Itm3B	Schedule 5 item 3 Charitable Contributions, column B	3	20706	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c61)
+frm1702MX:txtPg3Sc5Itm3C	Schedule 5 item 3 Charitable Contributions, column C	3	20807	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c62)
+frm1702MX:txtPg3Sc5Itm4A	Schedule 5 item 4 Depletion, column A	3	20908	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c65)
+frm1702MX:txtPg3Sc5Itm4B	Schedule 5 item 4 Depletion, column B	3	21009	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c66)
+frm1702MX:txtPg3Sc5Itm4C	Schedule 5 item 4 Depletion, column C	3	21110	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c67)
+frm1702MX:txtPg3Sc5Itm5A	Schedule 5 item 5 Depreciation, column A	3	21211	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c70)
+frm1702MX:txtPg3Sc5Itm5B	Schedule 5 item 5 Depreciation, column B	3	21312	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c71)
+frm1702MX:txtPg3Sc5Itm5C	Schedule 5 item 5 Depreciation, column C	3	21413	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c72)
+frm1702MX:txtPg3Sc5Itm6A	Schedule 5 item 6 Entertainment, column A	3	21514	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c75)
+frm1702MX:txtPg3Sc5Itm6B	Schedule 5 item 6 Entertainment, column B	3	21615	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c76)
+frm1702MX:txtPg3Sc5Itm6C	Schedule 5 item 6 Entertainment, column C	3	21716	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c77)
+frm1702MX:txtPg3Sc5Itm7A	Schedule 5 item 7 Fringe Benefits, column A	3	21817	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c80)
+frm1702MX:txtPg3Sc5Itm7B	Schedule 5 item 7 Fringe Benefits, column B	3	21918	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c81)
+frm1702MX:txtPg3Sc5Itm7C	Schedule 5 item 7 Fringe Benefits, column C	3	22019	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c82)
+frm1702MX:txtPg3Sc5Itm8A	Schedule 5 item 8 Interest, column A	3	22120	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c85)
+frm1702MX:txtPg3Sc5Itm8B	Schedule 5 item 8 Interest, column B	3	22221	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c86)
+frm1702MX:txtPg3Sc5Itm8C	Schedule 5 item 8 Interest, column C	3	23130	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c87)
+frm1702MX:txtPg3Sc5Itm9A	Schedule 5 item 9 Losses, column A	3	23231	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c90)
+frm1702MX:txtPg3Sc5Itm9B	Schedule 5 item 9 Losses, column B	3	23332	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c91)
+frm1702MX:txtPg3Sc5Itm9C	Schedule 5 item 9 Losses, column C	3	23433	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c92)
+frm1702MX:txtPg3Sc5Itm10A	Schedule 5 item 10 Pension Trusts, column A	3	22322	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c95)
+frm1702MX:txtPg3Sc5Itm10B	Schedule 5 item 10 Pension Trusts, column B	3	22423	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c96)
+frm1702MX:txtPg3Sc5Itm10C	Schedule 5 item 10 Pension Trusts, column C	3	22524	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c97)
+frm1702MX:txtPg3Sc5Itm11A	Schedule 5 item 11 Rental, column A	3	22625	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c100)
+frm1702MX:txtPg3Sc5Itm11B	Schedule 5 item 11 Rental, column B	3	22726	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c101)
+frm1702MX:txtPg3Sc5Itm11C	Schedule 5 item 11 Rental, column C	3	22827	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c102)
+frm1702MX:txtPg3Sc5Itm12A	Schedule 5 item 12 Research and Development, column A	3	22928	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c105)
+frm1702MX:txtPg3Sc5Itm12B	Schedule 5 item 12 Research and Development, column B	3	23029	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c106)
+frm1702MX:txtPg3Sc5Itm12C	Schedule 5 item 12 Research and Development, column C	3	23534	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c107)
+frm1702MX:txtPg3Sc5Itm13A	Schedule 5 item 13 Salaries, Wages and Allowances, column A	3	23635	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c110)
+frm1702MX:txtPg3Sc5Itm13B	Schedule 5 item 13 Salaries, Wages and Allowances, column B	3	23736	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c111)
+frm1702MX:txtPg3Sc5Itm13C	Schedule 5 item 13 Salaries, Wages and Allowances, column C	3	23837	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c112)
+frm1702MX:txtPg3Sc5Itm14A	Schedule 5 item 14 SSS, GSIS, Philhealth, HDMF, column A	3	23938	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c115)
+frm1702MX:txtPg3Sc5Itm14B	Schedule 5 item 14 SSS, GSIS, Philhealth, HDMF, column B	3	24039	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c116)
+frm1702MX:txtPg3Sc5Itm14C	Schedule 5 item 14 SSS, GSIS, Philhealth, HDMF, column C	3	24140	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c117)
+frm1702MX:txtPg3Sc5Itm15A	Schedule 5 item 15 Taxes and Licenses, column A	3	24241	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c120)
+frm1702MX:txtPg3Sc5Itm15B	Schedule 5 item 15 Taxes and Licenses, column B	3	24342	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c121)
+frm1702MX:txtPg3Sc5Itm15C	Schedule 5 item 15 Taxes and Licenses, column C	3	24443	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c122)
+frm1702MX:txtPg3Sc5Itm16A	Schedule 5 item 16 Transportation and Travel, column A	3	24544	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c125)
+frm1702MX:txtPg3Sc5Itm16B	Schedule 5 item 16 Transportation and Travel, column B	3	24645	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c126)
+frm1702MX:txtPg3Sc5Itm16C	Schedule 5 item 16 Transportation and Travel, column C	3	24746	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c127)
+frm1702MX:txtPg3Sc5Itm17aA	Schedule 5 item 17 a Janitorial and Messengerial Services, column A	3	24847	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c131)
+frm1702MX:txtPg3Sc5Itm17aB	Schedule 5 item 17 a Janitorial and Messengerial Services, column B	3	24948	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c132)
+frm1702MX:txtPg3Sc5Itm17aC	Schedule 5 item 17 a Janitorial and Messengerial Services, column C	3	25049	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c133)
+frm1702MX:txtPg3Sc5Itm17bA	Schedule 5 item 17 b Professional Fees, column A	3	25150	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c136)
+frm1702MX:txtPg3Sc5Itm17bB	Schedule 5 item 17 b Professional Fees, column B	3	25251	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c137)
+frm1702MX:txtPg3Sc5Itm17bC	Schedule 5 item 17 b Professional Fees, column C	3	25352	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c138)
+frm1702MX:txtPg3Sc5Itm17cA	Schedule 5 item 17 c Security Services, column A	3	25453	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c141)
+frm1702MX:txtPg3Sc5Itm17cB	Schedule 5 item 17 c Security Services, column B	3	25554	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c142)
+frm1702MX:txtPg3Sc5Itm17cC	Schedule 5 item 17 c Security Services, column C	3	25655	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p3c143)
+frm1702MX:txtPg6Sc6I1CA	txtPg6Sc6I1CA	3-4	25857	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg3Sc6I1CB	txtPg3Sc6I1CB	3	25756	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6I1CC	txtPg6Sc6I1CC	3-4	25958	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg4Sc10Itm1A	Schedule 10 item 1 Net Income/(Loss) per Books, column A	4	26867	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p4c144)
+frm1702MX:txtPg4Sc10Itm1B	Schedule 10 item 1 Net Income/(Loss) per Books, column B	4	26968	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p4c145)
+frm1702MX:txtPg4Sc10Itm1C	Schedule 10 item 1 Net Income/(Loss) per Books, column C	4	27069	BLANK	0	yes	yes	F	html-frozen/1702mx-2018c/writer-cells.json (joins -> p4c146)
+frm1702MX:txtPg6Sc6_10Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 10	3-4	VAL180	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_10Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 10	3-4	VAL181	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_10Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 10	3-4	27877	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_10Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 10	3-4	27978	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_10Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 10	3-4	28079	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_11Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 11	3-4	VAL185	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_11Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 11	3-4	VAL186	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_11Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 11	3-4	28180	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_11Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 11	3-4	28281	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_11Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 11	3-4	28382	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_12Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 12	3-4	VAL190	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_12Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 12	3-4	VAL191	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_12Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 12	3-4	28483	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_12Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 12	3-4	28584	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_12Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 12	3-4	28685	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_13Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 13	3-4	VAL195	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_13Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 13	3-4	VAL196	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_13Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 13	3-4	28786	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_13Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 13	3-4	28887	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_13Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 13	3-4	28988	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_14Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 14	3-4	VAL200	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_14Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 14	3-4	VAL201	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_14Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 14	3-4	29089	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_14Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 14	3-4	29190	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_14Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 14	3-4	29291	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_15Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 15	3-4	VAL205	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_15Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 15	3-4	VAL206	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_15Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 15	3-4	29392	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_15Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 15	3-4	29493	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_15Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 15	3-4	29594	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_16Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 16	3-4	VAL210	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_16Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 16	3-4	VAL211	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_16Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 16	3-4	29695	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_16Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 16	3-4	29796	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_16Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 16	3-4	29897	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_17Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 17	3-4	VAL215	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_17Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 17	3-4	VAL216	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_17Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 17	3-4	29998	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_17Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 17	3-4	30099	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_17Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 17	3-4	30200	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_1Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 1	3-4	VAL220	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_1Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 1	3-4	VAL221	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_1Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 1	3-4	30301	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_1Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 1	3-4	30402	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_1Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 1	3-4	30503	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_2Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 2	3-4	VAL225	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_2Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 2	3-4	VAL226	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_2Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 2	3-4	30604	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_2Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 2	3-4	30705	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_2Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 2	3-4	30806	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_3Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 3	3-4	VAL230	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_3Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 3	3-4	VAL231	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_3Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 3	3-4	30907	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_3Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 3	3-4	31008	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_3Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 3	3-4	31109	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_4Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 4	3-4	VAL235	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_4Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 4	3-4	VAL236	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_4Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 4	3-4	31210	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_4Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 4	3-4	31311	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_4Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 4	3-4	31412	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_5Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 5	3-4	VAL240	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_5Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 5	3-4	VAL241	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_5Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 5	3-4	31513	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_5Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 5	3-4	31614	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_5Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 5	3-4	31715	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_6Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 6	3-4	VAL245	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_6Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 6	3-4	VAL246	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_6Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 6	3-4	31816	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_6Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 6	3-4	31917	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_6Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 6	3-4	32018	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_7Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 7	3-4	VAL250	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_7Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 7	3-4	VAL251	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_7Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 7	3-4	32119	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_7Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 7	3-4	32220	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_7Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 7	3-4	32321	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_8Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 8	3-4	VAL255	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_8Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 8	3-4	VAL256	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_8Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 8	3-4	32422	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_8Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 8	3-4	32523	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_8Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 8	3-4	32624	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_9Col1	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col1, row 9	3-4	VAL260	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_9Col2	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col2, row 9	3-4	VAL261	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_9Col3	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col3, row 9	3-4	32725	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_9Col4	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col4, row 9	3-4	32826	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1702MX:txtPg6Sc6_9Col5	Runtime-indexed field family frm1702MX:txtPg6Sc6_{N>=1}Col5, row 9	3-4	32927	BLANK	BLANK	yes	yes	F	not in writer-cells.json

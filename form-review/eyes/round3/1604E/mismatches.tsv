@@ -1,0 +1,3 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1604e:txtYear	Item 1 For the Year (20YY)	1	2025	225 0 (overprints preprinted 20)	225 0 (overprints preprinted 20)	yes	yes	F	html-frozen/1604e-2018/writer-cells.json (4-digit year written over preprinted 20)
+frm1604e:txtAddress	Item 7 Registered Address	1	UNIT 2804-B ... METRO MANILA (123 chars)	UNIT 2804-B ... 845 ARNAIZ AV (clipped)	UNIT 2804-B ... 845 ARNAIZ AV (clipped)	yes	yes	D	Fixed comb width in html-frozen/1604e-2018/sheet.html

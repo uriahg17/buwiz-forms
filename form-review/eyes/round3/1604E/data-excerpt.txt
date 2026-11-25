@@ -1,0 +1,178 @@
+# Form 1604E — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 15,
+  "taxable_year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "agent_category": "private",
+  "top_withholding_agent": true,
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "schedule1": [
+    {
+      "date": "03/15/2025",
+      "bank": "VAL006",
+      "reference": "VAL007",
+      "taxes_withheld": 1136.18,
+      "penalties": 1850.6,
+      "total_remitted": 2986.78
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL011",
+      "reference": "VAL012",
+      "taxes_withheld": 1221.23,
+      "penalties": 1867.61,
+      "total_remitted": 3088.84
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL016",
+      "reference": "VAL017",
+      "taxes_withheld": 1306.28,
+      "penalties": 1884.62,
+      "total_remitted": 3190.9
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL021",
+      "reference": "VAL022",
+      "taxes_withheld": 1391.33,
+      "penalties": 1901.63,
+      "total_remitted": 3292.96
+    }
+  ],
+  "schedule1_totals": {
+    "taxes_withheld": 5055.02,
+    "penalties": 7504.46,
+    "total_remitted": 12559.48
+  },
+  "schedule2": [
+    {
+      "date": "03/15/2025",
+      "bank": "VAL026",
+      "reference": "VAL027",
+      "taxes_withheld": 1476.38,
+      "penalties": 1918.64,
+      "total_remitted": 3395.02
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL031",
+      "reference": "VAL032",
+      "taxes_withheld": 1561.43,
+      "penalties": 1935.65,
+      "total_remitted": 3497.08
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL036",
+      "reference": "VAL037",
+      "taxes_withheld": 1646.48,
+      "penalties": 1952.66,
+      "total_remitted": 3599.14
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL041",
+      "reference": "VAL042",
+      "taxes_withheld": 1731.53,
+      "penalties": 1969.67,
+      "total_remitted": 3701.2
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL046",
+      "reference": "VAL047",
+      "taxes_withheld": 1816.58,
+      "penalties": 1986.68,
+      "total_remitted": 3803.26
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL051",
+      "reference": "VAL052",
+      "taxes_withheld": 1901.63,
+      "penalties": 2003.69,
+      "total_remitted": 3905.32
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL056",
+      "reference": "VAL057",
+      "taxes_withheld": 1986.68,
+      "penalties": 2020.7,
+      "total_remitted": 4007.38
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL061",
+      "reference": "VAL062",
+      "taxes_withheld": 2071.73,
+      "penalties": 2105.75,
+      "total_remitted": 4177.48
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL066",
+      "reference": "VAL067",
+      "taxes_withheld": 2156.78,
+      "penalties": 2122.76,
+      "total_remitted": 4279.54
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL071",
+      "reference": "VAL072",
+      "taxes_withheld": 2241.83,
+      "penalties": 2054.72,
+      "total_remitted": 4296.55
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL076",
+      "reference": "VAL077",
+      "taxes_withheld": 2326.88,
+      "penalties": 2071.73,
+      "total_remitted": 4398.61
+    },
+    {
+      "date": "03/15/2025",
+      "bank": "VAL081",
+      "reference": "VAL082",
+      "taxes_withheld": 2411.93,
+      "penalties": 2088.74,
+      "total_remitted": 4500.67
+    }
+  ],
+  "schedule2_totals": {
+    "taxes_withheld": 23329.86,
+    "penalties": 24231.39,
+    "total_remitted": 47561.25
+  },
+  "status": "Draft",
+  "created_at": "2026-11-25T08:51:31.223109170+00:00",
+  "updated_at": "2026-11-25T08:51:31.223109170+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

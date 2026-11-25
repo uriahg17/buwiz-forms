@@ -1,0 +1,351 @@
+# Form 1707A — Saved Return Data Excerpt (r3-redo-g1.db)
+# Taxable year: 2025 | Quarter: 1 | Period: O1
+# Updated at:  | Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1707Av2021:txtI11ASpecify = VAL010
+frm1707Av2021:txtS1C3SellingPrice_1 = 2,071.73
+frm1707Av2021:txtS1C3SellingPrice_10 = 2,088.74
+frm1707Av2021:txtS1C3SellingPrice_11 = 2,105.75
+frm1707Av2021:txtS1C3SellingPrice_2 = 2,122.76
+frm1707Av2021:txtS1C3SellingPrice_3 = 2,139.77
+frm1707Av2021:txtS1C3SellingPrice_4 = 2,156.78
+frm1707Av2021:txtS1C3SellingPrice_5 = 2,173.79
+frm1707Av2021:txtS1C3SellingPrice_6 = 2,190.80
+frm1707Av2021:txtS1C3SellingPrice_7 = 2,207.81
+frm1707Av2021:txtS1C3SellingPrice_8 = 2,224.82
+frm1707Av2021:txtS1C3SellingPrice_9 = 2,241.83
+frm1707Av2021:txtS1C4Cost_1 = 2,258.84
+frm1707Av2021:txtS1C4Cost_10 = 2,275.85
+frm1707Av2021:txtS1C4Cost_11 = 2,292.86
+frm1707Av2021:txtS1C4Cost_2 = 2,309.87
+frm1707Av2021:txtS1C4Cost_3 = 2,326.88
+frm1707Av2021:txtS1C4Cost_4 = 2,343.89
+frm1707Av2021:txtS1C4Cost_5 = 2,360.90
+frm1707Av2021:txtS1C4Cost_6 = 2,377.91
+frm1707Av2021:txtS1C4Cost_7 = 2,394.92
+frm1707Av2021:txtS1C4Cost_8 = 2,411.93
+frm1707Av2021:txtS1C4Cost_9 = 2,428.94
+frm1707Av2021:txtS1C6TaxPaid_1 = 2,445.95
+frm1707Av2021:txtS1C6TaxPaid_10 = 2,462.96
+frm1707Av2021:txtS1C6TaxPaid_11 = 2,479.97
+frm1707Av2021:txtS1C6TaxPaid_2 = 2,496.98
+frm1707Av2021:txtS1C6TaxPaid_3 = 2,513.10
+frm1707Av2021:txtS1C6TaxPaid_4 = 2,530.11
+frm1707Av2021:txtS1C6TaxPaid_5 = 2,547.12
+frm1707Av2021:txtS1C6TaxPaid_6 = 2,564.13
+frm1707Av2021:txtS1C6TaxPaid_7 = 2,581.14
+frm1707Av2021:txtS1C6TaxPaid_8 = 2,598.15
+frm1707Av2021:txtS1C6TaxPaid_9 = 2,615.16
+frm1707Av2021:txtS2C3SellingPrice_1 = 2,938.35
+frm1707Av2021:txtS2C3SellingPrice_2 = 2,955.36
+frm1707Av2021:txtS2C3SellingPrice_3 = 2,972.37
+frm1707Av2021:txtS2C3SellingPrice_4 = 2,989.38
+frm1707Av2021:txtS2C3SellingPrice_5 = 3,006.39
+frm1707Av2021:txtS2C3SellingPrice_6 = 3,023.40
+frm1707Av2021:txtS2C3SellingPrice_7 = 3,040.41
+frm1707Av2021:txtS2C3SellingPrice_8 = 3,057.42
+frm1707Av2021:txtS2C3SellingPrice_9 = 3,074.43
+frm1707Av2021:txtS2C4Cost_1 = 3,091.44
+frm1707Av2021:txtS2C4Cost_2 = 3,108.45
+frm1707Av2021:txtS2C4Cost_3 = 3,125.46
+frm1707Av2021:txtS2C4Cost_4 = 3,142.47
+frm1707Av2021:txtS2C4Cost_5 = 3,159.48
+frm1707Av2021:txtS2C4Cost_6 = 3,176.49
+frm1707Av2021:txtS2C4Cost_7 = 3,193.50
+frm1707Av2021:txtS2C4Cost_8 = 3,210.51
+frm1707Av2021:txtS2C4Cost_9 = 3,227.52
+frm1707Av2021:txtS1C3SellingPrice_12 = 3,584.73
+frm1707Av2021:txtS1C3SellingPrice_13 = 3,601.74
+frm1707Av2021:txtS1C3SellingPrice_14 = 3,618.75
+frm1707Av2021:txtS1C3SellingPrice_15 = 3,635.76
+frm1707Av2021:txtS1C3SellingPrice_16 = 3,652.77
+frm1707Av2021:txtS1C3SellingPrice_17 = 3,669.78
+frm1707Av2021:txtS1C3SellingPrice_18 = 3,686.79
+frm1707Av2021:txtS1C3SellingPrice_19 = 3,703.80
+frm1707Av2021:txtS1C3SellingPrice_20 = 3,720.81
+frm1707Av2021:txtS1C3SellingPrice_21 = 3,737.82
+frm1707Av2021:txtS1C4Cost_12 = 3,754.83
+frm1707Av2021:txtS1C4Cost_13 = 3,771.84
+frm1707Av2021:txtS1C4Cost_14 = 3,788.85
+frm1707Av2021:txtS1C4Cost_15 = 3,805.86
+frm1707Av2021:txtS1C4Cost_16 = 3,822.87
+frm1707Av2021:txtS1C4Cost_17 = 3,839.88
+frm1707Av2021:txtS1C4Cost_18 = 3,856.89
+frm1707Av2021:txtS1C4Cost_19 = 3,873.90
+frm1707Av2021:txtS1C4Cost_20 = 3,890.91
+frm1707Av2021:txtS1C4Cost_21 = 3,907.92
+frm1707Av2021:txtS1C6TaxPaid_12 = 3,924.93
+frm1707Av2021:txtS1C6TaxPaid_13 = 3,941.94
+frm1707Av2021:txtS1C6TaxPaid_14 = 3,958.95
+frm1707Av2021:txtS1C6TaxPaid_15 = 3,975.96
+frm1707Av2021:txtS1C6TaxPaid_16 = 3,992.97
+frm1707Av2021:txtS1C6TaxPaid_17 = 4,009.98
+frm1707Av2021:txtS1C6TaxPaid_18 = 4,026.10
+frm1707Av2021:txtS1C6TaxPaid_19 = 4,043.11
+... (22 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt (top-level keys & cited fields)
+{
+  "id": 4,
+  "filing_year": 2025,
+  "open_ended_key": 1,
+  "fiscal": false,
+  "year_end_month": 12,
+  "year_end_day": 31,
+  "year_end_year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "atc": null,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "line_of_business": "",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "tax_relief": "VAL010",
+  "gains": [
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1272.26,
+      "cost": 1391.33,
+      "gain_or_loss": -119.07,
+      "tax_paid": 1408.34
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1323.29,
+      "cost": 1425.35,
+      "gain_or_loss": -102.06,
+      "tax_paid": 1442.36
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1374.32,
+      "cost": 1459.37,
+      "gain_or_loss": -85.05,
+      "tax_paid": 1476.38
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2071.73,
+      "cost": 2258.84,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2445.95
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2122.76,
+      "cost": 2309.87,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2496.98
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2139.77,
+      "cost": 2326.88,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2513.1
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2156.78,
+      "cost": 2343.89,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2530.11
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2173.79,
+      "cost": 2360.9,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2547.12
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2190.8,
+      "cost": 2377.91,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2564.13
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2207.81,
+      "cost": 2394.92,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2581.14
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2224.82,
+      "cost": 2411.93,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2598.15
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2241.83,
+      "cost": 2428.94,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2615.16
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2088.74,
+      "cost": 2275.85,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2462.96
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2105.75,
+      "cost": 2292.86,
+      "gain_or_loss": -187.11,
+      "tax_paid": 2479.97
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3584.73,
+      "cost": 3754.83,
+      "gain_or_loss": -170.1,
+      "tax_paid": 3924.93
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3601.74,
+      "cost": 3771.84,
+      "gain_or_loss": -170.1,
+      "tax_paid": 3941.94
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3618.75,
+      "cost": 3788.85,
+      "gain_or_loss": -170.1,
+      "tax_paid": 3958.95
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3635.76,
+      "cost": 3805.86,
+      "gain_or_loss": -170.1,
+      "tax_paid": 3975.96
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3652.77,
+      "cost": 3822.87,
+      "gain_or_loss": -170.1,
+      "tax_paid": 3992.97
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3669.78,
+      "cost": 3839.88,
+      "gain_or_loss": -170.1,
+      "tax_paid": 4009.98
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3686.79,
+      "cost": 3856.89,
+      "gain_or_loss": -170.1,
+      "tax_paid": 4026.1
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3703.8,
+      "cost": 3873.9,
+      "gain_or_loss": -170.1,
+      "tax_paid": 4043.11
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3720.81,
+      "cost": 3890.91,
+      "gain_or_loss": -170.1,
+      "tax_paid": 4060.12
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 3737.82,
+      "cost": 3907.92,
+      "gain_or_loss": -170.1,
+      "tax_paid": 4077.13
+    }
+  ],
+  "losses": [
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1595.45,
+      "cost": 1612.46,
+      "gain_or_loss": 17.01,
+      "tax_paid": 0.0
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1629.47,
+      "cost": 1646.48,
+      "gain_or_loss": 17.01,
+      "tax_paid": 0.0
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 1663.49,
+      "cost": 1680.5,
+      "gain_or_loss": 17.01,
+      "tax_paid": 0.0
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2938.35,
+      "cost": 3091.44,
+      "gain_or_loss": 153.09,
+      "tax_paid": 0.0
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2955.36,
+      "cost": 3108.45,
+      "gain_or_loss": 153.09,
+      "tax_paid": 0.0
+    },
+    {
+      "date": "03/15/2025",
+      "corporation": "10",
+      "selling_price": 2972.37,
+      "cost": 3125.46,
+      "gain_or_loss": 153.09,
+      
+... (truncated)

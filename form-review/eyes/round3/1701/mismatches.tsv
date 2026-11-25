@@ -1,0 +1,4 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1701:txtPg2I1BranchCode	Part IV Item 1 Spouse TIN Branch (digits 1-9 print 000-987-654)	2	000-987-654-00001	000-987-654-00000	000-987-654-00000	yes	yes	F	html-frozen/1701-2018/writer-cells.json (9 TIN digits print; branch preprinted 0 0 0 0 0, no writable branch cell)
+frm1701:txtPg2IShed1a_1TPName	Item 1T	2	ACME CORP EMPLOYER 1	BLANK	BLANK	yes	yes	F	not in writer-cells.json
+frm1701:txtPg2IShed3_8A	8 Sales/Revenues/Receipts/Fees, A. Taxpayer/Filer	2	1,234,567,890.00	BLANK	1,234,567,890	yes	no	F	9-slot comb overflow drop in crates/bir-print/src/frozen_html.rs:2632-2635 (right_aligned_slot_values)
