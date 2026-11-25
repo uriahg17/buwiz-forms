@@ -1,0 +1,296 @@
+                                                                                          Republic of the Philippines
+For BIR BCS/                                                                                Department of Finance
+Use Only Item:                                                                            Bureau of Internal Revenue
+      BIR Form No.
+      1701                                              Annual Income Tax Return
+                                          Individuals (including MIXED Income Earner), Estates and Trusts
+  January 2018 (ENCS)                Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with
+           Page 1                                an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.                                                              1701 01/18ENCS P1
+ 1 For the Year (YYYY)                   2 0 2 5 2 Amended Return?              Yes X No 3 Short Period Return?                             Yes X No
+                                               PART I – Background Information of Taxpayer/Filer
+ 4 Taxpayer Identification Number (TIN)         0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0                                               5 RDO Code                 0 3 9
+ 6 Taxpayer Type          X Single Proprietor             Professional           Estate                   Trust               Compensation Earner
+ 7 Alphanumeric Tax Code (ATC)        II012 Business Income-Graduated IT Rates II014 Income from Profession–Graduated IT Rates X II013 Mixed Income–Graduated IT Rates
+          II011 Compensation Income                   II015 Business Income - 8% IT Rate                   II017 Income from Profession – 8% IT Rate                    II016 Mixed Income – 8% IT Rate
+ 8 Taxpayer’s Name (Last Name, First Name, Middle Name)/ESTATE OF (First Name, Middle Name, Last Name)/ TRUST FAO: (First Name, Middle Name, Last Name)
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA OF TARLAC
+ 9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI                                                                                                 9A ZIP Code            1 2 2 9
+10 Date of Birth (MM/DD/YYYY) 11 Email Address
+ 0 3 0 1 1 9 7 5 juana.santos.independent.print.check@example.com
+12 Citizenship                                                          13 Claiming Foreign Tax Credits? 14 Foreign Tax Number, if applicable
+FILIPINO WITH EXTRA LONG CITIZENSHIP TEXT                                          X Yes                 No FOREIGN-TAX-12345678901234567890
+15 Contact Number (Landline/Cellphone No.)                  16 Civil Status (if applicable)
+ 0 9 1 7 1 2 3 4 5 6 7                                                         Single                    X Married                          Legally Separated                   Widow/er
+17 If married, spouse has income?                           X Yes                         No                       18   Filing Status        X    Joint Filing            Separate Filing
+19 Income EXEMPT from Income Tax?                                   Yes        X No            20 Income subject to SPECIAL/PREFERENTIAL RATE?                              Yes X No
+    [If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]                [If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]
+21 Tax                                                            21A Method of Deduction (choose one)
+    Rate* X Graduated Rates                                          X Itemized Deduction                                Optional Standard Deduction (OSD)
+(choose one)         (Choose Method of Deduction in Item 21A)                     [Sec. 34(A-J), NIRC]                            [40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]
+                     8% in lieu of Graduated Rates under Sec. 24(A) & Percentage Tax under Sec. 116 of NIRC
+                     [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)]
+                                                                                     PART II – Total Tax Payable                               (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+                                               Particulars                                                                    A. Taxpayer/Filer                                          B. Spouse
+22 Tax Due (From Part VI Item 5)                                                                                    0                     0
+23 Less: Total Tax Credits/Payments (From Part VII Item 10)                                    1 0 3 0 7 6 5 4 4 2 0 5 0 1 2 3 4 6
+24 Tax Payable/(Overpayment) (Item 22 Less Item 23)                                                      (103,076,544)         (205,012,346)
+25 Less: Portion of Tax Payable Allowed for 2nd Installment to be paid on or before October 15                      0                     0
+         (50% or less of Item 22)
+26 Amount of Tax Payable/(Overpayment) (Item 24 Less Item 25)                                            (103,076,544)         (205,012,346)
+   Add: Penalties 27 Interest                                                                                2 5 0                 3 0 1
+                       28 Surcharge                                                                          5 0 0                 6 0 1
+                       29 Compromise                                                                         1 0 0                 2 0 0
+30 Total Penalties (Sum of Items 27 to 29)                                                                   8 5 1              1 1 0 1
+31 Total Amount Payable/(Overpayment) (Sum of Items 26 and 30)                                               8 5 1              1 1 0 1
+32 Aggregate Amount Payable/(Overpayment) (Sum of Items 31A and 31B)                                                   1 9 5 2
+    If overpayment, mark one (1) box only. (Once the choice is made, the same is irrevocable)
+                      To be refunded                        To be issued a Tax Credit Certificate (TCC)                       X To be carried over as a tax credit for next year/quarter
+       I declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me, and to the best of my knowledge and belief, are true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If signed by an Authorized Representative, indicate TIN and attach authorization letter)
+
+                                                                                                                                                                   33 Number of Attachments 0 9
+                                    Printed Name and Signature of Taxpayer/Authorized Representative
+                                                                                  PART III - Details of Payment
+        Particulars                  Drawee Bank/Agency                            Number                      Date (MM/DD/YYYY)                                                       Amount
+34 Cash/Bank Debit Memo BPI VERY LONG BRA... 123456789012345                                                         0 4 1 5 2 0 2 6                                            1 1 1 1 1 1 1
+35 Check                BDO VERY LONG BR... CHK123456789012345                                                       0 4 1 5 2 0 2 6                                            2 2 2 2 2 2 2
+36 Tax Debit Memo                            TDM123456789012345                                                      0 4 1 5 2 0 2 6                                            3 3 3 3 3 3 3
+OTHER PAYMENT                                                                                                        0 4 1 5 2 0 2 6                                            4 4 4 4 4 4 4
+37 Others (specify below) MOBILE WALLET VE... OTH123456789012345
+SPECI...
+ Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)                                                Stamp of Receiving Office/AAB and Date of Receipt
+                                                                                                                                                        (RO’s Signature/Bank Teller’s Initial)
+
+
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+       BIR Form No.
+         1701
+ January 2018 (ENCS)
+                                                           Annual Income Tax Return
+                                            Individuals (including MIXED Income Earner), Estates and Trusts
+        Page 2                                                                                                                                                                 1701 01/18ENCS P2
+ TIN                                                                       Tax Filer’s Last Name
+ 0 0 0 1 2 3 4 5 3 0 0 0 0 0 S A N T O S
+                                                                            PART IV – Background Information of Spouse
+1 Spouse’s Taxpayer Identification Number         1 2 3 - 4 5 6 - 7 8 8 - 0 0 0 0 01                                               2 RDO Code                  0 3 9
+3 Filer’s Spouse Type       X Single Proprietor                                Professional                                  X Compensation Earner
+4 Alphanumeric Tax Code (ATC)         II012 Business Income-Graduated IT Rates    II014 Income from Profession–Graduated IT Rates X II013 Mixed Income–Graduated IT Rates
+            II011 Compensation Income                        II015 Business Income - 8% IT Rate             II017 Income from Profession – 8% IT Rate            II016 Mixed Income – 8% IT Rate
+5 Spouse’s Name (Last Name, First Name, Middle Name)
+DELA CRUZ, MIGUEL ANTONIO VILLANUEVA LONGSPOUSE
+6 Contact Number 0 9 1 7 0 0 0 0 0 0 1 7 Citizenship                      F I L I P I N O
+8 Claiming Foreign Tax Credits? X Yes No    9 Foreign   Tax    Number       SPOUSE-FOREIGN-1234567890
+                                                   (if applicable)
+10 Income EXEMPT from Income Tax?       Yes      X No              11 Income subject to SPECIAL/PREFERENTIAL RATE?                                                               Yes X No
+     [If yes, fill out also consolidation of ALL Activities per Tax Regime (Part X)]                         [If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]
+12 Tax                                                                      12A Method of Deduction (choose one)
+  Rate*            X Graduated Rates                                           X Itemized Deduction                             Optional Standard Deduction (OSD)
+(choose one)            (Choose Method of Deduction in Item 12A)                     [Sec. 34(A-J), NIRC]                       [40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]
+                        8% in lieu of Graduated Rates under Sec. 24(A) & Percentage Tax under Sec. 116 of NIRC
+                        [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)]
+                                                                       PART V – Computation of Tax
+Schedule 1 – Gross Compensation Income and Tax Withheld (Attach Additional Sheet/s, if necessary)
+On Items 1 and 2, enter the required information for each of your employer/s and mark (X) whether the information is for the Taxpayer or the Spouse. On Item 3A, enter the Total
+Gross Compensation and Total Tax Withheld for the Taxpayer and on Item 3B, for the Spouse.                 (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+                                                           a. Name of Employer
+    X Taxpayer
+ 1           Spouse                                                                                         b. Employer’s TIN
+     Taxpayer
+ 2 X Spouse                                                                                                 b. Employer’s TIN
+ (Continuation of Table Above)                                                                                        c. Compensation Income                            d. Tax Withheld
+ 1                                                                                                                        1 2       3    4    5    6    8                       7    6 5       4    3
+ 2                                                                                                                          9       8    7    6    5    4                       1    2 3       4    6
+3A          Gross Compensation Income and Total Tax Withheld for                                                          1 2       3    4    5    6    8                       7    6 5       4    3
+            TAXPAYER (To Part V Schedule 2 Item 4A and Part VII Item 5A)
+3B          Gross Compensation Income and Total Tax Withheld for                                                            9       8    7    6    5    4                       1    2 3       4    6
+             SPOUSE (To Part V Schedule 2 Item 4B and Part VII Item 5B)
+Schedule 2 – Taxable Compensation Income                                                                                    (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+                               Particulars                                                                                    A. Taxpayer/Filer                               B. Spouse
+4 Gross Compensation Income (From Part V Schedule 1 Item 3Ac/3Bc)                             1 2 3 4 5 6 8                                                                9 8       7    6    5    4
+5 Less: Non-Taxable / Exempt Compensation                                                            9 0 0 0 0                                                               4       5    0    0    0
+6 Taxable Compensation Income (Item 4 Less Item 5)                                            1 1 4 4 5 6 8                                                                9 4       2    6    5    4
+7 Tax Due-Compensation Income (Item 6 x applicable Income Tax Rate)                              1 8 8 6 4 2                                                               1 3       8    1    6    4
+Schedule 3 – Taxable Business Income (If graduated rates, fill in items 8 to 24; if 8% flat income tax rate, fill in items 25 to 30)
+     3.A – For Graduated Income Tax Rates
+ 8 Sales/Revenues/Receipts/Fees                                                                                            1,250,000,001                                            1,156,942,024
+ 9 Less: Sales Returns, Allowances and Discounts                                                                 3 0 0 0 0 0 0 0 0 2 0 0 0                                      0    0 0 0 1
+10 Net Sales/Revenues/Receipts/Fees (Item 8 Less Item 9)                                                         9 5 0 0 0 0 0 0 0 9 5 6 9                                      4    2 0 2 4
+11 Less: Cost of Sales/Services (applicable only if availing Itemized Deductions)                                                     0                                         1    0 0 0 0
+12 Gross Income/(Loss) from Operation (Item 10 Less Item 11)                                                     9 5 0 0 0 0 0 0 0 9 5 6 9                                      3    2 0 2 4
+ Less: Deductions Allowable under Existing Laws
+13 Ordinary Allowable Itemized Deductions (From Part V Schedule 4 Item 18)                                                   1,156,942,024                               1,177,942,025
+14 Special Allowable Itemized Deductions (From Part V Schedule 5 Item 3 and/or Item 6)                                   5 0 0 0 0 0                                 4 0 0 0 0 0
+15 Allowance for Net Operating Loss Carry Over (NOLCO) (From Part V Schedule 6 Item 8 and/or Item 13)                2 0 0 0 0 0 0 0                             1 5 0 0 0 0 0 0
+16 Total Allowable Itemized Deductions (Sum of Items 13 to 15)                                                               1,177,442,024                               1,193,342,025
+                         OR
+17 Optional Standard Deduction (OSD) (40% of Item 10)                                                                                              0                                            0
+18 Net Income/(Loss) (If Itemized: Item 12 Less Item 16; If OSD: Item 10 Less Item 17)                                                   -227,442,024                                 -236,410,001
+ Add: Other Non-Operating Income (specify below)
+19 SAMPLE LONG RENTAL INCOME DESCRIPTION FOR PRINT WRAPPING                                                                                        0                                            0
+                                                                                                                                                   0                                            0
+20 Amount Received/Share in Income by a Partner from General Professional Partnership (GPP)
+21                                                                                                                                                 0                                            0
+22 Total Other Non-Operating Income (Sum of Items 19 to 21)                                                                                        0                                            0
+23 Taxable Income-Business (Sum of Items 18 and 22)                                                                                      -227,442,024                                 -236,410,001
+24 Total Taxable Income – Compensation & Business (Sum of Items 6 and 23)                                                                -226,297,456                                 -235,467,347
+25 Total Tax Due-Compensation and Business Income (under graduated rates)                                                                          0                                            0
+      (Item 24 x applicable income tax rate ) (To Part VI Item 1)
+     BIR Form No.
+       1701
+ January 2018 (ENCS)
+                                                       Annual Income Tax Return
+                                        Individuals (including MIXED Income Earner), Estates and Trusts
+       Page 3                                                                                                                                                                      1701 01/18ENCS P3
+ TIN                                                                       Tax Filer’s Last Name
+ 0 0 0 1 2 3 4 5 3                             0 0 0 0 0 S A N T O S
+    3.B – For 8% Flat Income Tax Rate                                                                                           (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+                                  Particulars                                                                                    A. Taxpayer/Filer                                B. Spouse
+26 Sales/Revenues/Receipts/Fees (net of sales returns, allowances and discounts)                                                                           0                                            0
+Add: Other Non-Operating Income (specify below)
+27 INTEREST INCOME LONG DESCRIPTION                                                                                                                        0                                            0
+28 Total Income (Sum of Items 26 and 27)                                                                                                                   0                                            0
+29 Less: Allowable reduction from gross sales/receipts and other non-operating income of purely self-                                                      0                                            0
+     employed individuals and/or professionals in the amount of P250,000 (not applicable if with compensation income)
+30 Taxable Income/(Loss) (Item 28 Less Item 29)                                                                                                            0                                            0
+31 Tax Due-Business Income (Item 30 x 8% Flat Income Tax Rate)                                                                                             0                                            0
+32 Total Tax Due–Compensation & Business Income (under flat rate) (Sum of Items 7and 31) (To Part VI Item 1)                                               0                                            0
+Schedule 4 - Ordinary Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+1 Amortizations                                                                                                                            1,156,942,024                     1,156,942,024
+2 Bad Debts                                                                                                                                           0              2 0 0 0 0 0 0 1
+3 Charitable and Other Contributions                                                                                                                  0                                 0
+4 Depletion                                                                                                                                           0                                 0
+5 Depreciation                                                                                                                                        0                                 0
+6 Entertainment, Amusement and Recreation                                                                                                             0                                 0
+7 Fringe Benefits                                                                                                                                     0                                 0
+8 Interest                                                                                                                                            0                                 0
+9 Losses                                                                                                                                              0                                 0
+10 Pension Trusts                                                                                                                                     0                                 0
+11 Rental                                                                                                                                             0                                 0
+12 Research and Development                                                                                                                           0                                 0
+13 Salaries, Wages and Allowances                                                                                                                     0                                 0
+14 SSS, GSIS, Philhealth, HDMF and Other Contributions                                                                                                0                                 0
+15 Taxes and Licenses                                                                                                                                 0                                 0
+16 Transportation and Travel                                                                                                                          0                                 0
+17 Others (Deductions Subject to Withholding Tax and Other Expenses) [Specify below; Add additional sheet(s), if necessary]
+     a Janitorial and Messengerial Services                                                                                                           0                                    0
+     b Professional Fees                                                                                                                              0                                    0
+     c Security Services                                                                                                                              0                   1 0 0 0 0 0 0
+     d MISCELLANEOUS
+       DESCRIPTION
+                         LONG ITEMIZED DEDUCTION                                                                                                      0                                    0
+18 Total Ordinary Allowable Itemized Deductions (Sum of Items 1 to 17d) (To Part V Schedule 3.A Item 13)                                   1,156,942,024                        1,177,942,025
+Schedule 5 – Special Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+   5.A – Taxpayer/Filer                          Description                                                                      Legal Basis                                    Amount
+1 SPECIAL DEDUCTION LONG DESCRIPTION                                                      RA 123456789 LONG BASIS                                                               5 0 0 0 0 0
+2                                                                                                                                                                                         0
+3 Total Special Allowable Itemized Deductions-Taxpayer/Filer (Sum of Items 1 and 2) (To Part V Schedule 3.A Item 14A)                                                           5 0 0 0 0 0
+    5.B – Spouse
+4 SPOUSE SPECIAL DEDUCTION LONG DESCRIPTION                                   RA 987654321 LONG BASIS                                                                           4 0 0 0 0 0
+5                                                                                                                                                                                         0
+6 Total Special Allowable Itemized Deductions-Spouse (Sum of Items 4 and 5) (To Part V Schedule 3.A Item 14B)                                                                   4 0 0 0 0 0
+Schedule 6 - Computation of Net Operating Loss Carry Over (NOLCO)
+  6.A – Computation of NOLCO
+                                  Description                                                                                    A. Taxpayer/Filer                                B. Spouse
+1 Gross Income                                                                                                                                              0                                           0
+2 Less: Ordinary Allowable Itemized Deductions                                                                                                              0                                           0
+3 Net Operating Loss (Item 1 Less Item 2) (To Schedule 6.A.1 Item 7A &/or Schedule 6.A.2 Item 12A)                                                          0                                           0
+
+  6.A.1 – Taxpayer/Filer’s  Detailed Computation of
+              Net Operating Loss                 B. Available NOLCO
+                                                    NOLCO Applied                                            C. NOLCO Expired                D. NOLCO Applied                E. Net(Unapplied)
+                                                                                                                                                                                    Operating Loss
+  Year Incurred               A. Amount           Previous Year/s                                                                               Current Year                     [(E)= A – (B+C+D)]
+ 4 2022                   100,000,000                     10,000,000                                                                0                     20,000,000                        70,000,000
+ 5                                     0                             0                                                              0                              0                                 0
+ 6                                     0                             0                                                              0                              0                                 0
+ 7                                     0                             0                                                              0                              0                                 0
+ 8 Total NOLCO - Taxpayer/Filer (Sum of Items 4D to 7D) (To Part V Schedule 3.A Item 15A)                                                                 20,000,000
+      BIR Form No.
+       1701
+January 2018 (ENCS)
+                                                Annual Income Tax Return
+                                   Individuals (including MIXED Income Earner), Estates and Trusts
+       Page 4                                                                                                                                  1701 01/18ENCS P4
+TIN                                                             Tax Filer’s Last Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 S A N T O S
+(Continuation of Schedule 6)
+ 6.A.2 – Spouse’s Detailed Computation of Available NOLCO
+              Net Operating Loss              B. NOLCO Applied                                                      D. NOLCO Applied       E. Net Operating Loss
+  Year Incurred             A. Amount          Previous Year/s                               C. NOLCO Expired          Current Year             (Unapplied)
+                                                                                                                                             [(E)= A – (B+C+D)]
+ 9 2023                    30,000,000                    10,000,000                                             0            15,000,000                  5,000,000
+10                                     0                            0                                           0                     0                          0
+11                                     0                            0                                           0                     0                          0
+12                                     0                            0                                           0                     0                          0
+13 Total NOLCO - Spouse (Sum of Items 9D to 12D) (To Part V Schedule 3.A Item 15B)                                           15,000,000
+                                                                      PART VI – Summary of Income Tax Due
+1 Regular Rate–Income Tax Due (From Part V, Either Item 25 or Item 32)                                                         0                                   0
+2 Special Rate–Income Tax Due (From Part X Item 17B/17F)                                                                       0                                   0
+3 Less: Share of Other Government Agency, if remitted directly to the Agency                                                   0                                   0
+4 Net Special Rate–Income Tax Due/Share of National Govt. (Item 2 Less Item 3)                                                 0                                   0
+5 Total Income Tax Due (Sum of Items 1 & 4) (To Part II Item 22)                                                               0                                   0
+                                                                 PART VII - Tax Credits/Payments (attach proof)
+1 Prior Year’s Excess Credits                                                                            1 0 0 0 0 0 0                    2 0 0 0 0 0 0
+2 Tax Payments for the First Three (3) Quarters                                                          2 0 0 0 0 0 1                    3 0 0 0 0 0 1
+3 Creditable Tax Withheld for the First Three (3) Quarters                                           1 0 0 0 0 0 0 0 0 2 0                0 0 0 0 0 0 0
+4 Creditable Tax Withheld per BIR Form No. 2307 for the 4th Quarter                                                  0                                0
+5 Creditable Tax Withheld per BIR Form No. 2316 (From Part V Schedule 1 Item 3Ad/3Bd)                        7 6 5 4 3                        1 2 3 4 6
+6 Tax Paid in Return Previously Filed, if this is an Amended Return                                                  0                                0
+7 Foreign Tax Credits, if applicable                                                                                 0                                0
+8 Special Tax Credits, if applicable (To Part VIII Item 6)                                                           0                                0
+9 Other Tax Credits/Payments (specify) SAMPLE ENTRY TXTPG4IPART7_9SPE...                                             0                                0
+10 Total Tax Credits/Payments (Sum of Items 1 to 9) (To Part II Item 23)                             1 0 3 0 7 6 5 4 4 2 0                5 0 1 2 3 4 6
+                                                                            PART VIII – Tax Relief Availment
+  VIII.A – Special Rate
+1 Regular Income Tax Otherwise Due (Part X Item 16B &/or Item 16F X applicable regular income tax rate)                        0                                   0
+2 Tax Relief on Special Allowable Itemized Deductions (Part X Item 7B and/or Item 7F X
+                                                       applicable regular income tax rate)                                     0                                   0
+3 Sub-Total – Tax Relief (Sum of Items 1 and 2)                                                                                0                                   0
+4 Less: Income Tax Due (From Part X Item 17B and/or Item 17F)                                                                  0                                   0
+5 Tax Relief Availment Before Special Tax Credit (Item 3 Less Item 4)                                                          0                                   0
+6 Add: Special Tax Credit, if any (From Part VII Item 8)                                                                       0                                   0
+7 Total Tax Relief Availment- SPECIAL (Sum of Items 5 and 6)                                                                   0                                   0
+    VIII.B – Exempt
+8 Regular Income Tax Otherwise Due (Part X Item 16A &/or 16E X applicable regular income tax rate)                             0                                   0
+9 Tax Relief on Special Allowable Itemized Deductions (Part       X Item 7A and/or Item 7E X
+                                                             applicable regular income tax rate)                               0                                   0
+10 Total Tax Relief Availment- EXEMPT (Sum of Items 8 and 9)                                                                   0                                   0
+                           PART IX – Reconciliation of Net Income per Books Against Taxable Income (Attach additional sheet/s, if necessary)
+                                      Particulars                                              A. Taxpayer/Filer                             B. Spouse
+1 Net Income/(Loss) per Books                                                                                       1,650,000,000 4 9 8 9 9 9 0 0 0
+Add: Non-Deductible Expenses/Taxable Other Income
+2                                                                                                                              0                                   0
+3                                                                                                                              0                                   0
+4                                                                                                                              0                                   0
+5 Total (Sum of Items 1 to 4)                                                                                       1,650,000,000 4 9 8 9 9 9 0 0                  0
+Less: A) Non-Taxable Income and Income Subjected to Final Tax
+6                                                                                                                              0                                   0
+7                                                                                                                              0                                   0
+       B) Special/Other Allowable Deductions
+8                                                                                                                              0                                   0
+9                                                                                                                              0                                   0
+                                                                                                                               0                                   0
+10 Total
+11       (Sum of Items
+   Net Taxable         6 to 9)
+                  Income/(Loss) (Item 5 Less Item 10)                                                               1,650,000,000 4 9 8 9 9 9 0 0                  0
+BIR Form No. 1701                                                                                                             ADDITIONAL SHEET
+Annual Income Tax Return for Individuals, Estates and Trusts
+Entries shortened with "..." on the form are printed in full below.
+TIN: —                                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                                Return Period: 12/2025
+                                                 VILLANUEVA OF TARLAC
+
+Entries continued from the form                                                                         Full text of entries shortened with "..." on the form
+      Page         Item / Field                                       Full Entry
+     Page 1        Item 34 — Cash/Bank Debit Memo, Drawee             BPI VERY LONG BRANCH
+                   Bank/Agency
+     Page 1        Item 35 — Check, Drawee Bank/Agency                BDO VERY LONG BRANCH
+     Page 1        Item 37 — Others, Particulars (specify below)      OTHER PAYMENT SPECIFY VERY LONG TEXT
+     Page 1        Item 37 — Others, Drawee Bank/Agency               MOBILE WALLET VERY LONG AGENCY
+     Page 4        Part VII item 9 (specify)                          SAMPLE ENTRY TXTPG4IPART7_9SPECIFY VERY LONG SPECIFY TEXT FOR
+                                                                      ADDITIONAL SHEET
+

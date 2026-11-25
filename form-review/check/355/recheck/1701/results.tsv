@@ -1,0 +1,5 @@
+case	fault_area	old_3e8b1212	new_05b9c989	verdict	note
+base	additional_sheet_tin	TIN dash	TIN 000-123-453-00000	fixed	same page-5 continuation entries; name and return period remain present
+base	part_vii_item9_specify	full text only on additional sheet	full text fits page 4; no additional-sheet copy	correct	no truncation means no continuation entry is required
+base	taxpayer_type_checkbox	only Single Proprietor marked	Single Proprietor AND Compensation Earner marked	regression	wrong box/value changed; seed explicitly sets taxpayer_type SingleProprietor
+base	other_pages	page count 5	page count 5	mostly_stable	page 4 image difference is dominated by intended amount-column alignment/specify placement; no blank/header-only page
