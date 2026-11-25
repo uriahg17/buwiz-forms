@@ -259,3 +259,37 @@ Every missing page or omitted section across the 8 forms was checked directly ag
 | **1701** | Page 4 bottom | `TABLE 1 – Tax Rates (Jan 1, 2018 – Dec 31, 2022)` & `TABLE 2 – Tax Rates (Jan 1, 2023 and onwards)` | **No** (reference tables only) |
 | **1701A** | Page 2 bottom | `TABLE 1` & `TABLE 2 – Tax Rates` | **No** (reference tables only) |
 | **1701Q** | Page 2 bottom | `TABLE 1` & `TABLE 2 – Tax Rates` | **No** (reference tables only) |
+
+---
+
+## Round 3 — Full data-vs-paper audit (`origin/main` `93820d0f` vs `origin/feat/store-launch-field-rules` `8c3a7b53`)
+
+### Batch 1 — First 10 priority forms (`2551Q`, `1701Q`, `1701`, `1701A`, `2550Q`, `2550M`, `1601C`, `0619E`, `1601EQ`, `0605`)
+
+Every editable box, schedule row, spouse column, and mutually exclusive mode (`1701` joint itemized + OSD; `1701A` graduated + 8%; `1701Q` graduated + 8%) was filled with distinct traceable values through the form page, saved, printed to preview and PDF on both `origin/main` (`93820d0f`) and `origin/feat/store-launch-field-rules` (`8c3a7b53`), and checked both by machine and by eye on every page. Zero application code was changed.
+
+**Clean on both commits (0 data-vs-paper mismatches)**: **`0619E`**, **`1601EQ`**, **`2551Q`**, **`1701Q`** (both `grad` and `8pct`).
+
+**Mismatches found (6 forms)**:
+
+| Form | Page | Box / Item | Data value | Printed on `main` (`93820d0f`) | On `main`? | On `rules` (`8c3a7b53`)? | Cause on `main` (file & entry) | Evidence (`form-review/eyes/round3/<CODE>/`) |
+|---|---|---|---|---|---|---|---|---|
+| **1701** | p1 | Part II Item 23A (`Total Tax Credits/Payments`) | `1,234,772,698` | Blank (empty 9-slot comb) | **yes** | **no** (`1,234,772,698`) | Value overflows 9-slot comb and is dropped: `crates/bir-print/src/frozen_html.rs:2632-2635` (`right_aligned_slot_values`: `if digits.len() > slots { return None; }`). | `main/p1-compare.png`, `rules/p1-compare.png`, `1701-flow.mp4` |
+| **1701** | p1 | Part II Items 24A, 26A, 31A (`Tax Payable/(Overpayment)`) | `-803,331,202` | Blank (empty 9-slot comb; 10 chars with `-`) | **yes** | **no** (`(803,331,202)`) | Same comb overflow drop (`frozen_html.rs:2632-2635`, `signed_digits` emits `-803331202` = 10 chars > 9 slots). | `main/p1-compare.png`, `rules/p1-compare.png`, `1701-flow.mp4` |
+| **1701** | p1 | Part II Item 32 (`Aggregate Amount Payable/(Overpayment)`) | `-803,566,841` | Blank (empty 9-slot comb) | **yes** | **no** (`(803,566,841)`) | Same comb overflow drop (`frozen_html.rs:2632-2635`). | `main/p1-compare.png`, `rules/p1-compare.png`, `1701-flow.mp4` |
+| **1701** | p2 | Part IV Item 1 (`Spouse's TIN` branch code) | `000-987-654-00001` (`spouse.tin = "00098765400001"`) | `0 0 0 - 9 8 7 - 6 5 4 - 0 0 0 0 0` (branch prints `00000`) | **yes** | **yes** (still prints `00000`) | No cell for `frm1701:txtPg2I1BranchCode` in `html-frozen/1701-2018/writer-cells.json`; branch `0 0 0 0 0` is preprinted on the sheet. | `main/p2-compare.png`, `rules/p2-compare.png`, `1701-flow.mp4` |
+| **1701** | p2 | Part V Sched 3.A Items 8A, 10A, 12A, 18A, 23A, 24A (6 boxes) | `1,234,567,890` .. `1,234,397,708` | Blank (all 6 empty 9-slot combs) | **yes** | **no** (all 6 print cleanly) | Same 9-slot comb overflow drop (`crates/bir-print/src/frozen_html.rs:2632-2635`). | `main/p2-sched3-compare.png`, `rules/p2-sched3-compare.png`, `1701-flow.mp4` |
+| **1701** | p4 | Part VII Items 8A, 10A (2 boxes) | `1,234,567,890`, `1,234,772,698` | Blank (both empty 9-slot combs) | **yes** | **no** (both print cleanly) | Same 9-slot comb overflow drop (`crates/bir-print/src/frozen_html.rs:2632-2635`). | `main/p4-compare.png`, `rules/p4-compare.png`, `1701-flow.mp4` |
+| **1701A** | p2 (add'l) | Part IV.B `Other Non-Operating Income` modal rows (`txtmodalPartIVBDesc_1C1..12C1` & `txtmodalPartIVB_1C2..12C2`, 24 values; both `grad` and `8pct`) | `V110`–`V121`, `22,234.00`–`23,345.00` | Omitted (only 2 pages printed) | **yes** | **no** (appended on Pages 3–4 `Add'l Sheet`, though right column prints stray `0 . 0 0` combs beside each amount) | No cells for `frm1701A:txtmodalPartIVB*` in `html-frozen/1701a-2018/writer-cells.json` and no continuation-sheet emitter on `main`. | `main/compare.png`, `rules/compare.png`, `1701A-flow.mp4` |
+| **2550Q** | p1–p2 (add'l) | Attached-modal schedules Items 19, 42, 47, 56 (`totalTaxPayableNo{19,42,47,56}{Description,Amount}*`, 51 pairs = 102 values) | Distinct descriptions & amounts (sum `200,923.32` on Item 19) | Item 19 prints `VARIOUS` + sum; all 51 itemized rows omitted (2 pages) | **yes** | **yes** (still 2 pages, no detail sheet) | No cells for `frm2550q:totalTaxPayableNo{19,42,47,56}*` in `html-frozen/2550q-2024/writer-cells.json` and no continuation-sheet emitter on either commit. | `main/compare.png`, `rules/compare.png`, `2550Q-flow.mp4` |
+| **1601C** | p1 | Item 5 (`ATC`) | `draft.atc = "V004"` (accepted by `form.fill`) | Preprinted `WW010` | **yes** | **yes** (prints `WW010`) | `html-frozen/1601c-2018/writer-cells.json` `not_joined` entry `frm1601c:txtATC` ("item 5 ATC is preprinted WW010 on the sheet; there is no box to fill"). | `main/compare.png`, `rules/compare.png`, `1601C-flow.mp4` |
+| **0605** | p1 | Item 15 (`Registered Address`) | 123-char demo address (`...METRO MANILA`) | Clipped at `...METRO M` | **yes** | **no** (wraps onto 2 lines, full `METRO MANILA` shown) | Single-line `overflow:hidden` text cell in `html-frozen/0605-1999/sheet.html` / `frozen_html.rs` on `main`. | `main/compare.png`, `rules/compare.png`, `0605-flow.mp4` |
+| **2550M** | p1 | Item 9 (`Registered Address`) | 123-char demo address (`...METRO MANILA`) | Clipped at `...METRO MAN` | **yes** | **no** (Page 1 shortens to `...ROXA...` and Page 3 `ADDITIONAL SHEET` prints full address; header shows `Taxpayer's Name: —`) | Single-line `overflow:hidden` text cell in `html-frozen/2550m-2007/sheet.html` on `main`. | `main/compare.png`, `rules/compare.png`, `2550M-flow.mp4` |
+
+**Recordings committed (Batch 1)**:
+- `form-review/eyes/round3/0605/0605-flow.mp4`
+- `form-review/eyes/round3/1601C/1601C-flow.mp4`
+- `form-review/eyes/round3/1701/1701-flow.mp4`
+- `form-review/eyes/round3/1701A/1701A-flow.mp4`
+- `form-review/eyes/round3/2550M/2550M-flow.mp4`
+- `form-review/eyes/round3/2550Q/2550Q-flow.mp4`
