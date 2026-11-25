@@ -1,0 +1,6 @@
+Font-size confirmations from own PDFs (pdftohtml -xml fontspec; integer output units are px-like, approximately 0.75 pt per unit):
+
+1601C after.pdf and before.pdf: filled comb digits use fontspec size 9 (about 6.75pt), e.g. TIN/compensation digits. This is under 7.5pt at both commits.
+2550Q after.pdf and before.pdf: Schedule 1 filled amounts such as 1,234,567.89, 148,148.15, 2,469.14 and 145,679.01 use fontspec size 8 (about 6pt), under 7.5pt at both commits.
+
+Conclusion: the branch audit's under-7.5pt claim is confirmed for 1601C and 2550Q from independent PDFs, and main is the same in these cells. These are base frozen-sheet sizes, not shrink-engine output below the floor.

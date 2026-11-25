@@ -1,0 +1,44 @@
+form	main_pages	head_pages	text_tokens_differ	missing_at_head_count	added_at_head_count	missing_at_head_sample	added_at_head_sample
+0605	1	1	true	14	7	LORENZO MAKATI 100 00 00 1,000 12,345 68 2,334 50 50 14,680	LO 100.00 12,345.68 2,334.50 1,000.00 14,680.18 1,234.50
+0619E	1	1	false	0	0		
+0619F	1	1	true	0	0		
+1600PT	2	3	true	95	5	of of the the the BIR Item 1600-PT Monthly Remittance Return Return	0.00 0.00 0.00 5.00 5.00
+1600VT	2	3	true	94	5	of of the the the BIR Item Form No 1600-VT Page Page	0.00 0.00 0.00 5.00 5.00
+1600WP	1	2	true	149	5	the the the BIR Remittance Return of of of of of Percentage	LO quinella QU 4.0 10.0
+1601C	2	3	true	120	1	of of the the the BIR Item Item Monthly Remittance Return Return	TESTIN
+1601EQ	2	3	true	153	6	Republic of of of of of of the the the the the	5.0 5.0 2.0 2.0 2.0 1.0
+1601FQ	2	3	true	108	5	BIR Item Form No 1601-FQ of of of of the the the	0.00 0.00 0.00 15.00 20.00
+1602Q	3	3	true	7	7	0 0 5 TESTING TESTING TESTING 10	TESTIN TESTIN TESTIN 10.00 0.00 0.00 5.00
+1603Q	2	2	true	1	1	TESTING	TESTIN
+1604C	1	1	true	0	0		
+1604E	2	2	true	1	1	TESTING	TESTIN
+1604F	2	2	true	2	2	TESTING TESTING	TESTIN TESTIN
+1606	2	3	true	128	2	of of of the the the BIR Item Item Item Form No	LOR 48.00
+1700	2	2	false	0	0		
+1701	4	5	true	141	42	of the the the BIR Item Item Form No Annual Income Tax	0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+1701A	2	2	false	0	0		
+1701MS	2	3	true	111	0	of the the the the BIR Item Item Item Form No Annual	
+1701Q	2	2	true	11	1	( ) 1 4 0 0 0 3 3 2 5	00012345300000
+1702EX	3	3	false	0	0		
+1702MX	4	4	true	315	5	0 0 0 0 0 0 0 0 0 0 0 0	300000 100000 50000 50000 150000
+1702Q	2	3	true	87	120	of the the the BIR Item Item Form No 1702Q ( )	0 0 0 0 0 0 0 0 0 0 0 0
+1702RT	4	4	true	1	2	RegisteredJUANA	Registered JUANA
+1706	2	3	true	151	1	of of the the the BIR Item Item Item Capital Gains Tax	LO
+1707	2	3	true	139	10	of of of of the the the the For BIR Item Item	0 0 0 0 0 0 EXTRAORDINARILYUNIT LO123456788000 11122233300000 444555666000
+1707A	2	2	true	0	0		
+1800	2	3	true	96	0	BIR of of the the the Item Item Donor Donor s s	
+1801	2	2	true	5	1	0 0 0 0 0	00000
+2000	2	4	true	188	1	of of of the the Revenue BIR BIR Form Form No No	00012345300000SANTOS
+2000OT	2	4	true	249	5	of of the the the BIR BIR BIR Item Item Item Documentary	RESIDENTIAL250 RESIDENTIAL120 RESIDENTIAL100 RESIDENTIAL100 RESIDENTIAL100
+2200A	3	4	true	99	2	of the the the BIR Item Item Form No for Alcohol Products	00012345300000SANTOS 00012345300000SANTOS
+2200AN	2	3	true	165	2	of the the the BIR Item Item Item Form No ( (	XGXG130 XGXG
+2200C	2	3	true	99	2	of the the the BIR Item Item Form No for Cosmetic Procedures	TESTIN 00012345300000SANTOS
+2200M	2	3	true	211	0	of of the the the BIR Item Item Form No ( (	
+2200P	2	3	true	111	8	of the the the BIR Item Item Form No for Petroleum Products	TESTIN 00012345300000SANTOS 10,000.002,500.0012,500.01 XP999 BATAAN 125,000.10 100.000.00 126,100.10
+2200S	2	3	true	96	0	of the the the BIR Item Item Form No for Sweetened Beverages	
+2200T	3	4	true	95	1	of the the the BIR Item Item Form No for Tobacco Products	TESTIN
+2550M	2	3	true	124	2	the the the BIR Monthly Value-Added Tax Declaration in with with 1	TESTIN LOR
+2550Q	2	2	true	0	0		
+2551Q	2	2	true	30	0	0 0 0 0 0 0 0 0 0 0 0 0	
+2552	2	2	true	10	10	0 0 0 0 0 0 0 0 0 0	0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+2553	1	1	true	48	25	0 0 0 0 0 0 0 0 CONSULT 10 TESTING BARANGAY	CON TESTIN BARANGA 123,456.79 2,500,000.00 1,000.00 1,000.00 1,000.00 0.00 0.00 0.00 0.00

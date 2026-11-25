@@ -1,0 +1,398 @@
+For BIR BCS/
+Use Only Item:
+BIR Form No.
+
+1701Q
+January 2018 (ENCS)
+Page 1
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+Quarterly Income Tax Return
+For Individuals, Estates and Trusts
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes
+An “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+
+1701Q 01/18ENCS P1
+Number
+of
+No 4
+0 0
+
+Third 3 Amended Return? X Yes
+2 0 2 5 2 Quarter First X Second
+Sheet/s Attached
+PART I – BACKGROUND INFORMATION ON TAXPAYER/FILER
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 6 RDO Code
+0 3 9
+5 Taxpayer Identification Number (TIN)
+7 Taxpayer/Filer Type
+Single Proprietor
+Estate
+Trust
+X Professional
+II013 Mixed Income–Graduated IT Rates
+II012 Business Income-Graduated IT Rates X II014 Income from Profession–Graduated IT Rates
+8 Alphanumeric Tax Code (ATC)
+1 For the Year
+
+II015 Business Income - 8% IT Rate
+
+II017 Income from Profession – 8% IT Rate
+
+II016 Mixed Income – 8% IT Rate
+
+9 Taxpayer/Filer’s Name (Last Name, First Name, Middle Name for Individual) / ESTATE of (First Name, Middle Name, Last Name) / TRUST FAO:(First Name, Middle Name, Last Name)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+10 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD
+BARANGAY SAN LORENZO MAKATISECOND ADDRESS LINE LONG COMPLEMENT FOR PRINT OVERFLOW TESTING 10A ZIP Code 1 1 0 0
+
+11 Date of Birth (MM/DD/YYYY) 12 Email Address
+0 5 1 7 1 9 8 5 juana.santos.independent.print.check@example.com
+13 Citizenship
+14 Foreign Tax Number (if applicable)
+15 Claiming Foreign Tax Credits?
+F I L I P I N O
+Yes X No
+16 Tax
+16A Method of Deduction
+Rate* X Graduated Rates per Tax Table- page 2 X Itemized Deduction
+Optional Standard Deduction (OSD)
+
+(choose one,
+
+for income
+from business/
+profession)
+
+(Choose Method of Deduction in Item 16A)
+
+[Sec. 34(A-J), NIRC]
+
+[40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]
+
+8% on gross sales/receipts & other non-operating income in lieu of Graduated Rates under Sec. 24(A)(2)(a) & Percentage Tax
+
+under Sec. 116 of the NIRC, as amended [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)]
+PART II – BACKGROUND INFORMATION ON SPOUSE (if applicable)
+
+17 Spouse’s TIN
+9 8 7 - 6 5 4 - 3 2 1 - 0 0 0 0 0 18 RDO Code
+0 4 0
+X Single Proprietor
+19 Filer’s Spouse Type
+Professional
+Compensation Earner
+20 ATC II012 Business Income-Graduated IT Rates II014 Income from Profession-Graduated IT Rates
+II013 Mixed Income - Graduated IT Rates
+II011 Compensation Income
+X II015 Business Income - 8% IT Rate
+II017 Income from Profession - 8% IT Rate
+II016 Mixed Income - 8% IT Rate
+21 Spouse’s Name (Last Name, First Name, Middle Name)
+D U M M Y
+S P O U S E
+S A M P L E
+22 Citizenship
+23 Foreign Tax Number, if applicable
+24 Claiming Foreign Tax Credits?
+X Yes
+F I L I P I N O
+X 1 2 3 4 5
+No
+25 Tax
+25A Method of Deduction
+Rate*
+Graduated Rates per Tax Table- page 2
+Itemized Deduction
+Optional Standard Deduction (OSD)
+
+(choose one,
+
+for income
+from business/
+profession)
+
+(Choose Method of Deduction in Item 25A)
+
+[Sec. 34(A-J), NIRC]
+
+[40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]
+
+X 8% on gross sales/receipts & other non-operating income in lieu of Graduated Rates under Sec. 24(A)(2)(a) & Percentage Tax
+
+under Sec. 116 of the NIRC, as amended [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)]
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+PART III – TOTAL TAX PAYABLE
+
+Particulars
+26 Tax Due (From Part V, Schedule I-Item 46 OR Schedule II-Item 54)
+27 Less: Tax Credits/Payments (From Part V, Schedule III-Item 62)
+28 Tax Payable/(Overpayment) (Item 26 Less Item 27) (From Part V, Item 63)
+29 Add: Total Penalties (From Part V, Schedule IV-Item 67)
+30 Total Amount Payable/(Overpayment) (Sum of Items 28 and 29) (From Part V, Item 68)
+31 Aggregate Amount Payable/(Overpayment) (Sum of Items 30A and 30B)
+
+A) Taxpayer/Filer
+1 0 7 8 5
+1 2 8 0
+9 5 0 5
+1 2 5
+9 6 3 0
+1
+
+B) Spouse
+8
+5 4
+0
+4
+8
+5 0
+0
+8
+5 0
+4 6 9 9 6
+
+1
+0
+1
+5
+6
+
+8 8
+0 0
+8 8
+0 0
+8 8
+
+I declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me, and to the best of my knowledge and belief, are true and correct, pursuant to
+the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as contemplated under the
+**Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter and indicate TIN)
+
+Signature and Printed Name of Taxpayer/Authorized Representative/ Tax Agent (Indicate Title/Designation and TIN)
+PART IV – DETAILS OF PAYMENT
+Particulars
+Drawee Bank/Agency
+Number
+Date (MM/DD/YYYY)
+32 Cash/Bank Debit Memo
+
+Amount
+
+33 Check
+34 Tax Debit Memo
+35 Others (specify)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+NOTES: * I understand that this choice is irrevocable for this taxable year. However, the 8% Income Tax (IT) Rate option if initially selected shall automatically be
+changed to graduated IT rates when gross sales/receipts and other non-operating income exceed Three million pesos (P3M)
+** Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+BIR Form No.
+
+1701Q
+January 2018 (ENCS)
+TIN
+
+Page 2
+
+00012345300000
+
+Quarterly
+Income Tax Return
+For Individuals, Estates and Trusts
+
+1701Q 01/18ENCS P2
+
+Taxpayer/Filer’s Last Name
+
+0 0 0 0 0 S A N T OS
+
+PART V – COMPUTATION OF TAX DUE
+Declaration this Quarter
+If graduated rate, fill in items 36 to 46; if 8%, fill in items 47 to 54
+Schedule I – For Graduated IT Rate
+
+36 Sales/Revenues/Receipts/Fees (net of sales returns, allowances and discounts)
+(applicable only if availing Itemized Deductions)
+37 Less: Cost of Sales/Services
+38 Gross Income/(Loss) from Operation (Item 36 Less Item 37)
+Less: Allowable Deductions
+39 Total Allowable Itemized Deductions
+OR
+40 Optional Standard Deduction (OSD) (40% of Item 36)
+41 Net Income/(Loss) This Quarter (If Itemized: Item 38 Less Item 39; If OSD: Item 38 Less Item 40)
+Add: 42 Taxable Income/(Loss) Previous Quarter/s
+43 Non-Operating Income (specify) RENTAL INCOME
+44 Amount Received/Share in Income by a Partner from General Professional Partnership (GPP)
+45 Total Taxable Income/(Loss) To Date (Sum of Items 41 to 44)
+46 TAX DUE (Item 45 x Applicable Tax Rate based on Tax Table below) (To Part III, Item 26)
+Schedule II – For 8% IT Rate
+47 Sales/Revenues/Receipts/Fees (net of sales returns, allowances and discounts)
+48 Add: Non-Operating Income (specify) INTEREST
+49 Total Income for the quarter (Sum of Items 47 and 48)
+50 Add: Total Taxable Income/(Loss) Previous Quarter (Item 51 of previous quarter)
+51 Cumulative Taxable Income/(Loss) as of This Quarter (Sum of Items 49 and 50)
+reduction from gross sales/receipts and other non-operating income of purely self-employed individuals
+52 Less: Allowable
+and/or professionals in the amount of P 250,000
+53 Taxable Income/(Loss) To Date (Item 51 Less Item 52)
+54 TAX DUE (Item 53 x 8% Tax Rate) (To Part III, Item 26)
+Schedule III - Tax Credits/Payments
+55 Prior Year’s Excess Credits
+56 Tax Payment/s for the Previous Quarter/s
+57 Creditable Tax Withheld for the Previous Quarter/s
+58 Creditable Tax Withheld per BIR Form No. 2307 for this Quarter
+59 Tax Paid in Return Previously Filed, if this is an Amended Return
+60 Foreign Tax Credits, if applicable
+61 Other Tax Credits/Payments (specify) OTHER CREDIT
+62 Total Tax Credits/Payments (Sum of Items 55 to 61) (To Part III, Item 27)
+63 Tax Payable/(Overpayment) (Item 46 or 54, Less Item 62) (To Part III, Item 28)
+Schedule IV - Penalties
+64 Surcharge
+65 Interest
+66 Compromise
+67 Total Penalties (Sum of Items 64 to 66) (To Part III, Item 29)
+68 Total Amount Payable/(Overpayment) (Sum of Items 63 and 67) (To Part III, Item 30)
+
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+
+A) Taxpayer/Filer
+
+B) Spouse
+
+1 2 3 4 5 6 7
+3 4 5 6 7 8
+8 8 8 8 8 9
+
+0
+0
+0
+
+1 2 3 4 5 6
+
+0
+
+0
+3
+1
+0
+0
+2
+8
+
+0
+0
+0
+0
+0
+0
+0
+
+7 6 5 4 3
+- 1 0 0
+5 0 0 0
+7 0 0
+8 2 1 4 3
+1 0 7 8 5
+
+0
+0
+0
+0
+0
+0
+0
+0
+
+9 0
+1
+9 1
+1
+9 2
+2 5
+6 7
+5
+
+0
+2
+2
+5
+7
+0
+7
+4
+
+0
+3
+3
+0
+3
+0
+3
+1
+
+0
+4
+4
+0
+4
+0
+4
+8
+
+0
+5
+5
+1
+6
+0
+6
+8
+
+1 0 0 0 0
+0
+0
+0
+2 5 0 0
+0
+3 0 0
+1 2 8 0 0
+9 5 0 5 8
+
+0
+4 0 0 0
+0
+0
+0
+0
+0
+4 0 0 0
+5 0 1 8 8
+
+1 0 0 0
+2 5 0
+0
+1 2 5 0
+
+0
+0
+5 0 0
+5 0 0
+
+9 6 3 0 8
+
+5 0 6 8 8
+
+

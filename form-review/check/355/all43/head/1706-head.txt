@@ -1,0 +1,392 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Capital
+Gains Tax Return
+(For Onerous Transfer of Real Property
+
+BIR Form No.
+
+1706
+January 2018 (ENCS)
+Page 1
+1 Date of Transaction
+
+(MM/DD/YYYY)
+
+Classified as Capital Asset-both Taxable and Exempt)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.
+Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+Return?
+0 3 1 5 2 0 2 5 2 Amended
+Yes X No
+
+5 RDO Code of Location of Property
+6 Seller’s Name (Last Name, First Name, Middle Name
+
+3 ATC
+
+1706 01/18 ENCS P1
+4 Number of
+0 1
+Sheet/s Attached
+
+X WI 450-Individual
+
+Part I – Background Information
+
+WC 450-Corporation
+
+0 3 9
+Seller’s Registered Address
+
+Seller’s Taxpayer
+Identification Number (TIN)
+6A SANTOS, JUANA MARIE DELA CRUZ-VILLAN... UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA... 000-123-453-00000
+for Individuals OR Registered Name for Non-Individuals)
+(Attach additional sheet/s, if necessary)
+
+(Indicate complete address. If branch, indicate the branch address. If the registered address is different
+from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+6B
+6C
+6D
+6E
+
+7 Buyer’s Name (Last Name, First Name, Middle Name
+for Individuals OR Registered Name for Non-Individuals)
+(Attach additional sheet/s, if necessary)
+
+7A MARIA DELA CRUZ-SANTOS
+7B
+7C
+7D
+7E
+
+Buyer’s Registered Address
+
+(Indicate complete address. If branch, indicate the branch address. If the registered address is different
+from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+45 EXAMPLE AVE., MAKATI CITY
+
+Buyer’s Taxpayer
+Identification Number (TIN)
+111-222-333-00000
+
+X Yes
+No
+8 Is the property being sold your principal residence? (For Individual sellers only)
+9 Do you intend to construct or acquire a new principal residence within 18 months from the date of disposition/sale? (For Individuals) Yes X No
+10 Does the selling price cover more than one property?
+11 Are you availing of tax relief under an International Tax Treaty or Special Law?
+No If yes, specify
+Yes X No
+X Yes
+S P E C I A L
+L A W
+
+Part II – Computation of Tax
+
+12 Taxable Base (From Part IV, Schedule 4 Item 2)
+13 Applicable Tax Rate
+14 Tax Due (Item 12 Multiply by Item 13)
+15 Less: Tax paid in previously filed return, if this is an amended return
+16 Tax Payable/(Overpayment) (Item 14 Less Item 15)
+17 Add: Penalties
+17A Surcharge
+17B Interest
+17C Compromise
+17D Total Penalties (Sum of Items 17A to 17C)
+18 TOTAL AMOUNT PAYABLE/(Over remittance) (Sum of Item 16 and 17D)
+In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds)
+
+. 0 0
+6 . 0%
+1 0 8 0 0 0 . 0 6
+0 . 0 0
+1 0 8 0 0 0 . 0 6
+
+1 8 0 0 0 0 1
+
+2 5
+1 0
+1 0 0 0
+1 0 3 5
+1 0 9 0 3 5
+
+. 5 0
+. 0 1
+. 0 0
+. 5 1
+. 5 7
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct pursuant to
+the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the
+*Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach Special Power of Attorney)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Tax Agent Accreditation No. /
+Attorney’s Roll No. (If applicable)
+
+Particulars
+
+19 Cash/Bank Debit Memo
+
+Drawee Bank/
+Bank Code/Agency
+
+Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Date of Issue
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+20 Check
+21 Tax Debit Memo
+22 Others (Specify below)
+Machine Validation
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Expiry Date
+(MM/DD/YYYY)
+
+Amount
+
+.
+.
+.
+
+.
+Stamp of Authorized Agent Bank and Date of Receipt
+(Bank Teller’s Initial)
+
+Capital
+Gains Tax Return
+1706
+(For Onerous Transfer of Real Property
+Classified as Capital Asset-both Taxable and Exempt)
+January 2018 (ENCS)
+BIR Form No.
+Page 2
+
+TIN of Buyer
+
+Taxpayer’s/Buyer’s Name
+
+1 1 1 2 2 2 3 3 3 0 0 0 0 0 M A R I A
+D E L A
+Part IV – Schedules
+Schedule 1 – Description of Transaction (Attach additional sheet/s if necessary)
+OCT/TCT/CCT No.
+1 T-123456
+2
+3
+4
+5
+
+1706 01/18ENCS P2
+
+C R U Z - S A N T O S
+
+Tax Declaration No. (TD)
+
+Location
+
+0123456 LOT 7 BLK 2, SAMPLE SUBD., QUEZON CITY
+
+Schedule 1 – Description of Transaction (continuation)
+Lot / Improvement
+
+Classification*
+
+1 LOT
+2 IMPROVEMENT
+3
+4
+5
+
+MIXED USE L...
+MIXED USE L...
+
+Area (sq.m.)
+
+250.5
+
+Fair Market Value (FMV)
+per TD (Column 1)
+
+1,234,567.00
+300,000.55
+
+Fair Market Value
+
+FMV per BIR (Zonal Value)
+(Column 2)
+
+(whichever is higher between
+Columns 1 & 2)
+
+1,500,000.13
+250,000.00
+
+1,500,000.13
+300,000.55
+
+TOTAL (To Schedule 4 Item 1B)
+
+1,800,000.68
+
+Schedule 2 – Description of Transaction (Mark one box only)
+For Installment Sale:
+Installment Sale
+X Cash Sale
+1 Selling Price
+Exempt
+Foreclosure Sale
+2 Cost and Expenses
+Others
+3 Mortgage Assumed
+
+.
+.
+.
+.
+.
+
+Payments (Collection)
+4 Total
+During the Initial Year
+
+If Exempt, or others, specify
+
+of Periodic Payment
+5 Amount
+(Collection) (To Schedule 4 Item 1D)
+No. of Installments in
+6 the
+contract
+
+of Installment
+7 Date
+(MM/DD/YYYY)
+
+Schedule 3 – Computation of Taxable Base on the Unutilized Portion of Sales Proceeds from Sale of Principal Residence (if Part I Items 8 and 9 are applicable)
+
+Steps in computation of Taxable Base as prescribed in Section 4
+of Revenue Regulations No. 13-99
+
+Determine the percentage (%) of non-utilization by applying the formula
+Unutilized Portion of GSP = Percentage (%) of Non-Utilization
+Gross Selling Price (GSP)
+Multiply the % of non-utilization by the GSP or FMV, whichever is higher
+% of non-utilization x GSP or FMV = Taxable Base (To Schedule 4, Item C)
+
+Schedule 4 – Determination of Taxable Base
+1 A Gross Selling Price / Bid Price For Foreclosure Sale
+B Total FMV of Land and Improvement (From Schedule 1)
+C On the Unutilized Portion of Sales Proceeds (From Schedule 3)
+D Installment Collected (For Installment Sale Excluding Interest) (From Schedule 2 Item 5)
+E Others (specify)
+Taxable Base (For cash/foreclosure sale Item A or B whichever is higher; For unutilized portion of
+2 sales proceeds of Family Home Item C; For installment sales Item D; or, For other transaction Item E,
+whichever is applicable) (To Part II, Item 12)
+
+* RR-Residential Regular
+
+=
+% X
+
+%
+
+=
+
+. 0 0
+. 6 8
+.
+0 . 0 0
+.
+
+1 8 0 0 0 0 1
+1 8 0 0 0 0 0
+
+1 8 0 0 0 0 1
+
+. 0 0
+
+CR-Condominium Regular
+CL-Cemetery Lot GL-Government Lot A-Agricultural X-Institutional
+RC-Residential Condominium CC-Commercial Condominium PS-Parking Slot GP-General Purpose I-Industrial APD-Area for Priority Development
+
+AVM
+MRU
+FAC
+MVAA
+
+CPI
+TYL
+ELM
+ILR
+RAT
+
+BIR Form No. 1706
+
+ADDITIONAL SHEET
+
+Capital Gains Tax Return (Real Properties)
+
+Entries shortened with "..." on the form are printed in full below.
+
+TIN: 000-123-453-00000
+
+Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZVILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+Entries continued from the form
+Page
+Page 1
+
+Item / Field
+Item 6A — Seller name
+
+Page 1
+
+Item 6A — Seller's Registered Address
+
+Page 2
+Page 2
+
+Schedule 1, row 1, , Classification*
+Schedule 1, row 2, , Classification*
+
+Date of Transaction: 03/15/2025
+
+Full text of entries shortened with "..." on the form
+Full Entry
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA
+CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+MIXED USE LOT
+MIXED USE LOT
+
+

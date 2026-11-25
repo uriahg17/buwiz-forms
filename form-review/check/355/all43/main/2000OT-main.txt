@@ -1,0 +1,348 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Documentary Stamp Tax Declaration/
+2000-OT
+Return (One-Time Transactions)
+January 2018 (ENCS) Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable
+BIR Form No.
+Page 1
+
+boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+1 Date of Transaction (MM/DD/YYYY)
+0 6 1 5 2 0 2 5
+
+2 Amended Return?
+X Yes
+No
+
+3 Alphanumeric Tax Code (ATC)
+DO 102
+DO 125
+X DO 122
+
+2000-OT 01/18ENCS P1
+
+4 Number of Sheet/s Attached
+0 0
+
+Part I – Background Information
+Code of Location of
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 6 RDO
+5 Taxpayer Identification Number (TIN)
+the Property
+7 Taxpayer’s Name (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+
+0 3 9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+8 Registered Address (Indicate complete address. If branch, indicate the branch address. If registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+9 Contact Number
+
+10 Email Address
+
+0 9 1 7 1 2 3 4 5 6 7
+
+8A ZIP Code
+
+1 1 0 0
+
+juana.santos.independent.print.check@example.com
+
+X Seller/Transferor/Donor
+Buyer/Transferee/Donee
+11 Other Party to the transaction
+11A Name (Last Name, First Name, Middle Name for Individual)/(Registered Name for Non-Individual)
+S A M P L E
+
+B U Y E R
+
+C O R P
+
+11B TIN 9 8 7 6 5 4 3 2 1 0 0 0
+
+12 Nature of Transaction
+
+Transfer of Shares of Stock Not Traded Through the Local Stock Exchange
+(Does not include original issue of shares of stock by the issuing corporation)
+
+X Transfer of Real Property Classified as Capital Asset
+
+13 Location of Real Property (if sale/transfer/donation of real property)
+
+Transfer of Real Property Other Than Capital Asset
+
+LOT 1 BLOCK 2, SAMPLE SUBDIVISION, QUEZON CITY
+
+Part II – Computation of Tax
+
+14 Taxable Base-Shares of Stock [From Part IV Schedule 1.B column (d) or (e), whichever is applicable]
+15 Taxable Base – Real Property (From Part IV Schedule 2 Item 2)
+16 Tax Rate
+17 Tax Due (Item 14 or 15 x Item 16)
+18 Less: Tax Paid in Return previously filed, if this is an amended return
+19 Tax Still Due/(Overpayment) (Item 17 less Item 18)
+20 Add: Penalties
+20A Surcharge
+20B Interest
+20C Compromise
+20D Total Penalties (Sum of Items 20A to 20C)
+21 Total Amount Payable/(Overpayment) (Sum of Items 19 and 20D)
+
+In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds)
+
+0 ●
+3 5 0 0 0 0 0 ●
+P15 / P1,000
+5 2 5 0 0 ●
+1 0 0 0 ●
+5 1 5 0 0 ●
+
+0 0
+0 0
+
+2 5
+0
+0
+2 5
+5 1 5 2 5
+
+5
+0
+0
+5
+5
+
+0 0
+0 0
+0 0
+
+●
+●
+●
+●
+●
+
+0
+0
+0
+0
+0
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct pursuant to
+the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the
+*Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach Special Power of Attorney)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Tax Agent Accreditation No./
+
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+22 Cash/Bank Debit Memo
+23 Check
+24 Tax Debit Memo
+25 Others (specify)
+
+Machine Validation
+
+(Indicate title/designation and TIN)
+
+Date of Issue
+
+Date of Expiry
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+/
+/
+/
+
+/
+/
+/
+
+/
+
+/
+
+*Note: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Authorized Agent Bank and Date of Receipt
+(Bank Teller’s Initial)
+
+BIR Form No.
+
+Stamp Tax Declaration/
+2000-OT Documentary
+Return (One-Time Transactions)
+January 2018 (ENCS)
+Page 2
+
+TIN
+
+2000-OT 01/18ENCS P2
+
+Taxpayer’s Name
+
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+PART IV - Schedules
+Schedule 1– Brief Description of Property/Shares of Stock Sold (Attach additional sheet/s if necessary)
+1.A - Real Property
+OCT/TCT/CCT No.
+
+Tax Declaration No. (TD)
+
+TD-0001
+1 TCT-12345
+TD-0002
+2 TCT-12346
+3 TCT-20002
+TD-0002
+TD-0003
+4 TCT-20003
+5 TCT-20004
+TD-0004
+Continuation of Schedule 1.A
+Lot / Improvement
+
+*Classification
+
+RESIDENTIAL250
+1 LOT 1
+RESIDENTIAL120
+2 IMPROVEMENT
+RESIDENTIAL100
+3 LOT 2
+RESIDENTIAL100
+4 LOT 3
+LOT
+4
+RESIDENTIAL100
+5
+TOTAL (To Schedule 2 Item B)
+
+1.B - Shares of Stock
+
+Name of Corporate Stock
+(a)
+
+Location
+
+BARANGAY EXAMPLE
+BARANGAY EXAMPLE
+BARANGAY EXAMPLE
+BARANGAY EXAMPLE
+BARANGAY EXAMPLE
+
+Area
+(sq.m.)
+
+Fair Market Value (FMV)
+per TD (Column 1)
+
+1,250,000.00
+800,000.00
+200,000.00
+300,000.00
+400,000.00
+Number of
+Shares Sold
+(b)
+
+FMV per BIR (Zonal Value)
+(Column 2)
+
+1,300,000.00
+750,000.50
+90,000.00
+90,000.00
+90,000.00
+Stock
+Certificate
+Number
+(c)
+
+Par Value of Shares
+(for shares of stock with
+par value)
+
+(d)
+0.00
+0.00
+0.00
+Schedule 2– Determination of Taxable Base for Real Property Sold/Transferred/Donated
+
+1 A Gross Selling Price / Bid Price for foreclosure sale / Net Gift
+
+B Total Fair Market Value of Land and Improvement per Schedule 1.A
+C Others (Specify)
+2 Taxable Base (For cash/foreclosure sale/net gift Item A or B whichever is higher; or, For other transaction Item C,
+whichever is applicable) (To Part II, Item 15)
+
+Fair Market Value
+
+(whichever is higher
+between Columns 1 & 2)
+
+1,300,000.00
+800,000.00
+200,000.00
+300,000.00
+400,000.00
+3,500,000.00
+
+DST Paid Upon Original Issue
+of Shares of Stock Sold
+(for shares of stock without par value)
+(e)
+0.00
+0.00
+0.00
+2 7 5 0 0 0 0
+3 5 0 0 0 0 0
+0
+3 5 0 0 0 0 0
+
+●
+●
+●
+●
+
+0 1
+0 0
+0 0
+0 0
+
+

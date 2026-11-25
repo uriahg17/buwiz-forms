@@ -1,0 +1,295 @@
+(To be filled up by the BIR)
+
+DLN:
+
+Republika ng Pilipinas
+Kagawaran ng Pananalapi
+Kawanihan ng Rentas Internas
+
+Remittance Return of Percentage
+Tax on Winnings and Prizes
+Withheld by Race Track Operators
+
+Fill in all applicable spaces. Mark all appropriate boxes with an “X”.
+1 For the Period (MM/DD/YYYY)
+From 0 6 1 5 2 0 2 5 To 0 6 1 5 2 0 2 5
+
+2 Amended Return?
+X Yes
+No
+
+PSIC:
+BIR Form No.
+
+1600-WP
+January 2010 (ENCS)
+
+4 Any Taxes Withheld?
+X
+No
+Yes
+
+3 No. of Sheet/s Attached
+0 0
+
+Part I
+Background Information
+5 TIN 0 0 0
+7 Category of Withholding Agent
+1 2 3
+4 5 3
+0 0 0 0 0 6 RDO Code
+0 3 9
+Private X Government
+8 Withholding Agent's Name (Last Name, First Name, Middle Name for Individuals)/(Registered Name for Non-Individuals)
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR
+PRINT OVERFLOW TESTING
+9 Registered Address
+10 Zip Code
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER
+1 1 0 0
+VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+11 Are there payees availing of tax relief under Special Law or
+X No If yes, specify
+International Tax Treaty?
+Yes
+Part II
+Computation of Tax
+TO BE
+*ATC
+NATURE OF PAYMENT
+TAX BASE
+RATE TAX REQUIRED
+WITHHELD
+winnings from double, forecast/quinella and trifecta bets on horse races paid by
+WB 191 Tax on
+123,456.79 4%
+Government Withholding Agent
+Tax
+on
+winnings
+or
+prizes
+paid
+to
+winners
+of
+winning
+horse
+race
+tickets
+other
+than
+double,
+forecast/
+WB 192
+50,000.02 10%
+quinella and trifecta bets; & owners of winning race horses paid by Government Withholding Agent
+Tax
+on
+winnings
+from
+double,
+forecast/quinella
+and
+trifecta
+bets
+on
+horse
+races
+paid
+by
+4%
+WB 193
+Private Withholding Agent
+winnings or prizes paid to winners of winning horse race tickets other than double, forecast/
+10%
+WB 194 Tax onquinella
+and trifecta bets; and owners of winning race horses paid by Private Withholding Agent
+12
+12 Tax Required to be Withheld and Remitted
+13
+13 Less: Tax Remitted in Return Previously Filed, if this is an amended return
+14
+14 Tax Still Due/(Overremittance)
+Compromise
+15 Add: Penalties
+Surcharge
+Interest
+125.13 15B
+10.00 15C
+0.00
+15A
+15D
+16
+16 Total Amount Still Due / (Overremittance)(Sum of Items 14 & 15D)
+For late filers with overremittance, extend amount of penalties (Item 15D to 16).
+To be issued a Tax Credit Certificate
+If overremittance, mark one box only:
+To be Refunded
+
+ATTACHMENT TO BIR FORM 1600-WP - ALPHABETICAL LIST OF PAYEES (FORMAT ONLY)
+FOR THE PERIOD (MM/DD/YYYY)
+WITHHOLDING
+FROM 0 6 1 5 2 0 2 5 TO 0 6 1 5 2 0 2 5 AGENT TIN: 0 0 0
+Schedule 1.1
+SEQ. NO.
+(1)
+
+1
+2
+
+123
+
+453
+
+00000
+
+WITHHOLDING AGENT
+NAME:
+
+ALPHABETICAL LIST OF PAYEES FROM WHOM TAXES WERE WITHHELD (Attach additional sheet/s, if necessary)
+PAYEE DETAILS
+INCOME PAYMENT/TAX WITHHELD DETAILS
+TAX
+*ATC
+TIN
+INDIVIDUAL/CORPORATION
+NATURE OF PAYMENT
+AMOUNT
+RATE
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(Including Branch Code)
+(LAST NAME, FIRST NAME,
+MIDDLE NAME FOR INDIVIDUALS
+OR REGISTERED NAME FOR
+NON-INDIVIDUALS)
+
+987654321000
+111222339000
+
+WB191 TAX ON WINNINGS...
+WB192 TAX ON WINNINGS...
+
+9,938.27
+1,000.00
+8,938.27
+135.13
+9,073.40
+Page
+
+of
+
+TAX REQUIRED
+TO BE WITHHELD
+(8)
+
+4,000.00
+2,010.01
+0.00
+0.00
+0.00
+0.00
+TOTAL
+P
+P
+120,100.11
+6,010.01
+I declare, under the penalties of perjury that this return has been made in good faith, verified by me, and to the best of my knowledge and belief,
+is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof.
+17
+
+DELA CRUZ, JUAN SAMPLE
+SAMPLE STABLES INC
+
+4,938.27
+5,000.00
+
+Taxpayer/Authorized Representative/Accredited Tax Agent
+
+100,000.00 4 %
+20,100.11 10 %
+
+Title/Position of Signatory
+
+Tax Agent Acc. No./Atty's Roll No. (if applicable)
+Date of Issuance
+Part III
+D e t a i l s of P a y m e n t
+Drawee Bank/
+Date
+Particulars
+Number
+Amount
+Agency
+MM DD
+YYYY
+18B
+18C
+18D
+18 Cash/ Bank 18A
+Debit Memo
+
+19 Check
+
+19A
+
+19B
+
+19C
+
+20B
+20C
+20 Others 20A
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+
+19D
+20D
+
+TIN of Signatory
+Date of Expiry
+Stamp of Receiving Office/
+AAB and Date of Receipt
+(RO's Signature/Bank
+Teller's Initial)
+
+BIR Form No. 1600WP
+
+ADDITIONAL SHEET
+
+Remittance Return of Percentage Tax on Winnings and Prizes
+Entries shortened with "..." on the form are printed in full below.
+
+TIN: 000-123-453-00000
+
+Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZVILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+Entries continued from the form
+Page
+Page 1
+
+Item / Field
+Schedule 1.1, row 1, Nature of Payment
+
+Page 1
+
+Schedule 1.1, row 2, Nature of Payment
+
+Date of Withholding: 06/15/2025
+
+Full text of entries shortened with "..." on the form
+Full Entry
+TAX ON WINNINGS FROM DOUBLE, FORECAST/QUINELLA AND TRIFECTA BETS ON
+HORSE RACES PAID BY GOVERNMENT WITHHOLDING TAX AGENT
+TAX ON WINNINGS OR PRIZES PAID TO WINNERS OF WINNING HORSE RACE TICKETS
+OTHER THAN DOUBLE, FORECAST/QUINELLA AND TRIFECTA BETS; AND OWNERS OF
+WINNING RACE HORSES PAID BY GOVERNMENT WITHHOLDING TAX AGENT
+
+

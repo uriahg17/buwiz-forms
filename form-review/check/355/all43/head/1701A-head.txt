@@ -1,0 +1,327 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+BIR Form No.
+
+1701A
+January 2018
+Page 1
+
+Annual Income Tax Return
+
+Individuals Earning Income PURELY from Business/Profession
+[Those under the graduated income tax rates with OSD as mode of deduction
+OR those who opted to avail of the 8% flat income tax rate]
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.
+Two copies must be filed with the BIR and one held by the Tax Filer.
+
+1701A 01/18 P1
+
+1 For the Year (MM/YYYY) 1 2 2 0 2 5 2 Amended Return?
+Yes X No 3 Short Period Return?
+Yes X No
+Part I – Background Information on Taxpayer/Filer
+4 Taxpayer Identification Number (TIN)
+5 RDO Code
+6 Taxpayer Type
+X Single Proprietor
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0
+0 3 9
+Professional
+II014 Income from Profession – Graduated IT Rates
+7 Alphanumeric Tax Code (ATC) X II012 Business Income - Graduated IT Rates
+II015 Business Income - 8% IT Rate
+
+8 Taxpayer’s Name (Last Name, First Name, Middle Name)
+
+II017 Income from Profession – 8% IT Rate
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+
+9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+9A ZIP Code
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+1 1 0 0
+10 Date of Birth (MM/DD/YYYY) 11 Email Address
+0 1 1 5 1 9 8 0 juana.santos.independent.print.check@example.com
+12 Citizenship
+13 Claiming Foreign Tax Credits? 14 Foreign Tax Number, if applicable
+F I L I P I N O
+Yes X No
+15 Contact Number (Landline/Cellphone No.) 16 Civil Status
+0 9 1 7 1 2 3 4 5 6 7
+X Single
+Married
+Legally Separated
+Widow/er
+17 If married, spouse has income?
+18 Filing Status
+Yes
+No
+Joint Filing
+Separate Filing
+19 Tax Rate
+Graduated
+rates
+with
+OSD
+as
+method
+8%
+in
+lieu
+of
+Graduated
+Rates
+under
+Sec.
+24(A)
+&
+Percentage
+Tax
+under
+Sec. 116 of NIRC
+X of deduction
+[available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)]
+
+Part II – Total Tax Payable
+
+Particulars
+20 Tax Due (Either from Part IV.A Item 46 OR Part IV.B Item 56)
+
+21 Less: Total Tax Credits/Payments (From Part IV.C Item 64)
+22 Net Tax Payable/(Overpayment) (Item 20 Less Item 21) (From Part IV Item 65)
+
+23 Less: Portion of Tax Payable Allowed for 2nd Installment to be paid on or before October 15
+(50% or less of Item 20)
+
+24 Amount of Tax Payable/(Overpayment) (Item 22 Less Item 23)
+Add: Penalties
+25 Surcharge
+26 Interest
+27 Compromise
+28 Total Penalties (Sum of Items 25 to 27)
+29 Total Amount Payable/(Overpayment) (Sum of Items 24 and 28)
+30 Aggregate Amount Payable/(Overpayment) (Sum of Items 29A & 29B)
+
+If overpayment, mark one (1) box only. (Once the choice is made, the same is irrevocable)
+
+To be refunded
+
+To be issued a Tax Credit Certificate (TCC)
+
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+
+A) Taxpayer/Filer
+
+9 4 4 4 8
+3 8 6 0 0
+5 5 8 4 8
+
+B) Spouse
+
+5 5 8 4 8
+1 0 0 0
+
+1 0 0 0
+5 6 8 4 8
+5 6 8 4 8
+To be carried over as a tax credit for next year/quarter
+
+I declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me, and to the best of my knowledge and belief, are true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If signed by an Authorized Representative, indicate TIN and attach authorization letter)
+
+31 Number of Attachments
+
+Printed Name and Signature of Taxpayer/Authorized Representative
+Particulars
+Drawee Bank/Agency
+32 Cash/Bank Debit Memo
+
+Part III - Details of Payment
+Number
+
+Date (MM/DD/YYYY)
+
+Amount
+
+33 Check
+34 Tax Debit Memo
+35 Others (specify below)
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+0
+
+Annual Income Tax Return
+
+BIR Form No.
+
+1701A
+
+TIN
+
+Individuals Earning Income PURELY from Business/Profession
+[Those under the graduated income tax rates with OSD as mode of deduction
+OR those who opted to avail of the 8% flat income tax rate]
+
+January 2018
+Page 2
+
+1701A 01/18 P2
+
+Tax Filer’s Last Name
+
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 S A N T O S
+
+Part IV – Computation of Income Tax
+If Optional Standard Deductions (OSD), fill in items 36 to 46; if 8%, fill in items 47 to 56
+
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+
+A) Taxpayer/Filer
+IV.A – For Graduated Income Tax Rates
+36 Sales/Revenues/Receipts/Fees
+1 2 3 4 5 6 8
+1 0 0 0 1
+37 Less: Sales Returns, Allowances and Discounts
+1 2 2 4 5 6 7
+38 Net Sales/Revenues/Receipts/Fees (Item 36 Less Item 37)
+39 Less: Allowable Deduction - Optional Standard Deduction (OSD) (40% of Item 38)
+4 8 9 8 2 7
+7 3 4 7 4 0
+40 Net Income (Item 38 Less Item 39)
+Add: Other Non-Operating Income (specify below)
+5 0 0 1
+41 INTEREST INCOME
+42
+2 0 0 0 0
+43 Amount Received/Share in Income by a Partner from General Professional Partnership (GPP)
+2 5 0 0 1
+44 Total Other Income (Sum of Items 41 to 43)
+45 Total Taxable Income (Sum of Items 40 and 44)
+7 5 9 7 4 1
+9 4 4 4 8
+46 TAX DUE (Item 45 x Applicable Tax Rate based on Tax Table below) (To Part II – Item 20)
+IV.B – For 8% Income Tax Rate (Those whose sales/receipts/others did not exceed P3M and opted at the initial quarter for this rate)
+47 Sales/Revenues/Receipts/Fees
+48 Less: Sales Returns, Allowances and Discounts
+49 Net Sales/Revenues/Receipts/Fees (Item 47 Less Item 48)
+Add: Other Non-Operating Income (specify below)
+50
+51
+52 Total Other Non-operating Income (Sum of Items 50 and 51)
+53 Total Taxable Income (Sum of Items 49 and 52)
+54 Less: Allowable reduction from gross sales/receipts and other non-operating income of PURELY self-employed
+
+B) Spouse
+
+individuals and/or professionals in the amount of P 250,000
+
+55 Taxable Income/(Loss) (Item 53 Less Item 54)
+56 TAX DUE (Item 55 x 8% Income Tax Rate) (To Part II - Item 20)
+IV.C - Tax Credits/Payments (attach proof)
+57 Prior Year’s Excess Credits
+58 Tax Payments for the First Three (3) Quarters
+59 Creditable Tax Withheld for the First Three (3) Quarters
+60 Creditable Tax Withheld per BIR Form No. 2307 for the 4th Quarter
+61 Tax Paid in Return Previously Filed, if this is an Amended Return
+62 Foreign Tax Credits, if applicable
+63 Other Tax Credits/Payments (specify) SAMPLE CREDIT
+64 Total Tax Credits/Payments (Sum of Items 57 to 63) (To Item 21)
+65 Net Tax Payable/(Overpayment) (Item 46 OR 56 Less Item 64) (To Part II - Item 22)
+66 Spouse’s Taxpayer Identification Number (TIN)
+
+-
+
+-
+
+Part V – Background Information on Spouse
+
+- 0 0 0 0 0
+
+67 RDO Code
+
+69 Alphanumeric Tax Code (ATC)
+
+II012 Business Income - Graduated IT Rates
+
+71 Contact Number
+73 Claiming Foreign Tax Credits?
+
+72 Citizenship
+74
+Foreign
+Tax Number
+No
+
+II015 Business Income - 8% IT Rate
+70 Spouse’s Name (Last Name, First Name, Middle Name)
+
+75 Tax Rate
+
+Yes
+
+1
+3 0
+5
+2
+
+Graduated
+of deductionrates with OSD as method
+
+(if applicable)
+
+0
+0
+0
+5
+
+0
+0
+0
+0
+
+0
+0
+0
+0
+
+1 0 0
+3 8 6 0 0
+5 5 8 4 8
+
+68 Filer’s Spouse Type
+Single Proprietor
+Professional
+II014 Income from Profession – Graduated IT Rates
+II017 Income from Profession – 8% IT Rate
+
+8%
+in lieuifofgross
+Graduated
+Ratesandunder
+Sec. 24(A) &income
+Percentage
+Tax under
+NIRC
+[available
+sales/receipts
+other non-operating
+do not exceed
+Three Sec.
+million116
+pesosof (P3M)]
+
+

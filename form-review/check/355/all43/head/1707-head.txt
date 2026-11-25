@@ -1,0 +1,391 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Capital Gains Tax Return
+
+BIR Form No.
+
+1707
+
+(For Onerous Transfer of Shares of Stock Not Traded
+Through the Local Stock Exchange)
+
+April 2021 (ENCS)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+
+Page 1
+
+1 Date of Transaction
+
+2 Amended Return?
+
+(MM/DD/YYYYY)
+
+0 6 3 0 2 0 2 5
+
+X No
+
+Yes
+
+1707 04/21ENCS P1
+
+3 Alphanumeric Tax Code (ATC)
+X II030 Individual
+
+4 Number of Sheet/s
+
+IC110
+
+Corporation
+
+Attached
+
+0 1
+
+Part I - Background Information
+
+5 RDO Code of the Seller
+6 Seller’s Name (Last Name, First Name, Middle Name for
+
+0 3 9
+
+Seller’s Registered Address
+
+Seller’s Taxpayer
+Identification Number (TIN)
+6A SANTOS, JUANA MARIE DELA CRUZ-VILL... UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE... 123-456-788-000
+6B JUAN SAMPLE-CO
+9 EXAMPLE RD., PASIG
+111-222-333-00000
+Individual OR Registered Name for Non-Individual)
+(Attach Additional Sheet/s if necessary)
+
+(Indicate complete address. If branch, indicate the branch address. If registered address is different from the current
+address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+6C
+
+7 Buyer’s Name (Last Name, First Name, Middle Name for
+Individual OR Registered Name for Non-Individual)
+(Attach Additional Sheet/s if necessary)
+
+7A EXAMPLE HOLDINGS INC.
+7B
+7C
+
+Buyer’s Registered Address
+
+45 EXAMPLE AVE., MAKATI CITY
+
+8 Are you availing of tax relief under Special Law or
+International Tax Treaty? X Yes
+No
+9 Description of Transaction
+
+Buyer’s Taxpayer
+Identification Number (TIN)
+444-555-666-000
+
+(Indicate complete address. If branch, indicate the branch address. If registered address is different from the current
+address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+X Cash Sale
+
+8A If yes, please specify
+T A X
+T R E A T Y
+
+R E L I E F
+
+Foreclosure Sale
+
+Others (please specify)
+
+Installment Sale
+
+(Fill-out Part IV-Schedule 1)
+
+Part II – Computation of Tax
+
+10 Taxable Base – For Cash Sale / Foreclosure Sale (From Part IV – Schedule 2)
+11 Less: Cost and Other Allowable Expenses (From Part IV – Schedule 3)
+12 Net Capital Gain/(Loss) (Item 10 Less Item 11)
+13 Applicable Tax Rate
+14 Tax Due on the Entire Transaction (Cash Sale/Foreclosure Sale) (Item 12 Multiply by Item 13)
+15 Tax Due for this Payment Period (If Tax is Payable under Installment Method of Computation)
+(From Part IV – Schedule 1 Item 7)
+
+1 4 8 5 5 6 7
+9 1 2 3 4 5
+5 7 3 2 2 2
+
+●
+●
+●
+
+15%
+
+16 Less: Tax Paid in Return Previously Filed, if this is an Amended Return
+17 Tax Payable/(Overpayment) (Item 14 or 15 Less Item 16)
+18 Add: Penalties 18A Surcharge
+18B Interest
+18C Compromise
+18D Total Penalties (Sum of Items 18A to 18C)
+19 Total Amount Payable/(Overpayment) (Sum of Items 17 and 18D)
+In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application of Tax Credits/Refunds)
+
+8 5 9 8 3
+0
+0
+8 5 9 8 3
+2 5
+1 0
+0
+3 5
+8 6 0 1 8
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+9 0
+6 8
+2 2
+3 3
+0 0
+0 0
+3 3
+5 0
+0 1
+0 0
+5 1
+8 4
+
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of
+my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+For Individual:
+For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Particulars
+
+20 Cash/Bank Debit Memo
+21 Check
+22 Tax Debit Memo
+23 Others (specify below)
+
+Drawee Bank/Agency
+
+Signature over Printed Name of President/Vice President/Authorized Officer or
+Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+1707
+
+Capital Gains Tax Return
+
+(For Onerous Transfer of Shares of Stock Not Traded
+April 2021 (ENCS)
+Through the Local Stock Exchange)
+Page 2
+1707 04/21ENCS P2
+TIN
+Taxpayer’s Name
+JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS,
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Part IV - Schedules
+
+Schedule 1 – Installment Sale
+0
+0 0
+1 Selling Price
+0
+0 0
+2 Cost and Expenses
+3 Mortgage Assume
+0
+0 0
+0
+4 No. of Installment
+0
+0 0
+5 Amount of Installment for this Payment Period
+6 Applicable Tax Rate
+15%
+0
+0 0
+7 Tax Due for the Period (Item 5 Multiply by Item 6) (To Part II Item 15)
+8 Date of Collection of Installment for this Payment Period (MM/DD/YYYY)
+9 Total Collection (Down payment and Installments) during the Year of Sale
+0
+0 0
+Schedule 2 – Description of Shares of Stocks (attach additional sheet/s, if necessary)
+Name of Corporate Stock
+C O R P
+A S A M P L E
+B E X A M P L E
+M I N I N G
+I N C
+S A M P L E
+C O
+C T H I R D
+D
+(Continuation of Schedule 2)
+No. of Shares
+Stock Certificate Number
+Taxable Base/Selling Price
+A 1 , 0 0 0
+1 0 0 1
+2 5 0 0 0 0
+0 1
+2 0 0 2
+1 2 3 4 5 6 7
+8 9
+B 1 2 , 3 4 5 . 6 7 8
+3 0 0 3
+1 0 0 0
+0 0
+C 1 0
+D 0 . 0 0
+0
+0 0
+Total Taxable Base (To Part II Item10)
+1 4 8 5 5 6 7
+9 0
+Schedule 3 – Schedule of Cost and Other Allowable Expenses (attach additional sheet/s, if necessary)
+Particulars
+Amount
+A A C Q U I S I T I O N
+C O S T
+9 0 0 0 0 0
+0 0
+F E E S
+1 2 3 4 5
+6 8
+B B R O K E R
+0
+0 0
+C
+D
+0
+0 0
+Total (To Part II Item 11)
+9 1 2 3 4 5
+6 8
+Taxpayer Classification
+Tax Rate
+●
+●
+●
+
+●
+
+●
+
+●
+
+●
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+
+1. For Individual
+
+15%
+
+2. For Corporation
+2.1 Domestic
+
+15%
+
+2.2 Foreign
+
+15%
+
+BIR Form No. 1707
+
+Capital Gains Tax Return (For Onerous Transfer of Shares of Stock Not Traded Through the Local Stock Exchange)
+
+ADDITIONAL SHEET
+
+Entries shortened with "..." on the form are printed in full below.
+
+TIN: —
+
+Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZVILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING JUAN SAMPLE-CO
+
+Entries continued from the form
+Page
+Page 1
+
+Item / Field
+Item 6A — Seller name
+
+Page 1
+
+Item 6A — Seller's Registered Address
+
+Date of Transaction: 06/30/2025
+
+Full text of entries shortened with "..." on the form
+Full Entry
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA
+CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+

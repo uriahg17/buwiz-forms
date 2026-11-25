@@ -1,0 +1,660 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Monthly Remittance Return
+
+BIR Form No.
+
+1601-C
+January 2018 (ENCS)
+
+of Income Taxes Withheld on Compensation
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+Page 1
+
+1 For the Month (MM/YYYY)
+0
+
+6
+
+2
+
+0
+
+2
+
+5
+
+2 Amended Return?
+Yes X No
+
+3 Any Taxes Withheld?
+X Yes
+No
+
+4 Number of Sheet/s Attached
+0
+
+5 ATC
+
+WW010
+
+0
+
+Part I – Background Information
+
+6 Taxpayer Identification Number (TIN)
+0 0 0
+/ 1 2 3 / 4 5 3 / 0 0 0 0
+8 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+1601-C 01/18ENCS P1
+
+0
+
+7 RDO Code
+
+0
+
+3
+
+9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TEST...
+
+9 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY
+SAN LORENZO MAKATI SECOND ADDRESS LINE LONG COMPLEMENT FOR PRINT OVERFLOW TESTING
+
+10 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+11 Category of Withholding Agent
+12 Email Address juana.santos.independent.print.check@example.com
+Are there payees availing of tax relief under
+13 Special
+Yes X No 13A If yes, specify
+Law or International Tax Treaty?
+
+X
+
+9A ZIP Code
+Private
+
+1
+
+1
+
+0
+
+0
+
+Government
+
+Part II – Computation of Tax
+
+14 Total Amount of Compensation
+
+2
+
+Less: Non-Taxable/Exempt Compensation
+
+15 Statutory Minimum Wage for Minimum Wage Earners (MWEs)
+16 Holiday Pay, Overtime Pay, Night Shift Differential Pay, Hazard Pay (for MWEs only)
+17 13th Month Pay and Other Benefits
+18 De Minimis Benefits
+19 SSS, GSIS, PHIC, HDMF Mandatory Contributions & Union Dues (employee’s share only)
+20 Other Non-Taxable Compensation (specify)
+21 Total Non-Taxable Compensation (Sum of Items 15 to 20)
+22 Total Taxable Compensation (Item 14 Less Item 21)
+23 Less: Taxable compensation not subject to withholding tax (for employees, other than MWEs, receiving P250,000 & below for the year)
+24 Net Taxable Compensation (Item 22 Less Item 23)
+25 Total Taxes Withheld
+26 Add/(Less): Adjustment of Taxes Withheld from Previous Month/s (From Part IV-Schedule 1, Item 4)
+27 Taxes Withheld for Remittance (Sum of Items 25 and 26)
+28 Less: Tax Remitted in Return Previously Filed, if this is an amended return
+29
+Other Remittances Made (specify)
+30
+Total Tax Remittances Made (Sum of Items 28 and 29)
+31 Tax Still Due/(Over-remittance) (Item 27 Less Item 30)
+Add: Penalties 32 Surcharge
+33 Interest
+34 Compromise
+35 Total Penalties (Sum of Items 32 to 34)
+36 TOTAL AMOUNT STILL DUE/(Over-remittance) (Sum of Items 31 and 35)
+
+5
+
+0
+
+0
+
+0
+
+0
+0
+0
+
+2
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+0
+
+0
+
+1
+
+2
+
+5
+
+0
+
+0
+
+3
+
+7
+
+5
+
+0
+
+0
+
+1
+
+2
+
+5
+
+0
+
+0
+
+0
+
+2
+
+0
+2
+
+1
+
+2
+
+5
+
+0
+
+0
+
+1
+
+8
+
+7
+
+5
+
+0
+
+2
+
+5
+
+0
+
+1
+
+9
+
+0
+
+0
+
+0
+0
+0
+0
+
+1
+
+9
+
+0
+
+0
+
+0
+0
+0
+0
+0
+
+1
+
+9
+
+0
+
+0
+
+0
+
+●
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+I/We declare under the penalties of perjury that this remittance return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Date of Issue
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+37 Cash/Bank Debit Memo
+38 Check
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+(MM/DD/YYYY)
+
+Number
+
+Part III – Details of Payment
+
+Date (MM/DD/YYYY)
+
+(specify
+40
+Others
+39 Tax
+Debit
+Memobelow)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+* NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+1601-C
+
+Monthly Remittance Return
+
+of Income Taxes Withheld on Compensation
+
+January 2018 (ENCS)
+Page 2
+
+TIN
+0
+
+0
+
+0
+
+1
+
+2
+
+1601-C 01/18ENCS P2
+
+Withholding Agent’s Name (Last Name for Individual OR Registered Name for Non-Individual)
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME
+WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Part IV - Schedule
+Schedule I – Adjustment of Taxes Withheld on Compensation from Previous Months (attach additional sheet/s, if necessary)
+Previous Month/s
+Date Paid
+Drawee Bank/Bank
+Number
+Tax Paid (Excluding Penalties for the Month)
+(MM/YYYY)
+(MM/DD/YYYY)
+Code/Agency
+1
+2
+3
+
+1
+
+0
+
+4
+
+2
+
+2
+
+0
+
+2
+
+5
+
+0
+
+5
+
+0
+
+9
+
+3
+
+2
+
+0
+
+2
+
+5
+
+4
+
+5
+
+SAMPLE BANK REF-0001
+
+1
+
+5
+
+0
+
+0
+
+0
+0
+
+Should be Tax Due for the Month
+6
+
+1
+5
+2
+5 0
+1
+●
+0
+2
+●
+0
+3
+●
+4 Total Adjustment (Sum of Items 1 to 3) (To Part II, Item 26)
+
+0
+
+Adjustments
+7 = (6 less 5)
+0
+
+0
+
+2
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+2
+
+5
+
+5
+
+0
+
+0
+
+●
+●
+●
+●
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+●
+●
+●
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+BIR Form No. 1601C
+
+Monthly Remittance Return of Income Taxes Withheld on Compensation
+
+ADDITIONAL SHEET
+
+Entries shortened with "..." on the form are printed in full below.
+
+TIN: 000-123-453-00000
+
+Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZVILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+Entries continued from the form
+Page
+Page 1
+
+Item / Field
+Item 8 — Withholding Agent's Name
+
+Return Period: 06/2025
+
+Full text of entries shortened with "..." on the form
+Full Entry
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+

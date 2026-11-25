@@ -1,0 +1,387 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+BIR Form No.
+
+EXCISE TAX RETURN
+
+January 2018 (ENCS) v2
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+
+2200-M
+Page 1
+
+1 Date (MM/DD/YYYY)
+
+for Mineral Products
+
+0 3
+
+2200-M 01/18ENCS v2 P1
+
+/ 1 4 / 2 0 2 5 2 Amended Return?
+
+0 2
+Yes X No 3 Number of Sheet/s Attached
+Part I – Background Information
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 5 RDO Code
+0 3 9
+
+4 Taxpayer Identification Number (TIN)
+6 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905))
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+1 1 0 0
+7A ZIP Code
+8 Contact Number
+9 Email Address
+0 9 1 7 1 2 3 4 5 6 7 juana.santos.independent.print.check@example.com
+10 Place of Production
+Region
+Province
+City
+N C R
+N C R
+T H I R D
+D I S T R I C T
+C I T Y
+O F
+P A S I G
+11 Place of Removal
+Region
+Province
+City
+C A V I T E
+B A C O O R
+REGION IV-A
+12A If yes, specify
+12 Are you availing of tax relief under Special Law or
+International Tax Treaty? X Yes
+No S A M P L E
+R E L I E F
+L A W
+Part II – Manner of Payment
+14
+Prepayment/Advance Deposit
+13
+Payment on Actual Removal
+15 X Other Similar Schemes (specify) S A M P L E
+S C H E M E
+Part III – Payments and Application
+16 Excise Tax Due (from Part V - Schedule 1)
+1 0 1 8 6 3
+3 7
+17 Less: 17A Balance Carried Over from Previous Return
+1 0 0 0
+0 0
+2 3 4
+5 7
+17B Creditable Excise Tax, if applicable
+1 2 3 4
+5 7
+17C Total (Sum of Items 17A and 17B)
+1 0 0 6 2 8
+8 0
+18 Net Tax Due/(Overpayment) (Item 16 less Item 17C)
+19 Less: Payment on Returns Previously Filed for the Same Period, if amended return
+0
+0 0
+1 0 0 6 2 8
+8 0
+20 Tax Still Due/(Overpayment) (Item 18 less Item 19)
+2 5
+5 0
+21 Add: Penalties 21A Surcharge
+1 0
+0 0
+21B Interest
+21C Compromise
+1 0 0 0
+0 0
+21D Total Penalties (Sum of Items 21A to 21C)
+1 0 3 5
+5 0
+1 0 1 6 6 4
+3 0
+22 Amount Payable/(Overpayment) (Sum of Items 20 & 21D)
+1
+0
+0
+7
+2
+8
+8 0
+23 Less: Payment Made Today 23A Tax Payment/Deposit
+1 0 3 5
+5 0
+23B Penalties (from Item 23D)
+23C Total Payment Made Today (Sum of Items 23A & 23B)
+1 0 1 7 6 4
+3 0
+- 1 0 0
+0 0
+24 Balance to be Carried Over to Next Return (Item 22 less Item 23C)
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information
+as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+25 Cash/Bank Debit Memo
+26 Check
+27 Tax Debit Memo
+28 Others (specify)
+
+Signature over Printed Name of President/Vice President/Authorized Officer or
+Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part IV – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of(RO’s
+Receiving
+Office/AABTeller’s
+and Date
+of Receipt
+Signature/Bank
+Initial
+)
+
+BIR Form No.
+
+2200-M
+
+EXCISE TAX RETURN
+for Mineral Products
+
+January 2018 (ENCS) v2
+Page 2
+
+2200-M 01/18ENCS v2 P2
+
+TIN
+Taxpayer’s Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part V - Schedule
+Schedule 1 – Summary of Removals and Excise Tax Due on Mineral Products Chargeable Against Paymen t
+ATC
+
+Description
+
+Coal and Coke
+January 1, 2018
+XM010
+January 1, 2019
+January 1, 2020
+and onwards
+Non-metallic
+minerals
+XM020 and quarry resources
+and Other
+XM030 Copper
+Metallic Minerals
+XM040 Gold and Chromite
+XM050 Indigenous Petroleum
+Natural Gas or Liquefied
+XM051 Natural Gas (locally
+extracted)
+Metallic Minerals
+XM060 Other(specify)
+1
+2
+Schedule 1 – continuation
+SAND AND GRAVEL
+MARBLE
+
+ATC
+
+Description
+
+Place of Removal
+
+PASIG YARD
+
+Volume of Mineral
+Removed (MT)
+Taxable Export
+(A)
+(B)
+1,234.57
+
+LOCALLY EXTRACTED
+Actual/Fair Market
+Value
+Tax Rate
+Taxable
+Export
+(C)
+(D)
+(E)
+
+10.00
+
+RIZAL QUARRY
+
+Tax Due
+(F)
+
+P 50/MT
+P 100/MT
+P 150/MT
+
+61,728.36
+
+4%
+
+40,000.00
+
+1,000,000.00 0.00
+
+4%
+4%
+6%
+0%
+
+LAGUNA SITE
+ROMBLON
+
+4.00
+3.00
+
+IMPORTED
+Value used by BOC in
+Determining Tariff & Customs
+Tax
+Duties, Net of Excise Tax & VAT Rate
+Taxable
+Exempt
+(G)
+(H)
+(I)
+
+Coal and Coke
+January 1, 2018
+XM010
+January 1, 2019
+January 1, 2020
+and onwards
+minerals
+XM020 Non-metallic
+and quarry resources 12,345.60
+and Other
+XM030 Copper
+Metallic Minerals
+XM040 Gold and Chromite
+XM050 Indigenous Petroleum
+Natural Gas or Liquefied
+XM051 Natural Gas (locally
+extracted)
+XM060 Other Metallic Minerals
+
+5.01
+120.00
+
+Tax Due
+
+Tax Due
+Adjustment per
+Final Value
+
+Total Tax Due
+
+(J)
+
+(K)
+
+(L) = (F+J+K)
+
+P 50/MT
+P 100/MT
+
+61,728.36
+
+P 150/MT
+4%
+
+1.00
+
+493.82
+
+0.50
+
+40,494.32
+
+4%
+4%
+6%
+0%
+
+(specify)
+
+1 SAND AND GRAVEL
+2 MARBLE
+TOTAL EXCISE TAX DUE (Part III, Item 16)
+
+2.50
+
+101,863.37
+
+

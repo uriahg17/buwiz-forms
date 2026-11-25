@@ -1,0 +1,229 @@
+(To be filled up the BIR)
+
+DLN:
+
+PSIC:
+
+PSOC:
+BIR Form No.
+
+0605
+
+Payment Form
+
+Republika ng Pilipinas
+Kagawaran ng Pananalapi
+
+Kawanihan ng Rentas Internas
+
+July 1999 (ENCS)
+
+Fill in all applicable spaces. Mark all appropriate boxes with an "X"
+For the X Calendar
+Fiscal 3 Quarter
+Year Ended
+( MM / YYYY ) 1 2 2 0 2 5
+1st
+2nd 3rd
+7 Return Period ( MM / DD / YYYY ) 8 Tax Type Code
+1
+2
+
+1 2
+
+3 1 2 0 2 5
+
+1 2 3
+
+4th
+
+4 Due Date ( MM / DD / YYYY) 5 No. of Sheets
+Attached
+0 1 2 5 2 0 2 6
+
+0 2
+
+0 0 0 0 0
+
+0 3 9
+
+I X
+
+12 Line of Business/Occupation
+INDEPENDENT PRINT LAYOUT
+VERIFICATION SERVICES AND CONSULT
+
+N
+
+13 Taxpayer's
+Name
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+15 Registered
+Address
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ
+AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+(Last Name, First Name, Middle Name for Individuals) / (Registered Name for Non-Individuals)
+17 Manner of Payment
+
+Voluntary Payment
+Self-Assessment
+Tax Deposit/Advance Payment
+Income Tax Second Installment
+(Individual)
+Others (Specify)
+
+Basic Tax / Deposit / Advance Payment
+Add: Penalties Surcharge
+20A
+20B
+
+Interest
+100 00
+
+Compromise
+
+20C
+
+1,000 00
+
+16 Zip Code
+
+1 1 0 0
+
+X Installment
+
+No. of Installment
+Partial
+Payment
+Full
+Payment
+
+19
+
+12,345 68
+
+20D
+
+2,334 50
+
+21
+
+14,680 18
+
+Total Amount Payable (Sum of Items 19 & 20D)
+For Voluntary Payment
+
+For Payment of Deficiency Taxes
+From Audit/Investigation/
+Delinquent Accounts
+APPROVED BY:
+
+I declare, under the penalties of perjury, that this document has been
+made in good faith, verified by me, and to the best of my knowledge and
+belief, is true and correct, pursuant to the provisions of the National
+Internal Revenue Code, as amended, and the regulations issued under
+authority thereof.
+22A
+
+09171234567
+
+Computation of Tax
+
+1,234 50
+
+21
+
+14 Telephone Number
+
+18 Type of Payment
+
+Per Audit/Delinquent Account
+X Preliminary/Final Assessment/Deficiency Tax
+Accounts Receivable/Delinquent Account
+
+Penalties
+
+Part II
+19
+20
+
+II011
+
+BCS No./Item No. (To be filled up by the BIR)
+
+Background Information
+10 RDO Code 11 Taxpayer Classification
+
+4 5 3
+
+6 ATC
+
+I T
+
+Part I
+9 Taxpayer Identification No.
+0 0 0
+
+X
+
+Signature over Printed Name of Taxpayer /Authorized Representative
+
+Part III
+
+Title/Position of Signatory
+
+Signature over Printed Name of Head of Office
+
+D e t a i l s of P a y m e n t
+
+Particulars
+Drawee Bank/Agency
+Number
+MM
+23 Cash/Bank
+Debit Memo
+24A
+24B
+24C
+24 Check
+25A
+25B
+25 Tax Debit
+Memo
+26A
+26B
+26C
+26 Others
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+
+Taxpayer Classification:
+
+22B
+
+I - Individual
+
+N - Non-Individual
+
+DD
+
+YYYY
+
+23
+24D
+25C
+26D
+
+Amount
+
+Stamp of Receiving
+
+Office
+and Date of Receipt
+
+

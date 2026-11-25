@@ -1,0 +1,7 @@
+box/case	main result/head result	pass-fail
+long property/specify text	head ellipsizes table/specify text and carries full text on additional sheet	pass
+negative overpayment	head prints (51,845.00); main uses minus-style boxed digits	pass
+arithmetic	tax due 148,155.00; previous 200,000.00; still due -51,845.00; penalties 39,259.34; payable 39,259.34	pass
+continuation pages	extra property rows continue with correct total 12,076,543.21	pass
+continuation header	continuation page header has cramped/overlapping taxpayer-name label fragments	cosmetic
+decimal mark	fit amounts sit around one printed decimal mark; no doubled point seen	pass

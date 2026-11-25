@@ -1,0 +1,536 @@
+For BIR
+Use Only:
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+BCS/
+Item:
+
+Estate Tax Return
+
+BIR Form No.
+
+1801
+
+January 2018 (ENCS)
+
+Page 1
+
+1 Date of Death
+(MM/DD/YY)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.
+Two copies MUST be filed with the BIR and one held by the taxpayer.
+
+1801 01/18ENCS P1
+
+Yes X No 3 No. of Sheet/s Attached 0 1 4TaxAlphanumeric
+Code (ATC)
+
+0 6 0 5 2 5 2 Amended Return?
+
+ES 010
+
+Part I – Taxpayer Information
+
+5 Taxpayer Identification Number (TIN)
+0 3 9
+- 0 0 0 0 0 6 RDO Code
+7 Taxpayer’s Name (ESTATE of Last Name, First Name, Middle Name)
+JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND
+ESTATE OF SANTOS,
+SUFFIXES FOR PRINT OVERFLOW TESTING
+8 Residence of Decedent at the time of death
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD
+BARANGAY SAN LORENZO MAKATI
+9 Non-Resident Alien?
+Yes X No
+
+10 Name of Executor / Administrator (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individual)
+
+M A R I A
+11 TIN of Executor/
+Administrator
+
+S A M P L E - E X E C U T O R
+1 1 1
+2 2 2
+3 3 3
+0 0 0 0 0 12 Contact
+Number
+
+-
+
+-
+
+-
+
+0 9 1 7 1 2 3 4 5 6 7
+
+13 Email Address juana.santos.independent.print.check@example.com
+14 Are you availing of tax relief under a
+Yes
+X No 14A If yes, specify
+Special Law/International Tax Treaty?
+Yes No
+15 Mark Applicable Box
+15A Has an extension to file return been granted?
+15B Has the estate been settled judicially?
+15C Has an extension to pay the tax been granted?
+
+X
+
+X
+X
+
+Yes
+
+X
+15D Has an installment payment been granted?
+If yes, frequency of payment (maximum of 2 years only)
+Monthly
+X Quarterly
+Semi-Annual
+Others (specify)
+
+Part II – Total Tax Payable
+
+No
+
+.
+6 . 0%
+0 . 0 0
+
+16 NET TAXABLE ESTATE (From Part IV, Item 40)
+17 Applicable Tax Rate
+18 ESTATE TAX DUE (Item 16 Multiply by Item 17)
+19 Less: Tax Credits/Payments
+19A Foreign Estate Tax Paid
+19B Tax Paid in Return Previously Filed, if this is an Amended Return
+19C Total (Sum of Items 19A and 19B)
+20 Tax Payable (Item 18 Less Item 19C)
+21 Less: Portion of tax allowed for payment by installment to be paid on or before 2026
+22 Tax Payable (1st installment) (Item 20 Less Item 21)
+23 Add: Penalties
+2 5 . 5 0
+23A Surcharge
+23BInterest
+0 . 0 0
+23C Compromise
+0 . 0 0
+23D Total Penalties (Sum of Items 23A to Item 23C)
+2 5 . 5 0
+24 TOTAL AMOUNT PAYABLE (For full payment Sum of Items 20 and 23D) (For installment Sum of Item 22 and 23D)
+
+0
+0
+0
+0
+0
+0
+
+.
+.
+.
+.
+.
+.
+
+0
+0
+0
+0
+0
+0
+
+.
+
+0
+0
+0
+0
+0
+0
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information
+as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach Special Power of Attorney)
+
+Signature over Printed Name of Executor/Administrator/Heir/Authorized Representative/Tax Agent
+K
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (If applicable)
+
+Details of Payment Drawee Bank/Agency
+25 Cash/Bank Debit Memo
+26 Check
+27 Tax Debit Memo
+
+(Indicate title/designation and TIN)
+
+Date of Issue
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+28 Others (Specify)
+Machine Validation
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+
+.
+.
+.
+.
+
+Stamp of Authorized Agent Bank and Date of Receipt
+(Bank Teller’s Initial)
+
+BIR Form No.
+
+Estate Tax Return
+
+1801
+
+January 2018 (ENCS)
+
+TIN
+
+Page 2
+
+1801 01/18ENCS P2
+
+Taxpayer’s Name
+JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS,
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part IV – Computation of Tax
+B. Conjugal/Communal
+Particulars
+A. Exclusive
+C. Total
+29 Real Properties Excluding Family
+1,200,000.00
+0.00
+1
+2
+0 0 0 0 0 . 0 0
+Home (From Part V Schedule 1)
+30 Family Home (From Part V Sched. 1A)
+0.00
+2,000,000.00
+2 0 0 0 0 0 0 . 0 0
+31 Personal Properties
+350,000.55
+25,000.13
+3 7 5 0 0 0 . 6 8
+(From Part V Schedules 2 & 2A)
+32 Taxable Transfer
+10,000.00
+0.00
+1 0 0 0 0 . 0 0
+(From Part V Schedule 3)
+33 Business Interest
+40,000.00
+0.00
+4 0 0 0 0 . 0 0
+(From Part V Schedule 4)
+34 Gross Estate (Sum of Items 29 to 33)
+1,600,000.55
+2,025,000.13
+3 6 2 5 0 0 0 . 6 8
+35 Less: Ordinary Deductions
+100,000.00
+5,000.00
+1 0 5 0 0 0 . 0 0
+(From Part V Schedule 5)
+36 Estate after Ordinary Deductions
+1,500,000.55
+2,020,000.13
+3 5 2 0 0 0 0 . 6 8
+(Item 34 Less Item 35)
+37 Less: Special Deductions
+37A Standard Deductions ((Php5 Million for Citizen or Resident and Php500 thousand for Non-Resident Alien)
+37B Family Home (Fair Market Value or Php10 Mil ion whichever is lower for Resident Citizen only; value exclusive property of decedent but not
+
+5 0 0 0 0 0 0 .
+1 0 0 0 0 0 0 .
+0 .
+6 0 0 0 0 0 0 .
+- 2 4 7 9 9 9 9 .
+1 0 1 0 0 0 0 .
+- 3 4 8 9 9 9 9 .
+
+to exceed Php10Million;however, if conjugal, Fair Market Value is ½ of the value but not to exceed Php10Million)
+
+37C Others (specify)
+37D Total Special Deductions (Sum of Item 37A to 37C)
+38 NET ESTATE (Item 36 Less Item 37D)
+39 Less: Share of Surviving Spouse (Net Conjugal Estate under Item 36-Column B divided by 2)
+40 NET TAXABLE ESTATE (Item 38 Less Item 39) (To Part II Item 16)
+
+Part V – Schedules
+Schedule 1 – Details of Property (REAL PROPERTIES) (Attach additional sheet/s if necessary)
+
+OCT/TCT/CCT No. Tax Declaration (TD) No.
+T-12345
+TD-001
+QUEZON CITY
+
+Location
+
+Lot/Improvement
+LOT
+
+Schedule 1 – Details of Property (REAL PROPERTIES) (continuation)
+Fair Market Value (FMV) per TD
+
+TOTAL (To Part IV Item 29)
+
+1,200,000.00
+
+Location
+
+150 RC
+
+0.00
+
+Schedule 2 – Personal Properties (SHARES OF STOCK) (Attach additional sheet/s if necessary)
+SAMPLE CORP
+
+Classification
+Listed/Not Listed
+
+NOT LISTED
+
+Stock Certificate
+No.
+
+No. of
+Shares
+
+C-100
+
+1000
+
+300.00 300,000.55
+0.00
+
+Particulars
+
+0.00
+
+EXCLUSIVE
+
+Schedule 2A – Other Personal Properties (Attach additional sheet/s if necessary)
+CAR
+JEWELRY
+
+0.00
+
+50,000.00
+0.00
+
+Schedule 3 – Taxable Transfers (Attach additional sheet/s if necessary)
+Particulars
+
+(If Cash in Bank, indicate bank name and bank account number)
+CASH IN BANK, SAMPLE BANK 0001
+
+SAMPLE STORE
+
+TOTAL (To Part IV Item 33)
+
+Registered Address
+
+MAKATI CITY
+
+RDO Code
+
+040
+000
+
+EXCLUSIVE
+
+40,000.00
+0.00
+
+Schedule 5 – Ordinary Deductions (Attach additional sheet/s if necessary)
+the Estateagainst Insolvent Persons
+Claims against
+of the deceased
+Unpaid Mortgages, Taxes and Casualty Losses
+Losses incurred during the settlement of the Estate
+Property Previously Taxed (Vanishing Deduction)
+Transfers for Public Use
+Others (specify)
+TOTAL (To Part IV Item 35)
+* RR-Residential Regular
+CR-Condominium Regular
+RC-Residential Condominium CC-Commercial Condominium
+
+CONJUGAL/COMMUNAL
+
+0.00
+25,000.13
+
+0.00
+
+25,000.13
+
+Fair Market Value
+
+CONJUGAL/COMMUNAL
+0.00
+0.00
+
+0.00
+
+Fair Market Value
+
+CONJUGAL/COMMUNAL
+
+40,000.00
+
+EXCLUSIVE
+0.00
+
+0.00
+
+Fair Market Value
+
+50,000.00
+
+EXCLUSIVE
+10,000.00
+0.00
+
+0.00
+0.00
+
+TOTAL (To Part IV Item 32)
+10,000.00
+Schedule 4 – Business Interest such as Net Equity and others not classified above (Attach additional sheet/s if necessary)
+Trade Name or Business Name
+
+2,000,000.00
+
+CONJUGAL/COMMUNAL
+
+300,000.55
+
+EXCLUSIVE
+
+TOTAL (To Part IV Item 31)
+
+0.00
+
+Total Fair Market Value / Book Value
+
+Fair Market Value / Book
+Value per Share
+
+TOTAL (To Part IV Item 31)
+
+CONJUGAL/COMMUNAL
+0.00
+0.00
+
+Fair Market Value
+FMV per BIR
+(Zonal Value)
+EXCLUSIVE
+CONJUGAL/COMMUNAL
+2000000 0.00
+2,000,000.00
+
+Fair Market Value
+(FMV) per TD
+1800000
+
+Area *Classification
+
+TOTAL (To Part IV Item 30)
+Name of Corporation
+
+Area
+*Classification
+200 RR
+
+EXCLUSIVE
+1200000 1,200,000.00
+0.00
+
+1000000
+
+OCT/TCT/ Tax Declaration
+CCT No.
+(TD) No.
+T-67890 TD-002
+PASIG CITY
+
+0
+0
+0
+0
+2
+6
+8
+
+FMV whichever is higher
+
+FMV per BIR (Zonal Value)
+
+Schedule 1A – Details of Family Home
+
+0
+0
+0
+0
+3
+0
+3
+
+100,000.00
+
+0.00
+0.00
+0.00
+0.00
+
+100,000.00
+
+0.00
+0.00
+
+0.00
+
+CONJUGAL/COMMUNAL
+0.00
+
+0.00
+
+CL-Cemetery Lot GL-Government Lot A-Agricultural X-Institutional
+PS-Parking Slot GP-General Purpose I-Industrial APD-Area for Priority Development
+
+0.00
+
+0.00
+5,000.00
+0.00
+0.00
+
+5,000.00
+
+

@@ -1,0 +1,346 @@
+For BIR
+Use Only:
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+BCS/
+Item:
+
+Donor’s Tax Return
+
+BIR Form No.
+
+1800
+
+in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.
+January 2018 (ENCS) Enter all required information
+Two copies MUST be filed with the BIR and one held by the taxpayer.
+
+Page 1
+
+1 Date of Donation 0 3 1 0 2 5
+(MM/DD/YY)
+
+2 Amended Return?
+
+Yes X No
+
+3 No. of Sheet/s
+Attached
+
+Part I – Taxpayer Information
+
+1800 01/18ENCS P1
+
+4 Alphanumeric DN 010
+Tax Code (ATC)
+
+0 1
+
+5 Donor’s Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 6 RDO Code
+7 Donor’s Name (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+
+0 3 9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+8 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ
+8A ZIP Code 1 1 0 0
+AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+9 Residence Address (Indicate complete address at the time of donation)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER
+9A ZIP Code 1 1 0 0 9B RDO Code
+VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+10 Contact Number
+11 Email Address
+0 9 1 7 1 2 3 4 5 6 7
+juana.santos.independent.print.check@example.com
+Attach
+additional
+sheet/s, if necessary)
+Donee’s
+Name
+(
+12
+Donee’s Taxpayer Identification Number
+(Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+A MARIA SAMPLE-DONEE
+111222333000
+444555666
+B PEDRO EXAMPLE
+C
+D
+E
+13 Are you availing of tax relief under a
+yes, S P E C I A L
+X Yes No 13A Ifspecify
+L A W
+R E L I E F
+Special Law/International Tax Treaty?
+
+Part II – Computation of Tax
+
+14 Total Net Gifts Subject to Tax (From Part IV Item 38)
+15 Applicable Donors Tax Rate
+16 Total Donor’s Tax Due (Item 14 x Item 15)
+17 Less: Tax Credit Payments
+17A Payments for Prior Gifts During the Calendar Year
+17B Foreign Donor’s Tax Paid (Subject to limitation under Section 101 of the NIRC)
+17C Tax Paid in Previously Filed Return, if this is an Amended Return
+17D Total Tax Credits/Payments (Sum of Items 17A to 17C)
+18 Tax Payable/(Overpayment) (Item 16 Less Item 17D)
+19 Add: Penalties
+19A Surcharge
+19B Interest
+19C Compromise
+19D Total Penalties (Sum of Items 19A to 19C)
+20 TOTAL AMOUNT PAYABLE/(Overpayment) (Sum of Items 18 and 19D)
+
+In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds)
+
+.
+
+6 . 0%
+
+1 7 6 0 7 4 . 0 7
+1 0 0 0
+0
+0
+1 0 0 0
+1 7 5 0 7 4
+
+. 0 0
+. 0 0
+. 0 0
+. 0 0
+. 0 7
+
+2 5
+1 0
+0
+3 5
+1 7 5 1 0 9
+
+. 5 0
+. 0 1
+. 0 0
+. 5 1
+. 5 8
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct pursuant to the provisions of
+the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A.
+No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach Special Power of Attorney)
+For Individual:
+For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Tax Agent Accreditation No. /
+Attorney’s Roll No. (If applicable)
+
+Details of Payment
+
+21 Cash/Bank Debit Memo
+22 Check
+23 Tax Debit Memo
+
+Drawee Bank/
+Agency
+
+Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Date of Issue
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+24 Others (Specify below)
+
+Machine Validation
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+
+.
+.
+.
+.
+
+Stamp of Authorized Agent Bank and Date of Receipt
+(Bank Teller’s Initial)
+
+Donor’s Tax Return
+
+BIR Form No.
+
+1800
+January 2018 (ENCS)
+Page 2
+
+TIN
+0 0 0 1 2 3 4 5 3
+
+0 0 0 0 0
+
+1800 01/18ENCS P2
+
+Donor’s Name
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Part IV – Computation of Tax
+
+25 Personal Properties (From Part V Schedule A)
+26 Real Properties (From Part V Schedule B)
+27 Total Gifts in this Return (Sum of Items 25 and 26)
+Less: Deductions
+28
+29
+30
+31
+32
+33 Total Deductions Allowed (Sum of Items 28 to 32)
+34 Total Net Gifts in this Return (Items 27 Less Item 33)
+35 Add: Total Prior Net Gifts During the Calendar Year (Item 36 of Return Previously Filed within the year)
+36 Total Net Gifts (Sum of Items 34 and 35)
+37 Less: Exempt Gift
+38 Total Net Gifts Subject to Tax (Item 36 Less Item 37)
+Part V – Schedules
+Schedule A – Description of Donated Personal Property (Attach additional sheet/s, if necessary)
+1 SEDAN, 2020 MODEL
+2 SHARES OF SAMPLE CORP
+3
+4
+5
+6
+7
+8
+9
+10
+
+PARTICULARS
+
+TAX DECLARATION NO. (TD)
+
+TD-0001
+
+1 150
+2
+3
+4
+5
+6
+7
+8
+
+LOCATION
+
+LOT 1, SAMPLE SUBD., QUEZON CITY
+
+FAIR MARKET VALUE (FMV) PER TD
+
+900000
+
+9
+10
+
+TOTAL (To Part IV Item 26)
+
+* RR-Residential Regular
+
+CR-Condominium Regular
+RC-Residential Condominium CC-Commercial Condominium
+
+. 0 0
+. 0 0
+. 0 0
+. 0 0
+. 0 0
+. 0 0
+. 9 0
+. 0 0
+. 9 0
+
+250000 . 00
+2 9 3 4 5 6 7 . 9 0
+FAIR MARKET VALUE
+
+0.00
+0.00
+0.00
+
+Schedule B – Continuation of the Description of Donated Real Property
+AREA
+
+0
+0
+0
+0
+0
+0
+3 1 8 4 5 6 7
+0
+3 1 8 4 5 6 7
+
+750,000.01
+1,234,567.89
+
+TOTAL (To Part IV Item 25)
+Schedule B – Description of Donated Real Property (Attach additional sheet/s, if necessary)
+
+OCT/TCT/CCT NO.
+1 T-98765
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+1 9 8 4 5 6 7 . 9 0
+1 2 0 0 0 0 0 . 0 0
+3 1 8 4 5 6 7 . 9 0
+
+FMV PER BIR (ZONAL VALUE)
+
+1200000
+
+1,984,567.90
+LOT/IMPROVEMENT
+
+LOT
+
+*CLASSIFICATION
+
+RR
+
+FAIR MARKET VALUE
+
+1,200,000.00
+0.00
+0.00
+0.00
+0.00
+
+1,200,000.00
+
+(whichever is higher)
+
+CL-Cemetery Lot GL-Government Lot A-Agricultural X-Institutional
+PS-Parking Slot GP-General Purpose I-Industrial APD-Area for Priority Development
+
+

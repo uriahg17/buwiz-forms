@@ -1,0 +1,7 @@
+box/case	main result/head result	pass-fail
+long identity text	head wraps/shrinks and ellipsizes with additional sheet; main clips final characters	pass
+Item 20 specify override	white inserted rectangle is vertically clipped/overlaps its row; only fragments are readable on the form	fail
+Item 29 specify	ellipsized on form and full on additional sheet	pass
+negative overremittance	head prints (1,499,750.00) and (1,460,490.66); main uses minus-style boxed digits	pass
+arithmetic	non-taxable 1,985,172.71; tax still due -1,499,750.00; penalties 39,259.34; total -1,460,490.66	pass
+decimal mark	fit amounts sit around one printed decimal mark; no doubled point seen	pass

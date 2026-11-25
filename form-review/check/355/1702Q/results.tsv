@@ -1,0 +1,7 @@
+box/case	main result/head result	pass-fail
+name/address 137 chars	main: page-1 name clipped after first line; head: wraps two lines	pass
+whole-peso amounts	main: .00 centavos in boxes; head: whole pesos, no .00	pass
+other credit specify rows	head: first long row wraps full-width/rectangle and remains readable; second fits	pass
+arithmetic	676,543,321 x 25%=169,135,830; credits 821,969; net 170,326,207; total 170,365,464	pass
+decimal mark	whole-peso form; no centavo mark printed at head	pass
+pre-existing layout	row 6/Other Tax Credits label overlap exists in both main and head	cosmetic

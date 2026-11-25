@@ -1,0 +1,372 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+BIR Form No.
+
+1606
+
+January 2018 (ENCS)
+
+Withholding Tax Remittance Return
+
+(For Onerous Transfer of Real Property Other Than Capital Asset)
+
+Page 1
+
+1 Date of Transaction
+(MM/DD/YYYY)
+
+(Including Taxable and Exempt)
+
+1606 01/18ENCS P1
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with an
+“X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+Amended
+No 3 Any Taxes
+X Yes
+0 6 1 5 2 0 2 5 2 Return?
+X Yes
+Withheld?
+
+4 No. of Sheet/s
+
+No
+
+0 0
+
+Attached
+
+Part I – Background Information
+
+X Private
+Government
+Buyer’s
+Taxpayer
+for Individuals OR Registered Name for Non-Individuals)
+(Indicate complete address. If branch, indicate the branch address. If registered address is different from the
+Identification Number (TIN)
+(Attach additional sheet/s, if necessary)
+current address, go to the RDO to update registered address by using BIR Form No. 1905 )
+7A SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LOR 000-123-453-00000
+5 RDO Code of Location of Property
+7 Buyer’s Name (Last Name, First Name, Middle Name
+
+0 3 9 6 Category of Withholding Agent
+Buyer’s Registered Address
+
+7B
+7C
+
+8 Seller’s Name (Last Name, First Name, Middle Name
+for Individuals OR Registered Name for Non-Individuals)
+(Attach additional sheet/s, if necessary)
+
+8A DELA CRUZ, SAMPLE SELLER
+8B
+8C
+
+9
+
+Seller’s Registered Address
+
+(Indicate complete address. If branch, indicate the branch address. If registered address is different from the
+current address, go to the RDO to update registered address by using BIR Form No. 1905 )
+456 EXAMPLE AVENUE, MAKATI CITY
+
+Seller’s Taxpayer
+Identification Number (TIN)
+987-654-321-00000
+
+ATC/Tax Rates
+
+Individual
+WI 556 – 3.0 %
+WI 557 – 5.0 %
+WI 558 – 6.0 %
+X WI 555 – 1.5 %
+Corporate
+WC 555 – 1.5 %
+WC 556 – 3.0 %
+WC 557 – 5.0 %
+WC 558 – 6.0 %
+10 Does the selling price cover more than one property?
+11 Are you availing of tax relief under an International Tax Treaty or Special Law?
+X No
+X Yes
+Yes
+No If yes, specify
+S P E C I A L
+L A W
+
+Part II – Computation of Tax
+
+p
+
+12 Taxable Base (From Part IV Schedule 3 Item 2)
+13 Applicable Tax Rate (From Part IV Schedule 4)
+14 Tax Due (Item 12 Multiply by Item 13)
+15 Less: Tax paid in previously filed return, if this is an amended return
+16 Required Tax to be Withheld (Item 14 Less Item 15)
+17 Add: Penalties
+17A Surcharge
+17B Interest
+17C Compromise
+17D Total Penalties (Sum of Items 17A to 17C)
+18 TOTAL AMOUNT PAYABLE/(Over remittance) (Sum of Item 16 and Item 17D )
+In case of over remittance, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds)
+
+1 0 4 1 6 6
+1
+1 5 6 2
+1 0 0 0
+5 6 2
+
+. 6 8
+.5 %
+. 5 0
+. 0 0
+. 5 0
+
+1 4 0
+3 3
+0
+1 7 3
+7 3 6
+
+. 6 3
+. 3 4
+. 0 0
+. 9 7
+. 4 7
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct pursuant to
+the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the
+*Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach Special Power of Attorney)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (If applicable)
+
+Particulars
+
+19 Cash/Bank Debit Memo
+20 Check
+21 Tax Debit Memo
+22 Others (Specify below)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Drawee Bank/
+Bank Code/Agency
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation
+
+(Indicate title and TIN)
+
+Expiry Date
+
+(MM/DD/YYYY)
+
+Amount
+
+Stamp of Receiving of Authorized Agent Bank
+and Date
+of Receipt
+(Bank
+Teller’s
+Initial)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+.
+.
+.
+.
+
+BIR Form No.
+
+1606
+
+Withholding Tax Remittance Return
+
+January 2018 (ENCS)
+
+Page 2
+
+(For Onerous Transfer of Real Property Other Than
+Capital Asset) (Including Taxable and Exempt)
+
+1606 01/18ENCS P2
+
+TIN of Buyer
+Taxpayer’s/Buyer’s Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part IV - Schedules
+Schedule 1 – Brief Description of Property (Attach additional sheet/s if necessary)
+
+OCT/TCT/CCT No.
+1 T-123456
+2
+3
+4
+5
+
+Tax Declaration (TD) No.
+
+0123456789
+
+Location
+
+LOT 1 BLOCK 2, SAMPLE SUBDIVISION, QUEZON CITY
+
+Schedule 1 – Brief Description of Property (continuation)
+Lot / Improvement
+
+Classification*
+
+1 LOT
+2 IMPROVEMENT
+3
+4
+5
+
+Area (sq.m.)
+
+250
+
+Fair Market Value (FMV)
+per TD (Column 1)
+
+3,000,000.00
+1,500,000.00
+
+FMV per BIR ( Zonal Value) Fair Market Value (whichever
+is higher between Columns 1 & 2)
+(Column 2)
+
+4,200,000.00
+0.00
+
+4,200,000.00
+1,500,000.00
+
+TOTAL (To Schedule 3 Item 1B)
+
+Schedule 2 – Transaction Description
+1 Description of Transaction (Mark one box only)
+Cash Sales
+
+X
+
+Installment Sale
+
+Foreclosure Sale
+Exempt
+
+Others
+
+If Exempt, or Others, specify
+
+4,500,000.00
+For Installment Sale:
+2 Selling Price
+3 Cost and Other Expenses
+4 Mortgage Assumed
+5 Total Payments during the Initial Year
+6 Amount of Installment this Month
+(To Schedule 3 Item 1C)
+
+7 Total No. of Installments in The Contract
+Schedule 3 – Determination of Taxable Base
+1 A Gross Selling Price / Bid Price for foreclosure sale
+B Total Fair Market Value of Land and Improvement per Schedule 1
+C Installment Collected (For Installment sale excluding interest) (From Schedule 2 Item 6)
+D Others (Specify)
+2 Taxable Base (For cash/foreclosure sale Item A or B whichever is higher; For installment sales Item C; or, For other
+transaction Item D, whichever is applicable) (To Part II, Item 12)
+
+Schedule 4 – Tax Rates
+
+5 0 0 0 0 0 0 ● 0 1
+3 2 0 0 0 0 0 ● 0 0
+5 0 0 0 0 0 ● 0 0
+1 2 5 0 0 0 0 ● 5 0
+1 0 4 1 6 6 ● 6 8
+48.00
+5 0 0 0 0 0 0
+4 5 0 0 0 0 0
+1 0 4 1 6 6
+0
+1 0 4 1 6 6
+
+TRANSACTION
+
+TAX RATE
+
+a.
+
+Registered with and certified by the housing and Land Use Regulatory Board (HLURB) or HUDCC as engaged in socialized housing
+project. The selling price of the house and lot or only the lot does not exceed Php450,000 and Php180,000, respectively, or as may
+from time to time be determined by the HUDCC.
+
+Exempt
+
+b.
+
+Upon the following values of real property, where the seller/transferor is habitually engaged in the real estate business:
+With a selling price of Five Hundred Thousand Pesos (Php 500,000) or less
+With a selling price of more than Five Hundred Thousand Pesos (Php 500,000) but not more than Two Million Pesos (Php 2,000,000)
+With a selling price of more than Two Million Pesos (Php 2,000,000)
+
+1.5 %
+3.0 %
+5.0 %
+
+c.
+
+Seller / transferor is not habitually engaged in real estate business
+
+6.0 %
+
+* RR-Residential Regular
+
+0 1
+● 0 0
+● 6 8
+● 0 0
+● 6 8
+●
+
+CR-Condominium Regular
+CL-Cemetery Lot GL-Government Lot A-Agricultural X-Institutional
+RC-Residential Condominium CC-Commercial Condominium PS-Parking Slot GP-General Purpose I-Industrial APD-Area for Priority Development
+
+AVM
+MRU
+FAC
+MVAA
+RAT
+
+CPI
+TYL
+ELM
+ILR
+
+

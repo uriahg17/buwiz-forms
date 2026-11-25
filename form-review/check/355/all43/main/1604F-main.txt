@@ -1,0 +1,647 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Annual Information Return
+
+BIR Form No.
+
+1604-F
+January 2018
+
+of Income Payments Subjected to Final Withholding Taxes
+
+Page 1
+
+1 For the Year (YYYY)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+2
+
+0
+
+2
+
+5
+
+Yes X No
+2 Amended Return?
+Part I – Background Information
+
+1604-F 01/18 P1
+
+3 No. of Sheet/s Attached
+
+0 0 0
+4 Taxpayer Identification Number (TIN)
+/ 1 2 3 / 4 5 3 / 0 0 0 0 0 5 RDO Code
+6 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+0
+
+0
+
+0
+
+3
+
+9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+U
+
+N
+
+I
+
+T
+
+2
+
+7
+
+F
+
+2
+
+3
+
+4
+
+5
+
+D
+
+O
+
+N
+
+T
+A
+
+H
+
+E
+
+J
+
+U
+
+8 Category of Withholding Agent
+9 Contact Number
+0
+
+9
+
+1
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+E
+
+N
+
+A
+
+R
+
+Y
+M
+
+A
+
+L
+
+O
+
+N
+
+R
+
+I
+
+E
+
+7
+
+G
+D
+
+C
+
+O
+
+R
+
+E
+
+L
+
+A
+
+P
+
+O
+
+R
+
+A
+
+T
+
+E
+
+C
+
+R
+
+U
+
+Z
+
+7A ZIP Code
+
+2nd Quarter
+3rd Quarter
+4th Quarter
+
+X
+
+Yes
+
+No
+
+11A If yes, specify
+
+R
+
+P
+
+-
+
+Yes
+
+U
+
+S
+
+T
+
+R
+
+E
+
+A
+
+T
+
+12,345.68
+
+100.01
+
+12,445.69
+
+07/25/2025
+
+EROR 0002
+
+1,000.00
+
+0.00
+
+1,000.00
+
+0.00
+
+0.00
+
+0.00
+
+250,000.00
+
+1,234.50
+
+251,234.50
+
+263,345.68
+
+1,334.51
+
+264,680.19
+
+01/30/2026
+
+TRA-0004
+
+EAR-4
+
+TOTAL
+
+1
+
+1
+
+1
+
+0
+
+X
+
+No
+
+0
+
+1st Quarter
+
+X3
+
+TOTAL
+
+Total Amount
+Remitted
+
+Penalties
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+5,000.00
+
+0.00
+
+5,000.00
+
+5,000.00
+
+0.00
+
+5,000.00
+
+Schedule 3 – Remittance per BIR Form No. 1603Q on Fringe Benefits
+Date of Remittance
+TRA/eROR/eAR
+Quarter
+Taxes Withheld
+(MM/DD/YYYY)
+Number
+
+10/30/2025
+
+R
+
+Y
+
+TRA-0001
+
+01/26/2026
+
+E
+
+Total Amount
+Remitted
+
+Penalties
+
+Schedule 2 – Remittance per BIR Form No. 1602Q on Interest Payments
+Date of Remittance
+TRA/eROR/eAR
+Quarter
+Taxes Withheld
+(MM/DD/YYYY)
+Number
+
+2nd Quarter
+3rd Quarter
+4th Quarter
+
+W
+
+04/25/2025
+
+TOTAL
+
+1st Quarter
+2nd Quarter
+3rd Quarter
+4th Quarter
+
+O
+
+JUANA.SANTOS.INDEPENDENT.PRINT.CHECK@EXAMPLE.COM
+
+Part II – Summary of Remittances
+Schedule 1 – Remittance per BIR Form No. 1601-FQ on Final Taxes Withheld
+Date of Remittance
+TRA/eROR/eAR
+Quarter
+Taxes Withheld
+(MM/DD/YYYY)
+Number
+1st Quarter
+
+T
+
+8A If private, top withholding agent?
+
+X Private
+Government
+10 Email Address
+
+11 Are there payees availing of tax relief under
+Special Law or International Tax Treaty?
+
+A
+
+V
+
+Total Amount
+Remitted
+
+Penalties
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+1.50
+
+2.25
+
+3.75
+
+0.00
+
+0.00
+
+0.00
+
+1.50
+
+2.25
+
+3.75
+
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief,
+is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our
+consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes.
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+*NOTE: The BIR Data Privacy is in the BR website (www.bir.gov.ph)
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+BIR Form No.
+
+1604-F
+January 2018
+Page 2
+
+TIN
+0
+
+Annual Information Return
+
+of Income Payments Subjected to Final Withholding Taxes
+
+0
+
+0
+
+1
+
+1604-F 01/18 P2
+
+Withholding Agent’s Name (Last Name for Individual OR Registered Name for Non-Individual)
+2
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+Part III – Alphabetical List of Payees from whom Taxes were Withheld (Format only)
+Schedule 4 – Alphalist of Payees Subjected to Final Withholding Tax (Declared and certified using BIR Form No. 2306)
+Name of Payees
+
+Seq.
+No
+
+TIN
+
+(1)
+
+(2)
+
+(Last Name, First Name, Middle
+Name for Individual OR
+Registered Name for NonIndividual)
+(3)
+
+Address of Payees
+(4)
+
+*Status
+
+(As to
+Residence/
+Nationality)
+(5)
+
+ATC
+(6)
+
+Nature of Income
+Payment
+
+(Refer to BIR Form
+No. 1601-FQ)
+(7)
+
+Amount of
+Income
+Payment
+
+Tax
+Rate
+
+(8)
+
+(9)
+
+Amount of Tax
+Withheld
+
+(Not Creditable)
+(10) = (8x9)
+
+Total Final Withholding Tax
+Schedule 5 – Alphalist of Employees Other than Rank and File Who were Given Fringe Benefits During the Year (Declared and certified using BIR Form No. 2306)
+Name of Employees
+
+Seq.
+No.
+
+TIN
+
+(Last Name, First Name, Middle
+Name)
+
+ATC
+
+Nature of Fringe Benefit
+
+Amount of Fringe
+Benefit
+
+Grossed-Up Monetary
+Value
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+Tax Rate
+Amount of Tax Withheld
+(Not Creditable)
+(8)
+
+Total Fringe Benefits Tax
+Schedule 6 – Alphalist of Other Payees Whose Income Payments are Exempt from Withholding Tax but Subject to Income Tax (Declared and certified using BIR Form No. 2304)
+Seq.
+No
+
+TIN
+
+(1)
+
+(2)
+
+Name of Payees
+
+(Last Name, First Name, Middle Name
+for Individual OR Registered Name for
+Non-Individual)
+(3)
+
+Address of Payees
+(4)
+
+Total Income Payments Exempt from Withholding Tax
+
+* A – Citizens of the Philippines
+E – Domestic Corporation
+.
+
+B – Resident Alien Individuals
+F – Resident Foreign Corp.
+
+*Status
+
+(As to
+Residence/
+Nationality)
+(5)
+
+C – Non-Resident Alien Engaged in Business
+G – Non-Resident Foreign Corp.
+
+ATC
+
+Nature of
+Income
+Payment
+
+Amount of Income Payment
+
+(6)
+
+(7)
+
+(8)
+
+D – Non-Resident Alien Not Engaged in Business
+
+

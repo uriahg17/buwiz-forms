@@ -1,0 +1,475 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Quarterly Remittance Return
+
+BIR Form No.
+
+1603Q
+
+January 2018 (ENCS)
+Page 1
+
+1 For the Year
+2
+
+0
+
+2
+
+5
+
+of Final Income Taxes Withheld on Fringe Benefits
+Paid to Employees Other Than Rank and File
+
+1603Q 01/18ENCS P1
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+2 Quarter
+1st
+
+2nd
+
+X
+
+3 Amended Return?
+3rd
+4th
+Yes X No
+Part I – Background Information
+
+4 Any Taxes Withheld?
+X
+Yes
+No
+
+0
+0
+0
+6 Taxpayer Identification Number (TIN)
+/ 1 2 3 / 4 5 3 / 0 0 0 0
+8 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+0
+
+5 No. of Sheet/s Attached
+0
+
+0
+
+7 RDO Code
+
+0
+
+3
+
+9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR
+PRINT OVERFLOW TESTING
+
+9 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+1
+1
+0
+0
+9A ZIP Code
+X
+Private
+Government
+
+10 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+11 Category of Withholding Agent
+12 Email Address juana.santos.independent.print.check@example.com
+Are there payees availing of tax relief under X Yes
+13 Special
+No 13A If yes, specify SPECIAL RATE AND TAX TREATY
+Law or International Tax Treaty?
+Part II – Computation of Tax
+7
+1
+14 Total Taxes Withheld (from Part IV - Schedule 1)
+15 Less: Tax Remitted in Return Previously Filed, if this is an amended return
+16
+Other Remittances Made (specify) BANK REMITTANCE
+17
+Total Remittances Made (Sum of Items 15 and 16)
+18 Tax Still Due/(Over-remittance) (Item 14 Less Item 17)
+Add: Penalties 19 Surcharge
+20 Interest
+21 Compromise
+22 Total Penalties (Sum of Items 19 to 21)
+23 TOTAL AMOUNT STILL DUE (Sum of Items 18 and 22)
+
+7
+
+9
+
+5
+
+3
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+9
+
+5
+
+2
+
+2
+
+5
+
+1
+
+0
+0
+
+7
+
+0
+
+9
+
+3
+
+5
+
+8
+
+8
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+1
+
+9
+
+0
+
+0
+
+5
+
+1
+
+5
+
+1
+
+6
+
+8
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+1
+
+8
+
+I/We declare under the penalties of perjury that this remittance return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+contemplated under the Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+24 Cash/Bank Debit Memo
+25 Check
+26 Tax Debit Memo
+27 Others (specify below)
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+Quarterly Remittance Return
+
+BIR Form No.
+
+1603Q
+January 2018 (ENCS)
+Page 2
+
+TIN
+0
+
+of Final Income Taxes Withheld on Fringe Benefits
+Paid to Employees Other Than Rank and File
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3
+
+Schedule 1 – Computation of Tax
+
+0
+
+0
+
+0
+
+0
+
+0
+
+S
+
+A
+
+N
+
+T
+
+O
+
+S
+
+Part IV – Details of Taxes Withheld
+Recipients
+
+ATC
+
+(A)
+In
+General,
+for
+Citizen,
+Resident
+Alien
+1 or Business Within the Philippines and Non-Resident Alien Engaged in Trade
+2 Non-Resident Alien Not Engaged in Trade or Business Within the Philippines
+
+WF360
+WF330
+
+Schedule 1 (continuation)
+Percentage Divisor
+
+Tax Rate
+
+(D)
+
+1603Q 01/18ENCS P2
+
+Withholding Agent’s Name (Last Name for Individual OR Registered Name for Non-Individual)
+
+(B)
+
+Tax Base Grossed-up Monetary Value
+(E)
+
+1
+5
+3
+8
+4
+1
+65%
+7
+2
+4
+2
+2
+75%
+3 Total Taxes Withheld (Sum of Items 1 and 2) (To Part II, Item 14)
+
+6
+8
+
+(F)
+
+●
+●
+
+1
+
+7
+
+1
+
+3
+
+35%
+25%
+
+Monetary Value of Fringe Benefit
+(C)
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+4
+
+3
+
+2
+
+1
+
+●
+●
+
+0
+
+1
+
+1
+
+0
+
+1
+
+6
+
+0
+
+3
+
+1
+
+9
+
+Taxes Withheld
+(G) = (E x F)
+5
+
+3
+
+8
+
+4
+
+6
+
+1
+
+8
+
+1
+
+0
+
+7
+
+7
+
+1
+
+9
+
+5
+
+3
+
+●
+●
+●
+
+

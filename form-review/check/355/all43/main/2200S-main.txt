@@ -1,0 +1,336 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+BIR Form No.
+
+EXCISE TAX RETURN
+2200-S
+for Sweetened Beverages
+January 2018
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+
+2200-S 01/18 P1
+Page 1
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+2
+Amended
+Return
+?
+Yes
+No
+0
+6
+3
+0
+2
+0
+2
+5
+X
+1 Date (MM/DD/YYYY)
+3 Number of Sheet/s Attached 0 0
+/
+/
+Part I – Background Information
+
+4 Taxpayer Identification Number (TIN) 0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0
+6 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual)/(Registered Name for Non-Individual)
+
+5 RDO Code
+
+0 3 9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+7A ZIP Code 1 1 0 0
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+8 Contact Number
+9 Main Line of Business
+10 PSIC
+0 9 1 7 1 2 3 4 5 6 7
+I N D E P E N D E N T
+P R I N T
+1 1 0 4
+
+11 Email Address
+
+juana.santos.independent.print.check@example.com
+
+12 Place of Production
+Region
+Province
+N C R
+
+N C R
+
+R E G
+
+L A G U N A
+
+13 Place of Removal
+Region
+Province
+
+T H I R D
+
+D I S T R I C
+
+C I T Y
+
+City
+
+B A Y
+
+14 Are you availing of tax relief under Special Law or 14A If yes, specify
+International Tax Treaty?
+Yes X No
+15 X Payment on Actual Removal 16
+17 Other Similar Schemes (specify)
+
+City
+
+Q U E Z O N
+
+Part II – Manner Of Payment
+
+Prepayment/Advance Deposit
+
+Part III – Payments and Application
+
+18 Excise Tax Due (from Part V - Schedule 1)
+19 Less: 19A Balance Carried Over from Previous Return
+19B Creditable Excise Tax, if applicable
+19C Total (Sum of Items 19A & 19B)
+20 Net Tax Due/(Overpayment) (Item 18 less Item 19C)
+21 Less: Payment on Returns Previously Filed for the Same Period, if amended return
+22 Tax Still Due/(Overpayment) (Item 20 less Item 21)
+23 Add: Penalties 23A Surcharge
+23B Interest
+23C Compromise
+23D Total Penalties (Sum of Items 23A to 23C)
+24 Amount Payable/(Overpayment) (Sum of Items 22 & 23D)
+25 Less: Payment Made Today 25A Tax Payment/Deposit
+25B Penalties (from Item 23D)
+25C Total Payment Made Today (Sum of Items 25A & 25B)
+26 Balance to be Carried Over to Next Return (Item 24 less Item 25C)
+
+1 3 5 9 7 7
+1 0 0
+5 0
+1 5 0
+1 3 5 8 2 7
+0
+1 3 5 8 2 7
+0
+0
+0
+0
+1 3 5 8 2 7
+1 3 5 8 2 7
+0
+1 3 5 8 2 7
+0
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+8
+5
+0
+5
+3
+0
+3
+0
+0
+0
+0
+3
+3
+0
+3
+0
+
+9
+0
+0
+0
+9
+0
+9
+0
+0
+0
+0
+9
+9
+0
+9
+0
+
+We declare under the penalties of perjury, that this return and all its attachments, has been made in good faith, verified by us, and to the best of our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, we give our consent to the processing of our
+information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+Printed Name and Signature of President/Vice President/ Authorized
+Representative/Taxpayer (Indicate title and TIN)
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Particulars
+
+27 Cash/Bank Debit Memo
+28 Check
+29 Tax Debit Memo
+
+Drawee Bank/Agency
+
+Number
+
+Date of Issue
+(MM/DD/YYYY)
+
+Printed Name and Signature of Treasurer/Assistant Treasurer
+(Indicate title and TIN)
+Date of Expiry
+(MM/DD/YYYY)
+
+Part IV – Details of Payment
+Date (MM/DD/YYYY)
+
+/
+/
+/
+
+30 Others (specify)
+/
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+/
+/
+/
+/
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+2200-S
+January 2018
+TIN
+
+Page 2
+
+EXCISE TAX RETURN
+for Sweetened Beverages
+Taxpayer’s Name
+
+2200-S 01/18 P2
+
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part V - Schedule
+Schedule 1 – Summary of Removals and Excise Tax Due on Sweetened Beverages Chargeable Against Payment
+Tax Bracket/ Applicable
+Sales Value
+Volume of
+Basic Excise Tax
+Unit of
+ATC
+Description
+Tax Rate
+(in Peso)
+Removals
+Due
+Measure
+Tax on Sweetened Beverages
+1. Using Purely Caloric
+Sweeteners and Purely NonCaloric Sweeteners, or a mix
+of caloric and non-caloric
+sweeteners but shall not
+apply to those using high
+fructose corn syrup
+XB010
+a. Sweetened Juice Drinks
+Per Liter
+P 6.00
+XB020
+b. Sweetened Tea
+Per Liter
+P 6.00
+XB030
+c. Carbonated Beverages
+Per Liter
+P 6.00
+XB040
+d. Flavored Water
+Per Liter
+P 6.00
+XB050
+e. Energy and Sports Drinks
+Per Liter
+P 6.00
+f. Powdered Drinks not
+XB060
+classified as Milk, Juice,
+Per Liter
+P 6.00
+Tea and Coffee
+g. Cereal and Grain
+XB070
+Per Liter
+P 6.00
+Beverages
+h. Other Non-Alcoholic
+XB080
+Beverages that contain
+Per Liter
+P 6.00
+added sugar
+2. Using Purely high fructose
+corn syrup or in combination
+XB090
+Per Liter
+P 12.00
+with any caloric or non-caloric
+sweeteners
+3. Using purely coconut sap
+XB100
+sugar and purely Steviol
+Exempt
+Glycosides
+Others (specify)
+1.
+2.
+135,977.89
+GRAND TOTAL EXCISE TAX DUE (To Item 18 of Part III)
+
+

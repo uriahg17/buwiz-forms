@@ -1,0 +1,1091 @@
+.
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+EXCISE TAX RETURN
+
+BIR Form No.
+
+2200-T
+
+for Tobacco, Heated Tobacco, Vapor
+and Novel Tobacco Products
+
+August 2022 (ENCS)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+
+Page 1
+
+1 Date (MM/DD/YYYY)
+
+0
+
+3
+
+/ 1 4 / 2 0 2 5 2 Amended Return?
+
+Yes
+Part I – Background Information
+
+0 0 0 - 1 2 3 - 4 5 3 4 Taxpayer Identification Number (TIN)
+6 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+2200-T 08/22ENCS P1
+
+No 3 Number of Sheet/s Attached
+
+X
+0
+
+0
+
+0
+
+0
+
+0
+
+5 RDO Code
+
+0
+
+0
+
+1
+
+3
+
+9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TE
+
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905))
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+
+7A ZIP Code
+
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+8 Contact Number (Landline/Cellphone No.)
+
+0
+
+9
+
+1
+
+N
+
+C
+
+R
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+N
+
+C
+
+R
+
+C
+
+A
+
+V
+
+10 Place of Production
+Region
+Province
+11 Place of Removal
+Region
+Province
+
+REGION IV-A
+
+6
+
+I
+
+9 Email Address
+
+1
+
+1
+
+0
+
+0
+
+4
+
+7
+
+0
+
+0
+
+5
+
+7
+
+5
+
+7
+
+9
+
+0
+
+0
+
+0
+
+9
+
+0
+
+5
+
+0
+
+0
+
+0
+
+●
+
+0
+
+0
+
+●
+
+5
+
+0
+
+4
+
+0
+
+0
+
+0
+
+5
+
+0
+
+5
+
+0
+
+9
+
+0
+
+juana.santos.independent.print.check@example.com
+
+7
+
+T
+
+H
+
+T
+
+E
+
+I
+
+R
+
+D
+
+D
+
+S
+
+T
+
+R
+
+I
+
+C
+
+City
+
+T
+
+C
+
+I
+
+T
+
+Y
+
+B
+
+A
+
+C
+
+O
+
+O
+
+R
+
+E
+
+L
+
+I
+
+E
+
+F
+
+M
+
+E
+
+City
+
+12 Are you availing of tax relief under Special Law or
+International Tax Treaty? X Yes
+No
+13
+Payment on Actual Removal
+15 X Other Similar Schemes (specify)
+
+I
+
+14
+S
+
+12A If yes, specify
+
+S
+
+A M
+
+P
+
+L
+
+E
+
+L
+
+E
+
+S
+
+C
+
+H
+
+Part II – Manner of Payment
+Prepayment/Advance Deposit
+
+A M
+
+P
+
+E
+
+Part III – Payments and Application
+
+16 Excise Tax Due (from Part V – Schedule 1)
+17 Less: 17A Balance Carried Over from Previous Return
+17B Creditable Excise Tax, if applicable
+17C Total (Sum of Items 17A and 17B)
+18 Net Tax Due/(Overpayment) (Item 16 less Item 17C)
+19 Less: Payment on Returns Previously Filed for the Same Period, if amended return
+20 Tax Still Due/(Overpayment) (Item 18 less Item 19)
+21 Add: Penalties 21A Surcharge
+21B Interest
+21C Compromise
+21D Total Penalties (Sum of Items 21A to 21C)
+22 Amount Payable/(Overpayment) (Sum of Items 20 and 21D)
+23 Less: Payment Made Today 23A Tax Payment/Deposit
+23B Penalties (from Item 21D)
+23C Total Payment Made Today (Sum of Items 23A and 23B)
+24 Balance to be Carried Over to Next Return (Item 22 less Item 23C)
+
+O
+
+F
+
+P
+
+A
+
+S
+
+I
+
+G
+
+L
+
+A W
+
+0
+
+4
+
+1
+
+3
+
+●
+
+1
+
+0
+
+0
+
+0
+
+R
+
+6
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+5
+
+9
+
+1
+
+7
+
+8
+
+5
+
+9
+
+1
+
+7
+
+8
+
+2
+
+5
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+0
+
+3
+
+5
+
+6
+
+0
+
+2
+
+1
+
+4
+
+5
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+3
+
+5
+
+1
+
+0
+
+3
+
+5
+
+9
+
+1
+
+7
+
+8
+
+5
+
+●
+●
+●
+●
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct, pursuant to the
+provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data
+Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Particulars
+
+25 Cash/Bank Debit Memo
+26 Check
+27 Tax Debit Memo
+28 Others (specify)
+
+Date of Issue
+
+Signature over Printed Name of President/Vice President/Authorized Officer or
+Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+(MM/DD/YYYY)
+
+Drawee Bank/Agency
+
+Part IV – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of(RO’s
+Receiving
+Office/AABTeller’s
+and Date
+of Receipt
+Signature/Bank
+Initial
+)
+
+BIR Form No.
+
+EXCISE TAX RETURN
+
+2200-T
+
+for Tobacco, Heated Tobacco, Vapor
+and Novel Tobacco Products
+
+August 2022 (ENCS)
+Page 2
+
+TIN
+0
+
+0
+
+0
+
+1
+
+2
+
+2200-T 08/22ENCS P2
+
+Taxpayer’s Name
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Part V - Schedules
+Schedule 1 – Summary of Removals and Excise Tax Due on Tobacco Products Chargeable Against Payment
+ATC
+
+XT010
+
+XT020
+
+XT035
+
+XT036
+
+XT040
+
+XT155
+
+XT160
+
+XT170
+
+XT180
+
+Tax Base (Value/Volume of Removal) Basic Excise
+Tax Bracket/
+Description
+Unit of Measure Applicable Tax Rate
+Tax Due
+Export/Exempt
+Taxable
+1.) Tobacco Products
+a.) Tobacco twisted by hand or reduced
+into a condition to be consumed in any
+manner other than the ordinary mode
+Per Kilogram
+of drying and curing
+Effective January 1, 2022
+P2.50
+0.00
+0.00
+0.00
+Effective January 1, 2023
+0.00
+0.00
+0.00
+P2.60
+Rate shall be increased by 4% every
+2024 Onwards
+year effective January 1, 2024
+b.) Tobacco prepared or partially
+prepared with or without the use of any
+machine or instrument or without being
+pressed or sweetened
+Per Kilogram
+Effective January 1, 2022
+P2.50
+0.00
+0.00
+0.00
+Effective January 1, 2023
+0.00
+0.00
+0.00
+P2.60
+Rate shall be increased by 4% every
+2024 Onwards
+year effective January 1, 2024
+c.) Fine-cut shorts and refuse, scraps,
+clippings, cuttings, stems, midribs and
+sweepings of tobacco
+Per Kilogram
+0.00
+0.00
+0.00
+Effective January 1, 2022
+P2.50
+Effective January 1, 2023
+P2.60
+0.00
+0.00
+0.00
+Rate shall be increased by 4% every
+2024 Onwards
+year effective January 1, 2024
+2.) Chewing tobacco unsuitable for use in
+any other manner
+Effective January 1, 2022
+0.00
+0.00
+0.00
+P2.13
+Per Kilogram
+Effective January 1, 2023
+P2.22
+0.00
+0.00
+0.00
+Rate shall be increased by 4% every
+2024 Onwards
+year effective January 1, 2024
+3.) Cigars
+a.) Ad Valorem Tax Based on the Net
+Retail Price (NRP) per Cigar
+[excluding the excise and valuedNRP Per Cigar
+added tax (VAT)]
+0.00
+0.00
+0.00
+Effective January 1, 2022
+20%
+Effective January 1, 2023
+20%
+0.00
+0.00
+0.00
+Rate shall be increased by 5% every
+2024 Onwards
+year effective January 1, 2024
+b.) In addition to Ad Valorem Tax, a
+Specific Tax per Cigar
+0.00
+0.00
+0.00
+Effective January 1, 2022
+P7.10
+Per Cigar
+Effective January 1, 2023
+P7.38
+0.00
+0.00
+0.00
+Rate shall be increased by 5% every
+2024 Onwards
+year effective January 1, 2024
+4.) Cigarettes
+Per
+pack
+of
+20s
+or
+a.) Cigarettes packed by hand
+any packaging
+0.00
+0.00
+0.00
+Effective January 1, 2022
+P55.00
+combinations of not
+Effective January 1, 2023
+P60.00
+0.00
+0.00
+0.00
+more than 20
+packed by hands Rate shall be increased by 5% every
+2024 Onwards
+year effective January 1, 2024
+b.) Cigarettes packed by machine
+Per pack of 20s or
+(RA No. 11346)
+
+Effective January 1, 2022
+Effective January 1, 2023
+2024 Onwards
+5.) Heated Tobacco Products
+(RA No. 11346 and 11467)
+
+Effective January 1, 2022
+Effective January 1, 2023
+2024 Onwards
+6.) Vapor Products (RA No. 11467)
+a.) Nicotine Salt or Salt Nicotine
+Effective January 1, 2022
+Effective January 1, 2023
+2024 Onwards
+b.) Conventional
+Nicotine “Freebase” or Classic”
+Effective January 1, 2022
+Effective January 1, 2023
+2024 Onwards
+
+any packaging
+combinations of not
+more than 20
+packed by machine
+Per pack of twenty
+(20) units or any
+packaging
+combinations of not
+more than twenty
+(20) units
+
+Per Milliliter or
+a fraction
+thereof
+Per Ten (10)
+Milliliters or a
+fraction thereof
+
+P55.00
+P60.00
+
+0.00
+120.00
+
+P30.00
+P32.50
+
+P47.00
+P52.00
+
+Rate shall be increased by 5% every
+year effective January 1, 2024
+
+Rate shall be increased by 5% every
+year effective January 1, 2024
+
+Rate shall be increased by 5% every
+
+0.00
+1,000.50
+
+0.00
+60,030.01
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+0.00
+
+year effective January 1, 2024
+
+P55.00
+P60.00
+
+Rate shall be increased by 5% every
+year effective January 1, 2024
+
+BIR Form No.
+
+EXCISE TAX RETURN
+
+2200-T
+
+for Tobacco, Heated Tobacco, Vapor
+and Novel Tobacco Products
+
+August 2022 (ENCS)
+Page 3
+
+TIN
+0
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+
+Schedule 1 –continuation
+
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Description
+7.) Novel Tobacco Products
+
+Tax Bracket/
+Unit of Measure
+
+Applicable Tax Rate
+
+Effective August 10, 2022
+Effective January 1, 2023
+2024 Onwards
+Tobacco Inspection Fees
+XT080 1.) For Cigars
+XT090 2.) For Cigarettes
+XT100 3.) For Leaf Tobacco
+scraps and other manufactured
+XT110 4.) For
+tobacco products
+imported blending tobacco
+XT120 5.) Additional
+inspection and monitoring fee
+
+Per Kilogram
+
+P2.50
+P2.60
+
+ATC
+XT210
+
+2200-T 08/22ENCS P3
+
+Taxpayer’s Name
+
+(RA No. 11900)
+
+- Leaf
+- partially manufactured (scraps and
+strips)
+6.) Heated Tobacco Products
+7.) Vapor Products
+8.) Novel Tobacco Products
+
+XT190
+XT200
+XT220
+Others (specify)
+XT999 SAMPLE OTHER PRODUCT
+XT
+XT
+TOTAL TAX DUE (To Part III, Item 16)
+
+Tax Base (Value/Volume of Removal) Basic Excise
+Tax Due
+Export/Exempt
+Taxable
+
+Rate shall be increased by 4% every
+year effective January 1, 2024
+
+Per 1,000 cigars or a
+fraction thereof
+Per 1,000 sticks or a
+fraction thereof
+Per Kilogram or a
+fraction thereof
+Per Kilogram or a
+fraction thereof
+
+P0.50
+P0.10
+P0.02
+
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+1,234,567.89
+
+123.46
+
+0.00
+
+0.00
+
+0.00
+
+P0.03
+
+0.00
+
+0.00
+
+0.00
+
+Per Kilogram or a
+fraction thereof
+Per 1,000 cigars or a
+fraction thereof
+Per 1,000 units
+Per Milliliter
+Per Kilogram
+
+P0.02
+
+0.00
+
+0.00
+
+0.00
+
+P0.50
+P0.10
+P0.01
+P0.03
+
+0.00
+
+0.00
+
+0.00
+
+PER PACK
+
+5.00
+
+0.00
+0.00
+0.00
+
+0.00
+0.00
+
+0.00
+
+0.00
+
+2.00
+0.00
+0.00
+
+0.00
+
+0.00
+
+10.00
+0.00
+0.00
+60,413.47
+
+BIR Form No. 2200T
+
+ADDITIONAL SHEET
+
+Excise Tax Return for Tobacco Products
+
+Entries shortened with "..." on the form are printed in full below.
+
+TIN: —
+
+Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZVILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+Entries continued from the form
+Page
+Page 1
+
+Item / Field
+Item 6 — Taxpayer Name
+
+Date: 03/14/2025
+
+Full text of entries shortened with "..." on the form
+Full Entry
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+

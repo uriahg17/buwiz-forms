@@ -1,0 +1,310 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+BIR Form No.
+
+Annual
+Capital Gains Tax Return
+(For Onerous Transfer of Shares of Stock Not Traded
+
+April 2021 (ENCS)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+
+1707-A
+Page 1
+
+1 For X Calendar
+Fiscal
+2 For the Year Ended (MM/DD/YYYY)
+1 2 3 1 2 0 2 5
+
+Through the Local Stock Exchange)
+
+3 Amended Return?
+
+4 No. of Sheet/s Attached
+
+Yes X No
+
+0 1
+
+1707-A 04/21ENCS P1
+
+5 Alphanumeric Tax Code (ATC)
+X II030 Individual
+
+Part I – Background Information
+
+6 Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0
+8 Seller’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+IC110 Corporation
+
+0 7 RDO Code
+
+0 3 9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+1 1 0 0
+9A ZIP Code
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+10 Contact Number (Landline/Cellphone No.) 11 Email Address
+09171234567 juana.santos.independent.print.check@example.com
+12 Are you availing of tax relief under Special Law 12A If yes, please specify
+or International Tax Treaty? X Yes
+No
+
+Part II – Computation of Tax
+
+13 Total Capital Gains (From Schedule 1, Item 5 Column E)
+14 Less: Total Capital Loss (From Schedule 2, Item 5 Column E)
+15 Net Capital Gain/(Loss) (Item 13 Less Item 14)
+16 Applicable Tax Rate
+17 Tax Due (Item 15 Multiply by Item 16)
+18 Less: Total Tax Credit/Payment
+18A Total Tax Paid (From Schedule 1, Item 5 Column F)
+18B Tax Paid in Return Previously Filed, if this is an Amended Return
+18C Total Tax Credits/Payments (Sum of Items 18A and 18B)
+19 Net Tax Payable/(Overpayment) (Item 17 Less Item 18C)
+20 Add: Penalties 20A Surcharge
+20B Interest
+20C Compromise
+20D Total Penalties (Sum of Items 20A to 20C)
+21 Total Amount Payable/(Overpayment) (Sum of Items 19 and 20D)
+In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application of Tax Credits/Refunds)
+
+6 1 4 5 6 7
+3 0 0 0 0
+5 8 4 5 6 7
+
+●
+
+7 9
+5 5
+2 4
+
+●
+
+0 9
+
+●
+●
+
+15%
+
+8 7 6 8 5
+1 5 0 0 0
+0
+1 5 0 0 0
+7 2 6 8 4
+2 5
+1 0
+0
+3 5
+7 2 7 2 0
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+5 0
+0 0
+5 0
+5 9
+5 0
+0 0
+0 0
+5 0
+0 9
+
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of
+my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+For Individual:
+For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+22 Cash/Bank Debit Memo
+23 Check
+24 Tax Debit Memo
+25 Others (specify below)
+
+Signature over Printed Name of President/Vice President/Authorized Officer or
+Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Stamp of(RO’s
+Receiving
+Office/AABTeller’s
+and Date
+of Receipt
+Signature/Bank
+Initial
+)
+
+BIR Form No.
+
+1707-A
+
+Annual
+Capital Gains Tax Return
+(For Onerous Transfer of Shares of Stock Not Traded
+
+April 2021 (ENCS)
+
+Through the Local Stock Exchange)
+1707-A 04/21ENCS P2
+TIN
+Taxpayer’s Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Page 2
+
+Part IV - Schedules
+
+Schedule 1 – List of Transactions Resulting to Gain (Attach additional sheet/s if necessary)
+Date of Transaction
+Name of Corporate Stock
+(MM/DD/YYYY)
+(A)
+
+(B)
+
+1 0 2 1 5 2 0 2 5 SAMPLE CORP
+2 0 6 3 0 2 0 2 5 EXAMPLE MINING
+3
+4
+(Continuation of Schedule 1)
+Cost
+(D)
+
+1 120,000.00
+2 1,000,000.10
+3 0.00
+4 0.00
+5 TOTAL (Total of Column E, to Part II Item 13)
+
+Selling Price
+500,000.00
+1,234,567.89
+0.00
+0.00
+
+Capital Gains
+380,000.00
+234,567.79
+0.00
+0.00
+
+(C)
+
+Tax Paid
+
+(E = C-D)
+
+(F)
+
+15,000.50
+0.00
+0.00
+0.00
+
+614,567.79
+15,000.50
+Schedule 2 – List of Transactions Resulting to Loss (Attach additional sheet/s if necessary)
+Date of Transaction
+Name of Corporate Stock
+(MM/DD/YYYY)
+(Total of Column F, to Part II Item 18A)
+
+(A)
+
+1 0 9 0 1 2 0 2 5 LOSS CO
+2
+3
+4
+(Continuation of Schedule 2)
+Selling Price
+(C)
+
+1 50,000.00
+80,000.55
+2 0.00
+0.00
+3 0.00
+0.00
+0.00
+4 0.00
+5 TOTAL (Total of Column E, to Part II Item 14)
+Taxpayer Classification
+1. For Individual
+
+(B)
+
+Cost
+(D)
+
+Capital Loss
+30,000.55
+0.00
+0.00
+0.00
+
+(E = C-D)
+
+30,000.55
+Tax Rate
+15%
+
+2. For Corporation
+2.1 Domestic
+
+15%
+
+2.2 Foreign
+
+15%
+
+

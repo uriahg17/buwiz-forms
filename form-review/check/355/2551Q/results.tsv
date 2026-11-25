@@ -1,0 +1,7 @@
+box/case	main result/head result	pass-fail
+long identity text	head wraps; main clips/shrinks	pass
+Item 17 specify override	head still prints inline in the small specify box with ellipsis, not a full-width rectangle on a new line	fail
+negative overpayment	head prints (303,703.70) and (264,444.36); main prints minus-style boxed digits	pass
+arithmetic	296,296.30-600,000=-303,703.70; penalties 39,259.34; total -264,444.36	pass
+additional sheet	full Item 17 specify text prints on additional sheet	pass
+decimal mark	fit amounts sit around one decimal mark; no doubled point seen	pass

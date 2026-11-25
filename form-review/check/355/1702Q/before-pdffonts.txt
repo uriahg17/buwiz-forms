@@ -1,0 +1,7 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+[none]                               Type 3            Custom           yes no  yes     10  0
+[none]                               Type 3            Custom           yes no  yes     11  0
+[none]                               Type 3            Custom           yes no  yes     12  0
+[none]                               Type 3            Custom           yes no  yes     13  0
+EAAAAA+JetBrainsMono-Regular         CID TrueType      Identity-H       yes yes yes     17  0

@@ -1,0 +1,245 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+BIR Form No.
+
+2000
+January 2018 (ENCS)
+Page 1
+
+Monthly Documentary Stamp
+Tax Declaration/Return
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable
+
+2000 01/18ENCS P1
+
+boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+1 For the month of (MM/DD/YYYY) 0 6 2 0 2 5 2 Amended Return?
+Yes X No 3 Number of Sheet/s Attached 0 0
+Part I – Background Information
+4 Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 5 RDO Code
+0 3 9
+6 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+1 1 0 0
+7A ZIP Code
+8 Contact Number (Landline/Cellphone No.) 9 Email Address
+09171234567 juana.santos.independent.print.check@example.com
+X Creditor/Mortgagor/etc.
+10 Other Party to the transaction
+Debtor/Mortgagee/etc.
+None
+11 Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+S A M P L E
+C R E D I T O R
+C O R P
+12 TIN 9 8 7 6 5 4 3 2 1 0 0 0
+13 Mode of Affixture
+eDST System
+Loose Stamps
+X Constructive Affixture
+Part II – Computation of Payable
+A. For Electronic Documentary Stamp Tax (eDST) System and Constructive Affixture of Documentary Stamp
+14 Tax Due for the Month (From Schedule 1)
+6 0 5 9 ● 8 6
+0 ● 0 0
+Less: 15A Balance Carried Over from Previous Return
+3 7 0 0 ● 7 6
+15B Payment thru Constructive Affixture (From Schedule 2)
+15C Advance Payment during the month (From Schedule 3)
+0 ● 0 0
+3 7 0 0 ● 7 6
+15D Total (Sum of Items 15A to 15C)
+2 3 5 9 ● 1 0
+16 Net Tax Payable/(Overpayment)/(Balance to be carried over to the Next Return) (Item 14 Less Item 15D)
+Add: Penalties 17A Surcharge
+2 5 ● 5 0
+1 0 ● 0 0
+17B Interest
+0 ● 0 0
+17C Compromise
+17D Total Penalties (Sum of Items 17A to 17C)
+3 5 ● 5 0
+2 3 9 4 ● 6 0
+18 Total Amount Payable/(Overpayment)/(Balance to be carried over to the next return) (Sum of Items 16 & 17D)
+B. For Sale of loose Documentary Stamp tax by Revenue District Office
+5 0 0 0 ● 0 0
+19 Total Amount of Documentary Stamps Sold for the Month (From Schedule 4)
+I/We declare under the penalties of perjury that this remittance form, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our
+information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+Date of Issue
+Date of Expiry
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+20 Cash/Bank Debit Memo
+21 Check
+22 Tax Debit Memo
+23 Others (specify)
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+)
+Stamp of(RO’s
+Receiving
+Office/AABTeller’s
+and Date
+of Receipt
+Signature/Bank
+Initial
+
+BIR Form No.
+
+2000
+January 2018 (ENCS)
+Page 1
+
+TIN
+
+Monthly Documentary Stamp
+Tax Declaration/Return
+Taxpayer’s Name
+
+2000 01/18ENCS P2
+
+00012345300000SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Schedule 1 – Summary of Computation of Taxes Due for the Month (use additional sheet/s, if necessary)
+ATC
+Tax Base
+Tax Rate
+D S 1 0 1
+1 2 3 4 5 6 ● 7 9 P2.00/P200
+D S 1 1 2
+1 0 0 0 ● 0 0 P0.40/P200
+D S 1 0 6
+2 5 0 0 0 0 0 ● 0 0 P1.5/200 * 90/365 DAYS
+TOTAL TAX DUE (To Item 14)
+Schedule 2 – Summary of Constructive Affixture for the Month (use additional sheet/s, if necessary)
+Payment Date/s (MM/DD/YYYY) Revenue Official Receipt No. (if payment is made to RCO)
+0 6 / 0 5 / 2 0 2 5 R C P T 1 0 0 1
+0 6 / 2 0 / 2 0 2 5 R C P T 1 0 0 2
+0 6 / 2 1 / 2 0 2 5 R C P T 1 0 0 3
+TOTAL PAYMENT/S (To Item 15B)
+Schedule 3 – Summary of DST Payments/Purchases for the Month (use additional sheet/s, if necessary)
+Payment Reference No, (if paid thru eFPS)/Revenue
+Payment Date/s (MM/DD/YYYY)
+Official Receipt No. (if payment is made to RCO)
+
+/
+/
+/
+
+/
+/
+/
+
+Tax Due
+1 2 3 4
+2
+4 6 2 3
+6 0 5 9
+Amount Paid
+1 0 0 0
+2 0 0 0
+3 0 0
+3 7 0 0
+
+●
+●
+●
+●
+
+●
+●
+●
+●
+
+5 7
+0 0
+2 9
+8 6
+5 0
+0 1
+0 0
+7 6
+
+Amount Paid
+0
+0
+0
+0
+
+●
+●
+●
+
+TOTAL PAYMENT/S (To Item 15C)
+●
+Schedule 4 – Summary of Remittance from Collection on Sale of Loose Documentary Stamps (use additional sheet/s, if necessary)
+Remittance Date/s
+Authorized
+Inclusive Numbers of Loose Stamps
+RCO Code
+Amount Remitted
+(MM/DD/YYYY)
+Agent Bank
+From
+To
+R C O 0 1
+0 6 2 5 2 0 2 5 SAMPLE BANK
+5 0 0 0 ● 0 0 1 0 0 1
+1 1 0 0
+0 ● 0 0
+0 ● 0 0
+5 0 0 0 ● 0 0
+TOTAL REMITTANCE (To Item 19)
+
+0 0
+0 0
+0 0
+0 0
+
+

@@ -1,0 +1,938 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+BIR Form No.
+
+1602Q
+
+January 2019 (ENCS)
+Page 1
+
+1 For the Year
+2
+
+0
+
+2
+
+5
+
+Quarterly Remittance Return
+
+of Final Taxes Withheld on Interest Paid on Deposits
+and Yield on Deposit Substitutes/Trusts/Etc.
+
+1602Q 01/19ENCS P1
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+2 Quarter
+1st
+
+2nd
+
+X
+
+3 Amended Return?
+3rd
+4th
+Yes X No
+Part I – Background Information
+
+0 0 0
+6 Taxpayer Identification Number (TIN)
+8 Withholding Agent’s Name (Registered Name of Non-Individual)
+
+4 Any Taxes Withheld?
+Yes
+No
+X
+
+5 No. of Sheet/s Attached
+0
+
+0
+
+/ 1 2 3 / 4 5 3 / 0 0 0 0 0 7 RDO Code
+
+0
+
+3
+
+9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+9 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+
+9A ZIP Code
+Private
+
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+10 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+11 Category of Withholding Agent
+X
+12 Email Address juana.santos.independent.print.check@example.com
+Are there payees availing of tax relief under X Yes
+13 Special
+No 13A If yes, specify INTERNATIONAL TAX TREATY
+Law or International Tax Treaty?
+Part II – Computation of Tax
+14 Taxes Withheld for the Quarter Based on Regular Rates (from Part IV - Schedule 1 )
+1
+9
+15 Taxes Withheld for the Quarter Based on Tax Treaty Rates (from Part IV - Schedule 2)
+16 Taxes Withheld for the Quarter Based on Preferential Rates (from Part IV - Schedule 3)
+1
+9
+17 Total Taxes Withheld for the Quarter (Sum of Items 14 to 16)
+18 Less: Remittances Made: 1st Month of the Quarter
+19
+2nd Month of the Quarter
+20
+Tax Remitted in Return Previously Filed, if this is an amended return
+21
+Over-remittance from Previous Quarter of the same taxable year
+22 Total Remittances Made (Sum of Items 18 to 21)
+23 Tax Still Due/(Over-remittance) (Item 17 Less Item 22)
+1
+9
+Add: Penalties 24 Surcharge
+25 Interest
+26 Compromise
+27 Total Penalties (Sum of Items 24 to 26)
+1
+9
+28 TOTAL AMOUNT STILL DUE/(Over-remittance) (Sum of Items 23 and 27)
+If over-remittance, mark one (1) box only
+
+To be refunded
+
+To be issued Tax Credit Certificate
+
+1
+
+7
+
+2
+
+8
+
+3
+
+0
+
+0
+
+0
+
+2
+
+5
+
+0
+
+6
+
+9
+
+7
+
+8
+
+1
+
+0
+
+0
+
+0
+
+2
+
+0
+
+0
+
+0
+0
+
+5
+
+0
+
+0
+
+3
+
+5
+
+0
+
+0
+
+3
+
+4
+
+7
+
+7
+
+2
+
+5
+
+1
+
+0
+0
+
+5
+
+0
+
+0
+
+Government
+
+3
+
+3
+
+1
+
+3
+
+5
+
+1
+
+3
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+1
+
+5
+
+0
+
+0
+
+0
+
+0
+
+1
+
+5
+
+0
+
+0
+
+5
+
+1
+
+0
+
+0
+
+0
+
+0
+
+5
+
+1
+
+6
+
+4
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+0
+
+1
+
+4
+
+To be carried over to the next quarter within the same
+calendar year (not applicable for succeeding year)
+
+We declare under the penalties of perjury that this remittance return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, is true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, we give consent to the processing of our information as contemplated
+under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Drawee Bank/Agency
+Particulars
+29 Cash/Bank Debit Memo
+30 Check
+31 Tax Debit Memo
+32 Others (specify below)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+Quarterly Remittance Return
+1602Q
+of
+Final
+Taxes Withheld on Interest Paid on Deposits
+January 2019 (ENCS)
+BIR Form No.
+
+TIN
+0
+
+0
+
+and Yield on Deposit Substitutes/Trusts/Etc.
+
+Page 2
+
+0
+
+1
+
+2
+
+1602Q 01/1ENCS P2
+
+Withholding Agent’s Name
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+Part IV – Details of Taxes Withheld
+Schedule 1 – Details of Interest Payments and Tax Withheld Based on REGULAR RATES
+Tax BSP Exchange Rate on
+ATC
+Total Interest/Yield Paid/Accrued/Amount
+Rate the Date of Remittance
+Savings Deposit
+
+1 WI161
+2 WC161
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+0
+
+Time Deposit
+
+3 WI161
+4 WC161
+
+2
+
+5
+
+0
+
+0
+
+0
+
+0
+0
+
+Government Securities
+
+5 WI162
+6 WC162
+
+0
+0
+
+Deposit Substitutes/Others
+
+7 WI163
+8 WC163
+
+0
+0
+
+Pre-terminated Long-Term Deposits/Investments
+
+9 WI440
+10 WI441
+11 WI442
+12 WC440
+
+5
+
+0
+
+0
+
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+0
+
+Foreign Currency Deposit
+
+0
+
+●
+●
+
+●
+●
+
+●
+●
+
+●
+●
+
+●
+●
+●
+●
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+5
+
+7
+
+0
+
+0
+
+0
+
+0
+
+Taxes Withheld
+
+20%
+20%
+
+2
+
+0
+
+0
+
+0
+
+0
+
+20%
+20%
+
+5
+
+0
+
+0
+
+0
+
+0
+0
+
+20%
+20%
+
+0
+0
+
+20%
+20%
+
+0
+0
+
+20%
+12%
+5%
+20%
+
+1
+0
+0
+0 0
+0 0
+5 6
+13 WI170
+15%
+●
+●
+0
+0 0
+0
+14 WC170
+15%
+●
+●
+15 Total Taxes Withheld Based on Regular Rates (Sums of Items 1 to 14) (To Part II, Item 14)
+
+0
+
+1
+
+0
+
+0
+
+0
+
+0
+
+1
+
+4
+
+8
+0
+0
+
+7
+
+9
+
+0
+
+0
+
+1
+
+1
+
+3
+
+5
+
+8
+
+0
+0
+
+1
+
+9
+
+3
+
+7
+
+2
+
+8
+
+0
+
+0
+
+Schedule 2 – Details of Interest Payments and Tax Withheld Based on TAX TREATY RATES (attach additional sheet/s, if necessary)
+Tax
+Treaty Code
+ATC
+Total Interest
+Taxes Withheld
+(Refer to Sched 5) (same ATC in Sched 1)
+Rate
+W C 1
+6 1
+3
+0
+0
+0 0
+0 0 10.00
+1 U S
+●
+0
+0 0 0.00
+2
+●
+3
+●
+4 Total Taxes Withheld Based on Tax Treaty Rates (Sum of Items 1 to 3) (To Part II, Item 15)
+
+3
+
+0
+
+0
+
+●
+●
+
+●
+●
+
+●
+●
+
+●
+●
+
+●
+●
+●
+●
+
+●
+●
+●
+
+●
+●
+
+4 Total Taxes Withheld on TPs Enjoying Preferential Rates (Sum of Items 1 to 3) (To Part II, Item 16)
+Particulars
+
+1. On Deposit Liabilities
+Taxable
+Exempt
+2. On Bills Payables/Borrowed Funds
+Taxable
+Exempt
+3. Long Term Deposit on Investment
+Four (4) years to less than five (5) years
+Three
+(3) years
+to less
+Less
+than
+three (3)
+yearsthan four (4) years
+Exempt
+4. Others
+Taxable
+Exempt
+Total Interest Expense per Books/FS
+
+Regular Banking Unit
+
+BANKS
+Foreign Currency Deposit
+Unit
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1
+
+5
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+●
+
+3
+
+0
+
+0
+
+0
+
+●
+
+Schedule 3 – Details of Interest Payments and Tax Withheld on Taxpayers (TPs) Enjoying PREFERENTIAL RATES (attach additional sheet/s, if necessary)
+Investment Promotion
+Tax
+ATC
+Total Interest
+Taxes Withheld
+Agency (IPA) Code
+Rate
+(Refer to Sched 6)
+5
+0
+0 0
+0 0 5.00
+2
+5 0
+WC390
+1 P E Z A
+●
+●
+0
+0
+0
+0.00
+0
+WC390
+2
+●
+●
+WC390
+3
+●
+●
+Schedule 4 – Summary of Interest/Yield Paid and Accrued for the Month
+
+0
+
+2
+
+Total
+
+5
+
+0
+
+●
+
+Institutions Other Than Banks
+
+Quarterly Remittance Return
+1602Q
+of
+Final
+Taxes Withheld on Interest Paid on Deposits
+January 2019 (ENCS)
+BIR Form No.
+
+TIN
+0
+
+0
+
+and Yield on Deposit Substitutes/Trusts/Etc.
+
+Page 3
+
+0
+
+1
+
+2
+
+Withholding Agent’s Name
+
+3
+
+4
+
+5
+
+3
+
+0
+
+0
+
+0
+
+0
+
+0
+
+1602Q 01/19ENCS P3
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+

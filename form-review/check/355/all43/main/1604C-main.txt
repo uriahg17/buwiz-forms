@@ -1,0 +1,229 @@
+REPUBLIC OF THE PHILIPPINES
+DEPARTMENT OF FINANCE
+BUREAU OF INTERNAL REVENUE
+
+For BIR BCS/
+Use Only Item:
+
+Annual Information Return
+
+BIR Form No.
+
+1604-C
+
+of Income Taxes Withheld on Compensation
+
+January 2018
+Page 1
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer
+
+1 For the Year (20YY)
+
+2 0
+
+2025
+
+2 Amended Return?
+Yes X No
+Part I – Background Information
+
+1604-C 01/18 P1
+
+3 Number of Sheet/s Attached
+
+0
+
+0
+
+0 0 0 / 1 2 3 / 4 5 3 / 0 0 0 0 0 5 RDO Code 0 3 9
+4 Taxpayer Identification Number (TIN)
+6 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+
+7A ZIP Code 1 1 0 0
+8A If private, top withholding agent? X Yes
+No
+
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+8 Category of Withholding Agent X Private
+Government
+9 Contact Number
+10 Email Address
+
+0 9 1 7 1 2 3 4 5 6 7 juana.santos.independent.print.check@example.com
+
+11 In case of overwithholding/overremittance after the year-end adjustments on compensation, 11A If Yes, specify the date
+have you released the refund/s to your employee/s?
+
+12 Total amount of overremittance on Tax
+
+X Yes
+
+No
+
+of refund (MM/DD/YYYY)
+
+4 3 2 1
+
+withheld under compensation
+
+Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+TOTAL
+
+●
+
+5 6 13 Month of First Crediting of Overremittance (MM) 0 2
+
+Part II – Summary of Remittances per BIR Form No. 1601-C
+Drawee Bank/ Bank
+Date of Remittance
+TRA/eROR/eAR Number
+(MM/DD/YYYY)
+Code/ Agency
+
+02/10/2025
+03/10/2025
+04/10/2025
+
+SAMPLE BANK-001
+SAMPLE BANK
+BANK 3
+
+TRA1
+TRA2
+TRA3
+
+07/10/2025
+
+AGENCY 6
+
+EROR-6
+
+01/15/2026
+
+BANK CODE 12
+
+TRA-12
+
+Continuation of Part II
+
+Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+TOTAL
+
+Adjustment
+
+Penalties
+
+0 3 1 5 2 0 2 6
+
+Taxes Withheld
+10,000.00
+8,000.50
+100.00
+0.00
+0.00
+1,000.00
+0.00
+0.00
+0.00
+0.00
+0.00
+12,345.68
+31,446.18
+
+Total Amount Remitted
+
+0.00
+25.50
+10,025.50
+-500.25
+0.00
+7,500.25
+-300.00
+0.00
+-200.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.01
+1,000.01
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+100.00
+0.00
+12,445.68
+-700.25
+25.51
+30,971.44
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our
+knowledge and belief, is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under
+authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No.
+10173) for legitimate and lawful purposes.
+For Individual:
+For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+*NOTE: The BIR Data Privacy is in the BIR website (www.bir.gov.ph)
+
+Signature over Printed Name of President/Vice President/Authorized Officer
+or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+

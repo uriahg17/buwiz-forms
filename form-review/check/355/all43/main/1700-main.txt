@@ -1,0 +1,325 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+BIR Form No.
+
+1700
+January 2018 (ENCS)
+Page 1
+
+Annual Income Tax Return
+
+Individuals Earning Purely Compensation Income
+(Including Non-Business/Non-Profession Income)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes
+with an “X”. Three (3) copies must be filed: two (2) copies for BIR and one copy for the taxpayer.
+
+2 Amended Return?
+Yes X No 3 Alphanumeric Tax Code (ATC)
+Part I – Background Information on Taxpayer/Filer
+4 Taxpayer Identification Number (TIN)
+5 RDO Code
+6 Taxpayer Type
+X Employee
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0
+0 3 9
+(Regular Rates)
+7 Taxpayer’s Name (Last Name, First Name, Middle Name)
+
+1 For the Year (YYYY)
+
+2 0 2 5
+
+1700 01/18ENCS P1
+
+I I 0 1 1
+NRANETB*
+(25%)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+8 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+8A ZIP Code 1 1 0 0
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+9 Date of Birth (MM/DD/YYYY) 10 Email Address
+0 1 1 5 1 9 8 0 juana.santos.independent.print.check@example.com
+11 Citizenship
+12 Claiming Foreign Tax Credits? 13 Foreign Tax Number, if applicable
+F I L I P I N O
+Yes X No
+14 Contact Number (Landline/Cellphone No.)
+15 Civil Status
+0 9 1 7 1 2 3 4 5 6 7
+X Single
+Married
+Legally Separated
+Widow/er
+16 If married, spouse has income?
+17 Filing Status
+Yes
+No
+Joint Filing
+Separate Filing
+Part II – Background Information on Spouse
+18 Spouse’s TIN
+19 RDO Code
+20 Taxpayer Type
+Employee
+NRANETB*
+- 0 0 0 0 0
+(Regular Rates)
+
+21 Spouse’s Name (Last Name, First Name, Middle Name)
+
+22 Contact Number
+24 Claiming Foreign Tax Credits?
+
+Yes
+
+No
+
+Particulars
+
+(25%)
+
+23 Citizenship
+25 Foreign Tax Number
+(if applicable)
+
+Part III – Total Tax Payable
+
+26 Tax Due (Either from Part V.A Item 47A/B OR Part V.B 53A/B)
+27 Less: Total Tax Credits/Payments (From Part V.C Item 58A/B)
+28 Net Tax Payable/(Overpayment) (Item 26 Less Item 27) (From Part V Item 59A/B)
+29 Less: Portion of Tax Payable Allowed for 2nd Installment to be paid on or before October 15
+(50% or less of Item 26) (applicable only to employee subject to regular IT rates)
+
+30 Amount of Tax Payable/(Overpayment) (Item 28 Less Item 29)
+Add: Penalties 31 Surcharge
+32 Interest
+33 Compromise
+34 Total Penalties (Sum of Items 31 to 33)
+35 Total Amount Payable/(Overpayment) (Sum of Items 30 and 34)
+36 Aggregate Amount Payable/(Overpayment) (Sum of Items 35A and 35B)
+
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+
+A) Taxpayer/Filer
+4 6 5 0 0
+4 0 1 0 0
+6 4 0 0
+
+B) Spouse
+
+6 4 0 0
+1 0 0 0
+1 0 0 0
+7 4 0 0
+
+7 4 0 0
+
+I declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me, and to the best of my knowledge and belief, are true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+contemplated under the **Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If signed by an Authorized Representative, indicate TIN and attach authorization letter)
+
+37 Number of Attachments
+Printed Name and Signature of Taxpayer/Authorized Representative
+Particulars
+Drawee Bank/Agency
+38 Cash/Bank Debit Memo
+
+Part IV - Details of Payment
+Number
+
+Date (MM/DD/YYYY)
+
+Amount
+
+39 Check
+40 Tax Debit Memo
+41 Others (specify below)
+
+Machine Validation/Revenue Official Receipt Details [if not filed with an Authorized Agent Bank (AAB)]
+
+NOTE: * Non-Resident Alien Not Engaged in Trade or Business
+** The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+Annual Income Tax Return
+
+1700
+January 2018 (ENCS)
+TIN
+
+Individuals Earning Purely Compensation Income
+(Including Non-Business/Non-Profession Income)
+
+Page 2
+
+1700 01/18ENCS P2
+
+Taxpayer’s Last Name
+
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 S A N T O S
+
+Part V – Computation of Tax
+
+If subject to graduated rates, fill in items 42 to 47; if subject to 25%, fill in items 48 to 53
+
+Part V.A – Subject to Graduated Rates
+
+42 Gross Compensation Income (From Schedule 1 Item 5Ac/5Bc)
+43 Less: Non-Taxable / Exempt Compensation
+44 Gross Taxable Compensation Income (Item 42 Less Item 43)
+45 Add: Other Taxable Non-Business/Non-Profession Income (specify) PRIZE
+46 Total Taxable Income (Sum of Items 44 and 45)
+47 Tax Due [Item 46 x Applicable Income Tax Rate (refer to tax table below)] (To Part III Item 26)
+Part V.B – Subject to 25% Flat Rate for NRANETB
+
+( DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+
+A) Taxpayer/Filer
+
+6 0
+9
+5 1
+1
+5 2
+4
+
+0
+0
+0
+0
+0
+6
+
+0
+0
+0
+0
+0
+5
+
+0
+0
+0
+0
+0
+0
+
+1
+0
+1
+0
+1
+0
+
+B) Spouse
+
+48 Gross Compensation Income (From Schedule 1 Item 5Ad/5Bd)
+49 Less: Non-Taxable/Exempt Compensation (please specify)
+50 Gross Taxable Compensation Income (Item 48 Less Item 49)
+51 Add: Other Taxable Income (please specify)
+52 Total Taxable Income (Sum of Items 50 and 51)
+53 Tax Due (Item 52 x 25% Flat Rate) (To Part III Item 26)
+Part V.C - Tax Credits/Payments (attach proof)
+
+54 Tax Withheld per BIR Form No. 2316, if applicable (From Schedule 1 Item 5Ae/5Be)
+55 Tax Paid in Return Previously Filed, if this is an Amended Return
+56 Foreign Tax Credits, if applicable
+57 Other Tax Credits/Payments (specify) SAMPLE CREDIT
+58 Total Tax Credits/Payments (Sum of Items 54 to 57) (To Part III Item 27)
+59 Net Tax Payable/(Overpayment) (Either Item 47 OR Item 53 Less Item 58) (To Part III Item 28)
+
+4 0 0 0 0
+
+1 0 0
+4 0 1 0 0
+6 4 0 0
+
+Part VI - Schedule
+Schedule 1 – Gross Compensation Income and Tax Withheld (Attach Additional Sheet/s, if necessary)
+
+Gross Compensation Income and Tax Withheld(On Items 1, 2, 3 and 4, enter the required information for each of your employer/s and mark (X) whether the information is for the Taxpayer or the Spouse (should be separate item nos.
+even if both have the same employer). On Item 5A, enter the Total Gross Compensation and Total Tax Withheld for the Taxpayer and on Item 5B, for the Spouse. (DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+a. Name of Employer
+
+Taxpayer
+
+1 X Spouse
+
+S A M P L E
+
+E M P L O Y E R
+
+I N C
+
+b. Employer’s TIN
+
+2
+
+Taxpayer
+Spouse
+
+b. Employer’s TIN
+
+3
+
+Taxpayer
+Spouse
+
+b. Employer’s TIN
+
+4
+
+Taxpayer
+Spouse
+
+b. Employer’s TIN
+
+Continuation of Schedule 1 (Enter the amount of compensation and tax
+
+withheld corresponding to the above employer )
+
+1
+2
+3
+4
+
+Compensation Income and Total Tax Withheld for
+5A Gross
+TAXPAYER (To Part V Items 42A/48A and 54A)
+5B Gross Compensation Income and Total Tax Withheld for
+SPOUSE
+
+(To Part V Items 42B/48B and 54B)
+
+c. Compensation Income Subject
+to Regular/Graduated Rates
+
+6 0 0 0 0 1
+
+6 0 0 0 0 1
+
+0 0 0 1 2 3 4 5 3 0 0 0 0 0
+
+d. Compensation Income
+Subject to 25% Flat Rate
+
+e. Tax Withheld
+
+4 0 0 0 0
+
+4 0 0 0 0
+
+

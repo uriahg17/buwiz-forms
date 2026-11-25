@@ -1,0 +1,166 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+BIR Form No.
+
+Monthly Remittance Form
+
+0619-F
+
+of Final Income Taxes Withheld
+
+January 2018
+Page 1
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with an “X”.
+Two copies MUST be filed with the BIR and one held by the Taxpayer.
+1 For the month of (MM/YYYY)
+2 Due Date (MM/DD/YYYY)
+3 Amended Form?
+4 Any Taxes Withheld?
+
+0619-F 01/18 P1
+
+5 Tax Type Code**
+X
+X
+Yes
+No
+Yes
+No
+0 6 2 0 2 5
+0 7 1 0 2 0 2 5
+WF
+Part I – Background Information
+6 Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 7 RDO Code
+0 3 9
+8 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+
+9 Registered Address (Indicate complete address. If branch, indicate the branch address. If registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY
+9A ZIP Code
+SAN LORENZO MAKATISECOND ADDRESS LINE LONG COMPLEMENT FOR PRINT OVERFLOW TESTING
+1 1 0 0
+
+10 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+11 Category of Withholding Agent
+12 Email Address
+juana.santos.independent.print.check@example.com
+Part II – Tax Remittance
+ATC
+Description
+of Final Income Taxes Withheld on Interest Paid on Deposits and Yield on
+13 WMF10 Remittance
+Deposit Substitutes/Trusts/Etc.
+14 WMF20 Remittance of Final Income Taxes Withheld on Other Final Income Taxes
+15 Total (Sum of Items 13 and 14)
+16 Less: Amount Remitted from Previously Filed Form, if this is an amended form
+17 Net Amount of Remittance (Item 15 Less Item 16)
+18 Add: Penalties
+18A Surcharge
+18B Interest
+18C Compromise
+18D Total Penalties (Sum of Items 18A to 18C)
+19 Total Amount of Remittance (Sum of Item 17 and 18D)
+
+X
+
+Private
+
+Government
+
+Amount for Remittance
+
+0
+9 8 7 6 5
+9 8 7 6 5
+5 0 0
+9 8 2 6 5
+2 5
+1 0
+1 0 0 0
+1 0 3 5
+9 9 3 0 0
+
+●
+●
+●
+●
+●
+
+●
+●
+●
+●
+●
+
+0 0
+4 4
+4 4
+0 1
+4 3
+5 0
+0 0
+0 0
+5 0
+9 3
+
+I/We declare under the penalties of perjury that this remittance form has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct, pursuant
+to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give consent to the processing of my/our information as
+contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/ Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+Drawee Bank/Agency
+Particulars
+20 Cash/Bank Debit Memo
+21 Check
+22 Tax Debit Memo
+23 Others (specify below)
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+(Indicate Title/Designation and TIN)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+

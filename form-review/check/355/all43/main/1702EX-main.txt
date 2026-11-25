@@ -1,0 +1,335 @@
+For BIR BCS/
+Use Only: Item:
+BIR Form No.
+
+1702-EX
+
+January 2018 (ENCS) v2
+Page 1
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+Annual Income Tax Return
+
+Corporation, Partnership and Other Non-Individual Taxpayer EXEMPT
+under the Tax Code, as Amended, [Sec. 30 and those exempted in Sec.
+27(C)] and Other Special Laws, with NO Other Taxable Income]
+Enter all required information in CAPITAL LETTERS. Mark applicable boxes with an “X”.
+Two copies MUST be filed with the BIR and one held by the taxpayer.
+
+1702-EX 01/18ENCS v2 P1
+
+1 For X Calendar Fiscal 3 Amended Return? 4 Short Period Return? 5 Alphanumeric Tax Code (ATC)
+X
+IC 011
+Exempt Corporation on Exempt Activities
+2 Year Ended (MM/20YY)
+Yes X No
+Yes X No
+IC 021
+General Professional Partnership
+1 2 /20 2 5
+Part I – Background Information
+6 Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 7 RDO Code 0 3 9
+8 Registered Name (Enter only 1 letter per box using CAPITAL LETTERS)
+S A M P L E
+D U M M Y
+F O U N D A T I O N
+I N C
+
+9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+U N I T
+2 7 F
+T H E
+V E R Y
+L O N G
+C O R P O R A T E
+T O W E R
+1 2 3 4 5
+D O N A
+J U A N A
+M A R I E
+D E L A
+C R U Z
+A V E N
+U E
+C O R N E R
+V I L L A N U E V A
+B O U L E V A R D 9A ZIP Code 1 1 0 0
+10 Date of Incorporation/Organization
+0 3 / 0 1 / 2 0 1 0 11 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+(MM/DD/YYYY)
+12 Email Address
+juana.santos.independent.print.check@example.com
+Deductions
+Optional Standard Deduction (OSD) – 40% of Gross Income
+13 Method of Deductions X Itemized
+[Section 34 (A-J) of NIRC, as amended]
+[applicable only to General Professional Partnership (GPP) per RA No. 10963]
+14 Legal Basis of Tax Relief/Exemption (specify)
+15 Investment Promotion Agency (IPA)/Government Agency (specify)
+S E C
+3 0
+N I R C
+S A M P L E
+A G E N C Y
+16 Registered Activity/Program (Registration Number)
+17 Effectivity Date of Tax Relief/Exemption (MM/DD/YYYY)
+From 0 1 0 1 2 0 1 0 To 1 2 3 1 2 0 3 0
+R E G - 0 0 0 1
+Part II – Total Tax Payable
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+18 Tax Due (From Part IV Item 41)
+000
+19 Less: Total Tax Credits/Payments (From Part IV Item 50)
+1 0 0 0
+20 Total (Overpayment) (Item 18 Less Item 19) (From Part IV Item 51)
+( 1 0 0 0 )
+21 Add: Penalty - Compromise
+0
+( 1 0 0 0 )
+22 TOTAL AMOUNT PAYABLE / (Overpayment) (Sum of Items 20 and 21)
+If overpayment, mark one (1) box only. (Once the choice is made, the same is irrevocable)
+To be issued a Tax Credit Certificate (TCC)
+To be carried over as tax credit for next year/quarter
+X To be refunded
+We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, are true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. (If signed by an Authorized Representative, indicate TIN and
+attach authorization letter)
+
+Signature over Printed Name of President/Principal Officer/ Authorized Representative Signature over Printed Name of Treasurer/ Assistant Treasurer
+Title of Signatory
+TIN
+Title of Signatory
+TIN
+Drawee Bank/Agency
+Particulars
+24 Cash/Bank Debit Memo
+25 Check
+26 Tax Debit Memo
+27 Others (specify below)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+Machine Validation/Revenue Official Receipt Details [if not filed with an Authorized Agent Bank (AAB)]
+
+23 Number of
+Attachments
+0
+
+Amount
+
+Stamp of Receiving Office/AAB and Date of
+Receipt (RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+1702-EX
+
+Annual Income Tax Return
+
+For Use ONLY by Corporation, Partnership and Other Non-Individual
+Taxpayer EXEMPT Under the Tax Code, as Amended, [Sec. 30 and those
+January 2018 (ENCS) v2
+exempted in Sec. 27(C)] and Other Special Laws,
+Page 2
+1702-EX 01/19ENCS v2 P2
+with NO Other Taxable Income
+Taxpayer Identification Number (TIN)
+Registered Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SAMPLE DUMMY FOUNDATION INC
+Part IV – Computation of Tax
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+28 Sales/Receipts/Revenues/Fees
+5 0 0 0 0 0 1
+1 0 0 0 0 0
+29 Less: Sales Returns, Allowances and Discounts
+30 Net Sales/Receipts/Revenues/Fees (Item 28 Less Item 29)
+
+4 9 0 0 0 0 1
+
+31 Less: Cost of Sales/Services
+
+2 0 0 0 0 0 0
+
+32 Gross Income from Operation (Item 30 Less Item 31)
+
+2 9 0 0 0 0 1
+5 0 0 0 0
+
+33 Add: Other Income
+34 Total Gross Income (Sum of Items 32 and 33)
+Less: Deductions Allowable under Existing Law
+A. Itemized Deduction
+35 Ordinary Allowable Itemized Deductions (From Part VI Schedule I Item 18)
+
+2 9 5 0 0 0 1
+
+36 Special Allowable Itemized Deductions (From Part VI Schedule II Item 5)
+
+1 5 0 0 0
+5 5 0 0 0 0
+
+37 Total Itemized Deductions (Sum of Items 35 and 36)
+B. Optional Standard Deduction (OSD)
+38 OSD (40% of Item 34) (applicable only to GPP per RA No. 10963)
+39 Net Taxable Income/(Loss) (If Itemized Deductions: Item 34 Less Item 37; If OSD: Item 34 Less Item 38)
+40 Tax Rate
+41 Tax Due (Item 39 x Item 40) (To Part II Item 18)
+Less: Tax Credits/Payments (attach proof)
+42 Prior Year’s Excess Credits
+
+5 3 5 0 0 0
+
+0
+2 4 0 0 0 0 1
+
+0%
+000
+
+43 Income Tax Payment from Previous Quarter/s
+
+0
+0
+
+44 Creditable Tax Withheld from Previous Quarter/s per BIR Form No. 2307
+
+0
+
+45 Creditable Tax Withheld per BIR Form No. 2307 for the 4th Quarter
+46 Foreign Tax Credits, if applicable
+47 Tax Paid in Return Previously Filed, if this is an Amended Return
+Other Tax Credits/Payments (specify)
+48
+
+1 0 0 0
+0
+0
+
+49
+50 Total Tax Credits/Payments (Sum of Items 42 to 49) (To Part II Item 19)
+51 Total (Overpayment) (Item 41 Less Item 50) (To Part II Item 20)
+
+1 0 0 0
+( 1 0 0 0 )
+
+Part V – Tax Relief Availment
+52 Regular Income Tax Otherwise Due (Item 39 of Part IV x Applicable Income Tax Rate)
+
+6 0 0 0 0 0
+
+53 Special Allowable Itemized Deductions (Item 36 of Part IV x Applicable Income Tax Rate)
+
+1 5 0 0 0
+
+54 Total Tax Relief Availment (Sum of Items 52 and 53)
+
+6 1 5 0 0 0
+
+Annual Income Tax Return
+Corporation, Partnership and Other Non-Individual Taxpayer EXEMPT
+1702-EX
+January 2018 (ENCS) v2 Under the Tax Code, as Amended, [Sec. 30 and those exempted in Sec.
+BIR Form No.
+
+27(C)] and Other Special Laws, with NO Other Taxable Income]
+Page 3
+1702-EX 01/19ENCS v2 P3
+Taxpayer Identification Number (TIN)
+Registered Name
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SAMPLE DUMMY FOUNDATION INC
+Part VI – Schedules
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+Schedule 1 – Ordinary Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+1 Amortizations
+0
+2 Bad Debts
+1 0 0 0 0
+3 Charitable and Contributions
+0
+4 Depletion
+0
+5 Depreciation
+0
+6 Entertainment, Amusement and Recreation
+0
+7 Fringe Benefits
+0
+8 Interest
+0
+0
+9 Losses
+0
+10 Pension Trusts
+11 Rental
+0
+0
+12 Research and Development
+13 Salaries, Wages and Allowances
+5 0 0 0 0 0
+0
+14 SSS, GSIS, Philhealth, HDMF and Other Contributions
+15 Taxes and Licenses
+0
+16 Transportation and Travel
+0
+17 Others (Deductions Subject to Withholding Tax and Other Expenses) [Specify below; Add additional sheet(s), if necessary]
+2 0 0 0 0
+a Janitorial and Messengerial Services
+0
+b Professional Fees
+0
+c Security Services
+E X P E N S E
+5 0 0 0
+d S A M P L E
+e
+f
+g
+h
+i
+18 Total Ordinary Allowable Itemized Deductions (Sum of Items 1 to 17i) (To Part IV Item 35)
+5 3 5 0 0 0
+Schedule 2 – Special Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+Description
+Legal Basis
+Amount
+R A
+0 0 0 0
+1 5 0 0 0
+1 SAMPLE DEDUCTION
+2
+3
+4
+5 Total Special Allowable Itemized Deductions (Sum of Items 1 to 4) (To Part IV Item 36)
+1 5 0 0 0
+Schedule 3 – Reconciliation of Net Income per Books Against Taxable Income (attach additional sheet/s, if necessary)
+2 3 0 0 0 0 0
+1 Net Income/(Loss) per Books
+Add: Non-Deductible Expenses/Other Income
+E X P E N S E
+1 2 0 0 0 1
+2 N O N D E D U C T I B L E
+3
+4 Total (Sum of Items 1 to 3)
+2 4 2 0 0 0 1
+Less: A) Non-Taxable Income and Income Subjected to Final Tax
+I N C O M E
+2 0 0 0 0
+5 I N T E R E S T
+6
+7
+B) Special Deductions
+8
+9 Total (Sum of Items 5 to 8)
+10 Net Taxable Income/(Loss) (Item 4 Less Item 9)
+
+2 0 0 0 0
+2 4 0 0 0 0 1
+
+

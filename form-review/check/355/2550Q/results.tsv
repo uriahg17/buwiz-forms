@@ -1,0 +1,7 @@
+box/case	main result/head result	pass-fail
+long identity text	head wraps name/address; main uses smaller/clipped one-line behavior	pass
+Item 19 specify override	head still prints inline in the small specify box with ellipsis, not a full-width rectangle on a new line	fail
+negative excess credits	head prints (1,989,308.62); main prints minus-style boxed digits	pass
+arithmetic	credits 2,358,024.67; item21 -1,989,308.62; item26 penalties-only 39,259.34	pass
+additional sheet	full item19/42/47 specify text prints on additional sheet	pass
+decimal mark	fit amounts sit around one printed decimal mark; no doubled point seen	pass

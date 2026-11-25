@@ -1,0 +1,258 @@
+(To be filled up by the BIR)
+
+DLN:
+
+Republika ng Pilipinas
+Kagawaran ng Pananalapi
+Kawanihan ng Rentas Internas
+
+Remittance Return of Percentage
+Tax on Winnings and Prizes
+Withheld by Race Track Operators
+
+Fill in all applicable spaces. Mark all appropriate boxes with an “X”.
+1 For the Period (MM/DD/YYYY)
+From 0 6 1 5 2 0 2 5 To 0 6 1 5 2 0 2 5
+
+2 Amended Return?
+X Yes
+No
+
+PSIC:
+BIR Form No.
+
+1600-WP
+January 2010 (ENCS)
+
+4 Any Taxes Withheld?
+X
+No
+Yes
+
+3 No. of Sheet/s Attached
+0 0
+
+Part I
+Background Information
+5 TIN 0 0 0
+7 Category of Withholding Agent
+1 2 3
+4 5 3
+0 0 0 0 0 6 RDO Code
+0 3 9
+Private X Government
+8 Withholding Agent's Name (Last Name, First Name, Middle Name for Individuals)/(Registered Name for Non-Individuals)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+9 Registered Address
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LO
+
+11 Are there payees availing of tax relief under Special Law or
+International Tax Treaty?
+Yes
+No If yes, specify
+Part II
+Computation of Tax
+*ATC
+NATURE OF PAYMENT
+
+TAX BASE
+
+winnings from double, forecast/quinella and trifecta bets on horse races paid by
+WB 191 Tax on
+123,456.79
+Government Withholding Agent
+Tax
+on
+winnings
+or
+prizes
+paid
+to
+winners
+of
+winning
+horse
+race
+tickets
+other
+than
+double,
+forecast/
+WB 192
+quinella and trifecta bets; & owners of winning race horses paid by Government Withholding Agent 50,000.02
+Tax
+on
+winnings from double, forecast/quinella and trifecta bets on horse races paid by
+WB 193
+Private Withholding Agent
+Tax
+on
+winnings
+or prizes paid to winners of winning horse race tickets other than double, forecast/
+WB 194
+quinella and trifecta bets; and owners of winning race horses paid by Private Withholding Agent
+12 Tax Required to be Withheld and Remitted
+13 Less: Tax Remitted in Return Previously Filed, if this is an amended return
+14 Tax Still Due/(Overremittance)
+Compromise
+15 Add: Penalties
+Surcharge
+Interest
+15A 125.13
+15B 10.00
+15C 0.00
+16 Total Amount Still Due / (Overremittance)(Sum of Items 14 & 15D)
+For late filers with overremittance, extend amount of penalties (Item 15D to 16).
+To be issued a Tax Credit Certificate
+If overremittance, mark one box only:
+To be Refunded
+
+ATTACHMENT TO BIR FORM 1600-WP - ALPHABETICAL LIST OF PAYEES (FORMAT ONLY)
+FOR THE PERIOD (MM/DD/YYYY)
+WITHHOLDING
+FROM 0 6 1 5 2 0 2 5 TO 0 6 1 5 2 0 2 5 AGENT TIN: 0 0 0
+Schedule 1.1
+SEQ. NO.
+(1)
+
+123
+
+453
+
+00000
+
+TAX REQUIRED TO BE
+WITHHELD
+4% 4,938.27
+10% 5,000.00
+
+RATE
+
+4%
+10%
+
+12 9,938.27
+13 1,000.00
+14 8,938.27
+
+15D 135.13
+16 9,073.40
+Page
+
+WITHHOLDING AGENT
+NAME:
+
+ALPHABETICAL LIST OF PAYEES FROM WHOM TAXES WERE WITHHELD (Attach additional sheet/s, if necessary)
+PAYEE DETAILS
+INCOME PAYMENT/TAX WITHHELD DETAILS
+TAX
+*ATC
+TIN
+INDIVIDUAL/CORPORATION
+NATURE OF PAYMENT
+AMOUNT
+RATE
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(Including Branch Code)
+(LAST NAME, FIRST NAME,
+MIDDLE NAME FOR INDIVIDUALS
+OR REGISTERED NAME FOR
+NON-INDIVIDUALS)
+
+987654321000
+111222339000
+
+DELA CRUZ, JUAN SAMPLE
+SAMPLE STABLES INC
+
+WB191
+WB192
+
+TAX ON WINNINGS FROM DOUBLE, FORECAST/QU
+TAX ON WINNINGS OR PRIZES PAID TO WINNERS
+
+TOTAL
+
+10 Zip Code
+1 1 0 0
+
+100,000.00
+20,100.11
+
+P
+
+4.0
+10.0
+
+of
+
+TAX REQUIRED
+TO BE WITHHELD
+(8)
+
+4,000.00
+2,010.01
+0.00
+0.00
+0.00
+0.00
+P
+
+I declare, under the penalties of perjury that this return has been made in good faith, verified by me, and to the best of my knowledge and belief,
+is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof.
+17
+
+Taxpayer/Authorized Representative/Accredited Tax Agent
+
+Title/Position of Signatory
+
+Tax Agent Acc. No./Atty's Roll No. (if applicable)
+Date of Issuance
+Part III
+D e t a i l s of P a y m e n t
+Drawee Bank/
+Date
+Particulars
+Number
+Amount
+Agency
+MM DD
+YYYY
+18B
+18C
+18D
+18 Cash/ Bank 18A
+Debit Memo
+
+19 Check
+
+19A
+
+19B
+
+19C
+
+20B
+20C
+20 Others 20A
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+
+19D
+20D
+
+TIN of Signatory
+Date of Expiry
+Stamp of Receiving Office/
+AAB and Date of Receipt
+(RO's Signature/Bank
+Teller's Initial)
+
+

@@ -1,0 +1,378 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Percentage Tax Return
+
+BIR Form No.
+
+2552
+
+(For Transactions Involving Shares of Stock Listed and Traded Through the Local
+Stock Exchange (LSE) or Through Initial and/or Secondary Public Offering)
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+January 2018 (ENCS)
+Page 1
+
+2552 01/18ENCS P1
+
+2 Amended Return?
+3 Number of sheet/s attached
+(MM/DD/YYYY)
+0 3 1 4 2 0 2 5
+X Yes
+0 0 1
+No
+Part I – Background Information
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 5 RDO Code
+0 3 9
+4 Taxpayer Identification Number (TIN)
+6 Name of Stockbroker/Issuing Corporation (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+
+1 Date of Transaction or Date of Listing
+
+of Share of Stocks on the Stock Exchange
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If registered address is different from the current address, go to the RDO to update registered address by using BIR Form No.1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+1 1 0 0
+7A ZIP Code
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+8 Contact Number
+
+0 9 1 7 1 2 3 4 5 6 7
+
+10 Are you availing of tax relief under Special
+Law or International Tax Treaty?
+
+9 Email Address
+
+juana.santos.independent.print.check@example.com
+No 10A If yes, specify SPECIAL LAW SAMPLE
+X Yes
+
+11 Kinds of Transaction
+11A Shares of Stocks Listed and Traded through the LSE
+11B Initial Public Offering
+X
+12 For Initial Public Offering
+12A No. of Shares Sold, Bartered, or Exchanged
+12B Total Outstanding Shares of Stocks after Listing in the LSE
+Part II – Computation of Tax
+ATC
+13 Tax Due (From Part V Schedule 1 Item 6)
+PT 200
+14 Tax Due (From Part V Schedule 2 Item 6)
+PT 201
+15 Tax Due (From Part V Schedule 3 Item 6)
+PT 202
+16 TOTAL TAX DUE (Sum of Items 13 to 15)
+Less: Tax Credits/Payments
+17 Tax Paid in Return Previously Filed, if this is an Amended Return
+18 Creditable Tax Withheld per BIR Form No. 2307
+19 Total Tax Credits/Payments (Sum of Items 17 to 18)
+20 Total Tax Still Due/(Overpayment) (Item 16 Less Item 19)
+Add: Penalties 21 Surcharge
+22 Interest
+23 Compromise
+24 Total Penalties (Sum of Items 21 to 23)
+25 TOTAL AMOUNT PAYABLE/(OVERPAYMENT) (Sum of Items 20 and 24)
+If Overpayment, mark one box only.
+
+To be refunded
+
+To be issued Tax Credit Certificate
+
+Primary
+
+Secondary
+
+Tax Due
+1 3 4 2 2
+0
+0
+1 3 4 2 2
+
+. 0 0
+. 0 0
+. 0 0
+. 0 0
+1 0 0 . 5 0
+1 0 0 0 . 2 5
+1 1 0 1 . 0 0
+1 2 3 2 1 . 0 0
+2 5 . 5 0
+1 0 . 0 0
+0 . 0 0
+3 6 . 0 0
+1 2 3 5 7 . 0 0
+
+I/We declare, under the penalties of perjury, that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, are true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as
+contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter and indicate TIN)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Particulars
+
+26 Cash/Bank Debit Memo
+27 Check
+28 Tax Debit Memo
+
+Drawee Bank/
+Bank Code/Agency
+
+Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+29 Others (Specify below)
+
+Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+
+(MM/DD/YYYY)
+
+Amount
+
+.
+.
+.
+.
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+.
+
+Percentage Tax Return
+
+BIR Form No.
+
+2552
+
+January 2018 (ENCS)
+Page 2
+
+(For Transactions Involving Shares of Stock Listed and Traded Through the Local
+Stock Exchange (LSE) or Through Initial and/or Secondary Public Offering)
+
+Part IV – Summary of Transactions not subject to Tax (Attach additional sheet/s, if necessary)
+
+EXEMPT SAMPLE ONE
+EXEMPT SAMPLE TWO
+
+Transaction Classification
+
+2552 01/18ENCS P2
+
+Amount Involved
+
+1,000.01
+250.00
+0.00
+0.00
+0.00
+
+Part V – Details of Taxable Transactions (Attach additional sheet/s, if necessary)
+Schedule 1 – Sale, Barter or Exchange of Shares of Stock Listed and Traded Through the LSE (Attach additional sheet/s if necessary)
+Date (MM/DD/YYYY)
+Seller
+Buyer
+(a)
+(b)
+(c)
+1 03/14/2025
+SAMPLE SELLER ONE
+SAMPLE BUYER ONE
+SAMPLE SELLER TWO
+SAMPLE BUYER TWO
+2 03/14/2025
+3 03/13/2025
+SAMPLE SELLER THREE
+SAMPLE BUYER THREE
+4
+5
+Issuing Corporation
+Number of Shares
+Tax Base
+Tax Rate
+Tax Due
+(d)
+(e)
+(f)
+(g)
+(h)
+1 SAMPLE LISTED CORP
+1,000.00
+1,234,567.89 6/10 OF 1%
+7,407.00
+500.50
+1,000,000.00 6/10 OF 1%
+6,000.00
+2 SAMPLE LISTED CORP
+3 SAMPLE LISTED CORP
+75.00
+2,500.83 6/10 OF 1%
+15.00
+4
+0.00
+0.00 6/10 OF 1%
+0.00
+0.00
+0.00 6/10 OF 1%
+0.00
+5
+6 TOTAL (Sum of Items 1a to 5h) (To Part II Item 13)
+13,422.00
+Schedule 2 – Sale/Exchange of Shares of Stock through Primary Public Offering (Attach additional sheet/s if necessary)
+Date (MM/DD/YYYY)
+Seller
+Buyer
+(a)
+(b)
+(c)
+1
+2
+3
+4
+5
+Issuing Corporation
+Number of Shares
+Tax Base
+Tax Rate
+Tax Due
+(d)
+(e)
+(f)
+(g)
+(h)
+0.00
+0.00
+0%
+0.00
+1
+2
+0.00
+0.00
+0%
+0.00
+0.00
+0.00
+0%
+0.00
+3
+4
+0.00
+0.00
+0%
+0.00
+5
+0.00
+0.00
+0%
+0.00
+0.00
+6 TOTAL (Sum of Items 1h to 5h) (To Part II Item 14)
+Schedule 3 – Sale/Exchange of Shares of Stock through Secondary Public Offering (Attach additional sheet/s if necessary)
+Date (MM/DD/YYYY)
+Seller
+Buyer
+(a)
+(b)
+(c)
+1
+2
+3
+4
+5
+Issuing Corporation
+Number of Shares
+Tax Base
+Tax Rate
+Tax Due
+(d)
+(e)
+(f)
+(g)
+(h)
+1
+0.00
+0.00
+0%
+0.00
+0.00
+0.00
+0%
+0.00
+2
+3
+0.00
+0.00
+0%
+0.00
+0.00
+0.00
+0%
+0.00
+4
+5
+0.00
+0.00
+0%
+0.00
+6 TOTAL (Sum of Items 1h to 5h) (To Part II Item 15)
+0.00
+Part VI – Details of Transactions not Subject to Percentage Tax (Attach additional sheet/s, if necessary)
+Date (MM/DD/YYYY)
+Seller
+Buyer
+Issuing Corporation
+Number of Shares
+(a)
+(b)
+(c)
+(d)
+(d)
+1 03/12/2025
+SAMPLE SELLER SIX
+SAMPLE BUYER SIX
+OTHER SAMPLE CORP
+42.00
+0.00
+2
+3
+0.00
+0.00
+4
+5
+0.00
+
+

@@ -1,0 +1,250 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Quarterly Remittance Return
+
+BIR Form No.
+
+1601-EQ
+January 2019 (ENCS)
+Page 1
+
+1 For the Year
+2 0 2 5
+
+of Creditable Income Taxes Withheld (Expanded)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+2 Quarter
+X 1st
+
+1601-EQ 01/19ENCS P1
+
+3 Amended Return?
+4 Any Taxes Withheld? 5 No. of Sheet/s Attached
+3rd
+4th
+Yes X No
+No
+X Yes
+0 0
+Part I – Background Information
+0 0 0 / 1 2 3 / 4 5 3 / 0 0 0 0 0 7 RDO Code
+0 3 9
+
+2nd
+
+6 Taxpayer Identification Number (TIN)
+8 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+
+9 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+1 1 0 0
+9A ZIP Code
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+10 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+11 Category of Withholding Agent
+Government
+X Private
+12 Email Address juana.santos.independent.print.check@example.com
+Part II – Computation of Tax
+ATC
+Tax Base (Consolidated for the Quarter)
+Tax Rate
+Tax Withheld (Consolidated for the Quarter)
+13 W I 0 1 0
+1 2 3 4 5 6 ● 7 9
+5%
+6 1 7 2 ● 8 4
+1 0 0 0 ● 0 1
+5 0 ● 0 0
+14 W I 1 0 0
+5%
+1 0 0 0 ● 0 0
+2%
+2 0 ● 0 0
+15 W I 1 2 0
+16 W I 1 5 7
+5 0 0 0 0 ● 0 0
+2%
+1 0 0 0 ● 0 0
+17 W I 1 5 8
+2 5 0 0 0 0 ● 0 0
+1%
+2 5 0 0 ● 0 0
+18 W I 1 6 0
+1 2 3 4 5 ● 6 8
+2%
+2 4 6 ● 9 1
+2 0 3 8 7 ● 2 8
+19 Total Taxes Withheld for the Quarter (Sum of Items 13 to 18)
+20 Less: Remittances Made: 1st Month of the Quarter
+1 0 0 0 ● 0 0
+nd
+2 0 0 0 ● 5 1
+21
+2 Month of the Quarter
+0 ● 0 0
+22
+Tax Remitted in Return Previously Filed, if this is an amended return
+23
+Over-remittance from Previous Quarter of the same taxable year
+0 ● 0 0
+24
+Other Payments Made (please attach proof of payments – BIR Form No. 0605)
+●
+25 Total Remittances Made (Sum of Items 20 to 24)
+3 0 0 0 ● 5 1
+1 7 3 8 6 ● 7 7
+26 Tax Still Due/(Over-remittance) (Item 19 Less Item 25)
+Add: Penalties 27 Surcharge
+2 5 ● 5 0
+28 Interest
+1 0 ● 0 0
+0 ● 0 0
+29 Compromise
+30 Total Penalties (Sum of Items 27 to 29)
+3 5 ● 5 0
+31 TOTAL AMOUNT STILL DUE/(Over-remittance) (Sum of Items 26 and 30)
+1 7 4 2 2 ● 2 7
+If over-remittance, mark one (1) box only
+
+To be refunded
+
+To be issued Tax Credit Certificate
+
+To be carried over to the next quarter within the same
+calendar year (not applicable for succeeding year)
+
+I/We declare under the penalties of perjury that this remittance form, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is
+true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the
+processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No./
+Attorney’s Roll No. (if applicable)
+
+Drawee Bank/Agency
+Particulars
+32 Cash/Bank Debit Memo
+33 Check
+34 Tax Debit Memo
+
+Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+
+(MM/DD/YYYY)
+
+Part III – Details of Payment
+Number
+Date (MM/DD/YYYY)
+
+35 Others (specify below)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+BIR Form No.
+
+1601-EQ
+January 2019 (ENCS)
+Page 2
+
+Quarterly Remittance Return
+
+of Creditable Income Taxes Withheld (Expanded)
+
+1601-EQ 01/19ENCS P2
+
+TIN
+Withholding Agent’s Name (Last Name for Individual OR Registered Name for Non-Individual)
+JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS,
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+
+Quarterly Remittance Return
+
+BIR Form No.
+
+1601-EQ
+January 2019 (ENCS)
+Add'l Sheet
+
+1 For the Year
+2 0 2 5
+
+ATC
+7 W C 0 1 0
+8 W C 1 6 0
+
+of Creditable Income Taxes Withheld (Expanded)
+
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+
+2 Quarter
+X 1st
+
+2nd
+
+3rd
+
+4th
+
+3 Amended Return?
+Yes X No
+
+Part II – Computation of Tax
+Tax Base (Consolidated for the Quarter)
+Tax Rate
+
+4 Any Taxes Withheld?
+No
+X Yes
+
+1601-EQ 01/19ENCS P1
+
+5 No. of Sheet/s Attached
+0 0
+
+Tax Withheld (Consolidated for the Quarter)
+
+

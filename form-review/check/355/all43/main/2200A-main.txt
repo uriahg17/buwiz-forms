@@ -1,0 +1,743 @@
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+For BIR BCS/
+Use Only Item:
+BIR Form No
+
+EXCISE TAX RETURN
+2200-A
+for Alcohol Products
+January 2020 (ENCS)
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+
+Page 1
+boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.
+1 Date (MM/DD/YYYY) 0 3 / 1 4 / 2 0 2 5 2 Amended Return?
+Yes X No
+
+Part I – Background Information
+
+2200-A 01/20ENCS P1
+3 Number of Sheet/s Attached 0 1
+
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 5 RDO Code
+4 Taxpayer Identification Number (TIN)
+6 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+
+0 3 9
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+7 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI
+
+8 Contact Number (landline/cellphone no.) 9 Email Address
+
+7A ZIP Code
+
+1 1 0 0
+
+09171234567 juana.santos.independent.print.check@example.com
+
+10 Place of Production
+Region
+Province
+
+City
+
+1 3 0 0 0 0 0 0 0
+
+1 3 7 4 0 0 0 0 0
+
+1 3 7 4 0 3 0 0 0
+
+0 4 0 0 0 0 0 0 0
+
+0 4 2 1 0 0 0 0 0
+
+0 4 2 1 0 3 0 0 0
+
+11 Place of Removal
+Region
+Province
+
+City
+
+12 Are you availing of tax relief under Special Law or 12A If yes, specify
+International Tax Treaty? X Yes
+No S A M P L E
+13
+15
+
+R E L I E F
+
+Part II – Manner of Payment
+
+X
+
+14
+Payment on Actual Removal
+Other Similar Schemes (specify) S A M P L E
+
+L A W
+
+Prepayment / Advance Deposit
+
+S C H E M E
+
+Part III – Payments and Application
+
+16 Excise Tax Due (from Part V - Schedule 1)
+17 Less: 17A Balance Carried Over from Previous Return
+17B Creditable Excise Tax, if applicable
+17C Total (Sum of Items 17A and 17B)
+18 Net Tax Due/(Overpayment) (Item 16 less Item 17C)
+19 Less: Payment on Returns Previously Filed for the Same Period, if amended return
+20 Tax Still Due/(Overpayment) (Item 18 less Item 19)
+21 Add: Penalties 21A Surcharge
+21B Interest
+21C Compromise
+21D Total Penalties (Sum of Items 21A to 21C)
+22 Amount Payable/(Overpayment) (Sum of Items 20 and 21D)
+23 Less: Payment Made Today 23A Tax Payment/Deposit
+23B Penalties (from Item 21D)
+23C Total Payment Made Today (Sum of Items 23A & 23B)
+24 Balance to be Carried Over to Next Return (Item 22 less Item 23C)
+
+8 7 4 5
+1 0 0
+2 3
+1 2 3
+8 6 2 1
+8 6 2 1
+2
+1
+1 0 0
+1 0 3
+8 7 2 5
+8 6 3 1
+1 0 3
+8 7 3 5
+- 1 0
+
+1
+0
+4
+4
+6
+0
+6
+5
+0
+0
+5
+2
+6
+5
+2
+0
+
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+
+5
+0
+5
+5
+9
+0
+9
+5
+0
+0
+5
+4
+9
+5
+4
+0
+
+I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct,
+pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information
+as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+
+For Individual:
+
+For Non-Individual:
+
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+
+Tax Agent Accreditation No.
+Attorney’s Roll No. (if applicable)
+
+Particulars
+
+25 Cash/Bank Debit Memo
+26 Check
+27 Tax Debit Memo
+28 Others
+
+Drawee Bank/Agency
+
+Signature over Printed Name of President/Vice President/Authorized Officer or
+Representative/Tax Agent (Indicate Title/Designation and TIN)
+
+Date of Issue
+(DD/MM/YYYY)
+
+Part IV – Details of Payment
+
+Number
+
+Date (MM/DD/YYYY)
+
+(specify)
+
+Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+
+Date of Expiry
+(MM/DD/YYYY)
+
+Amount
+●
+●
+●
+
+●
+
+Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+
+6
+0
+7
+7
+9
+0
+9
+0
+0
+0
+0
+9
+9
+0
+9
+0
+
+BIR Form No
+
+2200-A
+
+January 2020 (ENCS)
+Page 2
+
+EXCISE TAX RETURN
+for Alcohol Products
+
+TIN
+
+2200-A 01/20ENCS P2
+
+Taxpayer’s Name
+
+00012345300000SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Part V - Schedule
+Schedule 1 – Summary of Removals and Excise Tax Due on Alcohol Products Chargeable Against Payment
+ATC
+
+XA035
+
+XA036
+
+XA061
+
+XA062
+
+XA070
+
+XA080
+
+XA090
+
+XA055
+
+Description
+
+1.) Distilled Spirits
+a.) Ad Valorem Tax Rate based on the Net Retail
+Price (NRP) per proof [excluding the excise and
+value-added taxes (VAT)]
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+b.) In addition to Ad Valorem Tax, a Specific Tax
+per proof of liter
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+2.) Wines
+a.) Sparkling wines/champagnes where the NRP
+(excluding the excise and VAT) per bottle of
+750 ml volume capacity, regardless of proof is:
+Php 500.00 or less
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+More than Php 500.00
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+b.) Still wines and carbonated wines containing 14%
+of alcohol by volume or less
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+c.) Still wines and carbonated wines containing
+more than 14% of alcohol by volume but not
+more than 25% of alcohol by volume
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+d.) Fortified wines containing more than 25% of
+alcohol by volume
+Effective January 1, 2020
+Effective January 23, 2020
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+3.) Fermented Liquors
+a.) If the NRP (excluding the excise and VAT) per
+liter of volume capacity is:
+Php 50.60 and below
+Effective January 1, 2020
+Effective January 23, 2020
+Effective
+2021
+Effective January
+January 1,
+1, 2022
+2023
+Effective January 1, 2024
+
+Tax Bracket/ Applicable Tax Base (Value/Volume of Removal) Basic Excise
+Tax Due
+Unit of Measure Tax Rate Export/Exempt
+Taxable
+
+NRP Per Proof
+
+Per Proof Liter
+
+Per Liter
+
+Per Liter
+
+Per Liter
+
+Per Liter
+
+Per Proof Liter
+
+Per Liter
+
+20%
+22%
+22%
+22%
+22%
+22%
+
+0.00
+0.00
+0.00
+0.00
+0.00
+50.00
+
+0.00
+1,234.56
+0.00
+0.00
+0.00
+10,000.13
+
+0.00
+259.26
+0.00
+0.00
+0.00
+2,200.03
+
+24.34
+42.00
+47.00
+52.00
+59.00
+66.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+1,234.57
+
+0.00
+0.00
+0.00
+0.00
+0.00
+81,481.62
+
+328.98
+50.00
+53.00
+56.18
+59.55
+63.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+921.15
+50.00
+53.00
+56.18
+59.55
+63.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+39.48
+50.00
+53.00
+56.18
+59.55
+63.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+78.96
+50.00
+53.00
+56.18
+59.55
+63.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+Taxed as
+distilled spirits
+
+50.00
+53.00
+56.18
+59.55
+63.12
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+26.43
+35.00
+37.00
+39.00
+41.00
+43.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+
+0.00
+
+0.00
+
+BIR Form No
+
+EXCISE TAX RETURN
+
+2200-A
+
+for Alcohol Products
+
+January 2020 (ENCS)
+Page 3
+
+TIN
+
+2200-A 01/20ENCS P3
+
+Taxpayer’s Name
+
+00012345300000SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+Schedule 1 – continuation
+ATC
+
+Description
+
+Php 50.60 and below
+Effective January 1, 2020
+Effective January 23, 2020
+XA056
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+b.) If brewed and sold at microbreweries or small
+establishments such as pubs and restaurants,
+regardless of the NRP
+Effective January 1, 2020
+Effective January 23, 2020
+XA057
+Effective January 1, 2021
+Effective January 1, 2022
+Effective January 1, 2023
+Effective January 1, 2024
+4.) Others (specify)
+XA 999 SAMPLE OTHER PRODUCT
+XA
+XA
+TOTAL TAX DUE (To Part III, Item 16)
+
+Tax Bracket/ Applicable Tax Base (Value/Volume of Removal) Basic Excise
+Tax Due
+Unit of Measure Tax Rate Export/Exempt
+Taxable
+Per Liter
+
+Per Liter
+
+PER LITER
+
+5.5
+
+26.43
+35.00
+37.00
+39.00
+41.00
+43.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+99.99
+0.00
+0.00
+0.00
+0.00
+
+0.00
+3,499.65
+0.00
+0.00
+0.00
+0.00
+
+36.85
+35.00
+37.00
+39.00
+41.00
+43.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+
+0.00
+0.00
+0.00
+
+2.00
+0.00
+0.00
+
+11.00
+0.00
+0.00
+87,451.56
+
+

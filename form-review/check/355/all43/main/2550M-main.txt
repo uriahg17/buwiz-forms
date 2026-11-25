@@ -1,0 +1,451 @@
+(To be filled up by the BIR)
+DLN:
+Republika ng Pilipinas
+Kagawaran ng Pananalapi
+
+2550M
+PSIC:
+BIR Form No.
+
+Monthly Value-Added Tax
+Kawanihan ng Rentas Internas
+Declaration
+
+Fill in all applicable spaces. Mark all appropriate boxes with an “X”.
+1 For the Month of
+(MM/YYYY)
+0 6 2 0 2 2
+
+3
+2 Amended
+X
+Return
+Yes
+No
+Background Information
+5 RDO
+6 Line of Business
+0 0 0 1 2 3 4 5 3 0 0 0 0 0
+Code 0 3 9
+7 Taxpayer's Name (For Individual)Last Name, First Name, Middle Name/(For Non-individual) Registered Name
+Part I
+4 TIN
+
+February 2007 (ENCS)
+
+Number of sheets
+attached
+
+0
+
+INDEPENDENT PRINT LAYOUT VERIFICATION SERVICES AND CONSULT
+
+8 Telephone Number
+
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTIN
+
+9 Registered Address
+
+09171234567
+
+10 Zip Code
+
+1 1 0 0
+
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LOR
+
+11
+Part II
+
+Are you availing of tax relief under Special Law
+or International Tax Treaty?
+
+Yes
+
+X
+
+No
+
+If yes, specify
+
+Computation of Tax (Attach additional sheets, if necessary)
+Sales/Receipts for the Month (Exclusive of VAT)
+
+Output Tax Due for the Month
+12A 0.00
+12 Vatable Sales/Receipt- Private (Sch.1)
+12B 0.00
+13A 250,000.01
+13 Sales to Government
+13B 30,000.00
+14 40,000.00
+14 Zero Rated Sales/Receipts
+15 12,345.67
+15 Exempt Sales/Receipts
+16A 302,345.68
+16 Total Sales/Receipts and Output Tax Due
+16B 30,000.00
+17
+Less: Allowable Input Tax
+17A 1,500.25
+17A Input Tax Carried Over from Previous Period
+17B 0.00
+17B Input Tax Deferred on Capital Goods Exceeding P1Million from Previous Period
+17C 99.99
+17C Transitional Input Tax
+17D 0.00
+17D Presumptive Input Tax
+17E 0.00
+17E Others
+17F 1,600.24
+17F Total (Sum of Item 17A,17B,17C,17D &17E)
+18
+Current Transactions
+Purchases
+18A 0.00
+18B 0.00
+18A/B Purchase of Capital Goods not exceeding P1Million (see sch.2)
+18C 0.00
+18D 0.00
+18C/D Purchase of Capital Goods exceeding P1Million (see sch.3)
+18F 2,400.00
+18E/F Domestic Purchases of Goods Other than Capital Goods 18E 20,000.00
+18G 8,888.88
+18H 1,066.67
+18G/H Importation of Goods Other than Capital Goods
+18 I 3,333.33
+18J 400.00
+18I/J Domestic Purchase of Services
+18K 1,000.00
+18L 120.00
+18K/L Services rendered by Non-residents
+18M 500.00
+18M Purchases Not Qualified for Input Tax
+18N 777.77
+18O 93.33
+18N/O Others
+18P Total Current Purchases (Sum of Item 18A,18C,18E,18G,18I,18K,18M&18N) 18P 34,499.98
+19 Total Available Input Tax (Sum of Item 17F,18B,18D,18F,18H,18J,18L & 18O)
+19 5,680.24
+20 Less: Deductions from Input Tax
+20A Input Tax on Purchases of Capital Goods exceeding P1Million
+deferred for the succeeding period (Sch.3)
+20A 0.00
+20B 1,492.24
+20B Input Tax on Sale to Govt. closed to expense (Sch.4)
+20C 112.25
+20C Input Tax allocable to Exempt Sales (Sch.5)
+20D 10.00
+20D VAT Refund/TCC claimed
+20E Others
+20E 0.00
+20F 1,614.49
+20F Total (Sum of Item 20A,20B,20C,20D & 20E )
+21 Total Allowable Input Tax (Item19 less Item 20F)
+21 4,065.75
+22 Net VAT Payable (Item 16B less Item 21)
+22 25,934.25
+23
+Less: Tax Credits/Payments
+23A 0.00
+23A Creditable Value-Added Tax Withheld (Sch. 6)
+23B 0.00
+23B Advance Payments for Sugar and Flour Industries (Sch.7)
+23C 0.00
+23C VATwithheld on Sales to Government (Sch.8)
+23D 1,000.00
+23D VAT paid in return previously filed, if this is an amended return
+23E 200.00
+23E Advance Payments made (please attach proof of payments - BIR Form No. 0605)
+23F 0.00
+23F Others
+23G 1,200.00
+23G Total Tax Credits/Payments (Sum of Item 23A,23B,23C, 23D, 23E & 23F)
+24 Tax Still Payable/(Overpayment) (Item 22 less Item 23G)
+24 24,734.25
+25 Add: Penalties
+Surcharge
+Interest
+Compromise
+25A 25.50
+25B 10.00
+25C 0.00
+25D 35.50
+26 Total Amount Payable/(Overpayment) (Sum of Item 24 and 25D)
+26 24,769.75
+I declare, under the penalties of perjury, that this return has been made in good faith, verified by me, and to the best of my knowledge, and belief,
+is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof.
+27
+28
+President/Vice President/Principal Officer/Accredited Tax Agent/
+Treasurer/Assistant Treasurer
+Authorized Representative/Taxpayer
+(Signature Over Printed Name)
+
+Title/Position of Signatory
+
+TIN of Signatory
+
+Tax Agent Acc. No./Atty's Roll No.(if applicable)
+
+Part III
+Particulars
+
+29 Cash/Bank 29A
+
+Drawee Bank/
+Agency
+
+29B
+
+(Signature Over Printed Name)
+
+Date of Issuance
+
+Number
+
+Date of Expiry
+
+Details of Payment
+Date
+MM
+DD YYYY
+
+TIN of Signatory
+
+29C
+
+29D
+
+30C
+31B
+
+30D
+31C
+
+Debit Memo................................................................................…………………
+
+30B
+31
+Debit30A
+30 Tax
+Check
+31A
+Memo ............………………..
+32B
+32 Others 32A
+
+Title/Position of Signatory
+
+Amount
+
+32C
+32D
+Machine Validation (if filed with an accredited agent bank)/Revenue Official Receipt Details (If not filed with an Authorized Agent Bank)
+
+Stamp of
+Receiving Office/AAB
+and Date of Receipt
+(RO'sTeller's
+Signature/
+Bank
+Initial)
+
+Schedule 1
+
+BIR Form 2550M - February 2007 (ENCS)
+Page 2
+Schedule of Sales/Receipts and Output Tax (Attach additional sheet, if necessary)
+Amount of Sales/Receipts
+Output Tax
+Industries Covered by VAT
+ATC
+For the Period
+For the Period
+
+0.00
+0.00
+To Item 12A/B
+Schedule 2 Purchases/Importation of Capital Goods (Aggregate Amount Not Exceeding P1 Million) (Attach additional sheet, if necessary)
+Date
+Amount
+Description
+Input Tax
+Purchased
+(Net of VAT)
+(A)
+(B)
+(C)
+(D)
+
+0.00
+0.00
+Total (To Item 18A/B)
+Schedule 3 Purchases/Importation of Capital Goods (Aggregate Amount Exceeds P1 Million) (Attach additional sheet, if necessary)
+A) Purchases/Importations This Period
+Recognized Life
+Allowable Input Balance of Input Tax
+Tax for the Period
+to be carried to
+Date
+Amount
+Input Tax
+(In Months)
+Est. Life
+Description
+(in months) Useful life or 60 mos.
+(Cx10%)
+(Net of VAT)
+(D) divided by (F)
+Next Period
+Purchased
+(whichever is shorter)
+(D) less (G)
+(A)
+(B)
+(C )
+(E)
+(F)
+(G)
+(H)
+(D)
+
+0.00
+Total (To Item 18C/D)
+B) Purchases/Importations Previous Period
+
+0.00
+
+Date
+Purchased
+
+Description
+
+Amount
+(Net of VAT)
+
+(A)
+
+(B)
+
+(C )
+
+0.00
+
+Allowable Input Balance of Input Tax
+Balance of Input Est. Life Recognized Life (In Tax
+for the Period
+to be carried to
+Tax from (in months)
+Months)
+(D) divided by (F)
+Next Period
+Previous Period
+Remaining Life
+(D) less (G)
+(E)
+(F)
+(G)
+(H)
+(D)
+
+Total
+C) Total Input Tax Deferred for future period from current and previous purchases (To Item 20A)
+Input Tax Attributable to Sale to Government
+Schedule 4
+Input Tax directly attributable to sale to government
+Add: Ratable portion of Input Tax not directly attributable
+to any activity:
+Taxable sales to government
+of Input Tax not
+x Amount
+Total Sales
+directly attributable
+Total Input Tax attributable to sale to government
+Less: Standard Input Tax to sale to government
+Input Tax on Sale to Govt. closed to expense (To Item 20B)
+Input Tax Attributable to Exempt Sales
+Schedule 5
+Input Tax directly attributable to exempt sale
+Add: Ratable portion of Input Tax not directly attributable
+to any activity:
+Taxable exempt sale
+of Input Tax not
+x Amount
+Total Sales
+directly attributable
+Total Input Tax attributable to exempt sale (To Item 20C)
+Tax Withheld Claimed as Tax Credit (Attach additional sheets, if necessary)
+Schedule 6
+Period
+Name of Withholding Agent
+Income Payment
+Total Tax Withheld
+Covered
+
+Total (To Item 23A)
+Schedule 7
+Period
+Name of Miller
+Covered
+
+Total (To Item 23B)
+Schedule
+Period8
+Covered
+
+Total (To Item 23C)
+
+0.00
+
+18,000.00
+
+992.24
+18,992.24
+17,500.00
+1,492.24
+100.00
+
+12.25
+112.25
+
+Applied
+Current mo.
+
+Applied
+Current mo.
+
+0.00
+
+Name of Withholding
+Income
+Payment (Attach additional
+Total Taxsheets,
+Withheld
+VATAgent
+Withheld on Sales
+to Government
+if necessary)
+
+0.00
+
+0.00
+
+0.00
+
+Schedule of Advance Payment (Attach additional sheets, if necessary)
+Name of Taxpayer
+Amount Paid
+Official Receipt
+Number
+
+0.00
+
+0.00
+
+0.00
+
+Applied
+Current mo.
+
+

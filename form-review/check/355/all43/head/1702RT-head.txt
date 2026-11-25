@@ -1,0 +1,464 @@
+For BIR BCS/
+Use Only: Item:
+BIR Form No.
+
+1702-RT
+January 2018 (ENCS)
+Page 1
+
+Republic of the Philippines
+Department of Finance
+Bureau of Internal Revenue
+
+Annual Income Tax Return
+
+Corporation, Partnership and Other Non-Individual Taxpayer
+Subject Only to REGULAR Income Tax Rate
+
+Enter all required information in CAPITAL LETTERS. Mark applicable boxes with an “X”.
+Two copies MUST be filed with the BIR and one held by the taxpayer.
+
+1702-RT 01/18ENCS P1
+
+1 For X Calendar Fiscal 3 Amended Return? 4 Short Period Return? 5 Alphanumeric Tax Code (ATC)
+IC 055
+Minimum Corporate Income Tax (MCIT)
+X
+2 Year Ended (MM/20YY)
+Yes X No
+Yes X No
+1 2 /20 2 5
+Part I – Background Information
+6 Taxpayer Identification Number (TIN)
+0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 7 RDO Code 0 3 9
+8 Registered Name (Enter only 1 letter per box using CAPITAL LETTERS)
+S A M P L E
+D U M M Y
+T A X P A Y E R
+
+9 Registered Address (Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+1 2 3
+S A M P L E
+S T R E E T ,
+B A R A N G A Y
+E X A M P L E ,
+Q U E Z O N
+C I T Y
+9A ZIP Code 1 1 0 0
+10 Date of Incorporation/Organization 0 1 / 1 5 / 2 0 2 0 11 Contact Number 0 9 1 7 1 2 3 4 5 6 7
+(MM/DD/YYYY)
+12 Email Address
+juana.santos.independent.print.check@example.com
+Optional Standard Deduction (OSD) – 40% of Gross Income
+13 Method of Deductions X Itemized Deductions [Section 34 (A-J), NIRC]
+[Section 34(L) NIRC, as amended]
+Part II – Total Tax Payable
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+14 Tax Due (From Part IV Item 43)
+4 8 2 3 7 5
+15 Less: Total Tax Credits/Payments (From Part IV Item 55)
+3 8 9 0 0 0
+16 Net Tax Payable / (Overpayment) (Item 14 Less Item 15) (From Part IV Item 56)
+9 3 3 7 5
+Add: Penalties
+17 Surcharge
+2 3 3 4 3
+18 Interest
+4 0 0 0
+19 Compromise
+1 0 0 0
+2 8 3 4 3
+20 Total Penalties (Sum of Items 17 to 19)
+1 2 1 7 1 8
+21 TOTAL AMOUNT PAYABLE / (Overpayment) (Sum of Items 16 and 20)
+If overpayment, mark one (1) box only. (Once the choice is made, the same is irrevocable)
+To be refunded
+To be issued a Tax Credit Certificate (TCC)
+To be carried over as tax credit for next year/quarter
+We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, are true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. (If signed by an Authorized Representative, indicate TIN and
+attach authorization letter)
+
+Signature over Printed Name of President/Principal Officer/ Authorized Representative Signature over Printed Name of Treasurer/ Assistant Treasurer
+Title of Signatory PRESIDENT
+TIN 123456788000
+Title of Signatory
+TIN
+
+Part III – Details of Payment
+Drawee Bank/Agency
+Particulars
+Number
+Date (MM/DD/YYYY)
+23 Cash/Bank Debit Memo SAMPLE BANK 1 2 3 4 5
+0 4 1 5 2 0 2 6
+24 Check
+25 Tax Debit Memo
+26 Others (specify below)
+if not filed with an Authorized Agent Bank (AAB)]
+
+Machine Validation/Revenue Official Receipt Details [
+
+22 Number of
+Attachments
+0 0 0
+
+Amount
+1 2 1 7 1 8
+0
+0
+Stamp of Receiving Office/AAB and Date of
+Receipt (RO’s Signature/Bank Teller’s Initial)
+
+0
+
+BIR Form No.
+
+1702-RT
+January 2018 (ENCS)
+Page 2
+
+Annual Income Tax Return
+
+Corporation, Partnership and Other Non-Individual Taxpayer
+Subject Only to REGULAR Income Tax Rate
+
+1702-RT 01/18ENCS P2
+
+Taxpayer Identification Number (TIN)
+RegisteredJUANA
+Name MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+SANTOS,
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part IV – Computation of Tax
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+27 Sales/Receipts/Revenues/Fees
+8 5 0 0 0 0 0
+28 Less: Sales Returns, Allowances and Discounts
+1 2 5 0 0 0
+8 3 7 5 0 0 0
+29 Net Sales/Receipts/Revenues/Fees (Item 27 Less Item 28)
+4 2 0 0 0 0 0
+30 Less: Cost of Sales/Services
+4 1 7 5 0 0 0
+31 Gross Income from Operation (Item 29 Less Item 30)
+32 Add: Other Taxable Income Not Subjected to Final Tax
+7 5 5 0 0
+33 Total Taxable Income (Sum of Items 31 and 32)
+4 2 5 0 5 0 0
+Less: Deductions Allowable under Existing Law
+2 1 2 1 0 0 0
+34 Ordinary Allowable Itemized Deductions (From Part VI Schedule I Item 18)
+35 Special Allowable Itemized Deductions (From Part VI Schedule II Item 5)
+5 0 0 0 0
+[Only
+for
+those
+taxable
+under
+Sec.
+27
+(A
+to
+C);
+Sec.
+28(A)(1)(A)(6)(b)
+of
+the
+Tax
+Code,
+as
+amended]
+36 N O L C O (From Part VI Schedule III Item 8)
+1 5 0 0 0 0
+37 Total Deductions (Sum of Items 34 to 36)
+2 3 2 1 0 0 0
+OR [in case taxable under Sec 27(A) & 28(A)(1)]
+38 Optional Standard Deduction (OSD) (40% of Item 33)
+0
+39 Net Taxable Income/(Loss) (If Itemized: Item 33 Less Item 37; If OSD: Item 33 Less Item 38)
+1 9 2 9 5 0 0
+2 5 %
+40 Applicable Income Tax Rate
+41 Income Tax Due other than Minimum Corporate Income Tax (MCIT) (Item 39 x Item 40)
+4 8 2 3 7 5
+42 MCIT Due (2% of Item 33)
+8 5 0 1 0
+43 Tax Due (Normal Income Tax Due in Item 41 OR the MCIT Due in Item 42, whichever is higher) (To Part II Item 14)
+4 8 2 3 7 5
+Less: Tax Credits/Payments (attach proof)
+44 Prior Year’s Excess Credits other than MCIT
+1 0 0 0 0
+45 Income Tax Payment under MCIT from Previous Quarter/s
+0
+46 Income Tax Payment under Regular/Normal Rate from Previous Quarter/s
+3 0 0 0 0 0
+47 Excess MCIT Applied this Current Taxable Year (From Part VI Schedule IV Item 4)
+2 0 0 0 0
+4 0 0 0 0
+48 Creditable Tax Withheld from Previous Quarter/s per BIR Form No. 2307
+1 5 5 0 0
+49 Creditable Tax Withheld per BIR Form No. 2307 for the 4th Quarter
+50 Foreign Tax Credits, if applicable
+0
+51 Tax Paid in Return Previously Filed, if this is an Amended Return
+0
+52 Special Tax Credits (To Part V Item 58)
+1 0 0 0
+Other Tax Credits/Payments (specify)
+C R E D I T
+2 5 0 0
+53 O T H E R
+54
+0
+55 Total Tax Credits/Payments (Sum of Items 44 to 54) (To Part II Item 15)
+3 8 9 0 0 0
+9 3 3 7 5
+56 Net Tax Payable / (Overpayment) (Item 43 Less Item 55) (To Part II Item 16)
+Part V – Tax Relief Availment
+1 2 5 0 0
+57 Special Allowable Itemized Deductions (Item 35 of Part IV x Applicable Income Tax Rate)
+58 Add: Special Tax Credits (From Part IV Item 52)
+1 0 0 0
+1 3 5 0 0
+59 Total Tax Relief Availment (Sum of Items 57 and 58)
+
+BIR Form No.
+
+1702-RT
+January 2018 (ENCS)
+Page 3
+
+Annual Income Tax Return
+
+Corporation, Partnership and Other Non-Individual Taxpayer
+Subject Only to REGULAR Income Tax Rate
+
+1702-RT 01/18ENCS P3
+
+Taxpayer Identification Number (TIN)
+Registered Name
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Part VI – Schedules
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+Schedule I – Ordinary Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+1 Amortizations
+0
+2 Bad Debts
+0
+3 Charitable and Other Contributions
+0
+4 Depletion
+0
+5 Depreciation
+1 2 0 0 0 0
+6 Entertainment, Amusement and Recreation
+0
+7 Fringe Benefits
+0
+8 Interest
+0
+0
+9 Losses
+10 Pension Trusts
+0
+11 Rental
+3 6 0 0 0 0
+12 Research and Development
+0
+13 Salaries, Wages and Allowances
+1 5 0 0 0 0 0
+14 SSS, GSIS, Philhealth, HDMF and Other Contributions
+0
+15 Taxes and Licenses
+4 5 2 5 0
+0
+16 Transportation and Travel
+17 Others (Deductions Subject to Withholding Tax and Other Expenses) [Specify below; Add additional sheet(s), if necessary]
+a Janitorial and Messengerial Services
+0
+b Professional Fees
+8 0 0 0 0
+c Security Services
+0
+S U P P L I E S
+1 5 7 5 0
+d O F F I C E
+0
+e
+0
+f
+g
+0
+h
+0
+i
+0
+18 Total Ordinary Allowable Itemized Deductions (Sum of Items 1 to 17i) (To Part IV Item 34)
+2 1 2 1 0 0 0
+Schedule II – Special Allowable Itemized Deductions (attach additional sheet/s, if necessary)
+Description
+Legal Basis
+Amount
+1 SPECIAL DEDUCTION
+R A
+9 9 9 9
+5 0 0 0 0
+0
+2
+0
+3
+4
+0
+5 Total Special Allowable Itemized Deductions (Sum of Items 1 to 4) (To Part IV Item 35)
+5 0 0 0 0
+
+BIR Form No.
+
+1702-RT
+January 2018 (ENCS)
+Page 4
+
+Annual Income Tax Return
+
+Corporation, Partnership and Other Non-Individual Taxpayer
+Subject Only to REGULAR Income Tax Rate
+
+1702-RT 01/18ENCS P4
+
+Taxpayer Identification Number (TIN)
+Registered Name
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Schedule III – Computation of Net Operating Loss Carry Over (NOLCO)
+1 Gross Income (From Part IV Item 33)
+0
+2 Less: Ordinary Allowable Itemized Deductions (From Part VI Schedule I Item 18)
+0
+0
+3 Net Operating Loss (Item 1 Less Item 2) (To Schedule IIIA, Item 7A)
+Schedule IIIA - Computation of Available Net Operating Loss Carry Over (NOLCO)
+(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)
+Net Operating Loss
+B) NOLCO Applied Previous Year/s
+Year Incurred
+A) Amount
+4
+0
+0
+5
+2 0 2 3
+3 0 0 0 0 0
+1 0 0 0 0 0
+0
+0
+6
+7
+0
+0
+Continuation of Schedule IIIA (Item numbers continue from table above)
+E) Net Operating Loss (Unapplied)
+C) NOLCO Expired
+D) NOLCO Applied Current Year
+[ E = A Less (B + C + D) ]
+0
+0
+0
+4
+5
+0
+1 5 0 0 0 0
+5 0 0 0 0
+6
+0
+0
+0
+7
+0
+0
+0
+8 Total NOLCO (Sum of Items 4D to 7D) (To Part IV, Item 36)
+1 5 0 0 0 0
+Schedule IV – Computation of Minimum Corporate Income Tax (MCIT)
+Year
+A) Normal Income Tax as Adjusted
+B) MCIT
+C) Excess MCIT over Normal Income Tax
+1 2 0 2 3
+5 0 0 0 0
+7 0 0 0 0
+2 0 0 0 0
+2
+0
+0
+0
+3
+0
+0
+0
+Continuation of Schedule IV (Item numbers continue from table above)
+G) Balance of Excess MCIT Allowable
+D) Excess MCIT Applied/
+E) Expired Portion of
+F) Excess MCIT Applied this
+as Tax Credit for Succeeding Year/s
+Used in Previous Years
+Excess MCIT
+Current Taxable Year
+[ G = C Less (D + E + F) ]
+
+1
+0
+0
+2 0 0 0 0
+2
+0
+0
+0
+3
+0
+0
+0
+4 Total Excess MCIT Applied (Sum of Items 1F to 3F) (To Part IV Item 47)
+2 0 0 0 0
+Schedule V – Reconciliation of Net Income per Books Against Taxable Income (attach additional sheet/s, if necessary)
+1 Net Income/(Loss) per Books
+1 8 0 0 0
+Add: Non-Deductible Expenses/Taxable Other Income
+2 N O N - D E D U C T I B L E
+E X P E N S E S
+1 7 9 5
+3
+4 Total (Sum of Items 1 to 3)
+1 9 7 9 5
+Less: A) Non-Taxable Income and Income Subjected to Final Tax
+5 INTEREST INCOME SUBJECT TO FINAL TAX
+5 0 0
+6
+B) Special Deductions
+7
+8
+9 Total (Sum of Items 5 to 8)
+10 Net Taxable Income/(Loss) (Item 4 Less Item 9)
+
+0
+0
+0
+
+0 0
+0 0
+0
+0 0
+0 0
+0
+
+0
+0
+5 0 0 0 0
+1 9 2 9 5 0 0
+
+
