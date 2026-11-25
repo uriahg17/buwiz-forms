@@ -1,0 +1,7 @@
+form	additional_sheet	tin_with_branch	name	period_or_date	verdict	note
+1801	yes	yes	yes	yes Date of Death 06/05/2025	pass	header complete
+1702MX	yes	yes	yes	no	partial	TIN fixed but no period/date line despite taxable_year 2025 and month 12 in draft
+2200T	yes	yes	yes	yes Date 03/14/2025	pass	header complete
+2552	yes	yes	yes	yes Date of Transaction 03/14/2025	pass	header complete
+1600PT	yes	yes	yes	yes Return Period 06/25	pass	header complete
+1702EX	yes	yes	yes	no	partial	TIN fixed but no period/date line despite taxable_year 2025/year_end_month 12 in draft

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="21" family="Times" color="#000000"/>
+	<fontspec id="3" size="11" family="Times" color="#000000"/>
+	<fontspec id="4" size="26" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#ff0000"/>
+	<fontspec id="7" size="9" family="Times" color="#000000"/>
+	<fontspec id="8" size="18" family="Times" color="#000000"/>
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+	<fontspec id="10" size="11" family="Times" color="#000000"/>
+	<fontspec id="11" size="15" family="Times" color="#000000"/>
+	<fontspec id="12" size="13" family="Times" color="#000000"/>
+	<fontspec id="13" size="7" family="Times" color="#000000"/>
+	<fontspec id="14" size="12" family="Times" color="#000000"/>
+	<fontspec id="15" size="10" family="Times" color="#000000"/>
+	<fontspec id="16" size="8" family="Times" color="#000000"/>
+	<fontspec id="17" size="8" family="Times" color="#000000"/>
+	<fontspec id="18" size="8" family="Times" color="#000000"/>
+<text top="39" left="398" width="133" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="51" left="398" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="53" left="83" width="32" height="14" font="1">For BIR</text>
+<text top="54" left="136" width="25" height="14" font="1">BCS/</text>
+<text top="63" left="398" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="65" left="83" width="77" height="14" font="1">Use Only Item:</text>
+<text top="85" left="282" width="260" height="27" font="2"><b>Monthly Remittance Return</b></text>
+<text top="86" left="108" width="71" height="15" font="3">BIR Form No. </text>
+<text top="99" left="91" width="101" height="34" font="4"><b>1600-PT</b></text>
+<text top="109" left="238" width="359" height="27" font="2"><b>of Other Percentage Taxes Withheld </b></text>
+<text top="129" left="110" width="62" height="14" font="1">January 2018 </text>
+<text top="133" left="219" width="402" height="12" font="5"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”. </i></text>
+<text top="141" left="124" width="29" height="14" font="1">Page 1</text>
+<text top="143" left="739" width="83" height="14" font="1">1600-PT 01/18 P1</text>
+<text top="144" left="286" width="267" height="12" font="5"><i>Two copies MUST be filed with the BIR and one held by the Taxpayer</i></text>
+<text top="144" left="553" width="3" height="12" font="6"><i>.</i></text>
+<text top="163" left="709" width="39" height="13" font="7">Number of</text>
+<text top="163" left="101" width="62" height="13" font="7">For the month</text>
+<text top="164" left="218" width="29" height="24" font="8"><b>2  0</b></text>
+<text top="165" left="488" width="7" height="17" font="9"><b>3</b></text>
+<text top="165" left="293" width="7" height="17" font="9"><b>2</b></text>
+<text top="167" left="89" width="7" height="17" font="9"><b>1</b></text>
+<text top="167" left="695" width="7" height="17" font="9"><b>4</b></text>
+<text top="167" left="499" width="190" height="15" font="3">Any Tax Withheld?            Yes        No</text>
+<text top="167" left="304" width="174" height="15" font="3">Amended Return?        Yes        No</text>
+<text top="174" left="709" width="73" height="13" font="7">Sheet/s Attached</text>
+<text top="175" left="107" width="46" height="12" font="5"><i>(MM/20YY)</i></text>
+<text top="191" left="365" width="178" height="15" font="10"><b>Part I – Background Information</b></text>
+<text top="208" left="388" width="5" height="21" font="11"><b>-</b></text>
+<text top="208" left="463" width="5" height="21" font="11"><b>-</b></text>
+<text top="208" left="538" width="5" height="21" font="11"><b>-</b></text>
+<text top="210" left="87" width="203" height="15" font="10"><b>5 </b>Taxpayer Identification Number (TIN) </text>
+<text top="210" left="653" width="63" height="15" font="10"><b>6</b> RDO Code</text>
+<text top="228" left="87" width="149" height="15" font="10"><b>7</b> Withholding Agent’s Name</text>
+<text top="231" left="237" width="390" height="12" font="5"><i> (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)</i></text>
+<text top="266" left="88" width="126" height="17" font="9"><b>8</b> Registered Address</text>
+<text top="272" left="218" width="569" height="9" font="13"><i>(Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="310" left="667" width="63" height="15" font="10"><b>8A</b> ZIP Code</text>
+<text top="334" left="88" width="92" height="15" font="10"><b>9</b> Contact Number</text>
+<text top="334" left="424" width="175" height="15" font="10"><b>10</b> Category of Withholding Agent </text>
+<text top="334" left="648" width="35" height="15" font="3">Private</text>
+<text top="334" left="742" width="63" height="15" font="3">Government</text>
+<text top="355" left="84" width="93" height="15" font="10"><b>11</b> Email Address</text>
+<text top="395" left="103" width="148" height="13" font="7">Are you availing of tax relief under  </text>
+<text top="397" left="329" width="21" height="16" font="14">Yes</text>
+<text top="397" left="393" width="16" height="16" font="14">No</text>
+<text top="399" left="84" width="13" height="15" font="10"><b>12</b></text>
+<text top="399" left="418" width="97" height="15" font="10"><b>12A</b> If Yes, specify </text>
+<text top="406" left="102" width="177" height="13" font="7">Special Law or International Tax Treaty?</text>
+<text top="423" left="376" width="155" height="15" font="10"><b>Part II – Computation of Tax</b></text>
+<text top="442" left="137" width="24" height="15" font="3">ATC</text>
+<text top="442" left="315" width="48" height="15" font="3">Tax Base </text>
+<text top="442" left="491" width="46" height="15" font="3">Tax Rate </text>
+<text top="442" left="652" width="64" height="15" font="3">Tax Withheld</text>
+<text top="582" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="583" left="84" width="130" height="16" font="10"><b>18 </b>Total Taxes Withheld</text>
+<text top="585" left="218" width="110" height="14" font="15"><i>(Sum of Items 13 to 17)</i></text>
+<text top="602" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="604" left="84" width="426" height="16" font="10"><b>19 </b>Less: Taxes Remitted in Return Previously Filed, if this is an Amended Return </text>
+<text top="623" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="624" left="84" width="13" height="15" font="10"><b>20</b></text>
+<text top="625" left="137" width="119" height="15" font="3">Other Payments Made</text>
+<text top="626" left="259" width="63" height="14" font="15"><i>(attach proof)</i></text>
+<text top="644" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="645" left="84" width="157" height="16" font="10"><b>21 </b>Total Tax Payments Made</text>
+<text top="647" left="245" width="108" height="14" font="15"><i>(Sum of Items 19 &amp; 20)</i></text>
+<text top="665" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="666" left="84" width="186" height="15" font="10"><b>22 Tax  Still Due</b>/(Overremittance)</text>
+<text top="667" left="273" width="105" height="14" font="15"><i>(Item 18 Less Item 21)</i></text>
+<text top="685" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="686" left="102" width="76" height="15" font="3">Add: Penalties    </text>
+<text top="686" left="199" width="69" height="15" font="10"><b>23 </b>Surcharge</text>
+<text top="706" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="707" left="198" width="56" height="15" font="10"><b>24 </b>Interest</text>
+<text top="726" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="728" left="198" width="84" height="15" font="10"><b>25 </b>Compromise</text>
+<text top="747" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="748" left="83" width="15" height="17" font="9"><b>26</b></text>
+<text top="749" left="103" width="82" height="15" font="3">Total Penalties </text>
+<text top="750" left="184" width="98" height="14" font="15"><i>(Sum of Items 23 to 25)</i></text>
+<text top="768" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="768" left="83" width="15" height="17" font="9"><b>27</b></text>
+<text top="769" left="103" width="252" height="15" font="10"><b>TOTAL AMOUNT STILL DUE</b>/(Overremittance)</text>
+<text top="770" left="357" width="106" height="14" font="15"><i>(Sum of Items 22 and 26)</i></text>
+<text top="787" left="108" width="476" height="14" font="1">If overremittance, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds).</text>
+<text top="804" left="116" width="701" height="14" font="1">We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct</text>
+<text top="805" left="111" width="5" height="13" font="7">I/</text>
+<text top="816" left="89" width="729" height="14" font="1">pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information</text>
+<text top="828" left="89" width="580" height="14" font="1">as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes.  <i>(If Authorized Representative, attach authorization letter)</i></text>
+<text top="842" left="88" width="56" height="12" font="7">For Individual: </text>
+<text top="842" left="424" width="73" height="12" font="7">For Non-Individual:</text>
+<text top="906" left="88" width="323" height="12" font="7">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent </text>
+<text top="906" left="425" width="395" height="11" font="16">Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent </text>
+<text top="916" left="559" width="128" height="11" font="17"><i>(Indicate title/designation and TIN)</i></text>
+<text top="916" left="187" width="130" height="11" font="17"><i>(Indicate title/designation and TIN)</i></text>
+<text top="927" left="89" width="113" height="12" font="7">Tax Agent Accreditation No. /</text>
+<text top="927" left="404" width="50" height="12" font="7">Date of Issue</text>
+<text top="927" left="624" width="43" height="12" font="7">Expiry Date</text>
+<text top="937" left="82" width="76" height="12" font="7">Attorney’s Roll No.</text>
+<text top="937" left="399" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="937" left="617" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="938" left="159" width="51" height="11" font="17"><i>(If applicable)</i></text>
+<text top="953" left="379" width="157" height="15" font="10"><b>Part III – Details  of Payment </b></text>
+<text top="971" left="217" width="50" height="11" font="18"><b>Drawee Bank/</b></text>
+<text top="974" left="112" width="61" height="15" font="10"><b>Particulars</b></text>
+<text top="974" left="330" width="45" height="15" font="10"><b>Number</b></text>
+<text top="974" left="431" width="26" height="15" font="10"><b>Date</b></text>
+<text top="974" left="664" width="43" height="15" font="10"><b>Amount</b></text>
+<text top="975" left="460" width="72" height="14" font="15"><i>(MM/DD/YYYY)</i></text>
+<text top="981" left="206" width="78" height="11" font="18"><b>Bank Code/Agency</b></text>
+<text top="998" left="86" width="13" height="15" font="10"><b>28</b></text>
+<text top="998" left="780" width="4" height="21" font="11"><b>.</b></text>
+<text top="1000" left="103" width="95" height="12" font="7">Cash/Bank Debit Memo </text>
+<text top="1022" left="86" width="50" height="15" font="10"><b>29 </b>Check</text>
+<text top="1022" left="780" width="4" height="21" font="11"><b>.</b></text>
+<text top="1046" left="86" width="104" height="15" font="10"><b>30 </b>Tax Debit Memo</text>
+<text top="1047" left="780" width="4" height="21" font="11"><b>.</b></text>
+<text top="1066" left="86" width="52" height="15" font="10"><b>31 </b>Others</text>
+<text top="1067" left="142" width="72" height="14" font="15"><i>(Specify below)</i></text>
+<text top="1086" left="780" width="4" height="21" font="11"><b>.</b></text>
+<text top="1118" left="88" width="398" height="14" font="15"><i>Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank) </i></text>
+<text top="1118" left="565" width="234" height="14" font="15"><i>Stamp of Receiving Office/AAB and Date of Receipt</i></text>
+<text top="1119" left="602" width="164" height="14" font="15"><i>(RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="1186" left="81" width="278" height="12" font="7">*NOTE: The BIR Data Privacy is in the BIR website (www.bir.gov.ph)  </text>
+<text top="463" left="527" width="14" height="21" font="11"><b>%</b></text>
+<text top="465" left="84" width="13" height="15" font="10"><b>13</b></text>
+<text top="466" left="433" width="4" height="21" font="11"><b>.</b></text>
+<text top="466" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="487" left="527" width="14" height="21" font="11"><b>%</b></text>
+<text top="489" left="84" width="13" height="15" font="10"><b>14</b></text>
+<text top="489" left="433" width="4" height="21" font="11"><b>.</b></text>
+<text top="489" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="511" left="527" width="14" height="21" font="11"><b>%</b></text>
+<text top="513" left="84" width="13" height="15" font="10"><b>15</b></text>
+<text top="513" left="433" width="4" height="21" font="11"><b>.</b></text>
+<text top="513" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="534" left="527" width="14" height="21" font="11"><b>%</b></text>
+<text top="537" left="84" width="13" height="15" font="10"><b>16</b></text>
+<text top="537" left="433" width="4" height="21" font="11"><b>.</b></text>
+<text top="537" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="558" left="527" width="14" height="21" font="11"><b>%</b></text>
+<text top="560" left="84" width="13" height="15" font="10"><b>17</b></text>
+<text top="560" left="433" width="4" height="21" font="11"><b>.</b></text>
+<text top="560" left="781" width="4" height="21" font="11"><b>.</b></text>
+<text top="168" left="183" width="25" height="14" font="1">0 6</text>
+<text top="168" left="259" width="25" height="14" font="1">2 5</text>
+<text top="168" left="799" width="23" height="14" font="1">0 0</text>
+<text top="167" left="405" width="7" height="14" font="1">X</text>
+<text top="167" left="614" width="7" height="14" font="1">X</text>
+<text top="211" left="331" width="43" height="14" font="1">0 0 0</text>
+<text top="211" left="406" width="43" height="14" font="1">1 2 3</text>
+<text top="211" left="481" width="43" height="14" font="1">4 5 3</text>
+<text top="211" left="556" width="81" height="14" font="1">0 0 0 0 0</text>
+<text top="211" left="781" width="42" height="14" font="1">0 3 9</text>
+<text top="243" left="84" width="701" height="13" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT</text>
+<text top="253" left="84" width="107" height="13" font="1">OVERFLOW TESTING</text>
+<text top="287" left="84" width="560" height="15" font="3">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="310" left="84" width="411" height="15" font="3">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="311" left="760" width="61" height="14" font="1">1 1 0 0</text>
+<text top="335" left="200" width="192" height="14" font="1">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="335" left="717" width="7" height="14" font="1">X</text>
+<text top="376" left="84" width="279" height="15" font="3">juana.santos.independent.print.check@example.com</text>
+<text top="396" left="531" width="294" height="13" font="1">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF</text>
+<text top="406" left="531" width="288" height="13" font="1">PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING</text>
+<text top="400" left="315" width="7" height="14" font="1">X</text>
+<text top="467" left="105" width="84" height="14" font="1">W B 0 3 0</text>
+<text top="467" left="318" width="101" height="14" font="1">1 2 3 4 5 6</text>
+<text top="467" left="452" width="44" height="14" font="1">7 9 3</text>
+<text top="467" left="704" width="63" height="14" font="1">3 7 0 3</text>
+<text top="467" left="799" width="23" height="14" font="1">7 0</text>
+<text top="490" left="105" width="84" height="14" font="1">W B 0 8 0</text>
+<text top="490" left="337" width="82" height="14" font="1">5 0 0 0 0</text>
+<text top="490" left="452" width="44" height="14" font="1">0 1 1</text>
+<text top="490" left="723" width="44" height="14" font="1">5 0 0</text>
+<text top="490" left="799" width="23" height="14" font="1">0 0</text>
+<text top="514" left="105" width="84" height="14" font="1">W B 2 0 0</text>
+<text top="514" left="356" width="63" height="14" font="1">8 3 3 3</text>
+<text top="514" left="452" width="25" height="14" font="1">3 3</text>
+<text top="514" left="492" width="3" height="14" font="1">.</text>
+<text top="514" left="509" width="6" height="14" font="1">6</text>
+<text top="514" left="742" width="25" height="14" font="1">5 0</text>
+<text top="514" left="799" width="23" height="14" font="1">0 0</text>
+<text top="538" left="761" width="6" height="14" font="1">0</text>
+<text top="538" left="799" width="23" height="14" font="1">0 0</text>
+<text top="562" left="761" width="6" height="14" font="1">0</text>
+<text top="562" left="799" width="23" height="14" font="1">0 0</text>
+<text top="584" left="704" width="63" height="14" font="1">4 2 5 3</text>
+<text top="584" left="799" width="23" height="14" font="1">7 0</text>
+<text top="605" left="704" width="63" height="14" font="1">1 0 0 0</text>
+<text top="605" left="799" width="23" height="14" font="1">0 0</text>
+<text top="626" left="723" width="44" height="14" font="1">2 5 0</text>
+<text top="626" left="799" width="23" height="14" font="1">5 0</text>
+<text top="646" left="704" width="63" height="14" font="1">1 2 5 0</text>
+<text top="646" left="799" width="23" height="14" font="1">5 0</text>
+<text top="667" left="704" width="63" height="14" font="1">3 0 0 3</text>
+<text top="667" left="799" width="23" height="14" font="1">2 0</text>
+<text top="688" left="723" width="44" height="14" font="1">1 2 5</text>
+<text top="688" left="799" width="23" height="14" font="1">1 3</text>
+<text top="708" left="742" width="25" height="14" font="1">1 0</text>
+<text top="708" left="799" width="23" height="14" font="1">0 0</text>
+<text top="728" left="761" width="6" height="14" font="1">0</text>
+<text top="728" left="799" width="23" height="14" font="1">0 0</text>
+<text top="749" left="723" width="44" height="14" font="1">1 3 5</text>
+<text top="749" left="799" width="23" height="14" font="1">1 3</text>
+<text top="770" left="704" width="63" height="14" font="1">3 1 3 8</text>
+<text top="770" left="799" width="23" height="14" font="1">3 3</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="19" size="14" family="Times" color="#000000"/>
+	<fontspec id="20" size="30" family="Times" color="#000000"/>
+	<fontspec id="21" size="7" family="Times" color="#000000"/>
+<text top="79" left="102" width="83" height="19" font="19">BIR Form No.</text>
+<text top="93" left="280" width="278" height="27" font="2"><b>Monthly Remittance Returns</b></text>
+<text top="96" left="88" width="116" height="39" font="20"><b>1600-PT</b></text>
+<text top="117" left="242" width="359" height="27" font="2"><b>of Other Percentage Taxes Withheld</b></text>
+<text top="131" left="112" width="62" height="14" font="1"> January 2018</text>
+<text top="141" left="731" width="84" height="14" font="1">1600-PT 01/18 P2</text>
+<text top="143" left="132" width="32" height="14" font="1">Page 2 </text>
+<text top="161" left="88" width="19" height="15" font="3">TIN</text>
+<text top="161" left="355" width="138" height="15" font="3">Withholding Agent’s Name </text>
+<text top="204" left="88" width="420" height="15" font="10"><b>Schedule 1 - Monthly Alphalist of Payees from Whom Taxes were Withheld</b></text>
+<text top="206" left="512" width="55" height="13" font="5"><i>(format only)</i></text>
+<text top="207" left="571" width="193" height="11" font="17"><i>(Submit in electronic attachment for eFPS or email to</i></text>
+<text top="218" left="571" width="94" height="11" font="17"><i>esubmission@bir.gov.ph)</i></text>
+<text top="230" left="269" width="61" height="12" font="7">Name of Payees</text>
+<text top="231" left="153" width="15" height="12" font="7">TIN</text>
+<text top="233" left="488" width="72" height="12" font="7">Amount of Income </text>
+<text top="233" left="692" width="91" height="12" font="7">Amount of Tax Withheld</text>
+<text top="239" left="90" width="36" height="12" font="7">Seq. No.</text>
+<text top="239" left="440" width="18" height="12" font="7">ATC</text>
+<text top="239" left="598" width="35" height="12" font="7">Tax Rate</text>
+<text top="240" left="210" width="185" height="10" font="21">(Last Name, First Name, Middle Name for Individual)/ </text>
+<text top="244" left="508" width="34" height="12" font="7">Payment</text>
+<text top="249" left="238" width="131" height="10" font="21">(Registered Name for Non-Individual)</text>
+<text top="258" left="102" width="11" height="12" font="7">(1)</text>
+<text top="258" left="155" width="11" height="12" font="7">(2)</text>
+<text top="258" left="297" width="11" height="12" font="7">(3)</text>
+<text top="258" left="444" width="11" height="12" font="7">(4)</text>
+<text top="258" left="520" width="11" height="12" font="7">(5)</text>
+<text top="258" left="611" width="11" height="12" font="7">(6)</text>
+<text top="258" left="721" width="38" height="12" font="7">(7)= (5x6) </text>
+<text top="273" left="104" width="7" height="15" font="10"><b>1</b></text>
+<text top="370" left="88" width="192" height="15" font="10"><b>Total Taxes Withheld and Remitted</b></text>
+<text top="292" left="104" width="7" height="15" font="10"><b>2</b></text>
+<text top="312" left="104" width="7" height="15" font="10"><b>3</b></text>
+<text top="332" left="104" width="7" height="15" font="10"><b>4</b></text>
+<text top="351" left="104" width="7" height="15" font="10"><b>5</b></text>
+<text top="182" left="87" width="215" height="14" font="1">0 0 0 1 2 3 4 5 3 0 0 0</text>
+<text top="182" left="317" width="25" height="14" font="1">0 0</text>
+<text top="177" left="350" width="466" height="15" font="3">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="188" left="350" width="431" height="15" font="3">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="274" left="135" width="46" height="13" font="7">9876543...</text>
+<text top="274" left="187" width="119" height="14" font="1">SAMPLE SUPPLIER INC</text>
+<text top="274" left="432" width="35" height="14" font="1">WB030</text>
+<text top="274" left="517" width="53" height="14" font="1">100,000.00</text>
+<text top="274" left="607" width="19" height="14" font="1">5 %</text>
+<text top="274" left="777" width="41" height="14" font="1">5,000.00</text>
+<text top="294" left="135" width="46" height="13" font="7">1112223...</text>
+<text top="294" left="187" width="147" height="14" font="1">DELA CRUZ, SAMPLE PAYEE</text>
+<text top="294" left="432" width="35" height="14" font="1">WB080</text>
+<text top="294" left="523" width="47" height="14" font="1">20,100.10</text>
+<text top="294" left="607" width="19" height="14" font="1">5 %</text>
+<text top="294" left="777" width="41" height="14" font="1">1,005.00</text>
+<text top="314" left="549" width="20" height="14" font="1">0.00</text>
+<text top="314" left="607" width="19" height="14" font="1">0 %</text>
+<text top="314" left="797" width="20" height="14" font="1">0.00</text>
+<text top="333" left="549" width="20" height="14" font="1">0.00</text>
+<text top="333" left="607" width="19" height="14" font="1">0 %</text>
+<text top="333" left="797" width="20" height="14" font="1">0.00</text>
+<text top="352" left="549" width="20" height="14" font="1">0.00</text>
+<text top="352" left="607" width="19" height="14" font="1">0 %</text>
+<text top="352" left="797" width="20" height="14" font="1">0.00</text>
+<text top="372" left="777" width="41" height="14" font="1">6,005.00</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="22" size="14" family="Times" color="#000000"/>
+	<fontspec id="23" size="11" family="Times" color="#212121"/>
+	<fontspec id="24" size="9" family="Times" color="#444444"/>
+	<fontspec id="25" size="10" family="Times" color="#444444"/>
+	<fontspec id="26" size="12" family="Times" color="#000000"/>
+	<fontspec id="27" size="9" family="Times" color="#000000"/>
+	<fontspec id="28" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="152" height="19" font="22"><b>BIR Form No. 1600-PT</b></text>
+<text top="49" left="688" width="124" height="15" font="10"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="318" height="15" font="23">Monthly Remittance Return of Other Percentage Taxes Withheld</text>
+<text top="86" left="80" width="275" height="13" font="24">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="25"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="25"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="1">TESTING</text>
+<text top="111" left="710" width="73" height="14" font="25"><b>Return Period:</b></text>
+<text top="111" left="783" width="29" height="14" font="1"> 06/25</text>
+<text top="194" left="80" width="190" height="16" font="26"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="24">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="27"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="27"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="27"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="242" left="160" width="103" height="13" font="7">Schedule 1, row 1, TIN</text>
+<text top="242" left="394" width="66" height="13" font="7">987654321000</text>
+<text top="264" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="264" left="160" width="103" height="13" font="7">Schedule 1, row 2, TIN</text>
+<text top="264" left="394" width="64" height="13" font="7">111222339000</text>
+</page>
+</pdf2xml>

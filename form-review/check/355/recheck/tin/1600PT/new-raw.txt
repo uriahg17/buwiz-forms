@@ -1,0 +1,157 @@
+Republic of the Philippines
+Department of Finance
+For BIR BCS/
+Bureau of Internal Revenue
+Use Only Item:
+Monthly Remittance Return
+BIR Form No.
+1600-PT of Other Percentage Taxes Withheld
+January 2018 EnterallrequiredinformationinCAPITALLETTERSusingBLACKink.Markapplicableboxeswithan“X”.
+Page 1 1600-PT 01/18 P1
+TwocopiesMUSTbefiledwiththeBIRandoneheldbytheTaxpayer.
+Number of
+For the month
+2 0 3
+2
+1 4
+Any Tax Withheld? Yes No
+Amended Return? Yes No Sheet/s Attached
+(MM/20YY)
+Part I – Background Information
+- - -
+5 Taxpayer Identification Number (TIN) 6 RDO Code
+7 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+8 Registered Address (Indicatecompleteaddress.Ifbranch,indicatethebranchaddress.Iftheregisteredaddressisdifferentfromthecurrentaddress,gototheRDOtoupdateregisteredaddressbyusingBIRFormNo.1905)
+8A ZIP Code
+9 Contact Number 10 Category of Withholding Agent Private Government
+11 Email Address
+Are you availing of tax relief under Yes No
+12 12A If Yes, specify
+Special Law or International Tax Treaty?
+Part II – Computation of Tax
+ATC Tax Base Tax Rate Tax Withheld
+.
+18 Total Taxes Withheld (Sum of Items 13 to 17)
+.
+19 Less: Taxes Remitted in Return Previously Filed, if this is an Amended Return
+.
+20 Other Payments Made (attach proof)
+.
+21 Total Tax Payments Made (Sum of Items 19 & 20)
+.
+22 Tax Still Due/(Overremittance) (Item 18 Less Item 21)
+.
+Add: Penalties 23 Surcharge
+.
+24 Interest
+.
+25 Compromise
+.
+26 Total Penalties (Sum of Items 23 to 25)
+.
+27 TOTAL AMOUNT STILL DUE/(Overremittance) (Sum of Items 22 and 26)
+If overremittance, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds).
+Wedeclareunderthepenaltiesofperjurythatthisreturn,andallitsattachments,havebeenmadeingoodfaith,verifiedbyme/us,andtothebestofmy/ourknowledgeandbelief,istrueandcorrect
+I/
+pursuanttotheprovisionsoftheNationalInternalRevenueCode,asamended,andtheregulationsissuedunderauthoritythereof.Further,I/wegivemy/ourconsenttotheprocessingofmy/ourinformation
+ascontemplatedunderthe*DataPrivacyActof2012(R.A.No.10173)forlegitimateandlawfulpurposes. (IfAuthorizedRepresentative,attachauthorizationletter)
+For Individual: For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+(Indicate title/designation and TIN)
+Tax Agent Accreditation No. / Date of Issue Expiry Date
+Attorney’s Roll No. (MM/DD/YYYY) (MM/DD/YYYY)
+(If applicable)
+Part III – Details of Payment
+Drawee Bank/
+Particulars Number Date Amount
+(MM/DD/YYYY)
+Bank Code/Agency
+28 .
+Cash/Bank Debit Memo
+29 Check .
+30 Tax Debit Memo .
+31 Others (Specify below)
+.
+MachineValidation/RevenueOfficialReceipt(ROR)Details(ifnotfiledwithanAuthorizedAgentBank) Stamp of Receiving Office/AAB and Date of Receipt
+(RO’s Signature/Bank Teller’s Initial)
+*NOTE: The BIR Data Privacy is in the BIR website (www.bir.gov.ph)
+%
+13 . .
+%
+14 . .
+%
+15 . .
+%
+16 . .
+%
+17 . .
+0 6 2 5 0 0
+X X
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI 1 1 0 0
+0 9 1 7 1 2 3 4 5 6 7 X
+juana.santos.independent.print.check@example.com
+SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF
+PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+X
+W B 0 3 0 1 2 3 4 5 6 7 9 3 3 7 0 3 7 0
+W B 0 8 0 5 0 0 0 0 0 1 1 5 0 0 0 0
+W B 2 0 0 8 3 3 3 3 3 . 6 5 0 0 0
+0 0 0
+0 0 0
+4 2 5 3 7 0
+1 0 0 0 0 0
+2 5 0 5 0
+1 2 5 0 5 0
+3 0 0 3 2 0
+1 2 5 1 3
+1 0 0 0
+0 0 0
+1 3 5 1 3
+3 1 3 8 3 3
+BIR Form No.
+Monthly Remittance Returns
+1600-PT of Other Percentage Taxes Withheld
+January 2018
+1600-PT 01/18 P2
+Page 2
+TIN Withholding Agent’s Name
+Schedule 1 - Monthly Alphalist of Payees from Whom Taxes were Withheld (format only) (Submit in electronic attachment for eFPS or email to
+esubmission@bir.gov.ph)
+Name of Payees
+TIN Amount of Income Amount of Tax Withheld
+Seq. No. ATC Tax Rate
+(Last Name, First Name, Middle Name for Individual)/ Payment
+(Registered Name for Non-Individual)
+(1) (2) (3) (4) (5) (6) (7)= (5x6)
+1
+Total Taxes Withheld and Remitted
+2
+3
+4
+5
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+9876543... SAMPLE SUPPLIER INC WB030 100,000.00 5 % 5,000.00
+1112223... DELA CRUZ, SAMPLE PAYEE WB080 20,100.10 5 % 1,005.00
+0.00 0 % 0.00
+0.00 0 % 0.00
+0.00 0 % 0.00
+6,005.00
+BIR Form No. 1600-PT ADDITIONAL SHEET
+Monthly Remittance Return of Other Percentage Taxes Withheld
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUEVAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Return Period: 06/25
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 2 Schedule 1, row 1, TIN 987654321000
+Page 2 Schedule 1, row 2, TIN 111222339000
+

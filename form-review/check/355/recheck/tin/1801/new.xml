@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="31" family="Times" color="#000000"/>
+	<fontspec id="4" size="28" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+	<fontspec id="8" size="8" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#000000"/>
+	<fontspec id="10" size="18" family="Times" color="#000000"/>
+	<fontspec id="11" size="11" family="Times" color="#000000"/>
+	<fontspec id="12" size="9" family="Times" color="#000000"/>
+	<fontspec id="13" size="18" family="DAAAAA+NotoSans" color="#000000"/>
+	<fontspec id="14" size="15" family="Times" color="#000000"/>
+	<fontspec id="15" size="6" family="Times" color="#000000"/>
+	<fontspec id="16" size="10" family="Times" color="#000000"/>
+	<fontspec id="17" size="7" family="Times" color="#000000"/>
+	<fontspec id="18" size="7" family="Times" color="#000000"/>
+	<fontspec id="19" size="1" family="Times" color="#000000"/>
+	<fontspec id="20" size="8" family="Times" color="#000000"/>
+	<fontspec id="21" size="6" family="Times" color="#000000"/>
+<text top="35" left="411" width="133" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="43" left="73" width="32" height="14" font="1">For BIR</text>
+<text top="44" left="131" width="25" height="14" font="1">BCS/</text>
+<text top="47" left="411" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="56" left="73" width="81" height="14" font="1">Use Only:    Item:</text>
+<text top="59" left="411" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="78" left="91" width="71" height="15" font="2">BIR Form No. </text>
+<text top="84" left="245" width="267" height="41" font="3"><b>Estate Tax Return </b></text>
+<text top="91" left="95" width="64" height="38" font="4"><b>1801</b></text>
+<text top="121" left="190" width="370" height="12" font="5"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.</i></text>
+<text top="125" left="78" width="93" height="13" font="6">January 2018 (ENCS)</text>
+<text top="131" left="255" width="247" height="12" font="5"><i>Two copies MUST be filed with the BIR and one held by the taxpayer. </i></text>
+<text top="136" left="113" width="34" height="14" font="0"><b>Page 1</b></text>
+<text top="139" left="717" width="96" height="14" font="1">1801 01/18ENCS P1 </text>
+<text top="153" left="89" width="56" height="15" font="2">Date of Death</text>
+<text top="153" left="676" width="6" height="14" font="0"><b>4</b></text>
+<text top="153" left="79" width="7" height="15" font="7"><b>1</b></text>
+<text top="154" left="684" width="58" height="13" font="6">Alphanumeric</text>
+<text top="156" left="282" width="106" height="15" font="7"><b>2 </b>Amended Return?</text>
+<text top="157" left="460" width="163" height="17" font="2">No <b>3 </b>No. of Sheet/s Attached</text>
+<text top="158" left="771" width="37" height="15" font="7"><b>ES 010 </b></text>
+<text top="159" left="414" width="20" height="15" font="2">Yes</text>
+<text top="166" left="676" width="70" height="13" font="6">Tax Code <i>(ATC)</i></text>
+<text top="167" left="90" width="48" height="11" font="8"><i>(MM/DD/YY)</i></text>
+<text top="179" left="359" width="167" height="16" font="9"><b>Part I – Taxpayer Information</b></text>
+<text top="196" left="545" width="83" height="24" font="10"><b>0  0  0  0  0</b></text>
+<text top="196" left="377" width="6" height="24" font="10"><b>-</b></text>
+<text top="196" left="452" width="6" height="24" font="10"><b>-</b></text>
+<text top="196" left="526" width="6" height="24" font="10"><b>-</b></text>
+<text top="200" left="79" width="205" height="15" font="7"><b>5</b> Taxpayer Identification Number <i>(TIN)</i></text>
+<text top="200" left="638" width="66" height="15" font="7"><b>6 </b>RDO Code</text>
+<text top="219" left="79" width="103" height="15" font="7"><b>7 </b>Taxpayer’s Name</text>
+<text top="222" left="186" width="194" height="11" font="8"><i>(ESTATE of Last Name, First Name, Middle Name)</i></text>
+<text top="238" left="75" width="65" height="15" font="7"><b>ESTATE OF </b></text>
+<text top="257" left="79" width="233" height="15" font="7"><b>8 </b>Residence of Decedent at the time of death</text>
+<text top="297" left="582" width="220" height="15" font="7"><b>9 </b>Non-Resident Alien?         Yes           No</text>
+<text top="319" left="79" width="191" height="15" font="7"><b>10</b> Name of Executor / Administrator</text>
+<text top="321" left="273" width="382" height="12" font="5"><i>(Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individual)</i></text>
+<text top="356" left="79" width="12" height="14" font="0"><b>11</b></text>
+<text top="356" left="546" width="12" height="14" font="0"><b>12</b></text>
+<text top="357" left="94" width="70" height="13" font="6">TIN of Executor/ </text>
+<text top="357" left="561" width="32" height="13" font="6">Contact</text>
+<text top="357" left="286" width="6" height="24" font="10"><b>-</b></text>
+<text top="357" left="360" width="6" height="24" font="10"><b>-</b></text>
+<text top="357" left="435" width="6" height="24" font="10"><b>-</b></text>
+<text top="368" left="93" width="58" height="13" font="6">Administrator</text>
+<text top="368" left="563" width="33" height="13" font="6">Number</text>
+<text top="385" left="79" width="93" height="15" font="7"><b>13 </b>Email Address</text>
+<text top="404" left="79" width="170" height="13" font="12"><b>14 </b>Are you availing of tax relief under a </text>
+<text top="409" left="435" width="95" height="15" font="7"><b>14A </b>If yes, specify</text>
+<text top="409" left="323" width="20" height="15" font="2">Yes</text>
+<text top="409" left="397" width="15" height="15" font="2">No</text>
+<text top="416" left="79" width="180" height="13" font="6">     Special Law/International Tax Treaty?</text>
+<text top="428" left="79" width="125" height="15" font="7"><b>15 </b>Mark Applicable Box</text>
+<text top="429" left="357" width="18" height="14" font="1">Yes</text>
+<text top="429" left="713" width="18" height="14" font="1">Yes</text>
+<text top="429" left="753" width="13" height="14" font="1">No</text>
+<text top="429" left="396" width="15" height="15" font="2">No</text>
+<text top="442" left="448" width="207" height="13" font="12"><b>15D</b> Has an installment payment been granted?</text>
+<text top="442" left="97" width="233" height="14" font="0"><b>15A</b> Has an extension to file return been granted?</text>
+<text top="454" left="97" width="199" height="14" font="0"><b>15B</b> Has the estate been settled judicially?</text>
+<text top="454" left="448" width="255" height="13" font="6">        If yes, frequency of payment <i>(maximum of 2 years only)</i></text>
+<text top="466" left="459" width="27" height="13" font="6">Monthly</text>
+<text top="466" left="97" width="228" height="14" font="0"><b>15C</b> Has an extension to pay the tax been granted?</text>
+<text top="467" left="524" width="31" height="13" font="6">Quarterly</text>
+<text top="468" left="590" width="45" height="13" font="6">Semi-Annual</text>
+<text top="468" left="665" width="57" height="13" font="6">Others <i>(specify)</i></text>
+<text top="483" left="368" width="152" height="16" font="9"><b>Part II – Total Tax Payable</b></text>
+<text top="499" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="504" left="79" width="136" height="15" font="7"><b>16 </b>NET TAXABLE ESTATE </text>
+<text top="507" left="214" width="79" height="12" font="5"><i>(From Part IV, Item 40)</i></text>
+<text top="523" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="527" left="748" width="7" height="21" font="14"><b>6</b></text>
+<text top="527" left="787" width="26" height="21" font="14"><b>0  %</b></text>
+<text top="529" left="79" width="109" height="15" font="7"><b>17 </b>Applicable Tax Rate</text>
+<text top="548" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="554" left="79" width="108" height="15" font="7"><b>18 ESTATE TAX DUE</b></text>
+<text top="556" left="189" width="97" height="12" font="5"><i>(Item 16 Multiply by Item 17)</i></text>
+<text top="573" left="79" width="143" height="15" font="7"><b>19 </b>Less: Tax Credits/Payments</text>
+<text top="586" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="592" left="121" width="135" height="15" font="7"><b>19A </b>Foreign Estate Tax Paid</text>
+<text top="610" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="615" left="121" width="321" height="15" font="7"><b>19B </b>Tax Paid in Return Previously Filed, if this is an Amended Return</text>
+<text top="633" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="639" left="121" width="49" height="15" font="7"><b>19C </b>Total</text>
+<text top="642" left="172" width="99" height="12" font="5"><i>(Sum of Items 19A and 19B)</i></text>
+<text top="657" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="663" left="79" width="74" height="15" font="7"><b>20 </b>Tax Payable</text>
+<text top="665" left="155" width="84" height="12" font="5"><i>(Item 18 Less Item 19C)</i></text>
+<text top="681" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="686" left="79" width="375" height="15" font="7"><b>21 </b>Less: Portion of tax allowed for payment by installment to be paid on or before </text>
+<text top="704" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="710" left="79" width="74" height="15" font="7"><b>22 </b>Tax Payable</text>
+<text top="712" left="162" width="4" height="8" font="15"><i>st</i></text>
+<text top="713" left="155" width="133" height="12" font="5"><i>(1  installment)  (Item 20 Less Item 21)</i></text>
+<text top="729" left="79" width="81" height="15" font="7"><b>23 </b>Add: Penalties   </text>
+<text top="743" left="503" width="5" height="25" font="13"><b>.</b></text>
+<text top="748" left="116" width="72" height="15" font="7"><b>23A </b>Surcharge</text>
+<text top="767" left="503" width="5" height="25" font="13"><b>.</b></text>
+<text top="771" left="116" width="57" height="15" font="7"><b>23B</b>Interest</text>
+<text top="790" left="503" width="5" height="25" font="13"><b>.</b></text>
+<text top="795" left="116" width="84" height="15" font="7"><b>23C </b>Compromise</text>
+<text top="814" left="503" width="5" height="25" font="13"><b>.</b></text>
+<text top="819" left="116" width="92" height="15" font="7"><b>23D </b>Total Penalties</text>
+<text top="821" left="210" width="110" height="12" font="5"><i>(Sum of Items 23A to Item 23C)</i></text>
+<text top="837" left="768" width="5" height="25" font="13"><b>.</b></text>
+<text top="842" left="79" width="157" height="15" font="7"><b>24 TOTAL AMOUNT PAYABLE</b></text>
+<text top="845" left="238" width="296" height="12" font="5"><i>(For full payment Sum of Items 20 and 23D) (For installment Sum of Item 22 and 23D)</i></text>
+<text top="866" left="117" width="694" height="14" font="1">We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct </text>
+<text top="867" left="112" width="5" height="13" font="6">I/</text>
+<text top="878" left="79" width="729" height="14" font="1">pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information</text>
+<text top="890" left="79" width="605" height="14" font="1">as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. <i>(If Authorized Representative, attach Special Power of Attorney)</i></text>
+<text top="949" left="247" width="395" height="12" font="6">Signature over Printed Name of Executor/Administrator/Heir/Authorized Representative/Tax Agent</text>
+<text top="960" left="383" width="128" height="11" font="8"><i>(Indicate title/designation and TIN)</i></text>
+<text top="970" left="79" width="116" height="12" font="6">Tax Agent Accreditation No./ </text>
+<text top="970" left="394" width="50" height="12" font="6">Date of Issue</text>
+<text top="970" left="609" width="56" height="12" font="6">Date of Expiry </text>
+<text top="981" left="80" width="74" height="12" font="6">Attorney’s Roll No</text>
+<text top="981" left="389" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="981" left="607" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="982" left="153" width="43" height="10" font="17">. <i>(If applicable</i>)</text>
+<text top="994" left="72" width="1" height="2" font="19">K</text>
+<text top="997" left="367" width="153" height="15" font="7"><b>Part III – Details of Payment </b></text>
+<text top="1013" left="87" width="98" height="15" font="2">Details of Payment </text>
+<text top="1013" left="329" width="41" height="15" font="2">Number</text>
+<text top="1013" left="431" width="25" height="15" font="2">Date</text>
+<text top="1013" left="667" width="39" height="15" font="2">Amount</text>
+<text top="1013" left="208" width="82" height="14" font="1">Drawee Bank/Agency </text>
+<text top="1014" left="459" width="72" height="14" font="16"><i>(MM/DD/YYYY)</i></text>
+<text top="1027" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="1033" left="95" width="102" height="15" font="2">Cash/Bank Debit Memo</text>
+<text top="1033" left="79" width="13" height="15" font="7"><b>25</b></text>
+<text top="1051" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="1057" left="79" width="50" height="15" font="7"><b>26 </b>Check</text>
+<text top="1075" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="1081" left="79" width="103" height="15" font="7"><b>27 </b>Tax Debit Memo</text>
+<text top="1120" left="79" width="52" height="15" font="7"><b>28 </b>Others</text>
+<text top="1111" left="134" width="47" height="15" font="11"><i>(Specify)</i></text>
+<text top="1113" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="1140" left="571" width="231" height="13" font="6">Stamp of Authorized Agent Bank and Date of Receipt </text>
+<text top="1140" left="79" width="89" height="14" font="1">Machine Validation</text>
+<text top="1152" left="643" width="85" height="13" font="5"><i>(Bank Teller’s Initial)</i></text>
+<text top="1211" left="78" width="350" height="14" font="0"><b>*NOTE</b>: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph) </text>
+<text top="160" left="170" width="99" height="14" font="1">0 6 0 5 2 5</text>
+<text top="160" left="638" width="24" height="14" font="1">0 1</text>
+<text top="159" left="443" width="7" height="14" font="1">X</text>
+<text top="202" left="768" width="43" height="14" font="1">0 3 9</text>
+<text top="235" left="148" width="647" height="14" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES</text>
+<text top="245" left="148" width="167" height="14" font="1">FOR PRINT OVERFLOW TESTING</text>
+<text top="271" left="75" width="722" height="13" font="1">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY</text>
+<text top="281" left="75" width="115" height="13" font="1">SAN LORENZO MAKATI</text>
+<text top="300" left="772" width="7" height="14" font="1">X</text>
+<text top="339" left="77" width="62" height="14" font="1">M A R I</text>
+<text top="339" left="153" width="7" height="14" font="1">A</text>
+<text top="339" left="190" width="269" height="14" font="1">S A M P L E - E X E C U T O R</text>
+<text top="362" left="229" width="43" height="14" font="1">1 1 1</text>
+<text top="362" left="304" width="43" height="14" font="1">2 2 2</text>
+<text top="362" left="378" width="43" height="14" font="1">3 3 3</text>
+<text top="362" left="452" width="80" height="14" font="1">0 0 0 0 0</text>
+<text top="362" left="620" width="192" height="14" font="1">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="386" left="187" width="279" height="15" font="2">juana.santos.independent.print.check@example.com</text>
+<text top="411" left="382" width="7" height="14" font="1">X</text>
+<text top="444" left="364" width="5" height="9" font="17">X</text>
+<text top="444" left="719" width="5" height="9" font="17">X</text>
+<text top="454" left="400" width="5" height="10" font="20">X</text>
+<text top="469" left="401" width="5" height="9" font="21">X</text>
+<text top="470" left="512" width="4" height="9" font="21">X</text>
+<text top="555" left="748" width="6" height="14" font="1">0</text>
+<text top="555" left="786" width="25" height="14" font="1">0 0</text>
+<text top="593" left="748" width="6" height="14" font="1">0</text>
+<text top="593" left="786" width="25" height="14" font="1">0 0</text>
+<text top="617" left="748" width="6" height="14" font="1">0</text>
+<text top="617" left="786" width="25" height="14" font="1">0 0</text>
+<text top="641" left="748" width="6" height="14" font="1">0</text>
+<text top="641" left="786" width="25" height="14" font="1">0 0</text>
+<text top="664" left="748" width="6" height="14" font="1">0</text>
+<text top="664" left="786" width="25" height="14" font="1">0 0</text>
+<text top="687" left="453" width="23" height="14" font="1">2026</text>
+<text top="688" left="748" width="6" height="14" font="1">0</text>
+<text top="688" left="786" width="25" height="14" font="1">0 0</text>
+<text top="712" left="748" width="6" height="14" font="1">0</text>
+<text top="712" left="786" width="25" height="14" font="1">0 0</text>
+<text top="749" left="465" width="25" height="14" font="1">2 5</text>
+<text top="749" left="522" width="25" height="14" font="1">5 0</text>
+<text top="773" left="484" width="6" height="14" font="1">0</text>
+<text top="773" left="522" width="25" height="14" font="1">0 0</text>
+<text top="797" left="484" width="6" height="14" font="1">0</text>
+<text top="797" left="522" width="25" height="14" font="1">0 0</text>
+<text top="820" left="465" width="25" height="14" font="1">2 5</text>
+<text top="820" left="522" width="25" height="14" font="1">5 0</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="22" size="10" family="Times" color="#000000"/>
+	<fontspec id="23" size="9" family="Times" color="#000000"/>
+<text top="46" left="91" width="71" height="15" font="2">BIR Form No. </text>
+<text top="57" left="245" width="267" height="41" font="3"><b>Estate Tax Return </b></text>
+<text top="60" left="95" width="64" height="38" font="4"><b>1801</b></text>
+<text top="93" left="78" width="93" height="13" font="6">January 2018 (ENCS)</text>
+<text top="104" left="113" width="34" height="14" font="0"><b>Page 2</b></text>
+<text top="108" left="717" width="96" height="14" font="1">1801 01/18ENCS P2 </text>
+<text top="122" left="79" width="19" height="15" font="7"><b>TIN</b></text>
+<text top="122" left="339" width="96" height="15" font="7"><b>Taxpayer’s Name </b></text>
+<text top="137" left="246" width="83" height="24" font="10"><b>0 0 0 0 0</b></text>
+<text top="161" left="364" width="157" height="15" font="7"><b>Part IV – Computation of Tax</b></text>
+<text top="176" left="134" width="61" height="15" font="7"><b>Particulars</b></text>
+<text top="176" left="296" width="68" height="15" font="7"><b>A.  Exclusive</b></text>
+<text top="176" left="666" width="41" height="15" font="7"><b>C. Total </b></text>
+<text top="177" left="420" width="121" height="15" font="7"><b>B. Conjugal/Communal</b></text>
+<text top="192" left="79" width="87" height="14" font="0"><b>29 </b>Real Properties</text>
+<text top="192" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="193" left="169" width="69" height="12" font="5"><i>Excluding Family</i></text>
+<text top="205" left="94" width="113" height="10" font="18"><i>Home (From Part V Schedule 1)</i></text>
+<text top="214" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="219" left="79" width="80" height="14" font="0"><b>30 </b>Family Home </text>
+<text top="221" left="159" width="86" height="10" font="18"><i>(From Part V Sched. 1A)</i></text>
+<text top="236" left="79" width="107" height="14" font="0"><b>31 </b>Personal Properties</text>
+<text top="235" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="249" left="92" width="98" height="10" font="18"><i>(From Part V Schedules 2 &amp; 2A)</i></text>
+<text top="258" left="79" width="90" height="14" font="0"><b>32 </b>Taxable Transfer</text>
+<text top="258" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="271" left="94" width="90" height="10" font="18"><i>(From Part V Schedule 3)</i></text>
+<text top="280" left="79" width="94" height="14" font="0"><b>33 </b>Business Interest </text>
+<text top="280" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="293" left="94" width="90" height="10" font="18"><i>(From Part V Schedule 4)</i></text>
+<text top="302" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="307" left="79" width="79" height="14" font="0"><b>34 </b>Gross Estate </text>
+<text top="309" left="158" width="83" height="10" font="18"><i>(Sum of Items 29 to 33)</i></text>
+<text top="324" left="79" width="139" height="14" font="0"><b>35 </b>Less: Ordinary Deductions</text>
+<text top="323" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="337" left="94" width="90" height="10" font="18"><i>(From Part V Schedule 5)</i></text>
+<text top="346" left="79" width="167" height="14" font="0"><b>36 </b>Estate after Ordinary Deductions</text>
+<text top="346" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="359" left="94" width="79" height="10" font="18"><i>(Item 34 Less Item 35)</i></text>
+<text top="368" left="79" width="133" height="14" font="0"><b>37 </b>Less: Special Deductions</text>
+<text top="380" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="386" left="124" width="127" height="14" font="0"><b>37A </b>Standard Deductions (</text>
+<text top="387" left="252" width="285" height="12" font="5"><i>(Php5 Million for Citizen or Resident and Php500 thousand for Non-Resident Alien)</i></text>
+<text top="403" left="124" width="78" height="14" font="0"><b>37B </b>Family Home</text>
+<text top="402" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="405" left="204" width="334" height="11" font="8"><i>(Fair Market Value or Php10 Million whichever is lower for Resident Citizen only; value exclusive property of decedent but not</i></text>
+<text top="415" left="147" width="343" height="11" font="8"><i>to exceed Php10Million;however, if conjugal, Fair Market Value is ½ of the value but not to exceed Php10Million)</i></text>
+<text top="424" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="430" left="124" width="87" height="14" font="0"><b>37C </b>Others <i>(specify)</i></text>
+<text top="446" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="451" left="125" width="123" height="14" font="0"><b>37D </b>Total Special Deductions</text>
+<text top="452" left="250" width="89" height="12" font="5"><i>(Sum of Item 37A to 37C)</i></text>
+<text top="467" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="472" left="79" width="83" height="14" font="0"><b>38 </b>NET ESTATE </text>
+<text top="474" left="162" width="98" height="12" font="5"><i>(Item 36 Less Item 37D)</i></text>
+<text top="489" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="494" left="79" width="170" height="14" font="0"><b>39 </b>Less: Share of Surviving Spouse </text>
+<text top="495" left="249" width="240" height="12" font="5"><i>(Net Conjugal Estate under Item 36-Column B divided by 2)</i></text>
+<text top="510" left="769" width="5" height="25" font="13"><b>.</b></text>
+<text top="515" left="79" width="133" height="14" font="0"><b>40 NET TAXABLE ESTATE</b></text>
+<text top="517" left="215" width="172" height="12" font="5"><i>(Item 38 Less Item 39) (To Part II Item 16)</i></text>
+<text top="537" left="392" width="102" height="15" font="7"><b>Part V – Schedules</b></text>
+<text top="553" left="80" width="304" height="15" font="7"><b>Schedule 1 – Details of Property (REAL PROPERTIES)</b></text>
+<text top="555" left="387" width="168" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="568" left="75" width="186" height="12" font="6">OCT/TCT/CCT No. Tax Declaration (TD) No. </text>
+<text top="568" left="414" width="33" height="12" font="6">Location</text>
+<text top="568" left="606" width="67" height="12" font="6">Lot/Improvement</text>
+<text top="568" left="693" width="17" height="12" font="6">Area</text>
+<text top="568" left="740" width="55" height="12" font="6">*Classification</text>
+<text top="607" left="80" width="378" height="15" font="7"><b>Schedule 1 – Details of Property (REAL PROPERTIES) </b><i>(continuation)</i></text>
+<text top="622" left="635" width="113" height="14" font="1">FMV whichever is higher</text>
+<text top="628" left="98" width="151" height="14" font="1">Fair Market Value (FMV) per TD</text>
+<text top="628" left="356" width="125" height="14" font="1">FMV per BIR (Zonal Value)</text>
+<text top="636" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="636" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="670" left="76" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="671" left="114" width="81" height="12" font="5"><i>(To Part IV Item 29)</i></text>
+<text top="688" left="80" width="210" height="15" font="7"><b>Schedule 1A – Details of Family Home</b></text>
+<text top="703" left="679" width="81" height="14" font="1">Fair Market Value</text>
+<text top="705" left="74" width="104" height="11" font="20">OCT/TCT/ Tax Declaration</text>
+<text top="705" left="461" width="65" height="11" font="20">Fair Market Value </text>
+<text top="705" left="556" width="47" height="11" font="20">FMV per BIR </text>
+<text top="708" left="248" width="40" height="14" font="1">Location</text>
+<text top="709" left="356" width="86" height="12" font="6">Area *Classification</text>
+<text top="714" left="74" width="32" height="11" font="20"> CCT No.</text>
+<text top="714" left="133" width="35" height="11" font="20"> (TD) No.</text>
+<text top="714" left="469" width="48" height="11" font="20">(FMV) per TD</text>
+<text top="714" left="555" width="49" height="11" font="20">(Zonal Value) </text>
+<text top="716" left="640" width="46" height="11" font="20">EXCLUSIVE</text>
+<text top="716" left="711" width="96" height="11" font="20">CONJUGAL/COMMUNAL</text>
+<text top="750" left="80" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="751" left="118" width="81" height="12" font="5"><i>(To Part IV Item 30)</i></text>
+<text top="767" left="80" width="313" height="15" font="7"><b>Schedule 2 – Personal Properties (SHARES OF STOCK)</b></text>
+<text top="769" left="396" width="168" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="782" left="606" width="170" height="14" font="1">Total Fair Market Value / Book Value</text>
+<text top="784" left="231" width="54" height="12" font="6">Classification</text>
+<text top="784" left="309" width="60" height="12" font="6">Stock Certificate</text>
+<text top="784" left="396" width="23" height="12" font="6">No. of </text>
+<text top="784" left="447" width="99" height="12" font="6">Fair Market Value / Book </text>
+<text top="788" left="93" width="98" height="14" font="1">Name of Corporation</text>
+<text top="795" left="224" width="64" height="12" font="6">Listed/Not Listed</text>
+<text top="795" left="335" width="14" height="12" font="6">No.</text>
+<text top="795" left="393" width="29" height="12" font="6">Shares</text>
+<text top="795" left="468" width="64" height="12" font="6">Value per Share </text>
+<text top="796" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="796" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="830" left="80" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="831" left="118" width="81" height="12" font="5"><i>(To Part IV Item 31)</i></text>
+<text top="848" left="80" width="235" height="15" font="7"><b>Schedule 2A – Other Personal Properties </b></text>
+<text top="849" left="315" width="168" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="863" left="651" width="81" height="14" font="1">Fair Market Value </text>
+<text top="869" left="295" width="50" height="14" font="1">Particulars</text>
+<text top="876" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="876" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="910" left="80" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="912" left="118" width="81" height="12" font="5"><i>(To Part IV Item 31)</i></text>
+<text top="928" left="80" width="180" height="15" font="7"><b>Schedule 3 – Taxable Transfers </b></text>
+<text top="930" left="261" width="170" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="943" left="651" width="81" height="14" font="1">Fair Market Value</text>
+<text top="944" left="295" width="50" height="14" font="1">Particulars</text>
+<text top="956" left="188" width="261" height="12" font="5"><i>(If Cash in Bank, indicate bank name and bank account number) </i></text>
+<text top="957" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="957" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="991" left="80" width="38" height="15" font="7"><b>T TAL</b></text>
+<text top="992" left="87" width="8" height="14" font="0"><b>O</b></text>
+<text top="993" left="121" width="81" height="12" font="5"><i>(To Part IV Item 32)</i></text>
+<text top="1010" left="80" width="464" height="15" font="7"><b>Schedule 4 – Business Interest such as Net Equity and others not classified above</b></text>
+<text top="1012" left="548" width="167" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="1025" left="651" width="81" height="14" font="1">Fair Market Value</text>
+<text top="1031" left="123" width="143" height="14" font="1">Trade Name or Business Name</text>
+<text top="1031" left="369" width="88" height="14" font="1">Registered Address</text>
+<text top="1031" left="512" width="50" height="14" font="1">RDO Code</text>
+<text top="1038" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="1038" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="1073" left="80" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="1074" left="118" width="81" height="12" font="5"><i>(To Part IV Item 33)</i></text>
+<text top="1090" left="80" width="196" height="15" font="7"><b>Schedule 5 – Ordinary Deductions </b></text>
+<text top="1092" left="601" width="49" height="12" font="6">EXCLUSIVE</text>
+<text top="1092" left="700" width="104" height="12" font="6">CONJUGAL/COMMUNAL</text>
+<text top="1092" left="276" width="168" height="13" font="5"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="1116" left="80" width="100" height="12" font="6">Claims against the Estate</text>
+<text top="1118" left="80" width="202" height="12" font="6">Claims of the deceased against Insolvent Persons </text>
+<text top="1129" left="80" width="187" height="12" font="6">Unpaid Mortgages, Taxes and Casualty Losses</text>
+<text top="1140" left="80" width="203" height="12" font="6">Losses incurred during the settlement of the Estate</text>
+<text top="1151" left="80" width="199" height="12" font="6">Property Previously Taxed (Vanishing Deduction) </text>
+<text top="1163" left="80" width="95" height="12" font="6">Transfers for Public Use</text>
+<text top="1174" left="80" width="65" height="12" font="6">Others <i>(specify)</i></text>
+<text top="1185" left="80" width="35" height="14" font="0"><b>TOTAL</b></text>
+<text top="1187" left="118" width="81" height="12" font="5"><i>(To Part IV Item 35)</i></text>
+<text top="1200" left="72" width="4" height="14" font="22"><i><b>*</b></i></text>
+<text top="1201" left="79" width="97" height="12" font="23"><i><b>RR</b>-Residential Regular</i></text>
+<text top="1201" left="209" width="426" height="12" font="23"><i><b>CR</b>-Condominium Regular          <b>CL</b>-Cemetery Lot   <b>GL</b>-Government Lot    <b>A</b>-Agricultural <b>X</b>-Institutional</i></text>
+<text top="1212" left="77" width="252" height="12" font="23"><i><b>RC</b>-Residential Condominium <b>CC</b>-Commercial Condominium    </i></text>
+<text top="1212" left="341" width="215" height="12" font="23"><i><b>PS</b>-Parking Slot     <b>GP</b>-General Purpose <b>I</b>-Industrial</i></text>
+<text top="1212" left="576" width="141" height="12" font="23"><i><b>APD</b>-Area for Priority Development</i></text>
+<text top="142" left="79" width="154" height="14" font="1">0 0 0 1 2 3 4 5 3</text>
+<text top="137" left="335" width="470" height="14" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME</text>
+<text top="148" left="335" width="368" height="14" font="1">WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="198" left="342" width="62" height="14" font="1">1,200,000.00</text>
+<text top="198" left="533" width="21" height="14" font="1">0.00</text>
+<text top="198" left="638" width="118" height="14" font="1">1 2 0 0 0 0 0</text>
+<text top="198" left="787" width="24" height="14" font="1">0 0</text>
+<text top="220" left="383" width="21" height="14" font="1">0.00</text>
+<text top="220" left="492" width="62" height="14" font="1">2,000,000.00</text>
+<text top="220" left="638" width="118" height="14" font="1">2 0 0 0 0 0 0</text>
+<text top="220" left="787" width="24" height="14" font="1">0 0</text>
+<text top="241" left="351" width="53" height="14" font="1">423,457.23</text>
+<text top="241" left="501" width="53" height="14" font="1">222,222.22</text>
+<text top="241" left="656" width="99" height="14" font="1">6 4 5 6 7 9</text>
+<text top="241" left="787" width="24" height="14" font="1">4 5</text>
+<text top="263" left="351" width="53" height="14" font="1">111,111.11</text>
+<text top="263" left="501" width="53" height="14" font="1">123,456.78</text>
+<text top="263" left="656" width="99" height="14" font="1">2 3 4 5 6 7</text>
+<text top="263" left="787" width="24" height="14" font="1">8 9</text>
+<text top="285" left="357" width="47" height="14" font="1">40,000.00</text>
+<text top="285" left="533" width="21" height="14" font="1">0.00</text>
+<text top="285" left="675" width="80" height="14" font="1">4 0 0 0 0</text>
+<text top="285" left="787" width="24" height="14" font="1">0 0</text>
+<text top="308" left="342" width="62" height="14" font="1">1,774,568.34</text>
+<text top="308" left="492" width="62" height="14" font="1">2,345,679.00</text>
+<text top="308" left="638" width="118" height="14" font="1">4 1 2 0 2 4 7</text>
+<text top="308" left="787" width="24" height="14" font="1">3 4</text>
+<text top="329" left="351" width="53" height="14" font="1">100,000.00</text>
+<text top="329" left="513" width="41" height="14" font="1">5,000.00</text>
+<text top="329" left="656" width="99" height="14" font="1">1 0 5 0 0 0</text>
+<text top="329" left="787" width="24" height="14" font="1">0 0</text>
+<text top="351" left="342" width="62" height="14" font="1">1,674,568.34</text>
+<text top="351" left="492" width="62" height="14" font="1">2,340,679.00</text>
+<text top="351" left="638" width="118" height="14" font="1">4 0 1 5 2 4 7</text>
+<text top="351" left="787" width="24" height="14" font="1">3 4</text>
+<text top="387" left="638" width="118" height="14" font="1">5 0 0 0 0 0 0</text>
+<text top="387" left="787" width="24" height="14" font="1">0 0</text>
+<text top="407" left="638" width="118" height="14" font="1">1 0 0 0 0 0 0</text>
+<text top="407" left="787" width="24" height="14" font="1">0 0</text>
+<text top="430" left="656" width="99" height="14" font="1">1 2 3 4 5 6</text>
+<text top="430" left="787" width="24" height="14" font="1">7 8</text>
+<text top="452" left="638" width="118" height="14" font="1">6 1 2 3 4 5 6</text>
+<text top="452" left="787" width="24" height="14" font="1">7 8</text>
+<text top="474" left="620" width="4" height="14" font="1">-</text>
+<text top="474" left="638" width="118" height="14" font="1">2 1 0 8 2 0 9</text>
+<text top="474" left="787" width="24" height="14" font="1">4 4</text>
+<text top="494" left="638" width="118" height="14" font="1">1 1 7 0 3 3 9</text>
+<text top="494" left="787" width="24" height="14" font="1">5 0</text>
+<text top="516" left="620" width="4" height="14" font="1">-</text>
+<text top="516" left="638" width="118" height="14" font="1">3 2 7 8 5 4 8</text>
+<text top="516" left="787" width="24" height="14" font="1">9 4</text>
+<text top="580" left="75" width="32" height="11" font="20">T-12345</text>
+<text top="580" left="157" width="29" height="11" font="20">TD-001</text>
+<text top="580" left="269" width="60" height="11" font="20">QUEZON CITY</text>
+<text top="580" left="596" width="17" height="11" font="20">LOT</text>
+<text top="580" left="701" width="32" height="11" font="20">200 RR</text>
+<text top="648" left="235" width="34" height="11" font="20">1000000</text>
+<text top="648" left="529" width="90" height="11" font="20">1200000 1,200,000.00</text>
+<text top="648" left="689" width="17" height="11" font="20">0.00</text>
+<text top="660" left="568" width="17" height="12" font="20">0.00</text>
+<text top="660" left="689" width="17" height="12" font="20">0.00</text>
+<text top="671" left="622" width="62" height="14" font="1">1,200,000.00</text>
+<text top="671" left="794" width="21" height="14" font="1">0.00</text>
+<text top="727" left="75" width="32" height="11" font="20">T-67890</text>
+<text top="727" left="120" width="29" height="11" font="20">TD-002</text>
+<text top="727" left="185" width="48" height="11" font="20">PASIG CITY</text>
+<text top="727" left="362" width="32" height="11" font="20">150 RC</text>
+<text top="727" left="501" width="33" height="11" font="20">1800000</text>
+<text top="727" left="585" width="55" height="11" font="20">2000000 0.00</text>
+<text top="727" left="708" width="50" height="11" font="20">2,000,000.00</text>
+<text top="739" left="624" width="18" height="12" font="6">0.00</text>
+<text top="739" left="708" width="18" height="12" font="6">0.00</text>
+<text top="751" left="682" width="21" height="14" font="1">0.00</text>
+<text top="751" left="753" width="62" height="14" font="1">2,000,000.00</text>
+<text top="808" left="75" width="62" height="11" font="20">SAMPLE CORP</text>
+<text top="808" left="213" width="51" height="11" font="20">NOT LISTED</text>
+<text top="808" left="297" width="23" height="11" font="20">C-100</text>
+<text top="808" left="413" width="19" height="11" font="20">1000</text>
+<text top="808" left="536" width="74" height="11" font="20">300.00 300,000.55</text>
+<text top="808" left="689" width="17" height="11" font="20">0.00</text>
+<text top="819" left="568" width="17" height="12" font="20">0.00</text>
+<text top="819" left="689" width="17" height="12" font="20">0.00</text>
+<text top="831" left="631" width="53" height="14" font="1">300,000.55</text>
+<text top="831" left="794" width="21" height="14" font="1">0.00</text>
+<text top="888" left="75" width="485" height="13" font="6">PERSONAL SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORD...</text>
+<text top="888" left="568" width="43" height="11" font="20">123,456.68</text>
+<text top="888" left="689" width="43" height="11" font="20">222,222.22</text>
+<text top="900" left="568" width="17" height="12" font="20">0.00</text>
+<text top="900" left="689" width="17" height="12" font="20">0.00</text>
+<text top="912" left="631" width="53" height="14" font="1">123,456.68</text>
+<text top="912" left="761" width="53" height="14" font="1">222,222.22</text>
+<text top="969" left="75" width="537" height="11" font="20">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING 111,111.11</text>
+<text top="969" left="689" width="44" height="11" font="20">123,456.78</text>
+<text top="980" left="568" width="17" height="12" font="20">0.00</text>
+<text top="980" left="689" width="17" height="12" font="20">0.00</text>
+<text top="993" left="631" width="53" height="14" font="1">111,111.11</text>
+<text top="993" left="761" width="53" height="14" font="1">123,456.78</text>
+<text top="1051" left="75" width="66" height="11" font="20">SAMPLE STORE</text>
+<text top="1051" left="322" width="53" height="11" font="20">MAKATI CITY</text>
+<text top="1051" left="512" width="14" height="11" font="20">040</text>
+<text top="1051" left="568" width="38" height="11" font="20">40,000.00</text>
+<text top="1051" left="689" width="16" height="11" font="20">0.00</text>
+<text top="1062" left="512" width="15" height="12" font="20">000</text>
+<text top="1062" left="568" width="17" height="12" font="20">0.00</text>
+<text top="1062" left="689" width="17" height="12" font="20">0.00</text>
+<text top="1074" left="637" width="47" height="14" font="1">40,000.00</text>
+<text top="1074" left="794" width="21" height="14" font="1">0.00</text>
+<text top="1107" left="642" width="42" height="11" font="20">100,000.00</text>
+<text top="1107" left="798" width="16" height="11" font="20">0.00</text>
+<text top="1118" left="568" width="18" height="12" font="6">0.00</text>
+<text top="1118" left="689" width="18" height="12" font="6">0.00</text>
+<text top="1129" left="667" width="17" height="12" font="20">0.00</text>
+<text top="1129" left="797" width="17" height="12" font="20">0.00</text>
+<text top="1141" left="667" width="17" height="12" font="20">0.00</text>
+<text top="1141" left="780" width="34" height="12" font="20">5,000.00</text>
+<text top="1152" left="667" width="17" height="12" font="20">0.00</text>
+<text top="1152" left="797" width="17" height="12" font="20">0.00</text>
+<text top="1162" left="666" width="18" height="12" font="6">0.00</text>
+<text top="1162" left="797" width="18" height="12" font="6">0.00</text>
+<text top="1174" left="568" width="18" height="12" font="6">0.00</text>
+<text top="1174" left="689" width="18" height="12" font="6">0.00</text>
+<text top="1186" left="635" width="49" height="13" font="6">100,000.00</text>
+<text top="1186" left="776" width="38" height="13" font="6">5,000.00</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="24" size="14" family="Times" color="#000000"/>
+	<fontspec id="25" size="11" family="Times" color="#212121"/>
+	<fontspec id="26" size="9" family="Times" color="#444444"/>
+	<fontspec id="27" size="10" family="Times" color="#444444"/>
+	<fontspec id="28" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="129" height="19" font="24"><b>BIR Form No. 1801</b></text>
+<text top="49" left="688" width="124" height="15" font="7"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="89" height="15" font="25">Estate Tax Return</text>
+<text top="86" left="80" width="275" height="13" font="26">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="27"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="27"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="1">TESTING</text>
+<text top="111" left="685" width="71" height="14" font="27"><b>Date of Death:</b></text>
+<text top="111" left="757" width="56" height="14" font="1"> 06/05/2025</text>
+<text top="194" left="80" width="190" height="16" font="9"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="26">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="12"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="12"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="12"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="242" left="160" width="144" height="13" font="6">Schedule 2A, row 1, Particulars</text>
+<text top="242" left="394" width="414" height="13" font="6">PERSONAL SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH </text>
+<text top="255" left="394" width="194" height="13" font="6">MANY WORDS TO EXERCISE WRAPPING</text>
+</page>
+</pdf2xml>

@@ -1,0 +1,7 @@
+form	pages	additional_sheets	tin_branch	name	period_or_date	header
+1801	3	1	True	True	True	TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ- | Date of Death: 06/05/2025
+1702MX	5	1	True	True	False	TIN: 000-123-453-00000 Taxpayer's Name: Sample Dummy Taxpayer
+2200T	4	1	True	True	True	TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ- | Date: 03/14/2025
+2552	3	1	True	True	False	TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+1600PT	3	1	True	True	True	TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ- | Return Period: 06/25
+1702EX	4	1	True	True	False	TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-

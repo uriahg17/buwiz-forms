@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="36" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+	<fontspec id="7" size="9" family="Times" color="#000000"/>
+	<fontspec id="8" size="9" family="Times" color="#ff0000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+	<fontspec id="10" size="15" family="Times" color="#000000"/>
+	<fontspec id="11" size="12" family="Times" color="#000000"/>
+	<fontspec id="12" size="12" family="Times" color="#000000"/>
+	<fontspec id="13" size="7" family="Times" color="#000000"/>
+	<fontspec id="14" size="18" family="Times" color="#000000"/>
+	<fontspec id="15" size="14" family="Times" color="#000000"/>
+	<fontspec id="16" size="8" family="Times" color="#000000"/>
+	<fontspec id="17" size="8" family="Times" color="#000000"/>
+	<fontspec id="18" size="8" family="Times" color="#000000"/>
+	<fontspec id="19" size="11" family="Times" color="#000000"/>
+	<fontspec id="20" size="10" family="Times" color="#000000"/>
+<text top="29" left="389" width="134" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="40" left="72" width="32" height="14" font="1">For BIR</text>
+<text top="41" left="125" width="25" height="14" font="1">BCS/</text>
+<text top="42" left="389" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="52" left="72" width="76" height="15" font="1">Use Only Item:</text>
+<text top="54" left="389" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="69" left="88" width="71" height="15" font="2">BIR Form No. </text>
+<text top="70" left="238" width="285" height="34" font="3"><b>Percentage Tax Return </b></text>
+<text top="82" left="83" width="82" height="48" font="4"><b>2552</b></text>
+<text top="101" left="189" width="382" height="13" font="5"><b>(For Transactions Involving Shares of Stock Listed and Traded Through the Local </b></text>
+<text top="112" left="205" width="350" height="13" font="5"><b>Stock Exchange (LSE) or Through Initial and/or Secondary Public Offering) </b></text>
+<text top="124" left="215" width="329" height="12" font="6"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable</i></text>
+<text top="125" left="75" width="95" height="13" font="7">January 2018 (ENCS) </text>
+<text top="132" left="721" width="96" height="14" font="1">2552 01/18ENCS P1</text>
+<text top="134" left="210" width="340" height="12" font="6"><i>boxes with an “X”.  Two copies MUST be filed with the BIR and one held by the Taxpayer</i></text>
+<text top="134" left="550" width="3" height="12" font="8"><i>.</i></text>
+<text top="136" left="109" width="30" height="12" font="5"><b>Page 1</b></text>
+<text top="152" left="475" width="101" height="15" font="9"><b>2</b> Amended Return?</text>
+<text top="152" left="663" width="153" height="15" font="9"><b>3</b> Number of sheet/s attached </text>
+<text top="156" left="351" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="160" left="79" width="7" height="15" font="9"><b>1</b></text>
+<text top="161" left="89" width="173" height="14" font="1">Date of Transaction or Date of Listing </text>
+<text top="172" left="513" width="20" height="15" font="2">Yes</text>
+<text top="172" left="607" width="15" height="15" font="2">No</text>
+<text top="174" left="88" width="195" height="14" font="1">of Share of Stocks on the Stock Exchange </text>
+<text top="196" left="359" width="178" height="15" font="9"><b>Part I – Background Information</b></text>
+<text top="213" left="400" width="5" height="21" font="10"><b>-</b></text>
+<text top="213" left="475" width="5" height="21" font="10"><b>-</b></text>
+<text top="213" left="551" width="5" height="21" font="10"><b>-</b></text>
+<text top="215" left="80" width="212" height="16" font="11"><b>4 </b>Taxpayer Identification Number (TIN</text>
+<text top="215" left="663" width="63" height="15" font="9"><b>5</b> RDO Code</text>
+<text top="216" left="292" width="4" height="15" font="2">)</text>
+<text top="234" left="80" width="227" height="15" font="9"><b>6</b> Name of Stockbroker/Issuing Corporation</text>
+<text top="236" left="311" width="387" height="12" font="6"><i>(Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)</i></text>
+<text top="271" left="80" width="117" height="15" font="9"><b>7</b> Registered Address </text>
+<text top="275" left="198" width="615" height="10" font="13"><i>(Indicate complete address. If branch, indicate the branch address. If registered address is different from the current address, go to the RDO to update registered address by using BIR Form No.1905)</i></text>
+<text top="314" left="663" width="63" height="15" font="9"><b>7A</b> ZIP Code</text>
+<text top="333" left="80" width="101" height="16" font="11"><b>8</b> Contact Number</text>
+<text top="333" left="306" width="91" height="16" font="11"><b>9</b> Email Address</text>
+<text top="372" left="79" width="197" height="13" font="5"><b>10 </b>Are you availing of tax relief under Special </text>
+<text top="376" left="457" width="95" height="15" font="9"><b>10A</b> If yes, specify </text>
+<text top="377" left="344" width="20" height="15" font="2">Yes</text>
+<text top="377" left="419" width="15" height="15" font="2">No</text>
+<text top="383" left="93" width="142" height="13" font="7">Law or International Tax Treaty?</text>
+<text top="395" left="80" width="120" height="15" font="9"><b>11</b> Kinds of Transaction</text>
+<text top="414" left="102" width="301" height="15" font="9"><b>11A </b>Shares of Stocks Listed and Traded through the LSE   </text>
+<text top="414" left="494" width="132" height="15" font="9"><b>11B </b>Initial Public Offering   </text>
+<text top="414" left="678" width="39" height="15" font="2">Primary</text>
+<text top="414" left="758" width="54" height="15" font="2">Secondary</text>
+<text top="438" left="80" width="148" height="15" font="9"><b>12 </b>For Initial Public Offering </text>
+<text top="438" left="287" width="251" height="15" font="9"><b>12A </b>No. of Shares Sold, Bartered, or Exchanged</text>
+<text top="462" left="287" width="329" height="15" font="9"><b>12B </b>Total Outstanding Shares of Stocks after Listing in the LSE</text>
+<text top="482" left="371" width="155" height="15" font="9"><b>Part II – Computation of Tax</b></text>
+<text top="498" left="475" width="24" height="15" font="9"><b>ATC</b></text>
+<text top="498" left="661" width="44" height="15" font="9"><b>Tax Due</b></text>
+<text top="512" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="516" left="464" width="41" height="19" font="15"><b>PT 200</b></text>
+<text top="517" left="80" width="61" height="15" font="9"><b>13 </b>Tax Due</text>
+<text top="519" left="145" width="142" height="13" font="6"><i>(From Part V Schedule 1 Item 6)</i></text>
+<text top="536" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="540" left="464" width="41" height="19" font="15"><b>PT 201</b></text>
+<text top="541" left="80" width="61" height="15" font="9"><b>14 </b>Tax Due</text>
+<text top="543" left="145" width="142" height="13" font="6"><i>(From Part V Schedule 2 Item 6)</i></text>
+<text top="560" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="564" left="464" width="41" height="19" font="15"><b>PT 202</b></text>
+<text top="565" left="80" width="61" height="15" font="9"><b>15 </b>Tax Due</text>
+<text top="567" left="145" width="142" height="13" font="6"><i>(From Part V Schedule 3 Item 6)</i></text>
+<text top="584" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="589" left="80" width="111" height="15" font="9"><b>16 TOTAL TAX DUE</b></text>
+<text top="591" left="195" width="103" height="13" font="6"><i>(Sum of Items 13 to 15)</i></text>
+<text top="609" left="80" width="170" height="15" font="2">       Less: Tax Credits/Payments </text>
+<text top="623" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="628" left="80" width="355" height="15" font="9"><b>17 </b>Tax Paid in Return  Previously Filed, if this is an Amended Return</text>
+<text top="647" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="652" left="80" width="269" height="15" font="9"><b>18 </b>Creditable Tax Withheld per BIR Form No. 2307</text>
+<text top="671" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="676" left="80" width="166" height="15" font="9"><b>19 </b>Total Tax Credits/Payments </text>
+<text top="678" left="246" width="103" height="13" font="6"><i>(Sum of Items 17 to 18)</i></text>
+<text top="695" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="700" left="80" width="199" height="15" font="9"><b>20 </b>Total Tax Still Due/(Overpayment) </text>
+<text top="702" left="279" width="99" height="13" font="6"><i>(Item 16 Less Item 19)</i></text>
+<text top="719" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="724" left="97" width="76" height="15" font="2">Add: Penalties</text>
+<text top="724" left="200" width="71" height="15" font="9"><b>21 </b>Surcharge</text>
+<text top="743" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="748" left="199" width="56" height="15" font="9"><b>22 </b>Interest</text>
+<text top="767" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="772" left="199" width="84" height="15" font="9"><b>23 </b>Compromise</text>
+<text top="791" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="796" left="80" width="95" height="15" font="9"><b>24 </b>Total Penalties</text>
+<text top="798" left="178" width="103" height="13" font="6"><i>(Sum of Items 21 to 23)</i></text>
+<text top="815" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="820" left="80" width="274" height="15" font="9"><b>25 TOTAL AMOUNT PAYABLE/(OVERPAYMENT)</b></text>
+<text top="822" left="357" width="110" height="13" font="6"><i>(Sum of Items 20 and 24) </i></text>
+<text top="843" left="99" width="167" height="14" font="1">If Overpayment, mark one box only.</text>
+<text top="843" left="344" width="72" height="14" font="1">To be refunded</text>
+<text top="843" left="494" width="160" height="14" font="1">To be issued Tax Credit Certificate</text>
+<text top="864" left="97" width="716" height="11" font="16">I/We declare, under the penalties of perjury, that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, are true and correct,</text>
+<text top="874" left="78" width="735" height="11" font="16">pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as</text>
+<text top="883" left="78" width="621" height="11" font="16">contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes.<i> (If Authorized Representative, attach authorization letter and indicate TIN)</i></text>
+<text top="894" left="80" width="56" height="12" font="7">For Individual: </text>
+<text top="894" left="419" width="73" height="12" font="7">For Non-Individual:</text>
+<text top="945" left="420" width="395" height="11" font="16">Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent </text>
+<text top="945" left="81" width="323" height="12" font="7">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent </text>
+<text top="954" left="554" width="128" height="11" font="17"><i>(Indicate title/designation and TIN)</i></text>
+<text top="955" left="177" width="130" height="11" font="17"><i>(Indicate title/designation and TIN)</i></text>
+<text top="966" left="80" width="130" height="14" font="1">Tax Agent Accreditation No./</text>
+<text top="966" left="379" width="58" height="14" font="1">Date of Issue</text>
+<text top="966" left="595" width="64" height="14" font="1">Date of Expiry </text>
+<text top="978" left="79" width="90" height="14" font="1">Attorney’s Roll No. </text>
+<text top="979" left="169" width="41" height="12" font="6"><i>(if applicable)</i></text>
+<text top="980" left="378" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="980" left="596" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="992" left="372" width="153" height="15" font="9"><b>Part III – Details of Payment</b></text>
+<text top="1008" left="204" width="54" height="11" font="18"><b>Drawee Bank/ </b></text>
+<text top="1011" left="99" width="61" height="15" font="9"><b>Particulars</b></text>
+<text top="1011" left="314" width="45" height="15" font="9"><b>Number</b></text>
+<text top="1011" left="421" width="26" height="15" font="9"><b>Date</b></text>
+<text top="1011" left="662" width="43" height="15" font="9"><b>Amount</b></text>
+<text top="1014" left="450" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="1018" left="194" width="78" height="11" font="18"><b>Bank Code/Agency</b></text>
+<text top="1028" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="1033" left="80" width="13" height="15" font="9"><b>26</b></text>
+<text top="1035" left="97" width="86" height="13" font="7">Cash/Bank Debit Memo</text>
+<text top="1052" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="1057" left="80" width="50" height="15" font="9"><b>27 </b>Check</text>
+<text top="1076" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="1081" left="80" width="102" height="15" font="9"><b>28 </b>Tax Debit Memo </text>
+<text top="1119" left="80" width="52" height="15" font="9"><b>29 </b>Others</text>
+<text top="1110" left="136" width="81" height="15" font="19"><i>(Specify below)</i></text>
+<text top="1115" left="776" width="5" height="24" font="14"><b>.</b></text>
+<text top="1140" left="80" width="398" height="14" font="20"><i>Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank) </i></text>
+<text top="1140" left="563" width="240" height="14" font="20"><i>Stamp of Receiving Office/AAB and Date of Receipt </i></text>
+<text top="1152" left="600" width="165" height="14" font="20"><i>(RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="1212" left="73" width="306" height="12" font="7">*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph) </text>
+<text top="171" left="305" width="138" height="15" font="2">0 3 1 4 2 0 2 5</text>
+<text top="171" left="719" width="44" height="15" font="2">0 0 1</text>
+<text top="171" left="489" width="8" height="15" font="2">X</text>
+<text top="216" left="343" width="44" height="15" font="2">0 0 0</text>
+<text top="216" left="418" width="44" height="15" font="2">1 2 3</text>
+<text top="216" left="493" width="44" height="15" font="2">4 5 3</text>
+<text top="216" left="569" width="82" height="15" font="2">0 0 0 0 0</text>
+<text top="216" left="776" width="44" height="15" font="2">0 3 9</text>
+<text top="249" left="76" width="695" height="13" font="1">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT</text>
+<text top="259" left="76" width="106" height="13" font="1">OVERFLOW TESTING</text>
+<text top="291" left="76" width="555" height="15" font="2">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="314" left="76" width="409" height="15" font="2">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="313" left="757" width="62" height="15" font="2">1 1 0 0</text>
+<text top="353" left="81" width="193" height="15" font="2">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="353" left="302" width="279" height="15" font="2">juana.santos.independent.print.check@example.com</text>
+<text top="373" left="565" width="216" height="13" font="7">SPECIMEN LONG SPECIFY TEXT FOR OTHER</text>
+<text top="382" left="565" width="257" height="13" font="7">MANNER OF PAYMENT WITH MANY WORDS TO EXE...</text>
+<text top="377" left="319" width="8" height="15" font="2">X</text>
+<text top="415" left="420" width="8" height="15" font="2">X</text>
+<text top="517" left="681" width="82" height="15" font="2">1 3 4 2 2</text>
+<text top="517" left="794" width="25" height="15" font="2">0 0</text>
+<text top="542" left="756" width="7" height="15" font="2">0</text>
+<text top="542" left="794" width="25" height="15" font="2">0 0</text>
+<text top="565" left="756" width="7" height="15" font="2">0</text>
+<text top="565" left="794" width="25" height="15" font="2">0 0</text>
+<text top="589" left="681" width="82" height="15" font="2">1 3 4 2 2</text>
+<text top="589" left="794" width="25" height="15" font="2">0 0</text>
+<text top="627" left="719" width="44" height="15" font="2">1 0 0</text>
+<text top="627" left="794" width="25" height="15" font="2">5 0</text>
+<text top="651" left="700" width="63" height="15" font="2">1 0 0 0</text>
+<text top="651" left="794" width="25" height="15" font="2">2 5</text>
+<text top="676" left="700" width="63" height="15" font="2">1 1 0 1</text>
+<text top="676" left="794" width="25" height="15" font="2">0 0</text>
+<text top="700" left="681" width="82" height="15" font="2">1 2 3 2 1</text>
+<text top="700" left="794" width="25" height="15" font="2">0 0</text>
+<text top="723" left="738" width="25" height="15" font="2">2 5</text>
+<text top="723" left="794" width="25" height="15" font="2">5 0</text>
+<text top="748" left="738" width="25" height="15" font="2">1 0</text>
+<text top="748" left="794" width="25" height="15" font="2">0 0</text>
+<text top="772" left="756" width="7" height="15" font="2">0</text>
+<text top="772" left="794" width="25" height="15" font="2">0 0</text>
+<text top="795" left="738" width="25" height="15" font="2">3 6</text>
+<text top="795" left="794" width="25" height="15" font="2">0 0</text>
+<text top="820" left="681" width="82" height="15" font="2">1 2 3 5 7</text>
+<text top="820" left="794" width="25" height="15" font="2">0 0</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="21" size="1" family="Times" color="#000000"/>
+<text top="45" left="73" width="0" height="2" font="21">.</text>
+<text top="73" left="88" width="71" height="15" font="2">BIR Form No. </text>
+<text top="79" left="238" width="285" height="34" font="3"><b>Percentage Tax Return </b></text>
+<text top="86" left="83" width="82" height="48" font="4"><b>2552</b></text>
+<text top="110" left="189" width="382" height="13" font="5"><b>(For Transactions Involving Shares of Stock Listed and Traded Through the Local </b></text>
+<text top="121" left="205" width="350" height="13" font="5"><b>Stock Exchange (LSE) or Through Initial and/or Secondary Public Offering) </b></text>
+<text top="129" left="76" width="95" height="13" font="7">January 2018 (ENCS) </text>
+<text top="140" left="109" width="30" height="12" font="5"><b>Page 2</b></text>
+<text top="141" left="594" width="222" height="14" font="1">                                           2552 01/18ENCS P2</text>
+<text top="159" left="185" width="321" height="16" font="11"><b>Part IV – Summary of Transactions not subject to Tax </b></text>
+<text top="159" left="506" width="205" height="15" font="19"><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="174" left="234" width="148" height="15" font="9"><b>Transaction Classification</b></text>
+<text top="174" left="636" width="94" height="15" font="9"><b>Amount Involved</b></text>
+<text top="265" left="225" width="237" height="16" font="11"><b>Part V – Details of Taxable Transactions</b></text>
+<text top="265" left="466" width="205" height="15" font="19"><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="281" left="80" width="732" height="15" font="9"><b>Schedule 1 – Sale, Barter or Exchange of Shares of Stock Listed and Traded Through the LSE </b><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="295" left="83" width="26" height="15" font="9"><b>Date</b></text>
+<text top="295" left="330" width="32" height="15" font="9"><b>Seller</b></text>
+<text top="295" left="649" width="31" height="15" font="9"><b>Buyer</b></text>
+<text top="298" left="112" width="64" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="309" left="124" width="11" height="12" font="7">(a)</text>
+<text top="309" left="340" width="11" height="12" font="7">(b)</text>
+<text top="309" left="660" width="11" height="12" font="7">(c)</text>
+<text top="377" left="80" width="7" height="15" font="2">5</text>
+<text top="393" left="158" width="111" height="15" font="9"><b>Issuing Corporation </b></text>
+<text top="393" left="360" width="97" height="15" font="9"><b>Number of Shares</b></text>
+<text top="393" left="508" width="50" height="15" font="9"><b>Tax Base </b></text>
+<text top="393" left="613" width="44" height="15" font="9"><b>Tax Rate</b></text>
+<text top="393" left="727" width="44" height="15" font="9"><b>Tax Due </b></text>
+<text top="407" left="208" width="11" height="12" font="7">(d)</text>
+<text top="407" left="405" width="11" height="12" font="7">(e)</text>
+<text top="407" left="530" width="9" height="12" font="7">(f)</text>
+<text top="407" left="632" width="11" height="12" font="7">(g)</text>
+<text top="407" left="745" width="11" height="12" font="7">(h)</text>
+<text top="489" left="80" width="49" height="15" font="9"><b>6 TOTAL</b></text>
+<text top="490" left="133" width="202" height="14" font="20"><i>(Sum of Items 1a to 5h) (To Part II Item 13)</i></text>
+<text top="505" left="80" width="655" height="15" font="9"><b>Schedule 2 – Sale/Exchange of Shares of Stock through Primary Public Offering </b><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="519" left="83" width="26" height="15" font="9"><b>Date</b></text>
+<text top="519" left="330" width="32" height="15" font="9"><b>Seller</b></text>
+<text top="519" left="649" width="31" height="15" font="9"><b>Buyer</b></text>
+<text top="521" left="112" width="64" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="533" left="124" width="11" height="12" font="7">(a)</text>
+<text top="533" left="340" width="11" height="12" font="7">(b)</text>
+<text top="533" left="660" width="11" height="12" font="7">(c)</text>
+<text top="601" left="80" width="7" height="15" font="2">5</text>
+<text top="616" left="158" width="111" height="15" font="9"><b>Issuing Corporation </b></text>
+<text top="616" left="360" width="97" height="15" font="9"><b>Number of Shares</b></text>
+<text top="616" left="508" width="50" height="15" font="9"><b>Tax Base </b></text>
+<text top="616" left="613" width="44" height="15" font="9"><b>Tax Rate</b></text>
+<text top="616" left="727" width="44" height="15" font="9"><b>Tax Due </b></text>
+<text top="630" left="208" width="11" height="12" font="7">(d)</text>
+<text top="630" left="405" width="11" height="12" font="7">(e)</text>
+<text top="630" left="530" width="9" height="12" font="7">(f)</text>
+<text top="630" left="632" width="11" height="12" font="7">(g)</text>
+<text top="630" left="745" width="11" height="12" font="7">(h)</text>
+<text top="713" left="80" width="49" height="15" font="9"><b>6 TOTAL</b></text>
+<text top="714" left="133" width="202" height="14" font="20"><i>(Sum of Items 1h to 5h) (To Part II Item 14)</i></text>
+<text top="728" left="80" width="672" height="15" font="9"><b>Schedule 3 – Sale/Exchange of Shares of Stock through Secondary Public Offering </b><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="743" left="83" width="26" height="15" font="9"><b>Date</b></text>
+<text top="743" left="330" width="32" height="15" font="9"><b>Seller</b></text>
+<text top="743" left="649" width="31" height="15" font="9"><b>Buyer</b></text>
+<text top="745" left="112" width="64" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="757" left="124" width="11" height="12" font="7">(a)</text>
+<text top="757" left="340" width="11" height="12" font="7">(b)</text>
+<text top="757" left="660" width="11" height="12" font="7">(c)</text>
+<text top="825" left="80" width="7" height="15" font="2">5</text>
+<text top="840" left="158" width="111" height="15" font="9"><b>Issuing Corporation </b></text>
+<text top="840" left="360" width="97" height="15" font="9"><b>Number of Shares</b></text>
+<text top="840" left="508" width="50" height="15" font="9"><b>Tax Base </b></text>
+<text top="840" left="613" width="44" height="15" font="9"><b>Tax Rate</b></text>
+<text top="840" left="727" width="44" height="15" font="9"><b>Tax Due </b></text>
+<text top="854" left="208" width="11" height="12" font="7">(d)</text>
+<text top="854" left="405" width="11" height="12" font="7">(e)</text>
+<text top="854" left="530" width="9" height="12" font="7">(f)</text>
+<text top="854" left="632" width="11" height="12" font="7">(g)</text>
+<text top="854" left="745" width="11" height="12" font="7">(h)</text>
+<text top="937" left="80" width="49" height="15" font="9"><b>6 TOTAL</b></text>
+<text top="938" left="133" width="202" height="14" font="20"><i>(Sum of Items 1h to 5h) (To Part II Item 15)</i></text>
+<text top="956" left="155" width="380" height="16" font="11"><b>Part VI – Details of  Transactions not Subject to Percentage Tax </b></text>
+<text top="957" left="536" width="205" height="15" font="19"><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="971" left="83" width="26" height="15" font="9"><b>Date</b></text>
+<text top="971" left="255" width="32" height="15" font="9"><b>Seller</b></text>
+<text top="971" left="423" width="32" height="15" font="9"><b>Buyer</b></text>
+<text top="971" left="562" width="111" height="15" font="9"><b>Issuing Corporation </b></text>
+<text top="971" left="718" width="97" height="15" font="9"><b>Number of Shares</b></text>
+<text top="974" left="112" width="64" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="985" left="124" width="11" height="12" font="7">(a)</text>
+<text top="985" left="265" width="11" height="12" font="7">(b)</text>
+<text top="985" left="435" width="11" height="12" font="7">(c)</text>
+<text top="985" left="613" width="11" height="12" font="7">(d)</text>
+<text top="985" left="767" width="11" height="12" font="7">(d)</text>
+<text top="1053" left="80" width="7" height="15" font="2">5</text>
+<text top="320" left="80" width="7" height="15" font="2">1</text>
+<text top="335" left="80" width="7" height="15" font="2">2</text>
+<text top="349" left="80" width="7" height="15" font="2">3</text>
+<text top="363" left="80" width="7" height="15" font="2">4</text>
+<text top="418" left="80" width="7" height="15" font="2">1</text>
+<text top="432" left="80" width="7" height="15" font="2">2</text>
+<text top="446" left="80" width="7" height="15" font="2">3</text>
+<text top="461" left="80" width="7" height="15" font="2">4</text>
+<text top="475" left="80" width="7" height="15" font="2">5</text>
+<text top="544" left="80" width="7" height="15" font="2">1</text>
+<text top="558" left="80" width="7" height="15" font="2">2</text>
+<text top="573" left="80" width="7" height="15" font="2">3</text>
+<text top="587" left="80" width="7" height="15" font="2">4</text>
+<text top="642" left="80" width="7" height="15" font="2">1</text>
+<text top="656" left="80" width="7" height="15" font="2">2</text>
+<text top="670" left="80" width="7" height="15" font="2">3</text>
+<text top="685" left="80" width="7" height="15" font="2">4</text>
+<text top="699" left="80" width="7" height="15" font="2">5</text>
+<text top="768" left="80" width="7" height="15" font="2">1</text>
+<text top="782" left="80" width="7" height="15" font="2">2</text>
+<text top="796" left="80" width="7" height="15" font="2">3</text>
+<text top="811" left="80" width="7" height="15" font="2">4</text>
+<text top="866" left="80" width="7" height="15" font="2">1</text>
+<text top="880" left="80" width="7" height="15" font="2">2</text>
+<text top="894" left="80" width="7" height="15" font="2">3</text>
+<text top="908" left="80" width="7" height="15" font="2">4</text>
+<text top="923" left="80" width="7" height="15" font="2">5</text>
+<text top="996" left="80" width="7" height="15" font="2">1</text>
+<text top="1010" left="80" width="7" height="15" font="2">2</text>
+<text top="1025" left="80" width="7" height="15" font="2">3</text>
+<text top="1039" left="80" width="7" height="15" font="2">4</text>
+<text top="190" left="75" width="462" height="13" font="7">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO E...</text>
+<text top="189" left="763" width="58" height="15" font="2">123,456.78</text>
+<text top="202" left="799" width="23" height="15" font="2">0.00</text>
+<text top="218" left="799" width="23" height="15" font="2">0.00</text>
+<text top="232" left="799" width="23" height="15" font="2">0.00</text>
+<text top="246" left="798" width="23" height="15" font="2">0.00</text>
+<text top="321" left="93" width="58" height="15" font="2">03/14/2025</text>
+<text top="321" left="187" width="123" height="15" font="2">SAMPLE SELLER ONE</text>
+<text top="321" left="506" width="118" height="15" font="2">SAMPLE BUYER ONE</text>
+<text top="334" left="93" width="59" height="15" font="2">03/14/2025</text>
+<text top="334" left="187" width="126" height="15" font="2">SAMPLE SELLER TWO</text>
+<text top="334" left="506" width="122" height="15" font="2">SAMPLE BUYER TWO</text>
+<text top="349" left="93" width="58" height="15" font="2">03/13/2025</text>
+<text top="349" left="187" width="137" height="15" font="2">SAMPLE SELLER THREE</text>
+<text top="349" left="506" width="132" height="15" font="2">SAMPLE BUYER THREE</text>
+<text top="418" left="92" width="127" height="15" font="2">SAMPLE LISTED CORP</text>
+<text top="418" left="420" width="45" height="15" font="2">1,000.00</text>
+<text top="418" left="529" width="139" height="15" font="2">1,234,567.89 6/10 OF 1%</text>
+<text top="418" left="776" width="45" height="15" font="2">7,407.00</text>
+<text top="432" left="92" width="129" height="15" font="2">SAMPLE LISTED CORP</text>
+<text top="432" left="429" width="36" height="15" font="2">500.50</text>
+<text top="432" left="528" width="141" height="15" font="2">1,000,000.00 6/10 OF 1%</text>
+<text top="432" left="776" width="46" height="15" font="2">6,000.00</text>
+<text top="447" left="92" width="127" height="15" font="2">SAMPLE LISTED CORP</text>
+<text top="447" left="436" width="29" height="15" font="2">75.00</text>
+<text top="447" left="552" width="117" height="15" font="2">2,500.83 6/10 OF 1%</text>
+<text top="447" left="792" width="29" height="15" font="2">15.00</text>
+<text top="462" left="442" width="23" height="15" font="2">0.00</text>
+<text top="462" left="574" width="94" height="15" font="2">0.00 6/10 OF 1%</text>
+<text top="462" left="799" width="23" height="15" font="2">0.00</text>
+<text top="475" left="442" width="23" height="15" font="2">0.00</text>
+<text top="475" left="574" width="95" height="15" font="2">0.00 6/10 OF 1%</text>
+<text top="475" left="799" width="23" height="15" font="2">0.00</text>
+<text top="490" left="772" width="49" height="14" font="2">13,422.00</text>
+<text top="641" left="442" width="23" height="15" font="2">0.00</text>
+<text top="641" left="574" width="23" height="15" font="2">0.00</text>
+<text top="641" left="628" width="20" height="15" font="2">0 %</text>
+<text top="641" left="799" width="23" height="15" font="2">0.00</text>
+<text top="656" left="442" width="23" height="15" font="2">0.00</text>
+<text top="656" left="574" width="23" height="15" font="2">0.00</text>
+<text top="656" left="628" width="20" height="15" font="2">0 %</text>
+<text top="656" left="799" width="23" height="15" font="2">0.00</text>
+<text top="670" left="442" width="23" height="15" font="2">0.00</text>
+<text top="670" left="574" width="23" height="15" font="2">0.00</text>
+<text top="670" left="628" width="20" height="15" font="2">0 %</text>
+<text top="670" left="799" width="23" height="15" font="2">0.00</text>
+<text top="685" left="442" width="23" height="15" font="2">0.00</text>
+<text top="685" left="574" width="23" height="15" font="2">0.00</text>
+<text top="685" left="628" width="20" height="15" font="2">0 %</text>
+<text top="685" left="799" width="23" height="15" font="2">0.00</text>
+<text top="700" left="442" width="23" height="15" font="2">0.00</text>
+<text top="700" left="574" width="23" height="15" font="2">0.00</text>
+<text top="700" left="628" width="20" height="15" font="2">0 %</text>
+<text top="700" left="799" width="23" height="15" font="2">0.00</text>
+<text top="713" left="800" width="22" height="15" font="2">0.00</text>
+<text top="867" left="442" width="23" height="15" font="2">0.00</text>
+<text top="867" left="574" width="23" height="15" font="2">0.00</text>
+<text top="867" left="628" width="20" height="15" font="2">0 %</text>
+<text top="867" left="799" width="23" height="15" font="2">0.00</text>
+<text top="879" left="442" width="23" height="15" font="2">0.00</text>
+<text top="879" left="574" width="23" height="15" font="2">0.00</text>
+<text top="879" left="628" width="20" height="15" font="2">0 %</text>
+<text top="879" left="799" width="23" height="15" font="2">0.00</text>
+<text top="895" left="442" width="23" height="15" font="2">0.00</text>
+<text top="895" left="574" width="23" height="15" font="2">0.00</text>
+<text top="895" left="628" width="20" height="15" font="2">0 %</text>
+<text top="895" left="799" width="23" height="15" font="2">0.00</text>
+<text top="908" left="442" width="23" height="15" font="2">0.00</text>
+<text top="908" left="574" width="23" height="15" font="2">0.00</text>
+<text top="908" left="628" width="20" height="15" font="2">0 %</text>
+<text top="908" left="799" width="23" height="15" font="2">0.00</text>
+<text top="924" left="442" width="23" height="15" font="2">0.00</text>
+<text top="924" left="574" width="23" height="15" font="2">0.00</text>
+<text top="924" left="628" width="20" height="15" font="2">0 %</text>
+<text top="924" left="799" width="23" height="15" font="2">0.00</text>
+<text top="938" left="798" width="23" height="15" font="2">0.00</text>
+<text top="997" left="92" width="58" height="15" font="2">03/12/2025</text>
+<text top="997" left="187" width="116" height="15" font="2">SAMPLE SELLER SIX</text>
+<text top="997" left="356" width="112" height="15" font="2">SAMPLE BUYER SIX</text>
+<text top="997" left="525" width="127" height="15" font="2">OTHER SAMPLE CORP</text>
+<text top="997" left="792" width="29" height="15" font="2">42.00</text>
+<text top="1010" left="798" width="23" height="15" font="2">0.00</text>
+<text top="1026" left="799" width="23" height="15" font="2">0.00</text>
+<text top="1038" left="798" width="23" height="15" font="2">0.00</text>
+<text top="1054" left="798" width="23" height="15" font="2">0.00</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="22" size="11" family="Times" color="#212121"/>
+	<fontspec id="23" size="9" family="Times" color="#444444"/>
+	<fontspec id="24" size="10" family="Times" color="#444444"/>
+	<fontspec id="25" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="129" height="19" font="15"><b>BIR Form No. 2552</b></text>
+<text top="49" left="688" width="124" height="15" font="9"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="326" height="15" font="22">Percentage Tax Return on Transactions Involving Shares of Stock</text>
+<text top="86" left="80" width="275" height="13" font="23">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="24"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="24"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="1">TESTING</text>
+<text top="111" left="656" width="101" height="14" font="24"><b>Date of Transaction:</b></text>
+<text top="111" left="757" width="56" height="14" font="1"> 03/14/2025</text>
+<text top="194" left="80" width="190" height="16" font="11"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="23">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="5"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="5"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="5"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="25">Page 1</text>
+<text top="242" left="160" width="119" height="13" font="7">Item 10A — If yes, specify</text>
+<text top="242" left="394" width="388" height="13" font="7">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY </text>
+<text top="255" left="394" width="163" height="13" font="7">WORDS TO EXERCISE WRAPPING</text>
+<text top="277" left="102" width="31" height="13" font="25">Page 2</text>
+<text top="277" left="160" width="181" height="13" font="7">Part IV row 1 Transaction Classification</text>
+<text top="277" left="394" width="388" height="13" font="7">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY </text>
+<text top="290" left="394" width="163" height="13" font="7">WORDS TO EXERCISE WRAPPING</text>
+</page>
+</pdf2xml>

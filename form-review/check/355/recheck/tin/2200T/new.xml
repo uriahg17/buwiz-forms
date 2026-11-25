@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="2" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="21" family="Times" color="#000000"/>
+	<fontspec id="4" size="11" family="Times" color="#000000"/>
+	<fontspec id="5" size="28" family="Times" color="#000000"/>
+	<fontspec id="6" size="14" family="Times" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="15" family="Times" color="#000000"/>
+	<fontspec id="9" size="11" family="Times" color="#000000"/>
+	<fontspec id="10" size="11" family="Times" color="#000000"/>
+	<fontspec id="11" size="9" family="Times" color="#000000"/>
+	<fontspec id="12" size="8" family="Times" color="#000000"/>
+	<fontspec id="13" size="10" family="Times" color="#000000"/>
+	<fontspec id="14" size="6" family="EAAAAA+NotoSansMono" color="#000000"/>
+	<fontspec id="15" size="12" family="Times" color="#000000"/>
+	<fontspec id="16" size="12" family="Times" color="#000000"/>
+	<fontspec id="17" size="9" family="Times" color="#000000"/>
+	<fontspec id="18" size="8" family="Times" color="#000000"/>
+	<fontspec id="19" size="9" family="Times" color="#000000"/>
+<text top="14" left="67" width="1" height="3" font="0">.</text>
+<text top="43" left="385" width="134" height="14" font="1"><b>Republic of the Philippines</b></text>
+<text top="54" left="69" width="33" height="14" font="2">For BIR</text>
+<text top="55" left="122" width="25" height="14" font="2">BCS/</text>
+<text top="55" left="385" width="121" height="14" font="1"><b>    Department of Finance</b></text>
+<text top="66" left="69" width="76" height="14" font="2">Use Only Item:</text>
+<text top="67" left="385" width="132" height="14" font="1"><b>Bureau of Internal Revenue</b></text>
+<text top="84" left="309" width="217" height="27" font="3"><b>EXCISE TAX RETURN</b></text>
+<text top="90" left="97" width="71" height="15" font="4">BIR Form No. </text>
+<text top="104" left="86" width="92" height="38" font="5"><b>2200-T</b></text>
+<text top="109" left="291" width="242" height="19" font="6"><b>for Tobacco, Heated Tobacco, Vapor</b></text>
+<text top="126" left="317" width="198" height="19" font="6"><b>and Novel Tobacco Products </b></text>
+<text top="137" left="81" width="100" height="15" font="4">August 2022 (ENCS)</text>
+<text top="143" left="218" width="403" height="14" font="7"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable</i></text>
+<text top="150" left="116" width="34" height="14" font="1"><b>Page 1</b></text>
+<text top="153" left="714" width="106" height="14" font="2">2200-T 08/22ENCS P1 </text>
+<text top="156" left="216" width="403" height="14" font="7"><i>boxes with an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.</i></text>
+<text top="170" left="245" width="4" height="21" font="8"><b>/</b></text>
+<text top="170" left="302" width="4" height="21" font="8"><b>/</b></text>
+<text top="173" left="72" width="35" height="15" font="9"><b>1 </b>Date</text>
+<text top="173" left="393" width="104" height="15" font="9"><b>2</b> Amended Return? </text>
+<text top="173" left="623" width="7" height="15" font="9"><b>3</b></text>
+<text top="173" left="534" width="20" height="15" font="4">Yes</text>
+<text top="173" left="596" width="15" height="15" font="4">No</text>
+<text top="173" left="633" width="138" height="15" font="4">Number of Sheet/s Attached</text>
+<text top="174" left="110" width="74" height="14" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="191" left="357" width="178" height="15" font="9"><b>Part I – Background Information</b></text>
+<text top="207" left="416" width="5" height="19" font="6"><b>-</b></text>
+<text top="207" left="492" width="5" height="19" font="6"><b>-</b></text>
+<text top="207" left="568" width="5" height="19" font="6"><b>-</b></text>
+<text top="209" left="74" width="205" height="15" font="9"><b>4 </b>Taxpayer Identification Number <i>(TIN)</i></text>
+<text top="209" left="682" width="64" height="15" font="9"><b>5</b> RDO Code </text>
+<text top="226" left="74" width="106" height="15" font="9"><b>6</b> Taxpayer’s Name </text>
+<text top="228" left="180" width="378" height="12" font="11"><i>(Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)</i></text>
+<text top="259" left="74" width="114" height="15" font="9"><b>7</b> Registered Address</text>
+<text top="262" left="192" width="561" height="11" font="12"><i>(Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905))</i></text>
+<text top="295" left="660" width="63" height="15" font="9"><b>7A</b> ZIP Code</text>
+<text top="311" left="74" width="96" height="15" font="9"><b>8</b> Contact Number</text>
+<text top="311" left="302" width="85" height="15" font="9"><b>9</b> Email Address </text>
+<text top="313" left="174" width="96" height="14" font="7"><i>(Landline/Cellphone No.)</i></text>
+<text top="345" left="74" width="115" height="15" font="9"><b>10</b> Place of Production</text>
+<text top="359" left="74" width="38" height="15" font="4">Region</text>
+<text top="359" left="187" width="46" height="15" font="4">Province</text>
+<text top="359" left="549" width="18" height="15" font="4">City</text>
+<text top="392" left="74" width="108" height="15" font="9"><b>11</b> Place of Removal </text>
+<text top="407" left="74" width="38" height="15" font="4">Region</text>
+<text top="407" left="187" width="46" height="15" font="4">Province</text>
+<text top="407" left="549" width="18" height="15" font="4">City</text>
+<text top="440" left="74" width="277" height="15" font="9"><b>12 </b>Are you availing of tax relief under Special Law or</text>
+<text top="440" left="397" width="95" height="15" font="9"><b>12A</b> If yes, specify</text>
+<text top="454" left="93" width="131" height="15" font="4">International Tax Treaty?</text>
+<text top="454" left="266" width="91" height="15" font="4">Yes                 No</text>
+<text top="475" left="369" width="153" height="15" font="9"><b>Part II – Manner of Payment</b></text>
+<text top="490" left="74" width="13" height="15" font="9"><b>13</b></text>
+<text top="490" left="117" width="149" height="15" font="4">Payment on Actual Removal</text>
+<text top="490" left="321" width="13" height="15" font="9"><b>14</b></text>
+<text top="490" left="364" width="155" height="15" font="4">Prepayment/Advance Deposit</text>
+<text top="510" left="74" width="13" height="15" font="9"><b>15</b></text>
+<text top="510" left="117" width="125" height="15" font="4">Other Similar Schemes </text>
+<text top="511" left="242" width="40" height="14" font="7"><i>(specify)</i></text>
+<text top="531" left="348" width="196" height="15" font="9"><b>Part III – Payments and Application</b></text>
+<text top="549" left="74" width="99" height="15" font="9"><b>16</b> Excise Tax Due</text>
+<text top="550" left="177" width="131" height="14" font="13"><i><b>(from Part V – Schedule 1)</b></i></text>
+<text top="558" left="777" width="4" height="9" font="14">●</text>
+<text top="569" left="74" width="300" height="15" font="9"><b>17 </b>Less: <b>17A</b> Balance Carried Over from Previous Return  </text>
+<text top="578" left="777" width="4" height="9" font="14">●</text>
+<text top="589" left="124" width="204" height="15" font="9"><b>17B</b> Creditable Excise Tax, if applicable</text>
+<text top="598" left="777" width="4" height="9" font="14">●</text>
+<text top="609" left="149" width="28" height="16" font="15">Total</text>
+<text top="609" left="124" width="22" height="15" font="9"><b>17C</b></text>
+<text top="610" left="180" width="133" height="14" font="7"><i>(Sum of Items 17A and 17B)</i></text>
+<text top="618" left="777" width="4" height="9" font="14">●</text>
+<text top="629" left="88" width="160" height="16" font="15"> Net Tax Due/(Overpayment<i>)</i></text>
+<text top="629" left="74" width="13" height="15" font="9"><b>18</b></text>
+<text top="630" left="251" width="110" height="14" font="7"><i>(Item 16 less Item 17C)</i></text>
+<text top="638" left="777" width="4" height="9" font="14">●</text>
+<text top="649" left="74" width="449" height="15" font="9"><b>19</b> Less: Payment on Returns Previously Filed for the Same Period, if amended return  </text>
+<text top="658" left="777" width="4" height="9" font="14">●</text>
+<text top="669" left="236" width="4" height="16" font="16"><i>)</i></text>
+<text top="669" left="74" width="162" height="15" font="9"><b>20</b> Tax Still Due/(Overpayment</text>
+<text top="670" left="244" width="102" height="14" font="7"><i>(Item 18 less Item 19)</i></text>
+<text top="678" left="777" width="4" height="9" font="14">●</text>
+<text top="689" left="74" width="183" height="15" font="9"><b>21</b> Add: Penalties   <b>21A </b>Surcharge</text>
+<text top="698" left="777" width="4" height="9" font="14">●</text>
+<text top="709" left="176" width="64" height="15" font="9"><b>21B </b>Interest</text>
+<text top="718" left="777" width="4" height="9" font="14">●</text>
+<text top="729" left="176" width="92" height="15" font="9"><b>21C </b>Compromise</text>
+<text top="738" left="777" width="4" height="9" font="14">●</text>
+<text top="748" left="176" width="103" height="15" font="9"><b>21D</b> Total Penalties</text>
+<text top="750" left="283" width="125" height="14" font="7"><i>(Sum of Items 21A to 21C)</i></text>
+<text top="757" left="777" width="4" height="9" font="14">●</text>
+<text top="768" left="74" width="189" height="15" font="9"><b>22</b> Amount Payable/(Overpayment) </text>
+<text top="770" left="264" width="126" height="14" font="7"><i>(Sum of Items 20 and 21D)</i></text>
+<text top="778" left="777" width="4" height="9" font="14">●</text>
+<text top="788" left="74" width="310" height="15" font="9"><b>23 </b>Less: Payment Made Today <b>23A</b> Tax Payment/Deposit</text>
+<text top="797" left="777" width="4" height="9" font="14">●</text>
+<text top="808" left="248" width="74" height="15" font="9"><b>23B </b>Penalties</text>
+<text top="809" left="326" width="74" height="14" font="7"><i>(from Item 21D)</i></text>
+<text top="817" left="777" width="4" height="9" font="14">●</text>
+<text top="828" left="248" width="171" height="15" font="9"><b>23C</b> Total Payment Made Today</text>
+<text top="829" left="422" width="131" height="14" font="7"><i>(Sum of Items 23A and 23B)</i></text>
+<text top="837" left="777" width="4" height="9" font="14">●</text>
+<text top="848" left="74" width="240" height="15" font="9"><b>24</b> Balance to be Carried Over to Next Return</text>
+<text top="849" left="318" width="109" height="14" font="7"><i>(Item 22 less Item 23C)</i></text>
+<text top="857" left="777" width="4" height="9" font="14">●</text>
+<text top="866" left="72" width="735" height="12" font="17">          I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct, pursuant to the </text>
+<text top="876" left="72" width="739" height="12" font="17">provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data </text>
+<text top="887" left="72" width="429" height="12" font="17">Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. <i>(If Authorized Representative, attach authorization letter)</i></text>
+<text top="898" left="74" width="61" height="13" font="17">For Individual: </text>
+<text top="898" left="455" width="82" height="13" font="17">For Non-Individual:</text>
+<text top="943" left="94" width="323" height="12" font="17">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent </text>
+<text top="943" left="477" width="314" height="12" font="17">Signature over Printed Name of President/Vice President/Authorized Officer or</text>
+<text top="953" left="185" width="145" height="12" font="11"><i>(Indicate Title/Designation and TIN)</i></text>
+<text top="953" left="510" width="251" height="12" font="17">Representative/Tax Agent <i>(Indicate Title/Designation and TIN)</i></text>
+<text top="964" left="416" width="58" height="14" font="2">Date of Issue</text>
+<text top="964" left="635" width="64" height="14" font="2">Date of Expiry </text>
+<text top="966" left="88" width="105" height="11" font="18">Tax Agent Accreditation No./</text>
+<text top="976" left="81" width="124" height="11" font="18">Attorney’s Roll No. (if applicable)</text>
+<text top="977" left="415" width="62" height="12" font="11"><i>(MM/DD/YYYY)</i></text>
+<text top="977" left="633" width="62" height="12" font="11"><i>(MM/DD/YYYY)</i></text>
+<text top="989" left="368" width="155" height="15" font="9"><b>Part IV – Details of Payment</b></text>
+<text top="1005" left="103" width="61" height="15" font="9"><b>Particulars</b></text>
+<text top="1005" left="330" width="45" height="15" font="9"><b>Number</b></text>
+<text top="1005" left="434" width="26" height="15" font="9"><b>Date</b></text>
+<text top="1005" left="672" width="43" height="15" font="9"><b>Amount</b></text>
+<text top="1006" left="206" width="81" height="13" font="19"><b>Drawee Bank/Agency </b></text>
+<text top="1006" left="463" width="72" height="14" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="1022" left="74" width="113" height="15" font="9"><b>25 </b>Cash/Bank Debit Memo</text>
+<text top="1031" left="777" width="4" height="9" font="14">●</text>
+<text top="1042" left="74" width="50" height="15" font="9"><b>26 </b>Check</text>
+<text top="1051" left="777" width="4" height="9" font="14">●</text>
+<text top="1062" left="74" width="103" height="15" font="9"><b>27</b> Tax Debit Memo</text>
+<text top="1071" left="777" width="4" height="9" font="14">●</text>
+<text top="1079" left="74" width="52" height="15" font="9"><b>28 </b>Others</text>
+<text top="1080" left="130" width="40" height="14" font="7"><i>(specify)</i></text>
+<text top="1111" left="777" width="4" height="9" font="14">●</text>
+<text top="1119" left="74" width="370" height="14" font="7"><i>Machine Validation/Revenue Official Receipt Details (if not filed with an Authorized Agent Bank)</i></text>
+<text top="1119" left="573" width="239" height="14" font="7"><i>Stamp of Receiving Office/AAB and Date of Receipt </i></text>
+<text top="1125" left="609" width="166" height="14" font="7"><i>(RO’s Signature/Bank Teller’s Initial</i></text>
+<text top="1126" left="776" width="3" height="12" font="11"><i>)</i></text>
+<text top="1188" left="67" width="397" height="13" font="19"><b>*NOTE</b>: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)</text>
+<text top="173" left="206" width="24" height="14" font="2">0 3</text>
+<text top="173" left="264" width="24" height="14" font="2">1 4</text>
+<text top="173" left="321" width="62" height="14" font="2">2 0 2 5</text>
+<text top="173" left="796" width="24" height="14" font="2">0 1</text>
+<text top="173" left="573" width="8" height="14" font="2">X</text>
+<text top="210" left="359" width="43" height="14" font="2">0 0 0</text>
+<text top="210" left="436" width="43" height="14" font="2">1 2 3</text>
+<text top="210" left="511" width="43" height="14" font="2">4 5 3</text>
+<text top="210" left="587" width="81" height="14" font="2">0 0 0 0 0</text>
+<text top="210" left="777" width="43" height="14" font="2">0 3 9</text>
+<text top="244" left="70" width="753" height="13" font="17">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TE...</text>
+<text top="275" left="70" width="546" height="15" font="4">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="295" left="70" width="413" height="15" font="4">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="296" left="758" width="62" height="14" font="2">1 1 0 0</text>
+<text top="329" left="74" width="137" height="14" font="2">0 9 1 7 1 2 3 4</text>
+<text top="329" left="225" width="5" height="14" font="2">5</text>
+<text top="329" left="244" width="5" height="14" font="2">6</text>
+<text top="329" left="264" width="5" height="14" font="2">7</text>
+<text top="328" left="297" width="249" height="15" font="4">juana.santos.independent.print.check@example.com</text>
+<text top="377" left="73" width="44" height="14" font="2">N C R</text>
+<text top="377" left="186" width="45" height="14" font="2">N C R</text>
+<text top="377" left="263" width="43" height="14" font="2">T H I</text>
+<text top="377" left="320" width="26" height="14" font="2">R D</text>
+<text top="377" left="377" width="25" height="14" font="2">D I</text>
+<text top="377" left="416" width="101" height="14" font="2">S T R I C T</text>
+<text top="377" left="548" width="24" height="14" font="2">C I</text>
+<text top="377" left="587" width="26" height="14" font="2">T Y</text>
+<text top="377" left="643" width="26" height="14" font="2">O F</text>
+<text top="377" left="700" width="44" height="14" font="2">P A S</text>
+<text top="377" left="758" width="25" height="14" font="2">I G</text>
+<text top="423" left="70" width="73" height="15" font="4">REGION IV-A</text>
+<text top="424" left="186" width="62" height="14" font="2">C A V I</text>
+<text top="424" left="263" width="26" height="14" font="2">T E</text>
+<text top="424" left="548" width="102" height="14" font="2">B A C O O R</text>
+<text top="458" left="393" width="428" height="13" font="17">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS...</text>
+<text top="456" left="249" width="8" height="14" font="2">X</text>
+<text top="514" left="317" width="507" height="13" font="17">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE W...</text>
+<text top="513" left="97" width="8" height="14" font="2">X</text>
+<text top="551" left="682" width="81" height="14" font="2">6 0 4 1 3</text>
+<text top="551" left="796" width="24" height="14" font="2">4 7</text>
+<text top="570" left="701" width="62" height="14" font="2">1 0 0 0</text>
+<text top="570" left="796" width="24" height="14" font="2">0 0</text>
+<text top="590" left="720" width="43" height="14" font="2">2 3 4</text>
+<text top="590" left="796" width="24" height="14" font="2">5 7</text>
+<text top="610" left="701" width="62" height="14" font="2">1 2 3 4</text>
+<text top="610" left="796" width="24" height="14" font="2">5 7</text>
+<text top="630" left="682" width="81" height="14" font="2">5 9 1 7 8</text>
+<text top="630" left="796" width="24" height="14" font="2">9 0</text>
+<text top="650" left="757" width="5" height="14" font="2">0</text>
+<text top="650" left="796" width="24" height="14" font="2">0 0</text>
+<text top="670" left="682" width="81" height="14" font="2">5 9 1 7 8</text>
+<text top="670" left="796" width="24" height="14" font="2">9 0</text>
+<text top="690" left="738" width="24" height="14" font="2">2 5</text>
+<text top="690" left="796" width="24" height="14" font="2">5 0</text>
+<text top="710" left="738" width="24" height="14" font="2">1 0</text>
+<text top="710" left="796" width="24" height="14" font="2">0 0</text>
+<text top="730" left="701" width="62" height="14" font="2">1 0 0 0</text>
+<text top="730" left="796" width="24" height="14" font="2">0 0</text>
+<text top="750" left="701" width="62" height="14" font="2">1 0 3 5</text>
+<text top="750" left="796" width="24" height="14" font="2">5 0</text>
+<text top="770" left="682" width="81" height="14" font="2">6 0 2 1 4</text>
+<text top="770" left="796" width="24" height="14" font="2">4 0</text>
+<text top="790" left="682" width="81" height="14" font="2">5 0 0 0 0</text>
+<text top="790" left="796" width="24" height="14" font="2">0 0</text>
+<text top="809" left="701" width="62" height="14" font="2">1 0 3 5</text>
+<text top="809" left="796" width="24" height="14" font="2">5 0</text>
+<text top="830" left="682" width="81" height="14" font="2">5 1 0 3 5</text>
+<text top="830" left="796" width="24" height="14" font="2">5 0</text>
+<text top="849" left="701" width="62" height="14" font="2">9 1 7 8</text>
+<text top="849" left="796" width="24" height="14" font="2">9 0</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="20" size="9" family="Times" color="#000000"/>
+<text top="44" left="97" width="71" height="15" font="4">BIR Form No. </text>
+<text top="52" left="309" width="217" height="27" font="3"><b>EXCISE TAX RETURN</b></text>
+<text top="58" left="86" width="92" height="38" font="5"><b>2200-T</b></text>
+<text top="76" left="292" width="246" height="19" font="6"><b>for Tobacco, Heated Tobacco, Vapor</b></text>
+<text top="92" left="81" width="100" height="15" font="4">August 2022 (ENCS)</text>
+<text top="93" left="318" width="198" height="19" font="6"><b>and Novel Tobacco Products </b></text>
+<text top="103" left="714" width="106" height="14" font="2">2200-T 08/22ENCS P2 </text>
+<text top="106" left="116" width="34" height="14" font="1"><b>Page 2</b></text>
+<text top="120" left="74" width="19" height="15" font="9"><b>TIN</b></text>
+<text top="120" left="340" width="96" height="15" font="9"><b>Taxpayer’s Name</b></text>
+<text top="162" left="395" width="102" height="15" font="9"><b>Part V - Schedules</b></text>
+<text top="178" left="74" width="607" height="15" font="9"><b>Schedule 1 – Summary of Removals and Excise Tax Due on Tobacco Products Chargeable Against Payment</b></text>
+<text top="194" left="586" width="52" height="15" font="9"><b>Tax Base </b></text>
+<text top="195" left="638" width="104" height="13" font="20"><i><b>(Value/Volume of Removal)</b></i></text>
+<text top="195" left="367" width="65" height="15" font="9"><b>Tax Bracket/ </b></text>
+<text top="195" left="753" width="63" height="15" font="9"><b>Basic Excise</b></text>
+<text top="201" left="84" width="23" height="15" font="9"><b>ATC</b></text>
+<text top="201" left="210" width="61" height="15" font="9"><b>Description</b></text>
+<text top="201" left="460" width="104" height="15" font="9"><b>Applicable Tax Rate </b></text>
+<text top="207" left="358" width="82" height="15" font="9"><b>Unit of Measure</b></text>
+<text top="207" left="770" width="38" height="15" font="9"><b>Tax Due</b></text>
+<text top="209" left="588" width="77" height="15" font="9"><b>Export/Exempt</b></text>
+<text top="209" left="692" width="39" height="15" font="9"><b>Taxable</b></text>
+<text top="223" left="127" width="108" height="15" font="9"><b>1.) Tobacco Products</b></text>
+<text top="238" left="142" width="202" height="15" font="4">a.)  Tobacco  twisted  by  hand  or  reduced</text>
+<text top="250" left="161" width="185" height="15" font="4">into a condition to be consumed in any</text>
+<text top="263" left="161" width="184" height="15" font="4">manner other than the ordinary mode</text>
+<text top="275" left="366" width="66" height="15" font="4">Per   Kilogram</text>
+<text top="276" left="161" width="97" height="15" font="4">of drying and curing </text>
+<text top="290" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="290" left="499" width="27" height="15" font="4">P2.50</text>
+<text top="304" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="305" left="499" width="27" height="15" font="4">P2.60</text>
+<text top="319" left="450" width="118" height="12" font="17">Rate shall be increased by 4% every</text>
+<text top="318" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="329" left="464" width="99" height="12" font="17">year effective January 1, 2024</text>
+<text top="340" left="142" width="55" height="15" font="4">b.)  Tobacco</text>
+<text top="340" left="221" width="45" height="15" font="4">prepared</text>
+<text top="340" left="284" width="10" height="15" font="4">or</text>
+<text top="340" left="312" width="39" height="15" font="4">partially</text>
+<text top="353" left="161" width="185" height="15" font="4">prepared with or without the use of any</text>
+<text top="366" left="161" width="185" height="15" font="4">machine or instrument or without being</text>
+<text top="372" left="80" width="31" height="14" font="2">XT010</text>
+<text top="379" left="161" width="108" height="15" font="4">pressed or sweetened </text>
+<text top="385" left="369" width="60" height="15" font="4">Per Kilogram</text>
+<text top="392" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="393" left="499" width="27" height="15" font="4">P2.50</text>
+<text top="407" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="407" left="499" width="27" height="15" font="4">P2.60</text>
+<text top="421" left="450" width="118" height="12" font="17">Rate shall be increased by 4% every</text>
+<text top="421" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="432" left="464" width="99" height="12" font="17">year effective January 1, 2024</text>
+<text top="443" left="144" width="185" height="15" font="4">c.) Fine-cut shorts and refuse, scraps,</text>
+<text top="456" left="162" width="187" height="15" font="4">clippings, cuttings, stems, midribs and </text>
+<text top="468" left="162" width="103" height="15" font="4">sweepings of tobacco</text>
+<text top="481" left="369" width="60" height="15" font="4">Per Kilogram</text>
+<text top="482" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="482" left="499" width="27" height="15" font="4">P2.50</text>
+<text top="496" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="497" left="499" width="27" height="15" font="4">P2.60</text>
+<text top="511" left="450" width="118" height="12" font="17">Rate shall be increased by 4% every</text>
+<text top="511" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="521" left="464" width="99" height="12" font="17">year effective January 1, 2024</text>
+<text top="532" left="130" width="206" height="15" font="9"><b>2.) Chewing tobacco</b> unsuitable for use in</text>
+<text top="545" left="145" width="86" height="15" font="4">any other manner </text>
+<text top="559" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="559" left="499" width="27" height="15" font="4">P2.13</text>
+<text top="564" left="369" width="60" height="15" font="4">Per Kilogram</text>
+<text top="564" left="80" width="31" height="14" font="2">XT020</text>
+<text top="573" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="573" left="499" width="27" height="15" font="4">P2.22</text>
+<text top="588" left="450" width="118" height="12" font="17">Rate shall be increased by 4% every</text>
+<text top="587" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="598" left="464" width="99" height="12" font="17">year effective January 1, 2024</text>
+<text top="609" left="130" width="44" height="15" font="9"><b>3.) Cigars</b></text>
+<text top="623" left="144" width="183" height="15" font="4">a.) Ad Valorem Tax Based on the Net</text>
+<text top="636" left="162" width="139" height="15" font="4">Retail Price (NRP) per Cigar </text>
+<text top="649" left="162" width="166" height="15" font="4">[excluding the excise and valued-</text>
+<text top="661" left="79" width="33" height="15" font="4">XT035</text>
+<text top="661" left="365" width="72" height="15" font="4">NRP Per Cigar </text>
+<text top="662" left="162" width="83" height="15" font="4">added tax (VAT)] </text>
+<text top="676" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="676" left="502" width="22" height="15" font="4">20%</text>
+<text top="690" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="690" left="502" width="22" height="15" font="4">20%</text>
+<text top="704" left="450" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="704" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="715" left="464" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="726" left="144" width="173" height="15" font="4">b.) In addition to Ad Valorem Tax, a</text>
+<text top="739" left="162" width="108" height="15" font="4">Specific Tax per Cigar </text>
+<text top="753" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="753" left="499" width="27" height="15" font="4">P7.10</text>
+<text top="758" left="79" width="33" height="15" font="4">XT036</text>
+<text top="758" left="378" width="45" height="15" font="4">Per Cigar </text>
+<text top="767" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="767" left="499" width="27" height="15" font="4">P7.38</text>
+<text top="781" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="781" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="792" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="803" left="130" width="64" height="15" font="9"><b>4.) Cigarettes</b></text>
+<text top="812" left="367" width="66" height="14" font="2">Per pack of 20s or</text>
+<text top="817" left="144" width="146" height="15" font="4">a.) Cigarettes packed by hand</text>
+<text top="824" left="374" width="52" height="14" font="2">any packaging</text>
+<text top="832" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="832" left="496" width="34" height="15" font="4">P55.00</text>
+<text top="836" left="364" width="71" height="14" font="2">combinations of not</text>
+<text top="835" left="79" width="33" height="15" font="4">XT040</text>
+<text top="846" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="846" left="496" width="34" height="15" font="4">P60.00</text>
+<text top="848" left="377" width="47" height="14" font="2">more than 20</text>
+<text top="860" left="369" width="61" height="14" font="2">packed by hands</text>
+<text top="860" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="860" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="871" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="882" left="144" width="160" height="15" font="4">b.) Cigarettes packed by machine</text>
+<text top="889" left="367" width="66" height="14" font="2">Per pack of 20s or</text>
+<text top="895" left="232" width="3" height="14" font="2">)</text>
+<text top="895" left="162" width="70" height="14" font="2">(RA No. 11346</text>
+<text top="901" left="374" width="52" height="14" font="2">any packaging</text>
+<text top="908" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="908" left="496" width="34" height="15" font="4">P55.00</text>
+<text top="913" left="79" width="33" height="15" font="4">XT155</text>
+<text top="913" left="364" width="71" height="14" font="2">combinations of not</text>
+<text top="922" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="922" left="496" width="34" height="15" font="4">P60.00</text>
+<text top="925" left="377" width="47" height="14" font="2">more than 20</text>
+<text top="936" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="936" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="938" left="365" width="70" height="14" font="2">packed by machine</text>
+<text top="947" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="958" left="130" width="148" height="15" font="9"><b>5.) Heated Tobacco Products</b></text>
+<text top="959" left="367" width="67" height="14" font="2">Per pack of twenty</text>
+<text top="971" left="145" width="126" height="14" font="2">(RA No. 11346 and 11467)</text>
+<text top="971" left="371" width="59" height="14" font="2">(20) units or any</text>
+<text top="983" left="383" width="39" height="14" font="2">packaging</text>
+<text top="984" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="984" left="496" width="34" height="15" font="4">P30.00</text>
+<text top="989" left="79" width="33" height="15" font="4">XT160</text>
+<text top="995" left="365" width="71" height="14" font="2">combinations of not</text>
+<text top="998" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="998" left="496" width="34" height="15" font="4">P32.50</text>
+<text top="1008" left="370" width="62" height="14" font="2">more than twenty</text>
+<text top="1012" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="1012" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="1020" left="385" width="32" height="14" font="2">(20) units</text>
+<text top="1023" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="1034" left="130" width="179" height="15" font="9"><b>6.) Vapor Products </b>(RA No. 11467)</text>
+<text top="1048" left="142" width="154" height="15" font="4">a.) Nicotine Salt or Salt Nicotine</text>
+<text top="1054" left="366" width="69" height="15" font="4">Per Milliliter or </text>
+<text top="1063" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="1063" left="496" width="34" height="15" font="4">P47.00</text>
+<text top="1066" left="79" width="33" height="15" font="4">XT170</text>
+<text top="1066" left="379" width="42" height="15" font="4">a fraction</text>
+<text top="1077" left="161" width="125" height="15" font="4">Effective January 1, 2023 </text>
+<text top="1077" left="496" width="34" height="15" font="4">P52.00</text>
+<text top="1079" left="384" width="35" height="15" font="4">thereof</text>
+<text top="1091" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="1091" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="1117" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="1118" left="142" width="192" height="15" font="4">b.) Conventional “Freebase” or Classic”</text>
+<text top="1126" left="159" width="40" height="15" font="4">Nicotine</text>
+<text top="1131" left="370" width="58" height="15" font="4">Per Ten (10)</text>
+<text top="1139" left="161" width="124" height="15" font="4">Effective January 1, 2022 </text>
+<text top="1139" left="496" width="34" height="15" font="4">P55.00</text>
+<text top="1144" left="79" width="33" height="15" font="4">XT180</text>
+<text top="1144" left="369" width="64" height="15" font="4">Milliliters or a </text>
+<text top="1154" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="1154" left="496" width="34" height="15" font="4">P60.00</text>
+<text top="1157" left="365" width="73" height="15" font="4">fraction thereof </text>
+<text top="1168" left="452" width="120" height="12" font="17">Rate shall be increased by 5% every </text>
+<text top="1168" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="1178" left="463" width="97" height="12" font="17">year effective January 1, 2024</text>
+<text top="141" left="74" width="137" height="14" font="2">0 0 0 1 2 3 4 5</text>
+<text top="141" left="225" width="5" height="14" font="2">3</text>
+<text top="141" left="244" width="5" height="14" font="2">0</text>
+<text top="141" left="264" width="5" height="14" font="2">0</text>
+<text top="141" left="283" width="5" height="14" font="2">0</text>
+<text top="141" left="302" width="24" height="14" font="2">0 0</text>
+<text top="134" left="336" width="469" height="15" font="4">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="146" left="336" width="422" height="15" font="4">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="291" left="581" width="18" height="14" font="2">0.00</text>
+<text top="291" left="729" width="18" height="14" font="2">0.00</text>
+<text top="291" left="804" width="18" height="14" font="2">0.00</text>
+<text top="305" left="581" width="18" height="14" font="2">0.00</text>
+<text top="305" left="729" width="18" height="14" font="2">0.00</text>
+<text top="305" left="804" width="18" height="14" font="2">0.00</text>
+<text top="394" left="581" width="18" height="14" font="2">0.00</text>
+<text top="394" left="729" width="18" height="14" font="2">0.00</text>
+<text top="394" left="804" width="18" height="14" font="2">0.00</text>
+<text top="407" left="581" width="18" height="14" font="2">0.00</text>
+<text top="407" left="729" width="18" height="14" font="2">0.00</text>
+<text top="407" left="804" width="18" height="14" font="2">0.00</text>
+<text top="483" left="581" width="18" height="14" font="2">0.00</text>
+<text top="483" left="729" width="18" height="14" font="2">0.00</text>
+<text top="483" left="804" width="18" height="14" font="2">0.00</text>
+<text top="497" left="581" width="18" height="14" font="2">0.00</text>
+<text top="497" left="729" width="18" height="14" font="2">0.00</text>
+<text top="497" left="804" width="18" height="14" font="2">0.00</text>
+<text top="560" left="581" width="18" height="14" font="2">0.00</text>
+<text top="560" left="729" width="18" height="14" font="2">0.00</text>
+<text top="560" left="804" width="18" height="14" font="2">0.00</text>
+<text top="574" left="581" width="18" height="14" font="2">0.00</text>
+<text top="574" left="729" width="18" height="14" font="2">0.00</text>
+<text top="574" left="804" width="18" height="14" font="2">0.00</text>
+<text top="676" left="581" width="18" height="14" font="2">0.00</text>
+<text top="676" left="676" width="18" height="14" font="2">0.00</text>
+<text top="676" left="751" width="18" height="14" font="2">0.00</text>
+<text top="691" left="581" width="18" height="14" font="2">0.00</text>
+<text top="691" left="676" width="18" height="14" font="2">0.00</text>
+<text top="691" left="751" width="18" height="14" font="2">0.00</text>
+<text top="753" left="653" width="18" height="14" font="2">0.00</text>
+<text top="753" left="729" width="18" height="14" font="2">0.00</text>
+<text top="753" left="804" width="18" height="14" font="2">0.00</text>
+<text top="768" left="653" width="18" height="14" font="2">0.00</text>
+<text top="768" left="729" width="18" height="14" font="2">0.00</text>
+<text top="768" left="804" width="18" height="14" font="2">0.00</text>
+<text top="832" left="581" width="18" height="14" font="2">0.00</text>
+<text top="832" left="729" width="18" height="14" font="2">0.00</text>
+<text top="832" left="804" width="18" height="14" font="2">0.00</text>
+<text top="847" left="581" width="18" height="14" font="2">0.00</text>
+<text top="847" left="729" width="18" height="14" font="2">0.00</text>
+<text top="847" left="804" width="18" height="14" font="2">0.00</text>
+<text top="908" left="581" width="18" height="14" font="2">0.00</text>
+<text top="908" left="729" width="18" height="14" font="2">0.00</text>
+<text top="908" left="804" width="18" height="14" font="2">0.00</text>
+<text top="923" left="581" width="29" height="14" font="2">120.00</text>
+<text top="923" left="711" width="37" height="14" font="2">1,000.50</text>
+<text top="923" left="780" width="42" height="14" font="2">60,030.01</text>
+<text top="984" left="581" width="18" height="14" font="2">0.00</text>
+<text top="984" left="729" width="18" height="14" font="2">0.00</text>
+<text top="984" left="804" width="18" height="14" font="2">0.00</text>
+<text top="999" left="581" width="18" height="14" font="2">0.00</text>
+<text top="999" left="729" width="18" height="14" font="2">0.00</text>
+<text top="999" left="804" width="18" height="14" font="2">0.00</text>
+<text top="1063" left="581" width="18" height="14" font="2">0.00</text>
+<text top="1063" left="729" width="18" height="14" font="2">0.00</text>
+<text top="1063" left="804" width="18" height="14" font="2">0.00</text>
+<text top="1078" left="581" width="18" height="14" font="2">0.00</text>
+<text top="1078" left="729" width="18" height="14" font="2">0.00</text>
+<text top="1078" left="804" width="18" height="14" font="2">0.00</text>
+<text top="1140" left="581" width="18" height="14" font="2">0.00</text>
+<text top="1140" left="729" width="18" height="14" font="2">0.00</text>
+<text top="1140" left="804" width="18" height="14" font="2">0.00</text>
+<text top="1154" left="581" width="18" height="14" font="2">0.00</text>
+<text top="1154" left="729" width="18" height="14" font="2">0.00</text>
+<text top="1154" left="804" width="18" height="14" font="2">0.00</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="21" size="11" family="Times" color="#000000"/>
+<text top="46" left="97" width="71" height="15" font="4">BIR Form No. </text>
+<text top="53" left="309" width="217" height="27" font="3"><b>EXCISE TAX RETURN</b></text>
+<text top="59" left="86" width="92" height="38" font="5"><b>2200-T</b></text>
+<text top="78" left="292" width="242" height="19" font="6"><b>for Tobacco, Heated Tobacco, Vapor</b></text>
+<text top="94" left="81" width="100" height="15" font="4">August 2022 (ENCS)</text>
+<text top="94" left="318" width="198" height="19" font="6"><b>and Novel Tobacco Products</b></text>
+<text top="105" left="714" width="106" height="14" font="2">2200-T 08/22ENCS P3 </text>
+<text top="107" left="116" width="34" height="14" font="1"><b>Page 3</b></text>
+<text top="121" left="74" width="19" height="15" font="9"><b>TIN</b></text>
+<text top="121" left="340" width="96" height="15" font="9"><b>Taxpayer’s Name</b></text>
+<text top="164" left="74" width="144" height="15" font="9"><b>Schedule 1 –<i>continuation</i></b></text>
+<text top="180" left="586" width="52" height="15" font="9"><b>Tax Base </b></text>
+<text top="181" left="638" width="104" height="13" font="20"><i><b>(Value/Volume of Removal)</b></i></text>
+<text top="181" left="367" width="65" height="15" font="9"><b>Tax Bracket/ </b></text>
+<text top="181" left="753" width="63" height="15" font="9"><b>Basic Excise</b></text>
+<text top="187" left="84" width="23" height="15" font="9"><b>ATC</b></text>
+<text top="187" left="210" width="61" height="15" font="9"><b>Description</b></text>
+<text top="187" left="460" width="104" height="15" font="9"><b>Applicable Tax Rate </b></text>
+<text top="193" left="358" width="82" height="15" font="9"><b>Unit of Measure</b></text>
+<text top="193" left="770" width="38" height="15" font="9"><b>Tax Due</b></text>
+<text top="194" left="588" width="77" height="15" font="9"><b>Export/Exempt</b></text>
+<text top="194" left="692" width="39" height="15" font="9"><b>Taxable</b></text>
+<text top="209" left="130" width="142" height="15" font="9"><b>7.) Novel Tobacco Products</b></text>
+<text top="222" left="145" width="73" height="14" font="2">(RA No. 11900)</text>
+<text top="235" left="161" width="126" height="15" font="4">Effective August 10, 2022 </text>
+<text top="235" left="499" width="27" height="15" font="4">P2.50</text>
+<text top="241" left="79" width="33" height="15" font="4">XT210</text>
+<text top="241" left="369" width="60" height="15" font="4">Per Kilogram</text>
+<text top="250" left="161" width="124" height="15" font="4">Effective January 1, 2023 </text>
+<text top="250" left="499" width="27" height="15" font="4">P2.60</text>
+<text top="264" left="450" width="118" height="12" font="17">Rate shall be increased by 4% every</text>
+<text top="263" left="161" width="71" height="15" font="4">2024 Onwards </text>
+<text top="274" left="464" width="99" height="12" font="17">year effective January 1, 2024</text>
+<text top="285" left="74" width="129" height="15" font="9"><b>Tobacco Inspection Fees</b></text>
+<text top="299" left="362" width="79" height="14" font="2">Per 1,000 cigars or a </text>
+<text top="305" left="79" width="33" height="15" font="4">XT080</text>
+<text top="305" left="130" width="65" height="15" font="4">1.) For Cigars</text>
+<text top="305" left="499" width="27" height="15" font="4">P0.50</text>
+<text top="311" left="377" width="56" height="14" font="2">fraction thereof </text>
+<text top="324" left="363" width="77" height="14" font="2">Per 1,000 sticks or a </text>
+<text top="329" left="79" width="33" height="15" font="4">XT090</text>
+<text top="329" left="130" width="83" height="15" font="4">2.) For Cigarettes</text>
+<text top="329" left="499" width="27" height="15" font="4">P0.10</text>
+<text top="336" left="377" width="56" height="14" font="2">fraction thereof </text>
+<text top="348" left="368" width="65" height="14" font="2">Per Kilogram or a </text>
+<text top="354" left="79" width="33" height="15" font="4">XT100</text>
+<text top="354" left="130" width="100" height="15" font="4">3.) For Leaf Tobacco</text>
+<text top="354" left="499" width="27" height="15" font="4">P0.02</text>
+<text top="361" left="373" width="56" height="14" font="2">fraction thereof </text>
+<text top="373" left="368" width="65" height="14" font="2">Per Kilogram or a </text>
+<text top="373" left="130" width="187" height="15" font="4">4.) For scraps and other manufactured</text>
+<text top="380" left="79" width="33" height="15" font="4">XT110</text>
+<text top="380" left="499" width="27" height="15" font="4">P0.03</text>
+<text top="385" left="373" width="56" height="14" font="2">fraction thereof </text>
+<text top="386" left="148" width="84" height="15" font="4">tobacco products </text>
+<text top="400" left="130" width="196" height="15" font="4">5.) Additional imported blending tobacco</text>
+<text top="406" left="79" width="33" height="15" font="4">XT120</text>
+<text top="413" left="148" width="141" height="15" font="4">inspection and monitoring fee</text>
+<text top="426" left="368" width="65" height="14" font="2">Per Kilogram or a </text>
+<text top="432" left="148" width="29" height="15" font="4">-  Leaf</text>
+<text top="432" left="499" width="27" height="15" font="4">P0.02</text>
+<text top="438" left="373" width="56" height="14" font="2">fraction thereof </text>
+<text top="451" left="362" width="79" height="14" font="2">Per 1,000 cigars or a </text>
+<text top="451" left="148" width="177" height="15" font="4">- partially manufactured (scraps and</text>
+<text top="457" left="499" width="27" height="15" font="4">P0.50</text>
+<text top="463" left="377" width="56" height="14" font="2">fraction thereof </text>
+<text top="464" left="159" width="31" height="15" font="4">strips)</text>
+<text top="478" left="79" width="33" height="15" font="4">XT190</text>
+<text top="478" left="130" width="142" height="15" font="4">6.) Heated Tobacco Products</text>
+<text top="478" left="499" width="27" height="15" font="4">P0.10</text>
+<text top="478" left="373" width="56" height="14" font="2">Per 1,000 units </text>
+<text top="492" left="380" width="43" height="14" font="2">Per Milliliter </text>
+<text top="492" left="79" width="33" height="15" font="4">XT200</text>
+<text top="492" left="130" width="90" height="15" font="4">7.) Vapor Products</text>
+<text top="492" left="499" width="27" height="15" font="4">P0.01</text>
+<text top="506" left="79" width="33" height="15" font="4">XT220</text>
+<text top="506" left="130" width="134" height="15" font="4">8.) Novel Tobacco Products</text>
+<text top="506" left="499" width="27" height="15" font="4">P0.03</text>
+<text top="507" left="377" width="48" height="14" font="2">Per Kilogram </text>
+<text top="520" left="74" width="36" height="15" font="9"><b>Others</b></text>
+<text top="521" left="113" width="40" height="14" font="7"><i>(specify)</i></text>
+<text top="534" left="79" width="14" height="15" font="4">XT</text>
+<text top="548" left="79" width="14" height="15" font="4">XT</text>
+<text top="563" left="79" width="14" height="15" font="4">XT</text>
+<text top="578" left="74" width="181" height="14" font="1"><b>TOTAL TAX DUE </b><i>(To Part III, Item 16)</i></text>
+<text top="142" left="74" width="137" height="14" font="2">0 0 0 1 2 3 4 5</text>
+<text top="142" left="225" width="5" height="14" font="2">3</text>
+<text top="142" left="244" width="5" height="14" font="2">0</text>
+<text top="142" left="264" width="5" height="14" font="2">0</text>
+<text top="142" left="283" width="5" height="14" font="2">0</text>
+<text top="142" left="302" width="24" height="14" font="2">0 0</text>
+<text top="135" left="336" width="471" height="15" font="4">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="147" left="336" width="424" height="15" font="4">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="305" left="581" width="18" height="14" font="2">0.00</text>
+<text top="305" left="729" width="18" height="14" font="2">0.00</text>
+<text top="305" left="804" width="18" height="14" font="2">0.00</text>
+<text top="329" left="581" width="18" height="14" font="2">0.00</text>
+<text top="329" left="692" width="55" height="14" font="2">1,234,567.89</text>
+<text top="329" left="793" width="29" height="14" font="2">123.46</text>
+<text top="355" left="581" width="18" height="14" font="2">0.00</text>
+<text top="355" left="729" width="18" height="14" font="2">0.00</text>
+<text top="355" left="804" width="18" height="14" font="2">0.00</text>
+<text top="380" left="581" width="18" height="14" font="2">0.00</text>
+<text top="380" left="729" width="18" height="14" font="2">0.00</text>
+<text top="380" left="804" width="18" height="14" font="2">0.00</text>
+<text top="432" left="581" width="18" height="14" font="2">0.00</text>
+<text top="432" left="729" width="18" height="14" font="2">0.00</text>
+<text top="432" left="804" width="18" height="14" font="2">0.00</text>
+<text top="458" left="581" width="18" height="14" font="2">0.00</text>
+<text top="458" left="729" width="18" height="14" font="2">0.00</text>
+<text top="458" left="804" width="18" height="14" font="2">0.00</text>
+<text top="479" left="581" width="18" height="14" font="2">0.00</text>
+<text top="479" left="676" width="18" height="14" font="2">0.00</text>
+<text top="479" left="751" width="18" height="14" font="2">0.00</text>
+<text top="492" left="581" width="18" height="14" font="2">0.00</text>
+<text top="492" left="729" width="18" height="14" font="2">0.00</text>
+<text top="492" left="804" width="18" height="14" font="2">0.00</text>
+<text top="534" left="95" width="16" height="14" font="2">999</text>
+<text top="535" left="124" width="132" height="14" font="2">SAMPLE OTHER PRODUCT</text>
+<text top="535" left="358" width="51" height="14" font="2">PER PACK</text>
+<text top="535" left="504" width="18" height="14" font="2">5.00</text>
+<text top="535" left="581" width="18" height="14" font="2">0.00</text>
+<text top="535" left="729" width="18" height="14" font="2">2.00</text>
+<text top="535" left="798" width="24" height="14" font="2">10.00</text>
+<text top="549" left="581" width="18" height="14" font="2">0.00</text>
+<text top="549" left="729" width="18" height="14" font="2">0.00</text>
+<text top="549" left="804" width="18" height="14" font="2">0.00</text>
+<text top="563" left="581" width="18" height="14" font="2">0.00</text>
+<text top="563" left="729" width="18" height="14" font="2">0.00</text>
+<text top="563" left="804" width="18" height="14" font="2">0.00</text>
+<text top="579" left="780" width="42" height="14" font="2">60,413.47</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="22" size="11" family="Times" color="#212121"/>
+	<fontspec id="23" size="9" family="Times" color="#444444"/>
+	<fontspec id="24" size="10" family="Times" color="#444444"/>
+	<fontspec id="25" size="12" family="Times" color="#000000"/>
+	<fontspec id="26" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="138" height="19" font="6"><b>BIR Form No. 2200T</b></text>
+<text top="49" left="688" width="124" height="15" font="9"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="198" height="15" font="22">Excise Tax Return for Tobacco Products</text>
+<text top="86" left="80" width="275" height="13" font="23">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="24"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="2"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="24"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="2"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="2">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="2">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="2">TESTING</text>
+<text top="111" left="730" width="26" height="14" font="24"><b>Date:</b></text>
+<text top="111" left="757" width="56" height="14" font="2"> 03/14/2025</text>
+<text top="194" left="80" width="190" height="16" font="25"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="23">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="19"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="19"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="19"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="26">Page 1</text>
+<text top="242" left="160" width="115" height="13" font="17">Item 6 — Taxpayer Name</text>
+<text top="242" left="394" width="398" height="13" font="17">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="255" left="394" width="370" height="13" font="17">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="277" left="102" width="31" height="13" font="26">Page 1</text>
+<text top="277" left="160" width="119" height="13" font="17">Item 12A — If yes, specify</text>
+<text top="277" left="394" width="388" height="13" font="17">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY </text>
+<text top="290" left="394" width="163" height="13" font="17">WORDS TO EXERCISE WRAPPING</text>
+<text top="311" left="102" width="31" height="13" font="26">Page 1</text>
+<text top="311" left="160" width="197" height="13" font="17">Item 15 — Other Similar Schemes (specify)</text>
+<text top="311" left="394" width="388" height="13" font="17">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY </text>
+<text top="324" left="394" width="163" height="13" font="17">WORDS TO EXERCISE WRAPPING</text>
+</page>
+</pdf2xml>
