@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="21" family="Times" color="#000000"/>
+	<fontspec id="4" size="28" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+	<fontspec id="8" size="12" family="Times" color="#000000"/>
+	<fontspec id="9" size="12" family="Times" color="#000000"/>
+	<fontspec id="10" size="12" family="Times" color="#000000"/>
+	<fontspec id="11" size="8" family="Times" color="#000000"/>
+	<fontspec id="12" size="6" family="Times" color="#000000"/>
+	<fontspec id="13" size="9" family="Times" color="#000000"/>
+	<fontspec id="14" size="8" family="Times" color="#000000"/>
+	<fontspec id="15" size="7" family="Times" color="#000000"/>
+	<fontspec id="16" size="9" family="Times" color="#000000"/>
+	<fontspec id="17" size="10" family="Times" color="#000000"/>
+	<fontspec id="18" size="13" family="Times" color="#000000"/>
+	<fontspec id="19" size="10" family="Times" color="#ffffff"/>
+	<fontspec id="20" size="10" family="Times" color="#ffffff"/>
+<text top="33" left="401" width="133" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="45" left="401" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="46" left="131" width="25" height="14" font="1">BCS/</text>
+<text top="47" left="77" width="32" height="14" font="1">For BIR</text>
+<text top="57" left="401" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="59" left="131" width="23" height="14" font="1">Item:</text>
+<text top="60" left="77" width="43" height="14" font="1">Use Only</text>
+<text top="81" left="104" width="71" height="15" font="2">BIR Form No. </text>
+<text top="82" left="210" width="371" height="27" font="3"><b>Documentary Stamp Tax Declaration/</b></text>
+<text top="94" left="83" width="114" height="38" font="4"><b>2000-OT</b></text>
+<text top="106" left="234" width="320" height="27" font="3"><b>Return (One-Time Transactions) </b></text>
+<text top="128" left="84" width="75" height="15" font="2">January 2018 </text>
+<text top="129" left="159" width="36" height="14" font="1">(ENCS)</text>
+<text top="131" left="213" width="363" height="12" font="5"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable </i></text>
+<text top="141" left="123" width="34" height="14" font="0"><b>Page 1</b></text>
+<text top="142" left="214" width="361" height="12" font="5"><i>boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.</i></text>
+<text top="145" left="691" width="114" height="14" font="1">2000-OT 01/18ENCS P1 </text>
+<text top="163" left="82" width="117" height="15" font="6"><b>1</b> Date of Transaction </text>
+<text top="163" left="287" width="104" height="15" font="6"><b>2</b> Amended Return? </text>
+<text top="163" left="410" width="170" height="15" font="6"><b>3</b> Alphanumeric Tax Code <i>(ATC)</i></text>
+<text top="163" left="657" width="148" height="15" font="6"><b>4 </b>Number of Sheet/s Attached</text>
+<text top="165" left="199" width="64" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="182" left="311" width="20" height="15" font="2">Yes</text>
+<text top="182" left="369" width="15" height="15" font="2">No</text>
+<text top="182" left="430" width="37" height="15" font="2">DO 102 </text>
+<text top="182" left="513" width="37" height="15" font="2">DO 122 </text>
+<text top="182" left="595" width="36" height="15" font="2">DO 125 </text>
+<text top="206" left="350" width="188" height="16" font="8"><b>Part I – Background Information</b></text>
+<text top="222" left="613" width="7" height="15" font="6"><b>6</b></text>
+<text top="223" left="623" width="115" height="14" font="1">RDO Code of Location of </text>
+<text top="228" left="82" width="216" height="16" font="8"><b>5</b> Taxpayer Identification Number <i>(TIN)</i></text>
+<text top="236" left="625" width="55" height="14" font="1">the Property</text>
+<text top="249" left="82" width="112" height="16" font="8"><b>7</b> Taxpayer’s Name </text>
+<text top="252" left="194" width="359" height="11" font="11"><i>(Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)</i></text>
+<text top="286" left="82" width="120" height="16" font="8"><b>8</b> Registered Address</text>
+<text top="289" left="206" width="564" height="11" font="11"><i>(Indicate complete address. If branch, indicate the branch address. If registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="325" left="654" width="70" height="16" font="8"><b>8A</b> ZIP Code </text>
+<text top="343" left="82" width="100" height="16" font="8"><b>9</b> Contact Number </text>
+<text top="343" left="328" width="96" height="16" font="8"><b>10</b> Email Address </text>
+<text top="384" left="78" width="179" height="16" font="8"><b>11</b> Other Party to the transaction </text>
+<text top="384" left="331" width="129" height="16" font="9">Seller/Transferor/Donor</text>
+<text top="384" left="540" width="128" height="15" font="2">Buyer/Transferee/Donee</text>
+<text top="403" left="78" width="59" height="16" font="8"><b>11A </b>Name</text>
+<text top="405" left="141" width="395" height="13" font="5"><i>(Last Name, First Name, Middle Name for Individual)/(Registered Name for Non-Individual)</i></text>
+<text top="442" left="471" width="46" height="16" font="8"><b>11B </b>TIN</text>
+<text top="461" left="78" width="138" height="16" font="8"><b>12 </b>Nature of Transaction</text>
+<text top="476" left="121" width="393" height="15" font="2">Transfer of Shares of Stock Not Traded Through the Local Stock Exchange </text>
+<text top="490" left="134" width="334" height="13" font="5"><i>(Does not include original issue of shares of stock by the issuing corporation) </i></text>
+<text top="505" left="123" width="275" height="15" font="2">Transfer  of Real Property Classified as Capital Asset</text>
+<text top="505" left="487" width="267" height="15" font="2">Transfer  of Real Property Other Than Capital Asset</text>
+<text top="523" left="74" width="162" height="16" font="8"><b>13 </b>Location of Real Property </text>
+<text top="525" left="236" width="179" height="13" font="5"><i>(if sale/transfer/donation of real property)</i></text>
+<text top="564" left="362" width="161" height="16" font="8"><b>Part II – Computation of Tax</b></text>
+<text top="583" left="78" width="186" height="16" font="8"><b>14 </b>Taxable Base-Shares of Stock</text>
+<text top="586" left="270" width="247" height="13" font="5"><i>From Part IV Schedule 1.B column (d) or (e), whichever is applicable]</i></text>
+<text top="586" left="763" width="4" height="9" font="12">●</text>
+<text top="586" left="268" width="3" height="12" font="5"><i>[</i></text>
+<text top="605" left="78" width="184" height="16" font="8"><b>15 </b>Taxable Base – Real Property</text>
+<text top="607" left="265" width="145" height="13" font="5"><i>(From Part IV Schedule 2 Item 2)</i></text>
+<text top="608" left="763" width="4" height="9" font="12">●</text>
+<text top="627" left="78" width="68" height="16" font="8"><b>16 </b>Tax Rate</text>
+<text top="648" left="78" width="68" height="16" font="8"><b>17 </b>Tax Due </text>
+<text top="650" left="146" width="107" height="13" font="5"><i>(Item 14 or 15 x Item 16) </i></text>
+<text top="651" left="763" width="4" height="9" font="12">●</text>
+<text top="669" left="78" width="392" height="16" font="8"><b>18 </b>Less: Tax Paid in Return previously filed, if this is an amended return</text>
+<text top="672" left="763" width="4" height="9" font="12">●</text>
+<text top="690" left="78" width="178" height="16" font="8"><b>19 </b>Tax Still Due/(Overpayment) </text>
+<text top="692" left="256" width="96" height="13" font="5"><i>(Item 17 less Item 18)</i></text>
+<text top="708" left="78" width="97" height="16" font="8"><b>20 </b>Add: Penalties   </text>
+<text top="726" left="123" width="84" height="16" font="8"><b>20A </b>Surcharge</text>
+<text top="729" left="763" width="4" height="9" font="12">●</text>
+<text top="747" left="124" width="68" height="16" font="8"><b>20B </b>Interest</text>
+<text top="750" left="763" width="4" height="9" font="12">●</text>
+<text top="768" left="124" width="97" height="16" font="8"><b>20C </b>Compromise</text>
+<text top="771" left="763" width="4" height="9" font="12">●</text>
+<text top="789" left="124" width="109" height="16" font="8"><b>20D </b>Total Penalties</text>
+<text top="791" left="237" width="117" height="13" font="5"><i>(Sum of Items 20A to 20C)</i></text>
+<text top="792" left="763" width="4" height="9" font="12">●</text>
+<text top="810" left="77" width="243" height="16" font="8"><b>21 Total Amount Payable/(Overpayment) </b></text>
+<text top="812" left="320" width="117" height="13" font="5"><i>(Sum of Items 19 and 20D)</i></text>
+<text top="813" left="763" width="4" height="9" font="12">●</text>
+<text top="831" left="82" width="516" height="15" font="2">In case of overpayment, apply for tax refund using BIR Form No. 1914 (Application for Tax Credits / Refunds)</text>
+<text top="849" left="117" width="693" height="13" font="13">We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct pursuant to </text>
+<text top="849" left="112" width="5" height="13" font="13">I/</text>
+<text top="860" left="82" width="726" height="13" font="13">the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the</text>
+<text top="871" left="82" width="475" height="13" font="13">*Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. <i>(If Authorized Representative, attach Special Power of Attorney)</i></text>
+<text top="883" left="82" width="62" height="14" font="1">For Individual:</text>
+<text top="883" left="417" width="84" height="14" font="1">For Non-Individual:</text>
+<text top="933" left="81" width="325" height="12" font="13">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent</text>
+<text top="933" left="414" width="395" height="11" font="14">Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent </text>
+<text top="943" left="548" width="128" height="11" font="11"><i>(Indicate title/designation and TIN)</i></text>
+<text top="943" left="180" width="130" height="11" font="11"><i>(Indicate title/designation and TIN)</i></text>
+<text top="954" left="407" width="58" height="14" font="1">Date of Issue</text>
+<text top="954" left="627" width="64" height="14" font="1">Date of Expiry </text>
+<text top="954" left="77" width="124" height="13" font="13">Tax Agent Accreditation No./ </text>
+<text top="966" left="76" width="79" height="12" font="13">Attorney’s Roll No. </text>
+<text top="966" left="405" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="966" left="628" width="62" height="12" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="967" left="155" width="47" height="10" font="15"><i>(if applicable)</i></text>
+<text top="982" left="82" width="426" height="16" font="8"><b>                                                                            Part III – Details of Payment</b></text>
+<text top="998" left="424" width="27" height="16" font="8"><b>Date</b></text>
+<text top="998" left="667" width="45" height="16" font="8"><b>Amount</b></text>
+<text top="998" left="103" width="61" height="15" font="6"><b>Particulars</b></text>
+<text top="998" left="312" width="45" height="15" font="6"><b>Number</b></text>
+<text top="1000" left="194" width="81" height="13" font="16"><b>Drawee Bank/Agency </b></text>
+<text top="1000" left="455" width="72" height="14" font="17"><i>(MM/DD/YYYY)</i></text>
+<text top="1017" left="431" width="4" height="17" font="18"><b>/</b></text>
+<text top="1017" left="484" width="4" height="17" font="18"><b>/</b></text>
+<text top="1018" left="77" width="13" height="15" font="6"><b>22</b></text>
+<text top="1021" left="94" width="90" height="11" font="14">Cash/Bank Debit Memo</text>
+<text top="1029" left="768" width="4" height="9" font="12">●</text>
+<text top="1039" left="431" width="4" height="17" font="18"><b>/</b></text>
+<text top="1039" left="484" width="4" height="17" font="18"><b>/</b></text>
+<text top="1039" left="77" width="50" height="15" font="6"><b>23 </b>Check</text>
+<text top="1049" left="768" width="4" height="9" font="12">●</text>
+<text top="1060" left="431" width="4" height="17" font="18"><b>/</b></text>
+<text top="1060" left="484" width="4" height="17" font="18"><b>/</b></text>
+<text top="1060" left="77" width="103" height="15" font="6"><b>24</b> Tax Debit Memo</text>
+<text top="1070" left="768" width="4" height="9" font="12">●</text>
+<text top="1078" left="78" width="52" height="15" font="6"><b>25 </b>Others</text>
+<text top="1079" left="133" width="40" height="14" font="17"><i>(specify)</i></text>
+<text top="1095" left="431" width="4" height="17" font="18"><b>/</b></text>
+<text top="1095" left="484" width="4" height="17" font="18"><b>/</b></text>
+<text top="1111" left="768" width="4" height="9" font="12">●</text>
+<text top="1118" left="573" width="231" height="13" font="5"><i>Stamp of Authorized Agent Bank and Date of Receipt </i></text>
+<text top="1119" left="82" width="87" height="15" font="7"><i>Machine Validation</i></text>
+<text top="1126" left="647" width="85" height="13" font="5"><i>(Bank Teller’s Initial)</i></text>
+<text top="1191" left="71" width="343" height="14" font="1">*Note: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph) </text>
+<text top="1205" left="83" width="422" height="14" font="19"><b>NOTE:</b> Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)</text>
+<text top="183" left="102" width="150" height="15" font="2">0 6 1 5 2 0 2 5</text>
+<text top="183" left="719" width="27" height="15" font="2">0 0</text>
+<text top="181" left="292" width="8" height="15" font="2">X</text>
+<text top="182" left="490" width="8" height="15" font="2">X</text>
+<text top="229" left="328" width="274" height="15" font="2">0 0 0 1 2 3 4 5 3 0 0 0 0 0</text>
+<text top="229" left="760" width="47" height="15" font="2">0 3 9</text>
+<text top="270" left="77" width="726" height="13" font="13">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLO...</text>
+<text top="305" left="77" width="556" height="15" font="2">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="325" left="77" width="409" height="15" font="2">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="325" left="740" width="68" height="15" font="2">1 1 0 0</text>
+<text top="362" left="82" width="211" height="15" font="2">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="362" left="323" width="279" height="15" font="2">juana.santos.independent.print.check@example.com</text>
+<text top="384" left="309" width="8" height="15" font="2">X</text>
+<text top="421" left="82" width="109" height="15" font="2">S A M P L E</text>
+<text top="421" left="225" width="90" height="15" font="2">B U Y E R</text>
+<text top="421" left="347" width="70" height="15" font="2">C O R P</text>
+<text top="443" left="533" width="233" height="15" font="2">9 8 7 6 5 4 3 2 1 0 0 0</text>
+<text top="506" left="102" width="8" height="15" font="2">X</text>
+<text top="543" left="77" width="417" height="15" font="2">BARANGAY SAN LORENZO LONG LOCATION DESCRIPTION MAKATI CITY</text>
+<text top="583" left="743" width="7" height="15" font="2">0</text>
+<text top="583" left="780" width="27" height="15" font="2">0 0</text>
+<text top="605" left="617" width="132" height="15" font="2">9 8 7 6 5 4 3</text>
+<text top="605" left="780" width="27" height="15" font="2">2 1</text>
+<text top="627" left="702" width="63" height="15" font="2">P15 / P1,000</text>
+<text top="648" left="638" width="111" height="15" font="2">1 4 8 1 5 5</text>
+<text top="648" left="780" width="27" height="15" font="2">0 0</text>
+<text top="669" left="638" width="111" height="15" font="2">2 0 0 0 0 0</text>
+<text top="669" left="780" width="27" height="15" font="2">0 0</text>
+<text top="691" left="752" width="61" height="15" font="2">(51,845.00)</text>
+<text top="726" left="659" width="90" height="15" font="2">1 2 3 4 5</text>
+<text top="726" left="780" width="27" height="15" font="2">6 7</text>
+<text top="747" left="659" width="90" height="15" font="2">2 3 4 5 6</text>
+<text top="747" left="780" width="27" height="15" font="2">7 8</text>
+<text top="769" left="680" width="70" height="15" font="2">3 4 5 6</text>
+<text top="769" left="780" width="27" height="15" font="2">8 9</text>
+<text top="789" left="659" width="90" height="15" font="2">3 9 2 5 9</text>
+<text top="789" left="780" width="27" height="15" font="2">3 4</text>
+<text top="810" left="659" width="90" height="15" font="2">3 9 2 5 9</text>
+<text top="810" left="780" width="27" height="15" font="2">3 4</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="21" size="19" family="Times" color="#000000"/>
+	<fontspec id="22" size="11" family="Times" color="#000000"/>
+	<fontspec id="23" size="7" family="DAAAAA+NotoSansMono" color="#000000"/>
+<text top="69" left="104" width="71" height="15" font="2">BIR Form No. </text>
+<text top="83" left="208" width="348" height="26" font="21"><b>Documentary Stamp Tax Declaration/ </b></text>
+<text top="83" left="83" width="114" height="38" font="4"><b>2000-OT</b></text>
+<text top="105" left="232" width="300" height="26" font="21"><b>Return (One-Time Transactions) </b></text>
+<text top="116" left="89" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="128" left="123" width="33" height="14" font="0"><b>Page 2 </b></text>
+<text top="129" left="691" width="114" height="14" font="1">2000-OT 01/18ENCS P2 </text>
+<text top="142" left="85" width="20" height="16" font="8"><b>TIN</b></text>
+<text top="142" left="339" width="101" height="16" font="8"><b>Taxpayer’s Name </b></text>
+<text top="186" left="387" width="57" height="16" font="8"><b>PART IV -</b></text>
+<text top="187" left="447" width="58" height="15" font="6"><b>Schedules</b></text>
+<text top="202" left="319" width="3" height="16" font="8"><b>/</b></text>
+<text top="203" left="85" width="357" height="15" font="6"><b>Schedule 1– Brief Description of Property Shares of Stock Sold</b></text>
+<text top="204" left="447" width="179" height="14" font="17"><i>(Attach additional sheet/s if necessary)</i></text>
+<text top="218" left="85" width="106" height="15" font="6"><b>1.A - Real Property</b></text>
+<text top="233" left="85" width="99" height="14" font="0"><b>   OCT/TCT/CCT No.</b></text>
+<text top="233" left="238" width="121" height="14" font="0"><b>Tax Declaration No. (TD) </b></text>
+<text top="233" left="572" width="42" height="14" font="0"><b>Location</b></text>
+<text top="323" left="92" width="7" height="15" font="2">5</text>
+<text top="344" left="85" width="165" height="15" font="22"><i><b>Continuation of Schedule 1.A</b></i></text>
+<text top="361" left="707" width="85" height="14" font="0"><b>Fair Market Value </b></text>
+<text top="365" left="324" width="23" height="14" font="0"><b>Area</b></text>
+<text top="365" left="387" width="115" height="14" font="0"><b>Fair Market Value (FMV)</b></text>
+<text top="365" left="537" width="130" height="14" font="0"><b>FMV per BIR (Zonal Value) </b></text>
+<text top="372" left="91" width="121" height="14" font="0"><b>          Lot / Improvement</b></text>
+<text top="373" left="229" width="63" height="12" font="16"><b>*Classification</b></text>
+<text top="373" left="710" width="79" height="12" font="5"><i>(whichever is higher </i></text>
+<text top="378" left="318" width="35" height="14" font="0"><b>(sq.m.)</b></text>
+<text top="378" left="402" width="87" height="14" font="0"><b>per TD </b><i>(Column 1)</i></text>
+<text top="378" left="577" width="50" height="14" font="17"><i>(Column 2)</i></text>
+<text top="384" left="701" width="98" height="12" font="5"><i>between Columns 1 &amp; 2)</i></text>
+<text top="494" left="85" width="38" height="15" font="2">TOTAL</text>
+<text top="496" left="126" width="102" height="13" font="5"><i>(To Schedule 2 Item B)</i></text>
+<text top="515" left="85" width="125" height="16" font="8"><b>1.B - Shares of Stock</b></text>
+<text top="531" left="451" width="28" height="15" font="2">Stock</text>
+<text top="532" left="649" width="156" height="15" font="2">DST Paid Upon Original Issue </text>
+<text top="534" left="522" width="104" height="15" font="2">Par Value of Shares </text>
+<text top="538" left="352" width="51" height="15" font="2">Number of</text>
+<text top="545" left="141" width="132" height="15" font="2">Name of Corporate Stock </text>
+<text top="545" left="439" width="52" height="15" font="2">Certificate</text>
+<text top="546" left="666" width="118" height="15" font="2">of Shares of Stock Sold</text>
+<text top="547" left="523" width="102" height="13" font="5"><i>(for shares of stock with </i></text>
+<text top="552" left="347" width="63" height="15" font="2">Shares Sold </text>
+<text top="558" left="553" width="42" height="13" font="5"><i>par value)</i></text>
+<text top="558" left="444" width="40" height="15" font="2">Number</text>
+<text top="559" left="646" width="162" height="13" font="5"><i>(for shares of stock without par value)</i></text>
+<text top="573" left="201" width="15" height="15" font="6"><b>(a)</b></text>
+<text top="573" left="372" width="15" height="15" font="6"><b>(b)</b></text>
+<text top="573" left="458" width="15" height="15" font="6"><b>(c)</b></text>
+<text top="573" left="567" width="15" height="15" font="6"><b>(d)</b></text>
+<text top="573" left="721" width="15" height="15" font="6"><b>(e)</b></text>
+<text top="666" left="85" width="492" height="15" font="6"><b>Schedule 2– Determination of Taxable Base for Real Property Sold/Transferred/Donated</b></text>
+<text top="687" left="82" width="300" height="14" font="0"><b>1  A</b> Gross Selling Price / Bid Price for foreclosure sale / Net Gift</text>
+<text top="696" left="767" width="5" height="11" font="23">●</text>
+<text top="711" left="94" width="327" height="14" font="0"><b>B </b>Total Fair Market Value of Land and Improvement per Schedule 1.A</text>
+<text top="720" left="767" width="5" height="11" font="23">●</text>
+<text top="734" left="92" width="45" height="14" font="0"><b>C </b>Others</text>
+<text top="736" left="140" width="36" height="12" font="5"><i>(Specify)</i></text>
+<text top="744" left="767" width="5" height="11" font="23">●</text>
+<text top="773" left="84" width="73" height="14" font="0"><b>2</b> Taxable Base</text>
+<text top="774" left="160" width="397" height="12" font="5"><i>(For cash/foreclosure sale/net gift Item A or B whichever is higher; or, For other transaction Item C,</i></text>
+<text top="785" left="85" width="190" height="12" font="5"><i>    whichever is applicable) (To Part II, Item 15)</i></text>
+<text top="787" left="767" width="5" height="11" font="23">●</text>
+<text top="248" left="92" width="7" height="15" font="2">1</text>
+<text top="267" left="92" width="7" height="15" font="2">2</text>
+<text top="286" left="92" width="7" height="15" font="2">3</text>
+<text top="305" left="92" width="7" height="15" font="2">4</text>
+<text top="400" left="92" width="7" height="15" font="2">1</text>
+<text top="418" left="92" width="7" height="15" font="2">2</text>
+<text top="437" left="92" width="7" height="15" font="2">3</text>
+<text top="456" left="92" width="7" height="15" font="2">4</text>
+<text top="475" left="92" width="7" height="15" font="2">5</text>
+<text top="162" left="84" width="720" height="15" font="2">0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="170" left="335" width="433" height="15" font="2">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="249" left="115" width="107" height="13" font="13">TCT-1234567890123456...</text>
+<text top="247" left="226" width="493" height="15" font="2">TD-12345678901234567890 LONG PROPERTY LOCATION BARANGAY SAN LORENZO MAKATI</text>
+<text top="266" left="115" width="56" height="15" font="2">TCT-12346</text>
+<text top="266" left="226" width="43" height="15" font="2">TD-0002</text>
+<text top="266" left="373" width="117" height="15" font="2">BARANGAY EXAMPLE</text>
+<text top="286" left="115" width="56" height="15" font="2">TCT-20002</text>
+<text top="286" left="226" width="43" height="15" font="2">TD-0002</text>
+<text top="286" left="373" width="117" height="15" font="2">BARANGAY EXAMPLE</text>
+<text top="305" left="115" width="56" height="15" font="2">TCT-20003</text>
+<text top="305" left="226" width="43" height="15" font="2">TD-0003</text>
+<text top="305" left="373" width="117" height="15" font="2">BARANGAY EXAMPLE</text>
+<text top="324" left="115" width="56" height="15" font="2">TCT-20004</text>
+<text top="324" left="226" width="43" height="15" font="2">TD-0004</text>
+<text top="324" left="373" width="117" height="15" font="2">BARANGAY EXAMPLE</text>
+<text top="401" left="115" width="177" height="13" font="13">LOT WITH VERY LONG... RESIDENTIAL...</text>
+<text top="399" left="333" width="37" height="15" font="2">123456</text>
+<text top="399" left="454" width="63" height="15" font="2">9,876,543.21</text>
+<text top="399" left="620" width="63" height="15" font="2">8,765,432.10</text>
+<text top="399" left="748" width="63" height="15" font="2">9,876,543.21</text>
+<text top="418" left="115" width="83" height="15" font="2">IMPROVEMENT</text>
+<text top="418" left="226" width="72" height="15" font="2">RESIDENTIAL</text>
+<text top="418" left="351" width="19" height="15" font="2">120</text>
+<text top="418" left="463" width="55" height="15" font="2">800,000.00</text>
+<text top="418" left="629" width="55" height="15" font="2">750,000.50</text>
+<text top="418" left="757" width="55" height="15" font="2">800,000.00</text>
+<text top="437" left="115" width="31" height="15" font="2">LOT 2</text>
+<text top="437" left="226" width="72" height="15" font="2">RESIDENTIAL</text>
+<text top="437" left="351" width="19" height="15" font="2">100</text>
+<text top="437" left="463" width="55" height="15" font="2">200,000.00</text>
+<text top="437" left="635" width="49" height="15" font="2">90,000.00</text>
+<text top="437" left="757" width="55" height="15" font="2">200,000.00</text>
+<text top="456" left="115" width="31" height="15" font="2">LOT 3</text>
+<text top="456" left="226" width="72" height="15" font="2">RESIDENTIAL</text>
+<text top="456" left="351" width="19" height="15" font="2">100</text>
+<text top="456" left="463" width="55" height="15" font="2">300,000.00</text>
+<text top="456" left="635" width="49" height="15" font="2">90,000.00</text>
+<text top="456" left="757" width="55" height="15" font="2">300,000.00</text>
+<text top="474" left="115" width="31" height="15" font="2">LOT 4</text>
+<text top="474" left="226" width="72" height="15" font="2">RESIDENTIAL</text>
+<text top="474" left="351" width="19" height="15" font="2">100</text>
+<text top="474" left="463" width="55" height="15" font="2">400,000.00</text>
+<text top="474" left="635" width="49" height="15" font="2">90,000.00</text>
+<text top="474" left="757" width="55" height="15" font="2">400,000.00</text>
+<text top="495" left="742" width="70" height="15" font="2">12,076,543.21</text>
+<text top="593" left="616" width="21" height="15" font="2">0.00</text>
+<text top="593" left="790" width="21" height="15" font="2">0.00</text>
+<text top="618" left="616" width="21" height="15" font="2">0.00</text>
+<text top="618" left="790" width="21" height="15" font="2">0.00</text>
+<text top="642" left="616" width="21" height="15" font="2">0.00</text>
+<text top="642" left="790" width="21" height="15" font="2">0.00</text>
+<text top="687" left="619" width="136" height="15" font="2">1 2 3 4 5 6 7 8</text>
+<text top="687" left="786" width="24" height="15" font="2">9 0</text>
+<text top="710" left="619" width="136" height="15" font="2">1 2 0 7 6 5 4 3</text>
+<text top="710" left="786" width="24" height="15" font="2">2 1</text>
+<text top="734" left="637" width="117" height="15" font="2">9 8 7 6 5 4 3</text>
+<text top="734" left="786" width="24" height="15" font="2">2 1</text>
+<text top="778" left="637" width="117" height="15" font="2">9 8 7 6 5 4 3</text>
+<text top="778" left="786" width="24" height="15" font="2">2 1</text>
+<text top="753" left="82" width="628" height="15" font="2">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="69" left="104" width="71" height="15" font="2">BIR Form No. </text>
+<text top="83" left="208" width="348" height="26" font="21"><b>Documentary Stamp Tax Declaration/ </b></text>
+<text top="83" left="83" width="114" height="38" font="4"><b>2000-OT</b></text>
+<text top="105" left="232" width="300" height="26" font="21"><b>Return (One-Time Transactions) </b></text>
+<text top="116" left="89" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="128" left="123" width="51" height="14" font="0"><b>Add'l Sheet</b></text>
+<text top="129" left="691" width="114" height="14" font="1">2000-OT 01/18ENCS P2 </text>
+<text top="142" left="85" width="20" height="16" font="8"><b>TIN</b></text>
+<text top="142" left="339" width="101" height="16" font="8"><b>Taxpayer’s Name </b></text>
+<text top="190" left="85" width="99" height="14" font="0"><b>   OCT/TCT/CCT No.</b></text>
+<text top="190" left="238" width="121" height="14" font="0"><b>Tax Declaration No. (TD) </b></text>
+<text top="190" left="572" width="42" height="14" font="0"><b>Location</b></text>
+<text top="206" left="92" width="7" height="15" font="2">6</text>
+<text top="236" left="85" width="165" height="15" font="22"><i><b>Continuation of Schedule 1.A</b></i></text>
+<text top="253" left="707" width="85" height="14" font="0"><b>Fair Market Value </b></text>
+<text top="258" left="324" width="23" height="14" font="0"><b>Area</b></text>
+<text top="258" left="387" width="115" height="14" font="0"><b>Fair Market Value (FMV)</b></text>
+<text top="258" left="537" width="130" height="14" font="0"><b>FMV per BIR (Zonal Value) </b></text>
+<text top="264" left="91" width="121" height="14" font="0"><b>          Lot / Improvement</b></text>
+<text top="265" left="229" width="63" height="12" font="16"><b>*Classification</b></text>
+<text top="266" left="710" width="79" height="12" font="5"><i>(whichever is higher </i></text>
+<text top="270" left="318" width="35" height="14" font="0"><b>(sq.m.)</b></text>
+<text top="270" left="402" width="87" height="14" font="0"><b>per TD </b><i>(Column 1)</i></text>
+<text top="270" left="577" width="50" height="14" font="17"><i>(Column 2)</i></text>
+<text top="276" left="701" width="98" height="12" font="5"><i>between Columns 1 &amp; 2)</i></text>
+<text top="292" left="92" width="7" height="15" font="2">6</text>
+<text top="312" left="85" width="38" height="15" font="2">TOTAL</text>
+<text top="314" left="126" width="168" height="13" font="5"><i>(To Schedule 2 Item B) (as on page 2)</i></text>
+<text top="162" left="84" width="720" height="15" font="2">0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="170" left="335" width="433" height="15" font="2">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="205" left="115" width="56" height="15" font="2">TCT-20005</text>
+<text top="205" left="226" width="43" height="15" font="2">TD-0005</text>
+<text top="205" left="373" width="117" height="15" font="2">BARANGAY EXAMPLE</text>
+<text top="292" left="115" width="31" height="15" font="2">LOT 5</text>
+<text top="292" left="226" width="72" height="15" font="2">RESIDENTIAL</text>
+<text top="292" left="351" width="19" height="15" font="2">100</text>
+<text top="292" left="463" width="55" height="15" font="2">500,000.00</text>
+<text top="292" left="635" width="49" height="15" font="2">90,000.00</text>
+<text top="292" left="757" width="55" height="15" font="2">500,000.00</text>
+<text top="312" left="742" width="70" height="15" font="2">12,076,543.21</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="24" size="14" family="Times" color="#000000"/>
+	<fontspec id="25" size="11" family="Times" color="#212121"/>
+	<fontspec id="26" size="9" family="Times" color="#444444"/>
+	<fontspec id="27" size="10" family="Times" color="#444444"/>
+	<fontspec id="28" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="154" height="19" font="24"><b>BIR Form No. 2000-OT</b></text>
+<text top="49" left="688" width="124" height="15" font="6"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="345" height="15" font="25">Documentary Stamp Tax Declaration/Return (One-Time Transactions)</text>
+<text top="86" left="80" width="275" height="13" font="26">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="27"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="27"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="1">TESTING</text>
+<text top="194" left="80" width="190" height="16" font="8"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="26">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="16"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="16"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="16"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="28">Page 1</text>
+<text top="242" left="160" width="122" height="13" font="13">Item 7 — Taxpayer's Name</text>
+<text top="242" left="394" width="398" height="13" font="13">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="255" left="394" width="370" height="13" font="13">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="277" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="277" left="160" width="181" height="13" font="13">Schedule 1.A, row 1, OCT/TCT/CCT No.</text>
+<text top="277" left="394" width="132" height="13" font="13">TCT-12345678901234567890</text>
+<text top="299" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="299" left="160" width="181" height="13" font="13">Schedule 1.A, row 1, Lot / Improvement</text>
+<text top="299" left="394" width="177" height="13" font="13">LOT WITH VERY LONG DESCRIPTION</text>
+<text top="320" left="102" width="31" height="13" font="28">Page 2</text>
+<text top="320" left="160" width="159" height="13" font="13">Schedule 1.A, row 1, Classification</text>
+<text top="320" left="394" width="178" height="13" font="13">RESIDENTIAL LONG CLASSIFICATION</text>
+</page>
+</pdf2xml>
