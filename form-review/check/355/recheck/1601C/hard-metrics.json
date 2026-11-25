@@ -1,0 +1,146 @@
+[
+  {
+    "n": 30,
+    "pages": 3,
+    "addpages": [
+      3
+    ],
+    "counts": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "ellipsis_pages": [
+      1
+    ],
+    "font_examples": [
+      [
+        "SPECIFY30-PRINTCHECK ABCDEFGHI",
+        9,
+        6.75,
+        546.0
+      ]
+    ]
+  },
+  {
+    "n": 60,
+    "pages": 3,
+    "addpages": [
+      3
+    ],
+    "counts": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "ellipsis_pages": [
+      1
+    ],
+    "font_examples": [
+      [
+        "SPECIFY60-PRINTCHECK abcdefghij 0123456789 PRINTCH",
+        11,
+        8.25,
+        564.0
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "pages": 3,
+    "addpages": [
+      3
+    ],
+    "counts": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "ellipsis_pages": [
+      1
+    ],
+    "font_examples": [
+      [
+        "SPECIFY120-PRINTCHECK abcdefghij 0123456789 PRINTC",
+        11,
+        8.25,
+        564.0
+      ]
+    ]
+  },
+  {
+    "n": 250,
+    "pages": 3,
+    "addpages": [
+      3
+    ],
+    "counts": [
+      [
+        1,
+        1
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ],
+      [
+        4,
+        0
+      ]
+    ],
+    "ellipsis_pages": [
+      1
+    ],
+    "font_examples": [
+      [
+        "SPECIFY250-PRINTCHECK abcdefghij 0123456789 PRINTC",
+        11,
+        8.25,
+        562.0
+      ]
+    ]
+  }
+]

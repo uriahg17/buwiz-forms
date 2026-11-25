@@ -1,0 +1,8 @@
+case	commit	pages	specify_where	full_exact_count_on_form	full_exact_count_additional	fontspec_size	approx_pt	verdict	note
+base91	old_3e8b1212	3	inline_clipped_two_line	0	1_layout_interleaved	9	6.75	fault_reproduced	inline text cut by row border; full text only on additional sheet
+base91	new_05b9c989	3	rule6_fullwidth_one_line	1	0	11	8.25	fixed	amount 67890.12 remains level with item 20; TIN 000-123-453-00000 on additional sheet
+spec30	new_05b9c989	3	original_inline_box	1	0	9	6.75	fits_inline	no shrink; base comb size, exact 30 chars visible once on form
+spec60	new_05b9c989	3	rule6_fullwidth_one_line	1	0	11	8.25	pass	exact 60 chars once on form; no truncation, so no additional-sheet copy
+spec120	new_05b9c989	3	rule6_fullwidth_one_line	1	0	11	8.25	pass	exact 120 chars once on form; no truncation, so no additional-sheet copy
+spec250	new_05b9c989	3	rule6_fullwidth_two_lines	1	0	11	8.25	pass	exact 250 chars once on form in two clean lines; no truncation, so no additional-sheet copy
+neighbors	new_vs_old	3_3	page2_page3_visual_diff_lt_1pct					pass	page 1 differs only around the intended Rule 6 insertion; no blank or header-only page

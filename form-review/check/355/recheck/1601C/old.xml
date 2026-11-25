@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="11" family="Times" color="#000000"/>
+	<fontspec id="3" size="23" family="Times" color="#000000"/>
+	<fontspec id="4" size="28" family="Times" color="#000000"/>
+	<fontspec id="5" size="15" family="Times" color="#000000"/>
+	<fontspec id="6" size="9" family="Times" color="#000000"/>
+	<fontspec id="7" size="11" family="Times" color="#000000"/>
+	<fontspec id="8" size="9" family="Times" color="#000000"/>
+	<fontspec id="9" size="13" family="Times" color="#000000"/>
+	<fontspec id="10" size="14" family="Times" color="#000000"/>
+	<fontspec id="11" size="8" family="Times" color="#000000"/>
+	<fontspec id="12" size="6" family="Times" color="#000000"/>
+	<fontspec id="13" size="10" family="Times" color="#000000"/>
+	<fontspec id="14" size="7" family="Times" color="#000000"/>
+	<fontspec id="15" size="8" family="Times" color="#000000"/>
+	<fontspec id="16" size="9" family="Times" color="#000000"/>
+	<fontspec id="17" size="9" family="EAAAAA+NotoSerif" color="#000000"/>
+	<fontspec id="18" size="10" family="EAAAAA+NotoSerif" color="#000000"/>
+	<fontspec id="19" size="11" family="EAAAAA+NotoSerif" color="#000000"/>
+<text top="29" left="390" width="134" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="41" left="66" width="36" height="14" font="1">For BIR</text>
+<text top="41" left="390" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="42" left="118" width="25" height="14" font="1">BCS/</text>
+<text top="53" left="390" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="53" left="66" width="76" height="14" font="1">Use Only Item:</text>
+<text top="68" left="97" width="71" height="15" font="2">BIR Form No. </text>
+<text top="68" left="254" width="306" height="31" font="3"><b>Monthly Remittance Return </b></text>
+<text top="82" left="84" width="95" height="38" font="4"><b>1601-C</b></text>
+<text top="95" left="242" width="331" height="21" font="5"><b>of Income Taxes Withheld on Compensation </b></text>
+<text top="115" left="75" width="115" height="15" font="2">January 2018 (ENCS) </text>
+<text top="120" left="204" width="409" height="12" font="6"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with</i></text>
+<text top="124" left="715" width="107" height="14" font="1">1601-C 01/18ENCS P1 </text>
+<text top="128" left="116" width="34" height="14" font="0"><b>Page 1</b></text>
+<text top="130" left="250" width="315" height="12" font="6"><i>an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.</i></text>
+<text top="143" left="72" width="84" height="15" font="7"><b>1</b> For the Month</text>
+<text top="143" left="262" width="104" height="15" font="7"><b>2</b> Amended Return? </text>
+<text top="143" left="413" width="117" height="15" font="7"><b>3</b> Any Taxes Withheld?</text>
+<text top="143" left="561" width="156" height="15" font="7"><b>4</b> Number of Sheet/s Attached </text>
+<text top="143" left="735" width="34" height="15" font="7"><b>5 </b>ATC</text>
+<text top="144" left="159" width="52" height="13" font="8">(MM/YYYY)</text>
+<text top="162" left="754" width="44" height="17" font="9"><b>WW010</b></text>
+<text top="163" left="319" width="20" height="15" font="2">Yes</text>
+<text top="163" left="375" width="15" height="15" font="2">No</text>
+<text top="163" left="469" width="20" height="15" font="2">Yes</text>
+<text top="163" left="526" width="15" height="15" font="2">No</text>
+<text top="187" left="366" width="156" height="14" font="0"><b>Part I – Background Information</b></text>
+<text top="203" left="414" width="4" height="19" font="10"><b>/</b></text>
+<text top="203" left="490" width="4" height="19" font="10"><b>/</b></text>
+<text top="203" left="565" width="4" height="19" font="10"><b>/</b></text>
+<text top="205" left="74" width="203" height="15" font="7"><b>6</b> Taxpayer Identification Number (TIN) </text>
+<text top="205" left="678" width="63" height="15" font="7"><b>7</b> RDO Code</text>
+<text top="222" left="74" width="150" height="15" font="7"><b>8</b> Withholding Agent’s Name</text>
+<text top="224" left="227" width="406" height="13" font="6"><i>(Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)</i></text>
+<text top="257" left="72" width="117" height="15" font="7"><b>9</b> Registered Address </text>
+<text top="259" left="190" width="607" height="12" font="6"><i>(Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="295" left="659" width="63" height="15" font="7"><b>9A</b> ZIP Code</text>
+<text top="317" left="69" width="101" height="15" font="7"><b>10</b> Contact Number </text>
+<text top="317" left="414" width="175" height="15" font="7"><b>11</b> Category of Withholding Agent </text>
+<text top="318" left="659" width="35" height="15" font="2">Private</text>
+<text top="318" left="754" width="63" height="15" font="2">Government</text>
+<text top="340" left="69" width="91" height="15" font="7"><b>12</b> Email Address </text>
+<text top="358" left="90" width="175" height="15" font="2">Are there payees availing of tax relief under </text>
+<text top="363" left="69" width="13" height="15" font="7"><b>13</b></text>
+<text top="363" left="389" width="95" height="15" font="7"><b>13A</b> If yes, specify </text>
+<text top="363" left="301" width="20" height="15" font="2">Yes</text>
+<text top="363" left="357" width="15" height="15" font="2">No</text>
+<text top="372" left="89" width="153" height="11" font="11">Special Law or International Tax Treaty?</text>
+<text top="387" left="376" width="135" height="14" font="0"><b>Part II – Computation of Tax</b></text>
+<text top="404" left="69" width="178" height="15" font="7"><b>14 </b>Total Amount of Compensation </text>
+<text top="414" left="774" width="4" height="9" font="12">●</text>
+<text top="422" left="86" width="196" height="14" font="1">Less: Non-Taxable/Exempt Compensation </text>
+<text top="438" left="69" width="297" height="15" font="7"><b>15</b> Statutory Minimum Wage for Minimum Wage Earners</text>
+<text top="439" left="370" width="38" height="14" font="13"><i>(MWEs)</i></text>
+<text top="448" left="774" width="4" height="9" font="12">●</text>
+<text top="459" left="69" width="371" height="15" font="7"><b>16</b> Holiday Pay, Overtime Pay, Night Shift Differential Pay, Hazard Pay</text>
+<text top="460" left="444" width="74" height="14" font="13"><i>(for MWEs only)</i></text>
+<text top="469" left="774" width="4" height="9" font="12">●</text>
+<text top="480" left="99" width="7" height="10" font="14">th</text>
+<text top="480" left="69" width="193" height="15" font="7"><b>17 </b>13  Month Pay and Other Benefits</text>
+<text top="490" left="774" width="4" height="9" font="12">●</text>
+<text top="501" left="69" width="120" height="15" font="7"><b>18</b> De Minimis Benefits </text>
+<text top="511" left="774" width="4" height="9" font="12">●</text>
+<text top="522" left="69" width="363" height="15" font="7"><b>19</b> SSS, GSIS, PHIC, HDMF Mandatory Contributions &amp; Union Dues </text>
+<text top="523" left="432" width="110" height="14" font="13"><i>(employee’s share only)</i></text>
+<text top="532" left="774" width="4" height="9" font="12">●</text>
+<text top="544" left="69" width="200" height="15" font="7"><b>20 </b>Other Non-Taxable Compensation </text>
+<text top="545" left="270" width="40" height="14" font="13"><i>(specify)</i></text>
+<text top="553" left="774" width="4" height="9" font="12">●</text>
+<text top="564" left="69" width="197" height="15" font="7"><b>21</b> Total Non-Taxable Compensation </text>
+<text top="566" left="266" width="110" height="14" font="13"><i>(Sum of Items 15 to 20)</i></text>
+<text top="574" left="774" width="4" height="9" font="12">●</text>
+<text top="585" left="69" width="171" height="15" font="7"><b>22</b> Total Taxable Compensation </text>
+<text top="587" left="241" width="105" height="14" font="13"><i>(Item 14 Less Item 21)</i></text>
+<text top="595" left="774" width="4" height="9" font="12">●</text>
+<text top="606" left="69" width="13" height="15" font="7"><b>23</b></text>
+<text top="608" left="115" width="188" height="13" font="8">Taxable compensation not subject to withholding tax</text>
+<text top="608" left="89" width="23" height="13" font="8">Less:</text>
+<text top="609" left="305" width="235" height="11" font="15"><i>(for employees, other than MWEs, receiving  P250,000 &amp; below for the year)</i></text>
+<text top="616" left="774" width="4" height="9" font="12">●</text>
+<text top="627" left="69" width="167" height="15" font="7"><b>24</b>  Net Taxable Compensation </text>
+<text top="628" left="236" width="104" height="14" font="13"><i>(Item 22 Less Item 23) </i></text>
+<text top="637" left="774" width="4" height="9" font="12">●</text>
+<text top="648" left="69" width="123" height="15" font="7"><b>25</b> Total Taxes Withheld</text>
+<text top="658" left="774" width="4" height="9" font="12">●</text>
+<text top="669" left="69" width="77" height="15" font="7"><b>26 </b>Add/(Less):</text>
+<text top="670" left="150" width="248" height="14" font="1">Adjustment of Taxes Withheld from Previous Month/s</text>
+<text top="671" left="401" width="146" height="13" font="6"><i>(From Part IV-Schedule 1, Item 4)</i></text>
+<text top="679" left="774" width="4" height="9" font="12">●</text>
+<text top="690" left="69" width="179" height="15" font="7"><b>27</b> Taxes Withheld for Remittance</text>
+<text top="692" left="251" width="112" height="13" font="6"><i>(Sum of Items 25 and 26)</i></text>
+<text top="700" left="774" width="4" height="9" font="12">●</text>
+<text top="711" left="69" width="408" height="15" font="7"><b>28</b>  Less: Tax Remitted in Return Previously Filed, if this is an amended return</text>
+<text top="721" left="774" width="4" height="9" font="12">●</text>
+<text top="733" left="69" width="13" height="15" font="7"><b>29</b></text>
+<text top="733" left="122" width="131" height="15" font="2">Other Remittances Made</text>
+<text top="735" left="257" width="38" height="13" font="6"><i>(specify)</i></text>
+<text top="742" left="774" width="4" height="9" font="12">●</text>
+<text top="754" left="69" width="208" height="15" font="7"><b>30</b>            Total Tax Remittances Made </text>
+<text top="755" left="277" width="111" height="13" font="6"><i>(Sum of Items 28 and 29)</i></text>
+<text top="764" left="774" width="4" height="9" font="12">●</text>
+<text top="775" left="69" width="184" height="15" font="7"><b>31 Tax Still Due</b>/(Over-remittance)</text>
+<text top="777" left="256" width="99" height="13" font="6"><i>(Item 27 Less Item 30)</i></text>
+<text top="796" left="82" width="161" height="15" font="2"> Add: Penalties   <b>32 </b>Surcharge</text>
+<text top="806" left="774" width="4" height="9" font="12">●</text>
+<text top="817" left="173" width="56" height="15" font="7"><b>33 </b>Interest</text>
+<text top="827" left="774" width="4" height="9" font="12">●</text>
+<text top="838" left="171" width="83" height="15" font="7"><b>34 </b>Compromise</text>
+<text top="848" left="774" width="4" height="9" font="12">●</text>
+<text top="859" left="171" width="98" height="15" font="7"><b>35</b> Total Penalties </text>
+<text top="861" left="270" width="103" height="13" font="6"><i>(Sum of Items 32 to 34)</i></text>
+<text top="869" left="774" width="4" height="9" font="12">●</text>
+<text top="880" left="69" width="272" height="15" font="7"><b>36 TOTAL AMOUNT STILL DUE</b>/(Over-remittance)</text>
+<text top="882" left="344" width="110" height="13" font="6"><i>(Sum of Items 31 and 35)</i></text>
+<text top="898" left="83" width="721" height="13" font="8">I/We declare under the penalties of perjury that this remittance return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and </text>
+<text top="909" left="72" width="729" height="13" font="8">correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as </text>
+<text top="921" left="72" width="557" height="13" font="8">contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. <i>(If Authorized Representative, attach authorization letter)</i></text>
+<text top="933" left="74" width="56" height="12" font="8">For Individual: </text>
+<text top="933" left="452" width="73" height="12" font="8">For Non-Individual:</text>
+<text top="964" left="69" width="371" height="14" font="1">Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent </text>
+<text top="964" left="501" width="266" height="14" font="1">Signature over Printed Name of President/Vice President/ </text>
+<text top="976" left="450" width="221" height="14" font="1">Authorized Officer or Representative/Tax Agent</text>
+<text top="977" left="185" width="145" height="12" font="6"><i>(Indicate Title/Designation and TIN)</i></text>
+<text top="978" left="672" width="145" height="12" font="6"><i> (Indicate Title/Designation and TIN) </i></text>
+<text top="989" left="74" width="130" height="14" font="1">Tax Agent Accreditation No./</text>
+<text top="989" left="419" width="68" height="15" font="2">Date of Issue </text>
+<text top="989" left="624" width="72" height="15" font="2">Date of Expiry </text>
+<text top="1001" left="70" width="90" height="14" font="1">Attorney’s Roll No. </text>
+<text top="1003" left="160" width="54" height="12" font="6"><i>(if applicable)</i></text>
+<text top="1004" left="422" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="1004" left="630" width="62" height="12" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="1019" left="377" width="133" height="14" font="0"><b>Part III – Details of Payment</b></text>
+<text top="1034" left="202" width="84" height="15" font="2">Drawee Bank/Agency</text>
+<text top="1034" left="105" width="56" height="15" font="2">Particulars</text>
+<text top="1034" left="329" width="41" height="15" font="2">Number</text>
+<text top="1034" left="434" width="25" height="15" font="2">Date</text>
+<text top="1034" left="672" width="39" height="15" font="2">Amount</text>
+<text top="1036" left="462" width="67" height="13" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="1052" left="86" width="102" height="15" font="2">Cash/Bank Debit Memo</text>
+<text top="1052" left="69" width="13" height="15" font="7"><b>37</b></text>
+<text top="1062" left="774" width="5" height="10" font="14">●</text>
+<text top="1075" left="69" width="50" height="15" font="7"><b>38 </b>Check</text>
+<text top="1085" left="774" width="5" height="10" font="14">●</text>
+<text top="1120" left="69" width="102" height="15" font="7"><b>39</b> Tax Debit Memo </text>
+<text top="1112" left="774" width="5" height="10" font="14">●</text>
+<text top="1120" left="69" width="52" height="15" font="7"><b>40 </b>Others</text>
+<text top="1120" left="125" width="66" height="13" font="6"><i>(specify below)</i></text>
+<text top="1146" left="774" width="5" height="10" font="14">●</text>
+<text top="1157" left="74" width="246" height="14" font="1">Machine Validation/Revenue Official Receipt Details </text>
+<text top="1157" left="570" width="239" height="14" font="13"><i>Stamp of Receiving Office/AAB and Date of Receipt</i></text>
+<text top="1157" left="320" width="185" height="13" font="6"><i>(if not filed with an Authorized Agent Bank)</i></text>
+<text top="1169" left="607" width="167" height="14" font="13"><i>(RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="1221" left="72" width="427" height="14" font="0"><b>* NOTE </b>Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph) </text>
+<text top="1222" left="108" width="3" height="12" font="16"><b>:</b></text>
+<text top="165" left="112" width="5" height="12" font="17">0</text>
+<text top="165" left="130" width="5" height="12" font="17">6</text>
+<text top="165" left="149" width="5" height="12" font="17">2</text>
+<text top="165" left="168" width="5" height="12" font="17">0</text>
+<text top="165" left="187" width="5" height="12" font="17">2</text>
+<text top="165" left="205" width="5" height="12" font="17">5</text>
+<text top="165" left="639" width="5" height="12" font="17">0</text>
+<text top="165" left="657" width="5" height="12" font="17">0</text>
+<text top="164" left="354" width="6" height="12" font="17">X</text>
+<text top="164" left="450" width="6" height="12" font="17">X</text>
+<text top="206" left="357" width="5" height="12" font="17">0</text>
+<text top="206" left="376" width="5" height="12" font="17">0</text>
+<text top="206" left="395" width="5" height="12" font="17">0</text>
+<text top="206" left="433" width="5" height="12" font="17">1</text>
+<text top="206" left="451" width="5" height="12" font="17">2</text>
+<text top="206" left="470" width="5" height="12" font="17">3</text>
+<text top="206" left="508" width="5" height="12" font="17">4</text>
+<text top="206" left="527" width="5" height="12" font="17">5</text>
+<text top="206" left="546" width="5" height="12" font="17">3</text>
+<text top="206" left="584" width="5" height="12" font="17">0</text>
+<text top="206" left="603" width="5" height="12" font="17">0</text>
+<text top="206" left="622" width="5" height="12" font="17">0</text>
+<text top="206" left="640" width="5" height="12" font="17">0</text>
+<text top="206" left="659" width="5" height="12" font="17">0</text>
+<text top="206" left="774" width="5" height="12" font="17">0</text>
+<text top="206" left="794" width="5" height="12" font="17">3</text>
+<text top="206" left="813" width="5" height="12" font="17">9</text>
+<text top="233" left="69" width="731" height="13" font="17">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="247" left="69" width="31" height="13" font="17">TEST...</text>
+<text top="275" left="69" width="762" height="15" font="18">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY</text>
+<text top="295" left="69" width="542" height="15" font="18">SAN LORENZO MAKATI SECOND ADDRESS LINE LONG COMPLEMENT FOR PRINT OVERFLOW TESTING</text>
+<text top="295" left="754" width="5" height="12" font="17">1</text>
+<text top="295" left="774" width="5" height="12" font="17">1</text>
+<text top="295" left="794" width="5" height="12" font="17">0</text>
+<text top="295" left="813" width="5" height="12" font="17">0</text>
+<text top="319" left="188" width="5" height="12" font="17">0</text>
+<text top="319" left="206" width="5" height="12" font="17">9</text>
+<text top="319" left="225" width="5" height="12" font="17">1</text>
+<text top="319" left="244" width="5" height="12" font="17">7</text>
+<text top="319" left="263" width="5" height="12" font="17">1</text>
+<text top="319" left="282" width="5" height="12" font="17">2</text>
+<text top="319" left="301" width="5" height="12" font="17">3</text>
+<text top="319" left="319" width="5" height="12" font="17">4</text>
+<text top="319" left="338" width="5" height="12" font="17">5</text>
+<text top="319" left="357" width="5" height="12" font="17">6</text>
+<text top="319" left="376" width="5" height="12" font="17">7</text>
+<text top="320" left="638" width="6" height="12" font="17">X</text>
+<text top="340" left="183" width="299" height="16" font="19">juana.santos.independent.print.check@example.com</text>
+<text top="366" left="337" width="6" height="12" font="17">X</text>
+<text top="406" left="622" width="5" height="12" font="17">9</text>
+<text top="406" left="640" width="5" height="12" font="17">8</text>
+<text top="406" left="659" width="5" height="12" font="17">7</text>
+<text top="406" left="678" width="5" height="12" font="17">6</text>
+<text top="406" left="697" width="5" height="12" font="17">5</text>
+<text top="406" left="716" width="5" height="12" font="17">4</text>
+<text top="406" left="735" width="5" height="12" font="17">3</text>
+<text top="406" left="754" width="5" height="12" font="17">2</text>
+<text top="406" left="794" width="5" height="12" font="17">1</text>
+<text top="406" left="813" width="5" height="12" font="17">0</text>
+<text top="439" left="640" width="5" height="12" font="17">1</text>
+<text top="439" left="659" width="5" height="12" font="17">2</text>
+<text top="439" left="678" width="5" height="12" font="17">3</text>
+<text top="439" left="697" width="5" height="12" font="17">4</text>
+<text top="439" left="716" width="5" height="12" font="17">5</text>
+<text top="439" left="735" width="5" height="12" font="17">6</text>
+<text top="439" left="754" width="5" height="12" font="17">7</text>
+<text top="439" left="794" width="5" height="12" font="17">8</text>
+<text top="439" left="813" width="5" height="12" font="17">9</text>
+<text top="460" left="659" width="5" height="12" font="17">2</text>
+<text top="460" left="678" width="5" height="12" font="17">3</text>
+<text top="460" left="697" width="5" height="12" font="17">4</text>
+<text top="460" left="716" width="5" height="12" font="17">5</text>
+<text top="460" left="735" width="5" height="12" font="17">6</text>
+<text top="460" left="754" width="5" height="12" font="17">7</text>
+<text top="460" left="794" width="5" height="12" font="17">8</text>
+<text top="460" left="813" width="5" height="12" font="17">9</text>
+<text top="482" left="659" width="5" height="12" font="17">3</text>
+<text top="482" left="678" width="5" height="12" font="17">4</text>
+<text top="482" left="697" width="5" height="12" font="17">5</text>
+<text top="482" left="716" width="5" height="12" font="17">6</text>
+<text top="482" left="735" width="5" height="12" font="17">7</text>
+<text top="482" left="754" width="5" height="12" font="17">8</text>
+<text top="482" left="794" width="5" height="12" font="17">9</text>
+<text top="482" left="813" width="5" height="12" font="17">0</text>
+<text top="502" left="678" width="5" height="12" font="17">4</text>
+<text top="502" left="697" width="5" height="12" font="17">5</text>
+<text top="502" left="716" width="5" height="12" font="17">6</text>
+<text top="502" left="735" width="5" height="12" font="17">7</text>
+<text top="502" left="754" width="5" height="12" font="17">8</text>
+<text top="502" left="794" width="5" height="12" font="17">9</text>
+<text top="502" left="813" width="5" height="12" font="17">0</text>
+<text top="523" left="678" width="5" height="12" font="17">5</text>
+<text top="523" left="697" width="5" height="12" font="17">6</text>
+<text top="523" left="716" width="5" height="12" font="17">7</text>
+<text top="523" left="735" width="5" height="12" font="17">8</text>
+<text top="523" left="754" width="5" height="12" font="17">9</text>
+<text top="523" left="794" width="5" height="12" font="17">0</text>
+<text top="523" left="813" width="5" height="12" font="17">1</text>
+<text top="540" left="312" width="209" height="13" font="17">SPECIMEN LONG SPECIFY TEXT FOR OTHER</text>
+<text top="550" left="312" width="16" height="13" font="17">MA</text>
+<text top="544" left="678" width="5" height="12" font="17">6</text>
+<text top="544" left="697" width="5" height="12" font="17">7</text>
+<text top="544" left="716" width="5" height="12" font="17">8</text>
+<text top="544" left="735" width="5" height="12" font="17">9</text>
+<text top="544" left="754" width="5" height="12" font="17">0</text>
+<text top="544" left="794" width="5" height="12" font="17">1</text>
+<text top="544" left="813" width="5" height="12" font="17">2</text>
+<text top="565" left="640" width="5" height="12" font="17">1</text>
+<text top="565" left="659" width="5" height="12" font="17">9</text>
+<text top="565" left="678" width="5" height="12" font="17">8</text>
+<text top="565" left="697" width="5" height="12" font="17">5</text>
+<text top="565" left="716" width="5" height="12" font="17">1</text>
+<text top="565" left="735" width="5" height="12" font="17">7</text>
+<text top="565" left="754" width="5" height="12" font="17">2</text>
+<text top="565" left="794" width="5" height="12" font="17">7</text>
+<text top="565" left="813" width="5" height="12" font="17">1</text>
+<text top="587" left="622" width="5" height="12" font="17">9</text>
+<text top="587" left="640" width="5" height="12" font="17">6</text>
+<text top="587" left="659" width="5" height="12" font="17">7</text>
+<text top="587" left="678" width="5" height="12" font="17">8</text>
+<text top="587" left="697" width="5" height="12" font="17">0</text>
+<text top="587" left="716" width="5" height="12" font="17">2</text>
+<text top="587" left="735" width="5" height="12" font="17">5</text>
+<text top="587" left="754" width="5" height="12" font="17">9</text>
+<text top="587" left="794" width="5" height="12" font="17">3</text>
+<text top="587" left="813" width="5" height="12" font="17">9</text>
+<text top="607" left="697" width="5" height="12" font="17">1</text>
+<text top="607" left="716" width="5" height="12" font="17">2</text>
+<text top="607" left="735" width="5" height="12" font="17">3</text>
+<text top="607" left="754" width="5" height="12" font="17">4</text>
+<text top="607" left="794" width="5" height="12" font="17">5</text>
+<text top="607" left="813" width="5" height="12" font="17">6</text>
+<text top="628" left="622" width="5" height="12" font="17">9</text>
+<text top="628" left="640" width="5" height="12" font="17">6</text>
+<text top="628" left="659" width="5" height="12" font="17">7</text>
+<text top="628" left="678" width="5" height="12" font="17">7</text>
+<text top="628" left="697" width="5" height="12" font="17">9</text>
+<text top="628" left="716" width="5" height="12" font="17">0</text>
+<text top="628" left="735" width="5" height="12" font="17">2</text>
+<text top="628" left="754" width="5" height="12" font="17">4</text>
+<text top="628" left="794" width="5" height="12" font="17">8</text>
+<text top="628" left="813" width="5" height="12" font="17">3</text>
+<text top="649" left="640" width="5" height="12" font="17">1</text>
+<text top="649" left="659" width="5" height="12" font="17">0</text>
+<text top="649" left="678" width="5" height="12" font="17">0</text>
+<text top="649" left="697" width="5" height="12" font="17">0</text>
+<text top="649" left="716" width="5" height="12" font="17">0</text>
+<text top="649" left="735" width="5" height="12" font="17">0</text>
+<text top="649" left="754" width="5" height="12" font="17">0</text>
+<text top="649" left="794" width="5" height="12" font="17">0</text>
+<text top="649" left="813" width="5" height="12" font="17">0</text>
+<text top="671" left="716" width="5" height="12" font="17">2</text>
+<text top="671" left="735" width="5" height="12" font="17">5</text>
+<text top="671" left="754" width="5" height="12" font="17">0</text>
+<text top="671" left="794" width="5" height="12" font="17">0</text>
+<text top="671" left="813" width="5" height="12" font="17">0</text>
+<text top="691" left="640" width="5" height="12" font="17">1</text>
+<text top="691" left="659" width="5" height="12" font="17">0</text>
+<text top="691" left="678" width="5" height="12" font="17">0</text>
+<text top="691" left="697" width="5" height="12" font="17">0</text>
+<text top="691" left="716" width="5" height="12" font="17">2</text>
+<text top="691" left="735" width="5" height="12" font="17">5</text>
+<text top="691" left="754" width="5" height="12" font="17">0</text>
+<text top="691" left="794" width="5" height="12" font="17">0</text>
+<text top="691" left="813" width="5" height="12" font="17">0</text>
+<text top="713" left="754" width="5" height="12" font="17">0</text>
+<text top="713" left="794" width="5" height="12" font="17">0</text>
+<text top="713" left="813" width="5" height="12" font="17">0</text>
+<text top="735" left="297" width="255" height="13" font="17">OTHER REMITTANCE SPECIFY TEXT WITH A VERY L...</text>
+<text top="733" left="659" width="5" height="12" font="17">5</text>
+<text top="733" left="678" width="5" height="12" font="17">0</text>
+<text top="733" left="697" width="5" height="12" font="17">0</text>
+<text top="733" left="716" width="5" height="12" font="17">0</text>
+<text top="733" left="735" width="5" height="12" font="17">0</text>
+<text top="733" left="754" width="5" height="12" font="17">0</text>
+<text top="733" left="794" width="5" height="12" font="17">0</text>
+<text top="733" left="813" width="5" height="12" font="17">0</text>
+<text top="755" left="640" width="5" height="12" font="17">2</text>
+<text top="755" left="659" width="5" height="12" font="17">5</text>
+<text top="755" left="678" width="5" height="12" font="17">0</text>
+<text top="755" left="697" width="5" height="12" font="17">0</text>
+<text top="755" left="716" width="5" height="12" font="17">0</text>
+<text top="755" left="735" width="5" height="12" font="17">0</text>
+<text top="755" left="754" width="5" height="12" font="17">0</text>
+<text top="755" left="794" width="5" height="12" font="17">0</text>
+<text top="755" left="813" width="5" height="12" font="17">0</text>
+<text top="774" left="747" width="77" height="16" font="19">(1,499,750.00)</text>
+<text top="798" left="678" width="5" height="12" font="17">1</text>
+<text top="798" left="697" width="5" height="12" font="17">2</text>
+<text top="798" left="716" width="5" height="12" font="17">3</text>
+<text top="798" left="735" width="5" height="12" font="17">4</text>
+<text top="798" left="754" width="5" height="12" font="17">5</text>
+<text top="798" left="794" width="5" height="12" font="17">6</text>
+<text top="798" left="813" width="5" height="12" font="17">7</text>
+<text top="818" left="678" width="5" height="12" font="17">2</text>
+<text top="818" left="697" width="5" height="12" font="17">3</text>
+<text top="818" left="716" width="5" height="12" font="17">4</text>
+<text top="818" left="735" width="5" height="12" font="17">5</text>
+<text top="818" left="754" width="5" height="12" font="17">6</text>
+<text top="818" left="794" width="5" height="12" font="17">7</text>
+<text top="818" left="813" width="5" height="12" font="17">8</text>
+<text top="839" left="697" width="5" height="12" font="17">3</text>
+<text top="839" left="716" width="5" height="12" font="17">4</text>
+<text top="839" left="735" width="5" height="12" font="17">5</text>
+<text top="839" left="754" width="5" height="12" font="17">6</text>
+<text top="839" left="794" width="5" height="12" font="17">8</text>
+<text top="839" left="813" width="5" height="12" font="17">9</text>
+<text top="860" left="678" width="5" height="12" font="17">3</text>
+<text top="860" left="697" width="5" height="12" font="17">9</text>
+<text top="860" left="716" width="5" height="12" font="17">2</text>
+<text top="860" left="735" width="5" height="12" font="17">5</text>
+<text top="860" left="754" width="5" height="12" font="17">9</text>
+<text top="860" left="794" width="5" height="12" font="17">3</text>
+<text top="860" left="813" width="5" height="12" font="17">4</text>
+<text top="880" left="747" width="77" height="16" font="19">(1,460,490.66)</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="49" left="97" width="71" height="15" font="2">BIR Form No. </text>
+<text top="62" left="254" width="306" height="31" font="3"><b>Monthly Remittance Return </b></text>
+<text top="62" left="84" width="95" height="38" font="4"><b>1601-C</b></text>
+<text top="89" left="242" width="331" height="21" font="5"><b>of Income Taxes Withheld on Compensation</b></text>
+<text top="95" left="75" width="114" height="15" font="2">January 2018 (ENCS)  </text>
+<text top="104" left="714" width="107" height="14" font="1">1601-C 01/18ENCS P2 </text>
+<text top="109" left="116" width="34" height="14" font="0"><b>Page 2</b></text>
+<text top="123" left="74" width="18" height="15" font="2">TIN</text>
+<text top="123" left="338" width="132" height="15" font="2">Withholding Agent’s Name</text>
+<text top="124" left="473" width="289" height="13" font="6"><i>(Last Name for Individual OR Registered Name for Non-Individual)</i></text>
+<text top="162" left="395" width="96" height="15" font="7"><b>Part IV - Schedule</b></text>
+<text top="177" left="74" width="445" height="15" font="7"><b>Schedule I</b> – Adjustment of Taxes Withheld on Compensation from Previous Months</text>
+<text top="179" left="522" width="169" height="13" font="6"><i>(attach additional sheet/s, if necessary)</i></text>
+<text top="193" left="353" width="81" height="15" font="2">Drawee Bank/Bank </text>
+<text top="193" left="95" width="90" height="15" font="2">Previous Month/s </text>
+<text top="193" left="248" width="50" height="15" font="2">Date Paid </text>
+<text top="200" left="478" width="40" height="15" font="2">Number</text>
+<text top="200" left="589" width="50" height="15" font="2">Tax Paid </text>
+<text top="202" left="639" width="152" height="13" font="6"><i>(Excluding Penalties for the Month)</i></text>
+<text top="207" left="365" width="56" height="15" font="2">Code/Agency</text>
+<text top="207" left="115" width="52" height="13" font="6"><i>(MM/YYYY)</i></text>
+<text top="207" left="238" width="69" height="13" font="6"><i>(MM/DD/YYYY)</i></text>
+<text top="221" left="138" width="6" height="14" font="1">1</text>
+<text top="221" left="269" width="6" height="14" font="1">2</text>
+<text top="221" left="391" width="6" height="14" font="1">3</text>
+<text top="221" left="496" width="6" height="14" font="1">4</text>
+<text top="221" left="688" width="6" height="14" font="1">5</text>
+<text top="298" left="204" width="173" height="15" font="2">Should be Tax Due for the Month </text>
+<text top="298" left="579" width="63" height="15" font="2">Adjustments</text>
+<text top="312" left="289" width="7" height="15" font="2">6</text>
+<text top="312" left="577" width="64" height="15" font="2">7 = (6 less 5)</text>
+<text top="394" left="69" width="7" height="15" font="7"><b>4</b></text>
+<text top="395" left="93" width="92" height="15" font="2">Total Adjustment </text>
+<text top="397" left="185" width="181" height="13" font="6"><i>(Sum of Items 1 to 3) (To Part II, Item 26)</i></text>
+<text top="405" left="698" width="4" height="9" font="12">●</text>
+<text top="237" left="71" width="7" height="15" font="7"><b>1</b></text>
+<text top="248" left="774" width="4" height="9" font="12">●</text>
+<text top="259" left="71" width="7" height="15" font="7"><b>2</b></text>
+<text top="269" left="774" width="4" height="9" font="12">●</text>
+<text top="280" left="71" width="7" height="15" font="7"><b>3</b></text>
+<text top="291" left="774" width="4" height="9" font="12">●</text>
+<text top="330" left="69" width="7" height="15" font="7"><b>1</b></text>
+<text top="341" left="378" width="4" height="9" font="12">●</text>
+<text top="341" left="698" width="4" height="9" font="12">●</text>
+<text top="351" left="69" width="7" height="15" font="7"><b>2</b></text>
+<text top="362" left="378" width="4" height="9" font="12">●</text>
+<text top="362" left="698" width="4" height="9" font="12">●</text>
+<text top="373" left="69" width="7" height="15" font="7"><b>3</b></text>
+<text top="384" left="378" width="4" height="9" font="12">●</text>
+<text top="384" left="698" width="4" height="9" font="12">●</text>
+<text top="141" left="74" width="5" height="12" font="17">0</text>
+<text top="141" left="92" width="5" height="12" font="17">0</text>
+<text top="141" left="111" width="5" height="12" font="17">0</text>
+<text top="141" left="130" width="5" height="12" font="17">1</text>
+<text top="141" left="149" width="5" height="12" font="17">2</text>
+<text top="141" left="168" width="5" height="12" font="17">3</text>
+<text top="141" left="187" width="5" height="12" font="17">4</text>
+<text top="141" left="206" width="5" height="12" font="17">5</text>
+<text top="141" left="225" width="5" height="12" font="17">3</text>
+<text top="141" left="244" width="5" height="12" font="17">0</text>
+<text top="141" left="262" width="5" height="12" font="17">0</text>
+<text top="141" left="281" width="5" height="12" font="17">0</text>
+<text top="141" left="300" width="5" height="12" font="17">0</text>
+<text top="141" left="319" width="5" height="12" font="17">0</text>
+<text top="135" left="334" width="465" height="14" font="18">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME</text>
+<text top="146" left="334" width="362" height="14" font="18">WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="238" left="92" width="5" height="12" font="17">0</text>
+<text top="238" left="111" width="5" height="12" font="17">4</text>
+<text top="238" left="130" width="5" height="12" font="17">2</text>
+<text top="238" left="148" width="5" height="12" font="17">0</text>
+<text top="238" left="167" width="5" height="12" font="17">2</text>
+<text top="238" left="186" width="5" height="12" font="17">5</text>
+<text top="238" left="204" width="5" height="12" font="17">0</text>
+<text top="238" left="223" width="5" height="12" font="17">5</text>
+<text top="238" left="242" width="5" height="12" font="17">0</text>
+<text top="238" left="260" width="5" height="12" font="17">9</text>
+<text top="238" left="279" width="5" height="12" font="17">2</text>
+<text top="238" left="298" width="5" height="12" font="17">0</text>
+<text top="238" left="317" width="5" height="12" font="17">2</text>
+<text top="238" left="335" width="5" height="12" font="17">5</text>
+<text top="236" left="350" width="146" height="16" font="19">SAMPLE BANK REF-0001</text>
+<text top="238" left="677" width="5" height="12" font="17">1</text>
+<text top="238" left="696" width="5" height="12" font="17">5</text>
+<text top="238" left="715" width="5" height="12" font="17">0</text>
+<text top="238" left="734" width="5" height="12" font="17">0</text>
+<text top="238" left="753" width="5" height="12" font="17">0</text>
+<text top="238" left="793" width="5" height="12" font="17">0</text>
+<text top="238" left="812" width="5" height="12" font="17">0</text>
+<text top="260" left="753" width="5" height="12" font="17">0</text>
+<text top="260" left="793" width="5" height="12" font="17">0</text>
+<text top="260" left="812" width="5" height="12" font="17">0</text>
+<text top="281" left="753" width="5" height="12" font="17">0</text>
+<text top="281" left="793" width="5" height="12" font="17">0</text>
+<text top="281" left="812" width="5" height="12" font="17">0</text>
+<text top="331" left="282" width="5" height="12" font="17">1</text>
+<text top="331" left="301" width="5" height="12" font="17">5</text>
+<text top="331" left="320" width="5" height="12" font="17">2</text>
+<text top="331" left="339" width="5" height="12" font="17">5</text>
+<text top="331" left="358" width="5" height="12" font="17">0</text>
+<text top="331" left="397" width="5" height="12" font="17">0</text>
+<text top="331" left="415" width="5" height="12" font="17">0</text>
+<text top="331" left="641" width="5" height="12" font="17">2</text>
+<text top="331" left="660" width="5" height="12" font="17">5</text>
+<text top="331" left="678" width="5" height="12" font="17">0</text>
+<text top="331" left="717" width="5" height="12" font="17">0</text>
+<text top="331" left="735" width="5" height="12" font="17">0</text>
+<text top="353" left="358" width="5" height="12" font="17">0</text>
+<text top="353" left="397" width="5" height="12" font="17">0</text>
+<text top="353" left="415" width="5" height="12" font="17">0</text>
+<text top="353" left="678" width="5" height="12" font="17">0</text>
+<text top="353" left="717" width="5" height="12" font="17">0</text>
+<text top="353" left="735" width="5" height="12" font="17">0</text>
+<text top="374" left="358" width="5" height="12" font="17">0</text>
+<text top="374" left="397" width="5" height="12" font="17">0</text>
+<text top="374" left="415" width="5" height="12" font="17">0</text>
+<text top="374" left="678" width="5" height="12" font="17">0</text>
+<text top="374" left="717" width="5" height="12" font="17">0</text>
+<text top="374" left="735" width="5" height="12" font="17">0</text>
+<text top="395" left="641" width="5" height="12" font="17">2</text>
+<text top="395" left="660" width="5" height="12" font="17">5</text>
+<text top="395" left="678" width="5" height="12" font="17">0</text>
+<text top="395" left="717" width="5" height="12" font="17">0</text>
+<text top="395" left="735" width="5" height="12" font="17">0</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="20" size="11" family="Times" color="#212121"/>
+	<fontspec id="21" size="9" family="Times" color="#444444"/>
+	<fontspec id="22" size="10" family="Times" color="#444444"/>
+	<fontspec id="23" size="12" family="Times" color="#000000"/>
+	<fontspec id="24" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="139" height="19" font="10"><b>BIR Form No. 1601C</b></text>
+<text top="49" left="688" width="124" height="15" font="7"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="358" height="15" font="20">Monthly Remittance Return of Income Taxes Withheld on Compensation</text>
+<text top="86" left="80" width="275" height="13" font="21">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="22"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="22"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="1">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="1">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="1">TESTING</text>
+<text top="111" left="698" width="73" height="14" font="22"><b>Return Period:</b></text>
+<text top="111" left="771" width="41" height="14" font="1"> 06/2025</text>
+<text top="194" left="80" width="190" height="16" font="23"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="21">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="16"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="16"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="16"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="24">Page 1</text>
+<text top="242" left="160" width="166" height="13" font="8">Item 8 — Withholding Agent's Name</text>
+<text top="242" left="394" width="398" height="13" font="8">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="255" left="394" width="370" height="13" font="8">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="277" left="102" width="31" height="13" font="24">Page 1</text>
+<text top="277" left="160" width="205" height="13" font="8">Item 20 — Other Non-Taxable Compensation</text>
+<text top="290" left="160" width="40" height="13" font="8">(specify)</text>
+<text top="277" left="394" width="388" height="13" font="8">SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY </text>
+<text top="290" left="394" width="163" height="13" font="8">WORDS TO EXERCISE WRAPPING</text>
+<text top="311" left="102" width="31" height="13" font="24">Page 1</text>
+<text top="311" left="160" width="205" height="13" font="8">Item 29 — Other Remittances Made (specify)</text>
+<text top="311" left="394" width="408" height="13" font="8">OTHER REMITTANCE SPECIFY TEXT WITH A VERY LONG NAME FOR WRAPPING AND </text>
+<text top="324" left="394" width="114" height="13" font="8">RECTANGLE CHECKING</text>
+</page>
+</pdf2xml>

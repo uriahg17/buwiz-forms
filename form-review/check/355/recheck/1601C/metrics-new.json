@@ -1,0 +1,96 @@
+{
+  "spec91": {
+    "len": 91,
+    "count": 1,
+    "pages": [
+      1
+    ],
+    "prefix": "SPECIMEN LONG SPECIFY TEXT F"
+  },
+  "amount": {
+    "len": 9,
+    "count": 0,
+    "pages": [],
+    "prefix": "67,890.12"
+  },
+  "tin": {
+    "len": 17,
+    "count": 1,
+    "pages": [
+      3
+    ],
+    "prefix": "000-123-453-00000"
+  },
+  "fonts": {
+    "SPECIMEN LONG SPECIFY TEXT F": [
+      {
+        "text": "SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING",
+        "fontpx": 11,
+        "approx_pt": 8.25,
+        "top": 564.0,
+        "left": 72.0
+      }
+    ],
+    "67,890.12": [],
+    "000-123-453-00000": [
+      {
+        "text": "000-123-453-00000",
+        "fontpx": 10,
+        "approx_pt": 7.5,
+        "top": 111.0,
+        "left": 101.0
+      }
+    ],
+    "TIN:": [],
+    "SANTOS": [
+      {
+        "text": "SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TES...",
+        "fontpx": 9,
+        "approx_pt": 6.75,
+        "top": 241.0,
+        "left": 69.0
+      },
+      {
+        "text": "0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH",
+        "fontpx": 9,
+        "approx_pt": 6.75,
+        "top": 142.0,
+        "left": 319.0
+      },
+      {
+        "text": "SANTOS, JUANA MARIE DELA CRUZ-",
+        "fontpx": 10,
+        "approx_pt": 7.5,
+        "top": 111.0,
+        "left": 374.0
+      },
+      {
+        "text": "SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY",
+        "fontpx": 9,
+        "approx_pt": 6.75,
+        "top": 242.0,
+        "left": 394.0
+      }
+    ],
+    "NAME60": [],
+    "SPECIFY30": []
+  },
+  "additional_headers": [
+    {
+      "page": 3,
+      "lines": [
+        "BIR Form No. 1601C                                                                                                            ADDITIONAL SHEET",
+        "Monthly Remittance Return of Income Taxes Withheld on Compensation",
+        "Entries shortened with \"...\" on the form are printed in full below.",
+        "TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                                Return Period: 06/2025",
+        "VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH",
+        "MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW",
+        "TESTING",
+        "Entries continued from the form                                                                         Full text of entries shortened with \"...\" on the form",
+        "Page         Item / Field                                       Full Entry",
+        "Page 1        Item 8 \u2014 Withholding Agent's Name                  SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY",
+        "NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING"
+      ]
+    }
+  ]
+}

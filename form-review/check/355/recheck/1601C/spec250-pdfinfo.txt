@@ -1,0 +1,18 @@
+Title:           BIR Form 1601C (2018)
+Producer:        Skia/PDF m145
+CreationDate:    Wed Nov 25 19:59:41 2026 UTC
+ModDate:         Wed Nov 25 19:59:41 2026 UTC
+Custom Metadata: no
+Metadata Stream: no
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           3
+Encrypted:       no
+Page size:       595 x 842 pts (A4)
+Page rot:        0
+File size:       234948 bytes
+Optimized:       no
+PDF version:     1.4

@@ -1,0 +1,13 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+[none]                               Type 3            Custom           yes no  yes      7  0
+[none]                               Type 3            Custom           yes no  yes      8  0
+[none]                               Type 3            Custom           yes no  yes      9  0
+[none]                               Type 3            Custom           yes no  yes     10  0
+[none]                               Type 3            Custom           yes no  yes     11  0
+[none]                               Type 3            Custom           yes no  yes     17  0
+[none]                               Type 3            Custom           yes no  yes     18  0
+[none]                               Type 3            Custom           yes no  yes     19  0
+[none]                               Type 3            Custom           yes no  yes     20  0
+[none]                               Type 3            Custom           yes no  yes     21  0
+[none]                               Type 3            Custom           yes no  yes     22  0
