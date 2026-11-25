@@ -1,0 +1,59 @@
+[
+  {
+    "n": 30,
+    "pages": 3,
+    "p1_lines": 0,
+    "p1_fontpx": [],
+    "ellipsis_p1": false,
+    "additional_exact_total": 0,
+    "additional_exact_pages": [
+      0
+    ],
+    "hits": [
+      [
+        2,
+        0,
+        1144,
+        "QSPECIFY30-PRINTCHECK ABCDEFGH"
+      ]
+    ]
+  },
+  {
+    "n": 60,
+    "pages": 3,
+    "p1_lines": 0,
+    "p1_fontpx": [],
+    "ellipsis_p1": false,
+    "additional_exact_total": 0,
+    "additional_exact_pages": [
+      0
+    ],
+    "hits": [
+      [
+        2,
+        0,
+        1144,
+        "QSPECIFY60-PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDE"
+      ]
+    ]
+  },
+  {
+    "n": 120,
+    "pages": 3,
+    "p1_lines": 0,
+    "p1_fontpx": [],
+    "ellipsis_p1": false,
+    "additional_exact_total": 0,
+    "additional_exact_pages": [
+      0
+    ],
+    "hits": [
+      [
+        2,
+        0,
+        1139,
+        "QSPECIFY120-PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ"
+      ]
+    ]
+  }
+]

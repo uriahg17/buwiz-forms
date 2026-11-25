@@ -1,0 +1,13 @@
+chars	field	form_result	ellipsis	full_text_on_additional_sheet	min_measured_approx_pt
+60	name	2 full lines	no	none	8.25
+60	address	2 full lines	no	none	8.25
+60	line of business	2 lines then ellipsis	yes	exactly once	8.25
+100	name	2 full lines	no	none	8.25
+100	address	2 full lines	no	none	8.25
+100	line of business	2 lines then ellipsis	yes	exactly once	8.25
+137	name	2 lines then ellipsis	yes	exactly once	8.25
+137	address	2 full lines	no	none	8.25
+137	line of business	2 lines then ellipsis	yes	exactly once	8.25
+200	name	2 lines then ellipsis	yes	exactly once	8.25
+200	address	2 lines then ellipsis	yes	exactly once	8.25
+200	line of business	2 lines then ellipsis	yes	exactly once	8.25

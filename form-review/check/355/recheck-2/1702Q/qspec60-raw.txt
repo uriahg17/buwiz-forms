@@ -1,0 +1,206 @@
+Republic of the Philippines
+For BIR BCS/ Department of Finance
+Use Only: Item: Bureau of Internal Revenue
+BIR Form No.
+Quarterly Income Tax Return
+1702Q For Corporations, Partnerships and Other Non-Individual Taxpayers
+January 2018 (ENCS) EnterallrequiredinformationinCAPITALLETTERS.Markapplicableboxeswithan“X”.
+Page 1 TwocopiesMUSTbefiledwiththeBIRandoneheldbythetaxpayer. 1702Q 01/18ENCS P1
+3 Quarter 4 Amended Return? 5 Alphanumeric Tax Code (ATC)
+1 For Calendar Fiscal
+IC 055 MinimumCorporateIncomeTax(MCIT)
+2 Year Ended (MM/20YY) st nd rd
+1 2 3 Yes No
+/20
+Part I – Background Information
+0 0 0 0 0
+- - -
+6 Taxpayer Identification Number (TIN) 7 RDO Code
+8 Registered Name (Enter only 1 letter per box using CAPITAL LETTERS)
+9 Registered Address (Indicatecompleteaddress.Iftheregisteredaddressisdifferentfromthecurrentaddress,gototheRDOtoupdateregisteredaddressbyusingBIRFormNo.1905)
+9AZIP Code
+10 Contact Number 11 Email Address
+(Landline/Cellphone No.)
+Optional Standard Deduction (OSD) – 40% of Gross Income
+12 Method of Deductions Itemized Deductions [Section 34 (A-J), NIRC] [Section 34(L) NIRC, as amended]
+Are you availing of tax relief under If yes,
+Yes
+13 13A
+No
+Special Law/International Tax Treaty? specify
+Part II – Total Tax Payable (D ;
+ONOTenterCentavos 49CentavosorLessdropdown;50ormoreroundup)
+14 Income Tax Due – Regular/Normal Rate (From Part IV - Schedule 2, Item 13)
+Unexpired Excess of Prior Year’s MCIT over Regular/Normal Income Tax Rate
+15Less: (deductible only if the quarterly’s tax due is the regular/normal rate)
+16 Balance/Income Tax Still Due – Regular/Normal Rate (Item 14 Less item 15)
+17 Add: Income Tax Due – Special Rate (From Part IV - Schedule 1, Item 13)
+18 Aggregate Income Tax Due (Sum of Items 16 and 17)
+19 Less: Total Tax Credits/Payments (From Part IV - Schedule 4, Item 7)
+20 Net Tax Payable / (Overpayment) (Item 18 Less Item 19)
+Add: Penalties 21 Surcharge
+22 Interest
+23 Compromise
+24 Total Penalties (Sum of Items 21 to 23)
+25TOTALAMOUNTPAYABLE/(Overpayment) (Sumof Items20and24)
+We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, are true and
+correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. (If signed by an Authorized Representative, indicate TIN and
+attachauthorizationletter)
+26 Number of
+Attachments
+SignatureoverPrintedNameofPresident/PrincipalOfficer/AuthorizedRepresentative Signature over Printed Name of Treasurer/ Assistant Treasurer
+TIN
+Title of Signatory TIN Title of Signatory
+Part III – Details of Payment
+Particulars Number Date Amount
+DraweeBank/Agency (MM/DD/YYYY)
+27 Cash/Bank Debit Memo
+28 Check
+29 Tax Debit Memo
+30 Others (specify below)
+Stamp of Receiving Office/AAB and Date of
+Machine Validation/Revenue Official Receipt Details [if not filed with an Authorized Agent Bank (AAB)] Receipt (RO’s Signature/Bank Teller’s Initial)
+X
+X
+X X IC 010 DOMESTIC CORPORATION IN GENE... X
+1 2 2 5
+0 0 0 1 2 3 4 5 3 0 3 9
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUE VA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI 1 1 0 0
+0 9 1 7 1 2 3 4 5 6 7 juana.santos.independent.print.check@example.com
+X
+X
+1 6 9 1 3 5 8 3 0
+0
+1 6 9 1 3 5 8 3 0
+2 0 1 2 3 4 6
+1 7 1 1 4 8 1 7 6
+8 2 1 9 6 9
+1 7 0 3 2 6 2 0 7
+1 2 3 4 5
+2 3 4 5 6
+3 4 5 6
+3 9 2 5 7
+1 7 0 3 6 5 4 6 4
+0 0 0
+BIR Form No.
+Quarterly Income Tax Return
+1702Q For Corporations, Partnerships and Other Non-Individual Taxpayers
+January 2018 (ENCS)
+Page 2 1702Q 01/18ENCS P2
+Taxpayer Identification Number (TIN) Registered Name
+0 0 0 0 0
+Part IV – Schedules (D ;
+ONOTenterCentavos 49CentavosorLessdropdown;50ormoreroundup)
+Schedule 1 – Declaration this Quarter A. EXEMPT B. SPECIAL
+1 Sales/Receipts/Revenues/Fees
+2 Less: Cost of Sales/Services
+3 Gross Income from Operation (Item 1 Less Item 2)
+Non-Operating and Other Taxable Income
+4 Add:
+5 Total Gross Income (Sum of Items 3 and 4)
+6 Less: Deductions
+7 Taxable Income this Quarter (Item 5 less Item 6)
+8 Add: Taxable Income Previous Quarter/s
+9 Total Taxable Income to Date (SumofItems7&8)
+0 % %
+10 Applicable Income Tax Rate [except minimum corporate income tax (MCIT) rate] ●
+0 0 0
+Income Tax Due Other than MCIT
+11 (Item 9 x Item 10)
+12 Less: Share of Other Agencies, if remitted directly
+13 Net Income Tax Due to National Government (Item 11 Less Item 12) (To Part II Item 17)
+Schedule 2 – Declaration this Quarter – REGULAR/NORMAL RATE
+1 Sales/Receipts/Revenues/Fees
+2 Less: Cost of Sales/Services
+3 Gross Income from Operation (Item 1 Less Item 2)
+4 Add: Non-Operating and Other Taxable Income
+5 Total Gross Income (Sum of Items 3 and 4)
+6 Less: Deductions
+7 Taxable Income this Quarter (Item 5 less Item 6)
+8 Add: Taxable Income Previous Quarter/s
+9 Total Taxable Income to Date (Sum of Items 7 and 8)
+%
+10 Applicable Income Tax Rate (except MCIT rate)
+11 Income Tax Due Other than MCIT (Item 9 multiply by Item 10)
+12 Minimum Corporate Income Tax (MCIT) (From Schedule 3 Item 6)
+(Normal Income Tax in Item 11 or MCIT in Item 12 whichever is higher)
+13 Income Tax Due (To Part II Item 14)
+Schedule 3 – Computation of Minimum Corporate Income (MCIT) Tax for the Quarter/s
+1 Gross Income Regular/Normal Rate - 1 Quarter
+st
+2 Gross Income Regular/Normal Rate - 2 Quarter
+nd
+3 Gross Income Regular/Normal Rate - 3 Quarter
+rd
+4 Total Gross Income (Sum of Items 1 to 3)
+2 %
+5 MCIT Rate
+6 Minimum Corporate Income Tax (To Schedule 2 Item 12)
+Schedule 4 – Tax Credits/Payments (attach additional sheet/s, if necessary)
+1 Prior Year’s Excess Credits
+2 Tax payment/s for the previous quarter/s of the same taxable year other than MCIT
+3 MCIT payment/s for the previous quarter/s of the same taxable year
+4 Creditable Tax Withheld for the previous quarter/s
+5 Creditable Tax Withheld per BIR Form No. 2307 for this quarter
+6 Tax paid in return previously filed if this is an amended return
+Other Tax Credits/Payments (specify below)
+a
+b
+7 Total Tax Credits/Payments (Sum of Items 1 to 6b) (To Part II Item 19)
+0 0 0 1 2 3 4 5 3 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+1 2 3 4 5 6 7 2 3 4 5 6 7 8 9
+1 2 3 4 5 6 1 2 3 4 5 6 7
+1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+1 2 3 4 5 1 2 3 4 5 6
+1 1 2 3 4 5 6 2 2 3 4 5 6 7 8
+2 3 4 5 6 7 2 3 4 5 6 7 8
+8 8 8 8 8 9 2 0 0 0 0 0 0 0
+1 2 3 4 5 1 2 3 4 5 6
+9 0 1 2 3 4 2 0 1 2 3 4 5 6
+0 1 0 0
+0 2 0 1 2 3 4 6
+0
+2 0 1 2 3 4 6
+1 2 3 4 5 6 7 8 9 0
+2 3 4 5 6 7 8 9 0
+1 0 0 0 0 0 0 0 0 0
+1 2 3 4 5 6 7 9
+1 0 1 2 3 4 5 6 7 9
+3 4 5 6 7 8 9 0 1
+6 6 6 6 6 6 7 7 8
+9 8 7 6 5 4 3
+6 7 6 5 4 3 3 2 1
+2 5
+1 6 9 1 3 5 8 3 0
+7 1 6 0 4 9
+1 6 9 1 3 5 8 3 0
+1 2 3 4 5 6 7 8
+2 3 4 5 6 7 8 9
+0
+3 5 8 0 2 4 6 7
+2
+7 1 6 0 4 9
+1 2 3 4 5 6
+2 3 4 5 6 7
+3 4 5 6
+4 5 6 7 8
+5 6 7 8 9
+0
+QSPECIFY60-PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDE 1 2 3 4 5 6
+SECOND OTHER CREDIT SPECIFY ROW WITH LONG TEXT FOR ADDITIONAL PRINT CHECK 2 3 4 5 6 7
+8 2 1 9 6 9
+BIR Form No. 1702Q ADDITIONAL SHEET
+Quarterly Income Tax Return for Corporations, Partnerships and Cooperatives
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUE VAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Item 5 — ATC description (second line) DOMESTIC CORPORATION IN GENERAL - 25%
+
