@@ -1,0 +1,45 @@
+=== 1800 cap (2011-p0) applied=31 saved=True (saved=True unsaved=False cleared=False) pages=3 ===
+  net_gifts_subject_to_tax: 516416665.15
+  net_gifts_this_return: 516666665.15
+  personal_properties (5 rows): first={'particulars': 'GIFT_PERS_R01', 'fair_market_value': 101111111.01} last={'particulars': 'GIFT_PERS_R05', 'fair_market_value': 105555555.05}
+  prior_net_gifts: 0.0
+  real_properties (7 rows): first={'title_number': 'OCT-001', 'tax_declaration_number': 'TD-001', 'location': 'MAKATI_LOT_R01', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0} last={'title_number': 'OCT-007', 'tax_declaration_number': 'TD-007', 'location': 'MAKATI_LOT_R07', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0}
+  tax_due: 30984999.91
+  total_amount_payable: 30984999.91
+  total_credits: 0.0
+  total_deductions: 0.0
+  total_gifts: 516666665.15
+  total_net_gifts: 516666665.15
+  total_penalties: 0.0
+  total_personal: 516666665.15
+  total_real: 0.0
+=== 1800 plus3 (2010-p0) applied=46 saved=True (saved=True unsaved=False cleared=False) pages=3 ===
+  net_gifts_subject_to_tax: 839749996.36
+  net_gifts_this_return: 839999996.36
+  personal_properties (8 rows): first={'particulars': 'GIFT_PERS_R01', 'fair_market_value': 101111111.01} last={'particulars': 'GIFT_PERS_R08', 'fair_market_value': 108888888.08}
+  prior_net_gifts: 0.0
+  real_properties (10 rows): first={'title_number': 'OCT-001', 'tax_declaration_number': 'TD-001', 'location': 'MAKATI_LOT_R01', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0} last={'title_number': 'OCT-010', 'tax_declaration_number': 'TD-010', 'location': 'MAKATI_LOT_R10', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0}
+  tax_due: 50384999.78
+  total_amount_payable: 50384999.78
+  total_credits: 0.0
+  total_deductions: 0.0
+  total_gifts: 839999996.36
+  total_net_gifts: 839999996.36
+  total_penalties: 0.0
+  total_personal: 839999996.36
+  total_real: 0.0
+=== 1800 maxui (2009-p0) applied=87 saved=True (saved=True unsaved=False cleared=False) pages=3 ===
+  net_gifts_subject_to_tax: 1989749982.71
+  net_gifts_this_return: 1989999982.71
+  personal_properties (18 rows): first={'particulars': 'GIFT_PERS_R01', 'fair_market_value': 101111111.01} last={'particulars': 'GIFT_PERS_R18', 'fair_market_value': 119999998.18}
+  prior_net_gifts: 0.0
+  real_properties (17 rows): first={'title_number': 'OCT-001', 'tax_declaration_number': 'TD-001', 'location': 'MAKATI_LOT_R01', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0} last={'title_number': 'OCT-017', 'tax_declaration_number': 'TD-017', 'location': 'MAKATI_LOT_R17', 'lot_or_improvement': '', 'classification': '', 'area': '', 'fmv_per_tax_declaration': '', 'fmv_per_zonal_value': '', 'fair_market_value': 0.0}
+  tax_due: 119384998.96
+  total_amount_payable: 119384998.96
+  total_credits: 0.0
+  total_deductions: 0.0
+  total_gifts: 1989999982.71
+  total_net_gifts: 1989999982.71
+  total_penalties: 0.0
+  total_personal: 1989999982.71
+  total_real: 0.0

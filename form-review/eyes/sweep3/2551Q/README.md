@@ -11,3 +11,6 @@
 
 ## What this folder does not show
 - `+3` (9 rows) and `+40` (46 rows) could **not** be entered through the running form page at `b9552e27`: Schedule 1 caps at 6 rows (no `Add row` past 6), and rows 2–6 ATC drawers display `"Can't be filled on this page yet."` (so rows 2–6 ATC remain blank in the saved draft).
+
+## UI cap check at `origin/main` (`00a20033`)
+- Checked `2551Q` Schedule 1 on `origin/main` `00a20033`: main's form page has the exact same 6-row cap (`txtATCAmt1..6`) and still displays `"Can't be filled on this page yet."` for rows 2-6 ATC. This cap is on the form page, not the print engine.

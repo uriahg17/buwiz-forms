@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	Sched 1.A 4/4 + Sched 1.B 4/4	ok	N/A	451,111,110.10 matches	ok	ok	ok	8pt	N/A	N/A	CLEAN
+plus3	3	Sched 1.A 7/7 inline on p2; Sched 1.B 3 on p2 + 5 on legacy Additional Sheet p3	ok	yes (legacy p3)	801,111,108.28 matches sum of 7 Sched 1.A rows	ok	ok	ok	8pt	legacy p3 Return Period: —	N/A	TWEAK (plus3-p3.png legacy fallback for 1.B)
+maxui	3	Sched 1.A 15/15 inline on p2; Sched 1.B 3 on p2 + 11 on legacy Additional Sheet p3	ok	yes (legacy p3)	matches	ok	ok	ok	8pt	legacy p3	N/A	TWEAK
+main-00a20033-plus3	2	main 00a20033 prints 2 pages (4 fixed 1.A rows, drops 5-7)	ok	no	main drops overflow	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

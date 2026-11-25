@@ -1,0 +1,24 @@
+=== 2000OT cap (2015-p0) fill_ok=True saved=True (saved=True unsaved=False cleared=False) pages=4 ===
+  others_description: 
+  properties (4 rows): first={'title_number': 'OCT_OT_01', 'tax_declaration_number': 'TD_OT_01', 'location': 'LOC_OT_R01', 'lot': 'LOT01', 'classification': 'CR', 'area': '251', 'fmv_per_td': 101111111.01, 'fmv_zonal': 111111111.01, 'fmv': 111111111.01} last={'title_number': 'OCT_OT_04', 'tax_declaration_number': 'TD_OT_04', 'location': 'LOC_OT_R04', 'lot': 'LOT04', 'classification': 'CR', 'area': '254', 'fmv_per_td': 104444444.04, 'fmv_zonal': 114444444.04, 'fmv': 114444444.04}
+  shares (5 rows): first={'corporation': 'CORP_OT_R01', 'shares_sold': '1001', 'certificate_number': 'CERT001', 'par_value': 101111111.01, 'dst_paid_on_issue': 1011111.01} last={'corporation': 'CORP_OT_R05', 'shares_sold': '1005', 'certificate_number': 'CERT005', 'par_value': 105555555.05, 'dst_paid_on_issue': 1055555.05}
+  tax_due: 3874999.5
+  total_amount_payable: 3874999.5
+  total_fair_market_value: 451111110.1
+  total_penalties: 0.0
+=== 2000OT plus3 (2014-p0) fill_ok=True saved=True (saved=True unsaved=False cleared=False) pages=4 ===
+  others_description: 
+  properties (7 rows): first={'title_number': 'OCT_OT_01', 'tax_declaration_number': 'TD_OT_01', 'location': 'LOC_OT_R01', 'lot': 'LOT01', 'classification': 'CR', 'area': '251', 'fmv_per_td': 101111111.01, 'fmv_zonal': 111111111.01, 'fmv': 111111111.01} last={'title_number': 'OCT_OT_07', 'tax_declaration_number': 'TD_OT_07', 'location': 'LOC_OT_R07', 'lot': 'LOT07', 'classification': 'CR', 'area': '257', 'fmv_per_td': 107777777.07, 'fmv_zonal': 117777777.07, 'fmv': 117777777.07}
+  shares (8 rows): first={'corporation': 'CORP_OT_R01', 'shares_sold': '1001', 'certificate_number': 'CERT001', 'par_value': 101111111.01, 'dst_paid_on_issue': 1011111.01} last={'corporation': 'CORP_OT_R08', 'shares_sold': '1008', 'certificate_number': 'CERT008', 'par_value': 108888888.08, 'dst_paid_on_issue': 1088888.08}
+  tax_due: 6299998.5
+  total_amount_payable: 6299998.5
+  total_fair_market_value: 801111108.28
+  total_penalties: 0.0
+=== 2000OT maxui (2013-p0) fill_ok=True saved=True (saved=True unsaved=False cleared=False) pages=4 ===
+  others_description: 
+  properties (15 rows): first={'title_number': 'OCT_OT_01', 'tax_declaration_number': 'TD_OT_01', 'location': 'LOC_OT_R01', 'lot': 'LOT01', 'classification': 'CR', 'area': '251', 'fmv_per_td': 101111111.01, 'fmv_zonal': 111111111.01, 'fmv': 111111111.01} last={'title_number': 'OCT_OT_15', 'tax_declaration_number': 'TD_OT_15', 'location': 'LOC_OT_R15', 'lot': 'LOT15', 'classification': 'CR', 'area': '265', 'fmv_per_td': 116666665.15, 'fmv_zonal': 126666665.15, 'fmv': 126666665.15}
+  shares (14 rows): first={'corporation': 'CORP_OT_R01', 'shares_sold': '1001', 'certificate_number': 'CERT001', 'par_value': 101111111.01, 'dst_paid_on_issue': 1011111.01} last={'corporation': 'CORP_OT_R14', 'shares_sold': '1014', 'certificate_number': 'CERT014', 'par_value': 115555554.14, 'dst_paid_on_issue': 1155554.14}
+  tax_due: 11374999.5
+  total_amount_payable: 11374999.5
+  total_fair_market_value: 1783333321.2
+  total_penalties: 0.0

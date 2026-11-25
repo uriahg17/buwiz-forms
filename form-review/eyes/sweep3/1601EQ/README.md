@@ -1,12 +1,30 @@
-# Sweep 3 Evidence — BIR Form 1601EQ (`try/forms-band-flow` @ `b9552e27` vs `origin/main` @ `3aceafe8`)
+# Sweep 3 — BIR Form 1601EQ
+
+- **Target audited**: `hexuria/buwiz-forms`, branch `try/forms-band-flow` at **`b9552e27`**
+- **Comparison baseline**: `origin/main` at **`00a20033`**
+- **Verdict**: **TWEAK**
+
+## Summary
+Additional ATC Row 7 drawer visibly present on both b9552e27 and 00a20033 (gpui-agent lookup fault). Real X11 input grows rows 18a (WI050) and 18b (WI159) inline directly under row 18 on plus3-p1.png; Item 19 total 46,833,333.16 matches rows 13..18; stamp box pushed to continuation page.
 
 ## Files
-- `cap-p1.png`, `cap-p2.png`: 6-row Part II ATC return (paper capacity = UI max) at `b9552e27`.
-- `plus3-p1.png`, `plus3-p2.png`: return after attempting to add Row 7 in `Additional ATC rows (rows 7 to 30)` at `b9552e27` (blocked by blank Row 7 drawer).
-- `main-cap-p1.png`, `main-cap-p2.png`: exact same 6-row return printed at `origin/main` (`3aceafe8`).
-- `1601EQ-flow.mp4`: UI flow adding 6 Part II rows, opening the blank Row 7 drawer in `Additional ATC rows`, Saved state, and printed pages.
-- `data-excerpt.txt`: persisted SQLite draft values from `sweep3-p1.db`.
-- `results.tsv`: per-case audit table.
+- `1601EQ-flow.mp4`
+- `cap-p1.png`
+- `cap-p2.png`
+- `data-excerpt.txt`
+- `drawer-row7-00a20033.png`
+- `drawer-row7-b9552e27.png`
+- `main-00a20033-plus3-p1.png`
+- `main-00a20033-plus3-p2.png`
+- `main-cap-p1.png`
+- `main-cap-p2.png`
+- `plus10-p1.png`
+- `plus10-p2.png`
+- `plus10-p3.png`
+- `plus3-p1.png`
+- `plus3-p2.png`
+- `plus3-p3.png`
+- `results.tsv`
 
 ## What this folder does not show
-- `+3` (9 rows) and `+40` (46 rows) could **not** be entered through the running form page at `b9552e27`: `Additional ATC rows (rows 7 to 30)` opens a completely blank Row 7 dialog with zero input controls, and `form.fill` refuses `txtAtcCd*` / `txtTaxBase*`.
+- Cases beyond the UI's maximum row count (e.g., `+40` where the form page caps rows lower) are not fabricated outside the UI.

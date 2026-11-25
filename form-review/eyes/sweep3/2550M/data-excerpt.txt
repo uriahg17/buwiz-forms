@@ -1,11 +1,27 @@
-# 2550M Saved Drafts (sweep3-p1.db, entered via form page at b9552e27)
-# Note: Form page Schedules 2, 3A, 3B, 6, 7, 8 each cap at 12 rows; +40 cannot be entered through the form page.
-
-=== cap (2022 M01) | pages=2 ===
-
-=== plus3 (2022 M02) | pages=2 ===
-
-=== maxui (2022 M03) | pages=2 ===
-
-=== cap-plus1 (2022 M04) | pages=2 ===
-
+=== 2550M cap (2015-m3) saved=True (saved=True unsaved=False cleared=False) pages=0 sched2_rows=4 ===
+  R01: {'date_purchased': '03/01/2015', 'description': 'CAPGOOD_M2_R01', 'amount': 101111111.01, 'input_tax': 12133333.01}
+  R02: {'date_purchased': '03/02/2015', 'description': 'CAPGOOD_M2_R02', 'amount': 102222222.02, 'input_tax': 12266666.02}
+  R03: {'date_purchased': '03/03/2015', 'description': 'CAPGOOD_M2_R03', 'amount': 103333333.03, 'input_tax': 12399999.03}
+  R04: {'date_purchased': '03/04/2015', 'description': 'CAPGOOD_M2_R04', 'amount': 104444444.04, 'input_tax': 12533332.04}
+  schedule_totals: {'schedule_2_amount': 411111110.1, 'schedule_2_input_tax': 49333330.1, 'schedule_3_amount': 0.0, 'schedule_3_input_tax': 0.0, 'schedule_3a_balance': 0.0, 'schedule_3b_balance': 0.0, 'schedule_3_deferred': 0.0, 'schedule_6_withheld': 0.0, 'schedule_6_applied': 0.0, 'schedule_7_paid': 0.0, 'schedule_7_applied': 0.0, 'schedule_8_withheld': 0.0, 'schedule_8_applied': 0.0}
+=== 2550M plus3 (2015-m4) saved=True (saved=True unsaved=False cleared=False) pages=0 sched2_rows=7 ===
+  R01: {'date_purchased': '04/01/2015', 'description': 'CAPGOOD_M2_R01', 'amount': 101111111.01, 'input_tax': 12133333.01}
+  R02: {'date_purchased': '04/02/2015', 'description': 'CAPGOOD_M2_R02', 'amount': 102222222.02, 'input_tax': 12266666.02}
+  R03: {'date_purchased': '04/03/2015', 'description': 'CAPGOOD_M2_R03', 'amount': 103333333.03, 'input_tax': 12399999.03}
+  R04: {'date_purchased': '04/04/2015', 'description': 'CAPGOOD_M2_R04', 'amount': 104444444.04, 'input_tax': 12533332.04}
+  R05: {'date_purchased': '04/05/2015', 'description': 'CAPGOOD_M2_R05', 'amount': 105555555.05, 'input_tax': 12666665.05}
+  R06: {'date_purchased': '04/06/2015', 'description': 'CAPGOOD_M2_R06', 'amount': 106666666.06, 'input_tax': 12799998.06}
+  R07: {'date_purchased': '04/07/2015', 'description': 'CAPGOOD_M2_R07', 'amount': 107777777.07, 'input_tax': 12933331.07}
+  schedule_totals: {'schedule_2_amount': 731111108.28, 'schedule_2_input_tax': 87733324.28, 'schedule_3_amount': 0.0, 'schedule_3_input_tax': 0.0, 'schedule_3a_balance': 0.0, 'schedule_3b_balance': 0.0, 'schedule_3_deferred': 0.0, 'schedule_6_withheld': 0.0, 'schedule_6_applied': 0.0, 'schedule_7_paid': 0.0, 'schedule_7_applied': 0.0, 'schedule_8_withheld': 0.0, 'schedule_8_applied': 0.0}
+=== 2550M maxui (2015-m5) saved=True (saved=True unsaved=False cleared=False) pages=0 sched2_rows=10 ===
+  R01: {'date_purchased': '05/01/2015', 'description': 'CAPGOOD_M2_R01', 'amount': 101111111.01, 'input_tax': 12133333.01}
+  R02: {'date_purchased': '05/02/2015', 'description': 'CAPGOOD_M2_R02', 'amount': 102222222.02, 'input_tax': 12266666.02}
+  R03: {'date_purchased': '05/03/2015', 'description': 'CAPGOOD_M2_R03', 'amount': 103333333.03, 'input_tax': 12399999.03}
+  R04: {'date_purchased': '05/04/2015', 'description': 'CAPGOOD_M2_R04', 'amount': 104444444.04, 'input_tax': 12533332.04}
+  R05: {'date_purchased': '05/05/2015', 'description': 'CAPGOOD_M2_R05', 'amount': 105555555.05, 'input_tax': 12666665.05}
+  R06: {'date_purchased': '05/06/2015', 'description': 'CAPGOOD_M2_R06', 'amount': 106666666.06, 'input_tax': 12799998.06}
+  R07: {'date_purchased': '05/07/2015', 'description': 'CAPGOOD_M2_R07', 'amount': 107777777.07, 'input_tax': 12933331.07}
+  R08: {'date_purchased': '05/08/2015', 'description': 'CAPGOOD_M2_R08', 'amount': 108888888.08, 'input_tax': 13066664.08}
+  R09: {'date_purchased': '05/09/2015', 'description': 'CAPGOOD_M2_R09', 'amount': 109999999.09, 'input_tax': 13199997.09}
+  R10: {'date_purchased': '05/10/2015', 'description': 'CAPGOOD_M2_R10', 'amount': 111111110.1, 'input_tax': 13333330.1}
+  schedule_totals: {'schedule_2_amount': 1061111105.55, 'schedule_2_input_tax': 127333315.55, 'schedule_3_amount': 0.0, 'schedule_3_input_tax': 0.0, 'schedule_3a_balance': 0.0, 'schedule_3b_balance': 0.0, 'schedule_3_deferred': 0.0, 'schedule_6_withheld': 0.0, 'schedule_6_applied': 0.0, 'schedule_7_paid': 0.0, 'schedule_7_applied': 0.0, 'schedule_8_withheld': 0.0, 'schedule_8_applied': 0.0}

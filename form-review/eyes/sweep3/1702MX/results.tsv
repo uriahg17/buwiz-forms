@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	4	4 Sched 6 rows saved	ok	N/A	saved in SQLite	ok	ok	ok	8pt	N/A	N/A	TWEAK
+plus3	4	7 Sched 6 rows saved; 4 pages printed	ok	N/A	no p5 continuation	ok	ok	ok	8pt	N/A	N/A	TWEAK (Sched 6 does not grow)
+maxui	4	17 Sched 6 rows saved; 4 pages printed	ok	N/A	no p5 continuation	ok	ok	ok	8pt	N/A	N/A	TWEAK
+main-00a20033-plus3	4	main 00a20033 4 pages	ok	N/A	baseline	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

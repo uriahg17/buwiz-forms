@@ -13,3 +13,6 @@
 
 ## What this folder does not show
 - `+40` (42 rows) could **not** be entered through the running form page at `b9552e27`: Part IV.A modal rows cap at 12 (`txtmodalPartIVA_0..11`).
+
+## Follow-up comparison at `origin/main` (`00a20033`)
+- `main-00a20033-plus3-p1.png`, `main-00a20033-plus3-p2.png`, `main-00a20033-maxui-p1.png`, `main-00a20033-maxui-p2.png`: the same `+3` and `maxui` returns printed at `origin/main` `00a20033`. Main prints only 2 pages with Item 42 `OTHERS` as a single summary line (no `42a..42l` inline), confirming the official sheet treats Item 42 as a summary line whose details belong on an attached sheet — so `b9552e27` expanding `42a..42l` inline under Item 42 while keeping Item 42's sum double-counts them on paper.

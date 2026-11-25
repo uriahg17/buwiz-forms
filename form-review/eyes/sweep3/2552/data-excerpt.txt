@@ -1,0 +1,48 @@
+=== 2552 cap (2011-p0) applied=48 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:40:31.690117221+00:00
+  email: juana.santos@example.com
+  id: 121
+  overpayment: none
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction: unspecified
+  transaction_year: 2011
+  updated_at: 2026-11-25T12:40:31.690117221+00:00
+  zip_code: 1003
+=== 2552 plus3 (2010-p0) applied=66 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:40:44.661470845+00:00
+  email: juana.santos@example.com
+  id: 122
+  overpayment: none
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction: unspecified
+  transaction_year: 2010
+  updated_at: 2026-11-25T12:40:44.661470845+00:00
+  zip_code: 1003
+=== 2552 maxui (2009-p0) applied=78 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:40:57.927760207+00:00
+  email: juana.santos@example.com
+  id: 123
+  overpayment: none
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction: unspecified
+  transaction_year: 2009
+  updated_at: 2026-11-25T12:40:57.927760207+00:00
+  zip_code: 1003

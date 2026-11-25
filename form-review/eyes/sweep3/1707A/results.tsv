@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	2/2 rows (CORP_A_R01..R02) on p2	1..2	N/A	203,333,333.03 matches	ok	ok	ok	8pt	N/A	N/A	CLEAN
+plus3	4	6/6 rows (R01..R02 on p2, R03..R06 on legacy p3); row 3 blank on p2	5..8 on p3	yes (legacy)	419,999,998.18 + 203,333,333.03 matches; gains 321,000,000.00 matches	ok	ok	ok	8pt	Taxpayer's Name: —; Return Period: —	N/A	TWEAK (plus3-p3.png legacy sheet w/ blank Name/Period)
+maxui	4	all rows on legacy Additional Sheet	ok	yes (legacy)	matches	ok	ok	ok	8pt	blank Name/Period	N/A	TWEAK
+main-00a20033-plus3	2	main 00a20033 prints 2 pages (OTHERS only, no Additional Sheet)	ok	no	main omits detail rows	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

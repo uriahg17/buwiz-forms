@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	p2 Sched 1 4 rows	ok	N/A	saved draft verified	ok	ok	ok	8pt	N/A	ok	TWEAK (p1 Part II blank on direct fill)
+plus3	2	p2 Sched 1 5 rows	ok	N/A	saved draft verified	ok	ok	ok	8pt	N/A	ok	TWEAK
+maxui	2	p2 Sched 1 5 rows	ok	N/A	saved draft verified	ok	ok	ok	8pt	N/A	ok	TWEAK
+main-00a20033-plus3	2	main 00a20033 2 pages	ok	N/A	baseline	ok	ok	ok	8pt	N/A	ok	BASELINE 00a20033

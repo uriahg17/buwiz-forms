@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	1	Sched 1.1 blank on p1	ok	N/A	0.00	ok	ok	ok	8pt	N/A	ok	TWEAK (Sched 1.1 rows not reflected on p1)
+plus3	1	Sched 1.1 blank on p1 (no growth)	ok	N/A	0.00	ok	ok	ok	8pt	N/A	ok	TWEAK
+maxui	1	Sched 1.1 blank on p1 (no growth)	ok	N/A	0.00	ok	ok	ok	8pt	N/A	ok	TWEAK
+main-00a20033-plus3	1	main 00a20033 1 page	ok	N/A	baseline	ok	ok	ok	8pt	N/A	ok	BASELINE 00a20033

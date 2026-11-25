@@ -1,0 +1,51 @@
+=== 1601FQ cap (2011-p1) applied=0 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2011-05-02', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 5686, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:34:09.635925200+00:00
+  email: juana.santos@example.com
+  id: 95
+  penalty_due_date: 2011-05-02
+  penalty_model_version: 1
+  quarter: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxable_year: 2011
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:34:09.635925200+00:00
+  zip_code: 1003
+=== 1601FQ plus3 (2010-p1) applied=0 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2010-04-30', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6053, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:34:22.305498667+00:00
+  email: juana.santos@example.com
+  id: 96
+  penalty_due_date: 2010-04-30
+  penalty_model_version: 1
+  quarter: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxable_year: 2010
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:34:22.305498667+00:00
+  zip_code: 1003
+=== 1601FQ maxui (2009-p1) applied=0 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2009-04-30', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6418, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:34:34.899122105+00:00
+  email: juana.santos@example.com
+  id: 97
+  penalty_due_date: 2009-04-30
+  penalty_model_version: 1
+  quarter: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxable_year: 2009
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:34:34.899122105+00:00
+  zip_code: 1003

@@ -1,0 +1,4 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	Sched 1-3 3 rows each ok	ok	N/A	matches	ok	ok	ok	8pt	N/A	N/A	CLEAN
+cap-plus1	2	Sched 1-3 4 rows each ok	ok	N/A	411,115,120.10 / 811,119,120.10 / 1,211,123,120.10 match	ok	ok	ok	8pt	N/A	N/A	CLEAN (p2 Alphalist format-only)
+main-00a20033-plus3	2	main 00a20033 2 pages	ok	N/A	baseline	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

@@ -1,0 +1,51 @@
+=== 1707 cap (2011-p0) applied=16 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:48:53.879423187+00:00
+  email: juana.santos@example.com
+  filing_year: 2011
+  id: 118
+  installment: {'selling_price': 0.0, 'cost_and_expenses': 0.0, 'mortgage_assumed': 0.0, 'number_of_installments': '', 'installment_amount': 0.0, 'period_tax_due': 0.0, 'collection_date': '', 'total_collection': 0.0}
+  open_ended_key: 1
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction_year: 2011
+  updated_at: 2026-11-25T12:48:53.879423187+00:00
+  zip_code: 1003
+=== 1707 plus3 (2010-p0) applied=28 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:49:06.125246240+00:00
+  email: juana.santos@example.com
+  filing_year: 2010
+  id: 119
+  installment: {'selling_price': 0.0, 'cost_and_expenses': 0.0, 'mortgage_assumed': 0.0, 'number_of_installments': '', 'installment_amount': 0.0, 'period_tax_due': 0.0, 'collection_date': '', 'total_collection': 0.0}
+  open_ended_key: 1
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction_year: 2010
+  updated_at: 2026-11-25T12:49:06.125246240+00:00
+  zip_code: 1003
+=== 1707 maxui (2009-p0) applied=84 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:49:19.236251232+00:00
+  email: juana.santos@example.com
+  filing_year: 2009
+  id: 120
+  installment: {'selling_price': 0.0, 'cost_and_expenses': 0.0, 'mortgage_assumed': 0.0, 'number_of_installments': '', 'installment_amount': 0.0, 'period_tax_due': 0.0, 'collection_date': '', 'total_collection': 0.0}
+  open_ended_key: 1
+  penalty_model_version: 1
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  transaction_year: 2009
+  updated_at: 2026-11-25T12:49:19.236251232+00:00
+  zip_code: 1003

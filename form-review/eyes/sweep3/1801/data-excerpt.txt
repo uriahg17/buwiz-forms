@@ -1,0 +1,27 @@
+=== 1801 cap (2011-p0) applied=16 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  family_homes (2 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R02', 'lot_or_improvement': '', 'area': '102', 'classification': '', 'fmv_per_tax_declaration': '102222222.02', 'fmv_per_zonal_value': '', 'value': {'exclusive': 102222222.02, 'conjugal': 0.0}}
+  net_estate: 406666666.06
+  net_taxable_estate: 406666666.06
+  real_properties (2 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R02', 'lot_or_improvement': '', 'area': '102', 'classification': '', 'fmv_per_tax_declaration': '102222222.02', 'fmv_per_zonal_value': '', 'value': {'exclusive': 102222222.02, 'conjugal': 0.0}}
+  schedule_totals: {'sched1': {'exclusive': 203333333.03, 'conjugal': 0.0}, 'sched1A': {'exclusive': 203333333.03, 'conjugal': 0.0}, 'sched2': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched2A': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched3': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched4': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched5': {'exclusive': 0.0, 'conjugal': 0.0}}
+  total_credits: 0.0
+  total_penalties: 0.0
+  total_special_deductions: 0.0
+=== 1801 plus3 (2010-p0) applied=40 saved=True (saved=True unsaved=False cleared=False) pages=3 ===
+  family_homes (5 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R05', 'lot_or_improvement': '', 'area': '105', 'classification': '', 'fmv_per_tax_declaration': '105555555.05', 'fmv_per_zonal_value': '', 'value': {'exclusive': 105555555.05, 'conjugal': 0.0}}
+  net_estate: 1033333330.3
+  net_taxable_estate: 1033333330.3
+  real_properties (5 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R05', 'lot_or_improvement': '', 'area': '105', 'classification': '', 'fmv_per_tax_declaration': '105555555.05', 'fmv_per_zonal_value': '', 'value': {'exclusive': 105555555.05, 'conjugal': 0.0}}
+  schedule_totals: {'sched1': {'exclusive': 516666665.15, 'conjugal': 0.0}, 'sched1A': {'exclusive': 516666665.15, 'conjugal': 0.0}, 'sched2': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched2A': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched3': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched4': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched5': {'exclusive': 0.0, 'conjugal': 0.0}}
+  total_credits: 0.0
+  total_penalties: 0.0
+  total_special_deductions: 0.0
+=== 1801 maxui (2009-p0) applied=168 saved=True (saved=True unsaved=False cleared=False) pages=3 ===
+  family_homes (17 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R17', 'lot_or_improvement': '', 'area': '117', 'classification': '', 'fmv_per_tax_declaration': '118888887.17', 'fmv_per_zonal_value': '', 'value': {'exclusive': 118888887.17, 'conjugal': 0.0}}
+  net_estate: 4731111062.78
+  net_taxable_estate: 4731111062.78
+  real_properties (25 rows): first={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R01', 'lot_or_improvement': '', 'area': '101', 'classification': '', 'fmv_per_tax_declaration': '101111111.01', 'fmv_per_zonal_value': '', 'value': {'exclusive': 101111111.01, 'conjugal': 0.0}} last={'title_number': '', 'tax_declaration_number': '', 'location': 'ESTATE_PROP_R25', 'lot_or_improvement': '', 'area': '125', 'classification': '', 'fmv_per_tax_declaration': '127777775.25', 'fmv_per_zonal_value': '', 'value': {'exclusive': 127777775.25, 'conjugal': 0.0}}
+  schedule_totals: {'sched1': {'exclusive': 2861111078.25, 'conjugal': 0.0}, 'sched1A': {'exclusive': 1869999984.53, 'conjugal': 0.0}, 'sched2': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched2A': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched3': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched4': {'exclusive': 0.0, 'conjugal': 0.0}, 'sched5': {'exclusive': 0.0, 'conjugal': 0.0}}
+  total_credits: 0.0
+  total_penalties: 0.0
+  total_special_deductions: 0.0

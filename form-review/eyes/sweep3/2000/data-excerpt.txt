@@ -1,0 +1,63 @@
+=== 2000 cap (2011-p1) applied=15 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  affixture_mode: unanswered
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:20:20.289465232+00:00
+  email: juana.santos@example.com
+  id: 64
+  month: 1
+  other_party: unanswered
+  penalty_model_version: 1
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (3 rows): first={'atc_code': '', 'description': '', 'tax_base': 101111111.01, 'tax_due': 0.0} last={'atc_code': '', 'description': '', 'tax_base': 103333333.03, 'tax_due': 0.0}
+  status: Draft
+  taxable_year: 2011
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:20:20.289465232+00:00
+  zip_code: 1003
+=== 2000 plus3 (2010-p1) applied=30 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  affixture_mode: unanswered
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:20:32.966285508+00:00
+  email: juana.santos@example.com
+  id: 65
+  month: 1
+  net_tax_payable: -3166666.65
+  other_party: unanswered
+  penalty_model_version: 1
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (6 rows): first={'atc_code': '', 'description': '', 'tax_base': 101111111.01, 'tax_due': 0.0} last={'atc_code': 'DS101', 'description': '', 'tax_base': 106666666.06, 'tax_due': 1066666.66}
+  status: Draft
+  tax_due: 3166666.65
+  taxable_year: 2010
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  total_amount_payable: -3166666.65
+  updated_at: 2026-11-25T12:20:32.966285508+00:00
+  zip_code: 1003
+=== 2000 maxui (2009-p1) applied=70 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  affixture_mode: unanswered
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:20:46.500975847+00:00
+  email: juana.santos@example.com
+  id: 66
+  month: 1
+  net_tax_payable: -12099999.89
+  other_party: unanswered
+  penalty_model_version: 1
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (14 rows): first={'atc_code': '', 'description': '', 'tax_base': 101111111.01, 'tax_due': 0.0} last={'atc_code': 'DS101', 'description': '', 'tax_base': 115555554.14, 'tax_due': 1155555.54}
+  status: Draft
+  tax_due: 12099999.89
+  taxable_year: 2009
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  total_amount_payable: -12099999.89
+  updated_at: 2026-11-25T12:20:46.500975847+00:00
+  zip_code: 1003

@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	4	4 rows 4a..4d inline on p3	4a..4d	N/A	0 in SQLite	ok	ok	ok	8pt	N/A	N/A	CLEAN
+plus3	5	7/7 rows in order (4a..4f on p3, 4g on p4)	4a..4g	yes (Schedule II continued + head)	0 in SQLite (form.fill C3 did not persist)	ok	ok	ok	8pt	Page 3 (continued) w/ TIN & Name	N/A	CLEAN (band-flow + continuation break pass)
+maxui	5	rows 4a..4o inline + p4 continuation	ok	yes	0 in SQLite	ok	ok	ok	8pt	ok	N/A	CLEAN
+main-00a20033-plus3	4	main 00a20033 prints 4 pages (OTHERS only, no 4a..4g)	ok	no	main omits detail rows	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

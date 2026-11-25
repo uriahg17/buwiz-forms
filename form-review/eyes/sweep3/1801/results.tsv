@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	Sched 1 2/2 + Sched 1A 2/2	ok	N/A	203,333,333.03 each -> 406,666,666.06	ok	ok	ok	8pt	N/A	N/A	CLEAN
+plus3	3	Sched 1 5/5 + Sched 1A 5/5 inline on p2; Sched 5 continues cleanly on p3	ok	yes (Sched 5 continued + head)	516,666,665.15 each -> 1,033,333,330.30 matches	ok	ok	ok	8pt	Page 2 (continued) w/ TIN & Name	N/A	CLEAN (2 tables growing on same page)
+maxui	3	Sched 1 25/25 on p2 + Sched 1A 17/17 on p3	ok	yes	2,861,111,078.25 + 1,869,999,984.53 = 4,731,111,062.78 matches	ok	ok	ok	8pt	Page 2 (continued) w/ TIN & Name	N/A	CLEAN
+main-00a20033-plus3	2	main 00a20033 prints 2 pages (2 fixed rows each, drops 3-5)	ok	N/A	main drops rows 3-5	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

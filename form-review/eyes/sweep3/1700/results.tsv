@@ -1,0 +1,4 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	UI caps Sched 1 at 4 rows	ok	N/A	ok	ok	ok	ok	8pt	N/A	N/A	CLEAN (UI capped)
+r6-fit	2	Item 57 short text inline	ok	N/A	123456789	ok	ok	ok	8pt	N/A	N/A	CLEAN
+r6-over	2	Item 57 long text full-width under label, amount level	ok	N/A	123456789	ok	ok	ok	8pt	N/A	N/A	CLEAN (Rule 6 pass)

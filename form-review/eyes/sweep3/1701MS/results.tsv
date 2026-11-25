@@ -1,0 +1,3 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+r6-fit	2	Part V Items 7 & 9 short text inline	ok	N/A	333,555,777	ok	ok	ok	8pt	N/A	N/A	CLEAN
+r6-over	2	Part V Items 7 & 9 both full-width under label, amounts level	ok	N/A	333,555,777	ok	ok	ok	8pt	N/A	N/A	CLEAN (Rule 6 pass)

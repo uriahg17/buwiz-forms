@@ -1,0 +1,22 @@
+=== 1701Q r6-fit (2015-p1) saved=True (saved=True unsaved=False cleared=False) pages=6 ===
+  frm1701q:AmendedRtn = <MISSING>
+  frm1701q:optATC = <MISSING>
+  frm1701q:optForeignTaxCredits = <MISSING>
+  frm1701q:optMethodOfDeduction = <MISSING>
+  frm1701q:optTaxRate = <MISSING>
+  frm1701q:optType = <MISSING>
+  frm1701q:txt36A = <MISSING>
+  frm1701q:txt37A = <MISSING>
+  frm1701q:txt61A = <MISSING>
+  frm1701q:txt61Desc = <MISSING>
+=== 1701Q r6-over (2015-p2) saved=True (saved=True unsaved=False cleared=False) pages=6 ===
+  frm1701q:AmendedRtn = <MISSING>
+  frm1701q:optATC = <MISSING>
+  frm1701q:optForeignTaxCredits = <MISSING>
+  frm1701q:optMethodOfDeduction = <MISSING>
+  frm1701q:optTaxRate = <MISSING>
+  frm1701q:optType = <MISSING>
+  frm1701q:txt36A = <MISSING>
+  frm1701q:txt37A = <MISSING>
+  frm1701q:txt61A = <MISSING>
+  frm1701q:txt61Desc = <MISSING>

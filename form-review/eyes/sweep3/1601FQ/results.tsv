@@ -1,0 +1,4 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	6 fixed rows	ok	N/A	0.00	ok	ok	ok	8pt	N/A	ok	CLEAN at cap
+plus3	2	refused by form.fill (editor-only)	N/A	N/A	N/A	ok	ok	ok	8pt	N/A	ok	BLOCKED BY UI (editor-only rows 7-41)
+main-00a20033-plus3	2	main 00a20033 2 pages	ok	N/A	baseline	ok	ok	ok	8pt	N/A	ok	BASELINE 00a20033

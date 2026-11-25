@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	4 modal rows accepted, p2 Sched 2 blank	ok	N/A	0.00	ok	ok	ok	8pt	N/A	N/A	TWEAK
+plus3	2	7 modal rows accepted, p2 Sched 2 blank	ok	N/A	0.00	ok	ok	ok	8pt	N/A	N/A	TWEAK
+maxui	2	21 modal rows accepted, p2 Sched 2 blank	ok	N/A	0.00	ok	ok	ok	8pt	N/A	N/A	TWEAK
+main-00a20033-plus3	2	main 00a20033 2 pages	ok	N/A	baseline	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

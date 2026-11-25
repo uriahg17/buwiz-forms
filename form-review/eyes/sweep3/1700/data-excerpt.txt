@@ -1,0 +1,21 @@
+=== 1700 cap (2011-p0) applied=1 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  birth_date: 01/15/1988
+  civil_status: unanswered
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:41:38.543832067+00:00
+  email: juana.santos@example.com
+  filing_status: unanswered
+  id: 126
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule_totals (2 rows): first=[0.0, 0.0, 0.0] last=[0.0, 0.0, 0.0]
+  spouse: {'tin': '', 'rdo_code': '', 'taxpayer_type': 'unanswered', 'name': '', 'contact_number': '', 'citizenship': '', 'foreign_tax_credits': None, 'foreign_tax_number': ''}
+  spouse_column: {'gross_compensation': 0.0, 'non_taxable': 0.0, 'taxable_compensation': 0.0, 'other_income': 0.0, 'taxable_income': 0.0, 'graduated_tax_due': 0.0, 'flat_gross_compensation': 0.0, 'flat_non_taxable': 0.0, 'flat_taxable_compensation': 0.0, 'flat_other_income': 0.0, 'flat_taxable_income': 0.0, 'flat_tax_due': 0.0, 'tax_withheld': 0.0, 'previously_filed': 0.0, 'foreign_tax_credits': 0.0, 'other_credits': 0.0, 'total_credits': 0.0, 'net_payable': 0.0, 'tax_due': 0.0, 'second_installment': 0.0, 'amount_payable': 0.0, 'interest': 0.0, 'surcharge': 0.0, 'compromise': 0.0, 'penalty_model_version': 0, 'penalty_overrides': {}, 'total_penalties': 0.0, 'total_amount_payable': 0.0}
+  status: Draft
+  taxable_year: 2011
+  taxpayer: {'gross_compensation': 0.0, 'non_taxable': 0.0, 'taxable_compensation': 0.0, 'other_income': 0.0, 'taxable_income': 0.0, 'graduated_tax_due': 0.0, 'flat_gross_compensation': 0.0, 'flat_non_taxable': 0.0, 'flat_taxable_compensation': 0.0, 'flat_other_income': 0.0, 'flat_taxable_income': 0.0, 'flat_tax_due': 0.0, 'tax_withheld': 0.0, 'previously_filed': 0.0, 'foreign_tax_credits': 0.0, 'other_credits': 0.0, 'total_credits': 0.0, 'net_payable': 0.0, 'tax_due': 0.0, 'second_installment': 0.0, 'amount_payable': 0.0, 'interest': 0.0, 'surcharge': 0.0, 'compromise': 0.0, 'penalty_model_version': 1, 'penalty_due_date': '2012-04-16', 'computed_penalties': {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2012-04-16', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 5336, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'StandardFiling'}}, 'penalty_overrides': {}, 'total_penalties': 0.0, 'total_amount_payable': 0.0}
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  taxpayer_type: unanswered
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:41:38.543832067+00:00
+  zip_code: 1003

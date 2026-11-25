@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	3	Sched A 5 rows + Sched B 7 rows (5 blank gap rows 6-10 in Sched B)	misnumbered 11..12	NO table head on p3	516,666,665.15 matches	ok	ok	ok	8pt	Page 2 (continued) ok	N/A	BROKEN (blank gap rows + missing p3 head)
+plus3	3	8/8 Sched A + 10/10 Sched B present, BUT 5 blank rows (6-10) in both schedules; R06..R08 numbered 11..13	WRONG (6-10 blank, 11-13)	NO table head or section title on plus3-p3.png	839,999,996.36 matches sum of 8 rows	ok	ok	ok	8pt	Page 2 (continued) w/ TIN & Name	N/A	BROKEN (plus3-p2.png 5 blank gap rows & misnumbering; plus3-p3.png missing table head)
+maxui	3	same 5 blank gap rows + missing p3 head	WRONG	NO table head on p3	matches	ok	ok	ok	8pt	ok	N/A	BROKEN
+main-00a20033-plus3	2	main 00a20033 prints 2 pages (5 fixed rows, drops 6-8)	ok	N/A	main drops rows 6-8	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

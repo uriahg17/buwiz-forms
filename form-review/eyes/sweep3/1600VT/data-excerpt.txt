@@ -1,0 +1,66 @@
+=== 1600VT cap (2011-p1) applied=37 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2011-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 5767, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:32:53.678907987+00:00
+  email: juana.santos@example.com
+  id: 89
+  month: 1
+  penalty_due_date: 2011-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (4 rows): first={'tin': '00022233300001', 'payee_name': 'PAYEE_VT_R01', 'atc': 'WV010', 'income_payment': 51111111.01, 'tax_rate': 5.0, 'tax_withheld': 2555555.55} last={'tin': '00022233300004', 'payee_name': 'PAYEE_VT_R04', 'atc': 'WV010', 'income_payment': 54444444.04, 'tax_rate': 5.0, 'tax_withheld': 2722222.2}
+  schedule_total: 10555555.5
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:32:53.678907987+00:00
+  year: 2011
+  zip_code: 1003
+=== 1600VT plus3 (2010-p1) applied=51 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2010-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6132, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:33:05.699567779+00:00
+  email: juana.santos@example.com
+  id: 90
+  month: 1
+  penalty_due_date: 2010-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (5 rows): first={'tin': '00022233300001', 'payee_name': 'PAYEE_VT_R01', 'atc': 'WV010', 'income_payment': 51111111.01, 'tax_rate': 5.0, 'tax_withheld': 2555555.55} last={'tin': '00022233300005', 'payee_name': 'PAYEE_VT_R05', 'atc': 'WV010', 'income_payment': 55555555.05, 'tax_rate': 5.0, 'tax_withheld': 2777777.75}
+  schedule_total: 13333333.25
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:33:05.699567779+00:00
+  year: 2010
+  zip_code: 1003
+=== 1600VT maxui (2009-p1) applied=66 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2009-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6497, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:33:18.586354774+00:00
+  email: juana.santos@example.com
+  id: 91
+  month: 1
+  penalty_due_date: 2009-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (5 rows): first={'tin': '00022233300001', 'payee_name': 'PAYEE_VT_R01', 'atc': 'WV010', 'income_payment': 51111111.01, 'tax_rate': 5.0, 'tax_withheld': 2555555.55} last={'tin': '00022233300005', 'payee_name': 'PAYEE_VT_R05', 'atc': 'WV010', 'income_payment': 55555555.05, 'tax_rate': 5.0, 'tax_withheld': 2777777.75}
+  schedule_total: 13333333.25
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:33:18.586354774+00:00
+  year: 2009
+  zip_code: 1003

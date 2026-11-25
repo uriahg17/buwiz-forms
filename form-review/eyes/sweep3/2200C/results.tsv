@@ -1,0 +1,2 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	10/10 rows (UI capped at paper capacity)	ok	N/A	matches	ok	ok	ok	8pt	N/A	ok	CLEAN (UI capped at 10)

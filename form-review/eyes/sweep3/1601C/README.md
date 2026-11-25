@@ -11,3 +11,6 @@
 
 ## What this folder does not show
 - `+3` (6 rows) and `+40` (43 rows) could **not** be entered through the running form page at `b9552e27`: Schedule I caps at 3 rows (`Add row` disappears after row 3).
+
+## UI cap check at `origin/main` (`00a20033`)
+- Checked `1601C` Schedule I on `origin/main` `00a20033`: main's form page has the exact same 3-row cap (`txtDatePaid0..2`, `txtShouldTaxDue0..2`). This cap is on the form page, not the print engine.

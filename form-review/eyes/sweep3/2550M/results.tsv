@@ -1,3 +1,5 @@
-case	pages	rows_present_in_order	missing_repeated_out_of_order	row_labels_numbers	table_head_repeated	section_title	total_once_with_table	total_arithmetic_check	borders_complete	overflow_overlap	amount_align_sep	min_font_pt	continuation_header	stamp_box_behavior	other_issues
-cap	2	0 schedule rows (UI blocker: Schedule 1, 2, 3 Add row drawers open completely blank with zero input controls; form.fill refuses schedule keys)	BLOCKED BY UI: cannot enter cap, +3, or +40 schedule rows through running form page at b9552e27	N/A	N/A	Schedules 1-8 drawn blank	yes (0.00)	Part II totals consistent with filled Part II items	yes	none	Part II amounts right-aligned	5.32 (preprinted)	N/A	intact on p1	Form page schedule drawers are empty dialogs (no inputs), preventing any schedule growth test through UI
-main-cap	2	0 schedule rows	same return as cap	N/A	N/A	Schedules 1-8 drawn blank	yes	identical	yes	none	Part II amounts right-aligned	5.32 (preprinted)	N/A	intact on p1	Identical to b9552e27 cap
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	4/4 rows in order (CAPGOOD_M2_R01..R04)	ok	N/A	411,111,110.10 / 49,333,330.10 matches	ok	ok	ok	8pt	N/A	ok	CLEAN
+plus3	2	7/7 rows in order (CAPGOOD_M2_R01..R07)	ok	N/A	731,111,108.28 / 87,733,324.28 matches	ok	ok	ok	8pt	N/A	ok	CLEAN (inline growth on p2)
+maxui	3	10/10 rows in order (CAPGOOD_M2_R01..R10)	ok	N/A	1,061,111,105.55 / 127,333,315.55 matches	ok	ok	ok	8pt	sparse p3	ok	TWEAK (maxui-p3.png sparse trailing continuation)
+main-00a20033-plus3	2	4 fixed rows drawn on main 00a20033	ok	N/A	main draws 4 fixed rows	ok	ok	ok	8pt	N/A	ok	BASELINE 00a20033

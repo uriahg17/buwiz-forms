@@ -1,0 +1,48 @@
+=== 1600WP cap (2011-p1) applied=24 saved=True (saved=True unsaved=False cleared=False) pages=1 ===
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  created_at: 2026-11-25T12:33:31.584264047+00:00
+  day: 25
+  email: juana.santos@example.com
+  id: 92
+  month: 1
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/email': 'juana.santos@example.com', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:33:31.584264047+00:00
+  year: 2011
+  zip_code: 1003
+=== 1600WP plus3 (2010-p1) applied=36 saved=True (saved=True unsaved=False cleared=False) pages=1 ===
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  created_at: 2026-11-25T12:33:44.219489843+00:00
+  day: 25
+  email: juana.santos@example.com
+  id: 93
+  month: 1
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/email': 'juana.santos@example.com', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:33:44.219489843+00:00
+  year: 2010
+  zip_code: 1003
+=== 1600WP maxui (2009-p1) applied=40 saved=True (saved=True unsaved=False cleared=False) pages=1 ===
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  created_at: 2026-11-25T12:33:56.795335297+00:00
+  day: 25
+  email: juana.santos@example.com
+  id: 94
+  month: 1
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/email': 'juana.santos@example.com', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  status: Draft
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:33:56.795335297+00:00
+  year: 2009
+  zip_code: 1003

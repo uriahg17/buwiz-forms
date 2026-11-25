@@ -1,0 +1,21 @@
+=== 1606 cap (2011-p0) applied=0 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  buyer_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  buyer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2011-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 5767, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  created_at: 2026-11-25T12:46:42.177268029+00:00
+  email: juana.santos@example.com
+  filing_year: 2011
+  id: 125
+  open_ended_key: 1
+  overremittance: none
+  penalty_due_date: 2011-02-10
+  penalty_model_version: 1
+  rdo_code: 008
+  status: Draft
+  tax_relief: no
+  taxes_withheld: True
+  tin: 00012345300000
+  transaction_day: 1
+  transaction_month: 1
+  transaction_year: 2011
+  updated_at: 2026-11-25T12:46:42.177268029+00:00

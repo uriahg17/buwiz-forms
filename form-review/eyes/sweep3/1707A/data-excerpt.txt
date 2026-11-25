@@ -1,0 +1,48 @@
+=== 1707A cap (2011-p0) applied=18 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  gains (2 rows): first={'date': '01/01/2015', 'corporation': 'CORP_A_R01', 'selling_price': 101111111.01, 'cost': 50111111.01, 'gain_or_loss': 51000000.0, 'tax_paid': 5011111.01} last={'date': '01/02/2015', 'corporation': 'CORP_A_R02', 'selling_price': 102222222.02, 'cost': 50222222.02, 'gain_or_loss': 52000000.0, 'tax_paid': 5022222.02}
+  net_capital_gain: 103000000.0
+  s1_modal_totals (4 rows): first=0.0 last=0.0
+  s1_total_cost: 100333333.03
+  s1_total_gains: 103000000.0
+  s1_total_selling_price: 203333333.03
+  s1_total_tax_paid: 10033333.03
+  s2_modal_totals (4 rows): first=0.0 last=0.0
+  s2_total_cost: 0.0
+  s2_total_loss: 0.0
+  s2_total_selling_price: 0.0
+  tax_due: 15450000.0
+  total_amount_payable: 18799829.81
+  total_penalties: 13383162.84
+  total_tax_paid: 10033333.03
+=== 1707A plus3 (2010-p0) applied=33 saved=True (saved=True unsaved=False cleared=False) pages=4 ===
+  gains (7 rows): first={'date': '01/01/2015', 'corporation': 'CORP_A_R01', 'selling_price': 101111111.01, 'cost': 50111111.01, 'gain_or_loss': 51000000.0, 'tax_paid': 5011111.01} last={'date': '02/04/2015', 'corporation': 'CORP_A_R06', 'selling_price': 106666666.06, 'cost': 50666666.06, 'gain_or_loss': 56000000.0, 'tax_paid': 5066666.06}
+  net_capital_gain: 321000000.0
+  s1_modal_totals (4 rows): first=419999998.18 last=20199998.18
+  s1_total_cost: 302333331.21
+  s1_total_gains: 321000000.0
+  s1_total_selling_price: 623333331.21
+  s1_total_tax_paid: 30233331.21
+  s2_modal_totals (4 rows): first=0.0 last=0.0
+  s2_total_cost: 0.0
+  s2_total_loss: 0.0
+  s2_total_selling_price: 0.0
+  tax_due: 48150000.0
+  total_amount_payable: 65671640.2
+  total_penalties: 47754971.41
+  total_tax_paid: 30233331.21
+=== 1707A maxui (2009-p0) applied=103 saved=True (saved=True unsaved=False cleared=False) pages=4 ===
+  gains (21 rows): first={'date': '01/01/2015', 'corporation': 'CORP_A_R01', 'selling_price': 101111111.01, 'cost': 50111111.01, 'gain_or_loss': 51000000.0, 'tax_paid': 5011111.01} last={'date': '02/18/2015', 'corporation': 'CORP_A_R20', 'selling_price': 122222220.2, 'cost': 52222220.2, 'gain_or_loss': 70000000.0, 'tax_paid': 5222220.2}
+  net_capital_gain: 1210000000.0
+  s1_modal_totals (4 rows): first=2029999979.07 last=92299979.07
+  s1_total_cost: 1023333312.1
+  s1_total_gains: 1210000000.0
+  s1_total_selling_price: 2233333312.1
+  s1_total_tax_paid: 102333312.1
+  s2_modal_totals (4 rows): first=0.0 last=0.0
+  s2_total_cost: 0.0
+  s2_total_loss: 0.0
+  s2_total_selling_price: 0.0
+  tax_due: 181500000.0
+  total_amount_payable: 305839465.58
+  total_penalties: 226672777.68
+  total_tax_paid: 102333312.1

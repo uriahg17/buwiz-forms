@@ -1,0 +1,57 @@
+=== 1604E cap (2011-p0) applied=30 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: unspecified
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:35:26.258276250+00:00
+  email: juana.santos@example.com
+  id: 101
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (4 rows): first={'date': '01/10/2015', 'bank': 'BDO01', 'reference': 'TRA-1-01', 'taxes_withheld': 101111111.01, 'penalties': 1001.0, 'total_remitted': 101112112.01} last={'date': '', 'bank': '', 'reference': '', 'taxes_withheld': 0.0, 'penalties': 0.0, 'total_remitted': 0.0}
+  schedule1_totals: {'taxes_withheld': 306666666.06, 'penalties': 3006.0, 'total_remitted': 306669672.06}
+  schedule2 (12 rows): first={'date': '02/15/2015', 'bank': 'BPI01', 'reference': 'TRA-2-01', 'taxes_withheld': 201111111.01, 'penalties': 2001.0, 'total_remitted': 201113112.01} last={'date': '', 'bank': '', 'reference': '', 'taxes_withheld': 0.0, 'penalties': 0.0, 'total_remitted': 0.0}
+  schedule2_totals: {'taxes_withheld': 606666666.06, 'penalties': 6006.0, 'total_remitted': 606672672.06}
+  status: Draft
+  taxable_year: 2011
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:35:26.258276250+00:00
+  zip_code: 1003
+=== 1604E plus3 (2010-p0) applied=50 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: unspecified
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:35:39.859428484+00:00
+  email: juana.santos@example.com
+  id: 102
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (4 rows): first={'date': '01/10/2015', 'bank': 'BDO01', 'reference': 'TRA-1-01', 'taxes_withheld': 101111111.01, 'penalties': 1001.0, 'total_remitted': 101112112.01} last={'date': '04/10/2015', 'bank': 'BDO04', 'reference': 'TRA-1-04', 'taxes_withheld': 104444444.04, 'penalties': 1004.0, 'total_remitted': 104445448.04}
+  schedule1_totals: {'taxes_withheld': 411111110.1, 'penalties': 4010.0, 'total_remitted': 411115120.1}
+  schedule2 (12 rows): first={'date': '02/15/2015', 'bank': 'BPI01', 'reference': 'TRA-2-01', 'taxes_withheld': 201111111.01, 'penalties': 2001.0, 'total_remitted': 201113112.01} last={'date': '', 'bank': '', 'reference': '', 'taxes_withheld': 0.0, 'penalties': 0.0, 'total_remitted': 0.0}
+  schedule2_totals: {'taxes_withheld': 1223333331.21, 'penalties': 12021.0, 'total_remitted': 1223345352.21}
+  status: Draft
+  taxable_year: 2010
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:35:39.859428484+00:00
+  zip_code: 1003
+=== 1604E maxui (2009-p0) applied=80 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: unspecified
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:35:53.205163520+00:00
+  email: juana.santos@example.com
+  id: 103
+  profile_baseline: {'/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/taxpayer_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule1 (4 rows): first={'date': '01/10/2015', 'bank': 'BDO01', 'reference': 'TRA-1-01', 'taxes_withheld': 101111111.01, 'penalties': 1001.0, 'total_remitted': 101112112.01} last={'date': '04/10/2015', 'bank': 'BDO04', 'reference': 'TRA-1-04', 'taxes_withheld': 104444444.04, 'penalties': 1004.0, 'total_remitted': 104445448.04}
+  schedule1_totals: {'taxes_withheld': 411111110.1, 'penalties': 4010.0, 'total_remitted': 411115120.1}
+  schedule2 (12 rows): first={'date': '02/15/2015', 'bank': 'BPI01', 'reference': 'TRA-2-01', 'taxes_withheld': 201111111.01, 'penalties': 2001.0, 'total_remitted': 201113112.01} last={'date': '01/15/2015', 'bank': 'BPI12', 'reference': 'TRA-2-12', 'taxes_withheld': 213333332.12, 'penalties': 2012.0, 'total_remitted': 213335344.12}
+  schedule2_totals: {'taxes_withheld': 2486666658.78, 'penalties': 24078.0, 'total_remitted': 2486690736.78}
+  status: Draft
+  taxable_year: 2009
+  taxpayer_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:35:53.205163520+00:00
+  zip_code: 1003

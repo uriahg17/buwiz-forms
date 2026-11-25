@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	5	4 rows on legacy Additional Sheet + blank p5	ok	yes (legacy)	411,111,110.00 matches	ok	ok	ok	8pt	legacy + blank p5	N/A	TWEAK (legacy fallback + blank p5)
+plus3	5	7/7 rows on legacy Additional Sheet (plus3-p4.png) + blank p5 (plus3-p5.png)	5..11	yes (legacy)	731,111,108.00 matches sum	ok	ok	ok	8pt	Return Period: —; blank p5	N/A	TWEAK (plus3-p4.png legacy sheet, plus3-p5.png blank page)
+maxui	5	12/12 rows on legacy Additional Sheet + blank p5	5..16	yes (legacy)	matches	ok	ok	ok	8pt	blank p5	N/A	TWEAK
+main-00a20033-plus3	3	main 00a20033 prints 3 pages (no Additional Sheet)	ok	no	p3 OTHERS only	ok	ok	ok	8pt	N/A	N/A	BASELINE 00a20033

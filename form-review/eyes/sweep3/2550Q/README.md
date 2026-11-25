@@ -13,3 +13,6 @@
 
 ## What this folder does not show
 - `+40` (42 rows) could **not** be entered through the running form page at `b9552e27`: Schedule 1 caps at 12 rows in the UI.
+
+## Follow-up comparison at `origin/main` (`00a20033`)
+- `main-00a20033-maxui-p1.png`, `main-00a20033-maxui-p2.png`: the same 12-row return printed at `origin/main` `00a20033`. Main prints only 2 rows (`CAPGOOD_R01`, `CAPGOOD_R02`) and drops rows 3-12 (no Additional Sheet), while Item 39 carries the 12-row total `128,666,658.78`. Band-flow (`b9552e27`) gains rows 3-10 over main, but still silently drops rows 11-12 (`CAPGOOD_R11`, `CAPGOOD_R12`) instead of breaking to a Page 3 continuation.

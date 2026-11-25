@@ -1,0 +1,5 @@
+case	pages	rows_present_and_order	row_numbers	head_repeated	total_and_arithmetic	borders	overflow_overlap	alignment	min_font	cont_header	stamp_box	verdict
+cap	2	p1 5/5 Part II + p2 4/4 Sched 1	ok	N/A	p2 6,333,333.30 matches	ok	centavos spill into rate	p2 total left-aligned	6.5pt TIN	N/A	ok	TWEAK (centavos spill + p2 total left-aligned)
+plus3	2	p1 DROPPED 3 rows (WB016 106,666,666.06, WB017 107,777,777.07, WB018 108,888,888.08); p2 5/5 Sched 1 ok	ok	N/A	p1 saved base 839,999,996.36 vs printed 516,666,665.15; p2 7,999,999.95 matches	ok	centavos spill	p2 total left-aligned	6.5pt TIN	N/A	ok	BROKEN (plus3-p1.png drops rows 6-8)
+maxui	2	p1 DROPPED 26 rows (WB016..WB041); p2 5/5 Sched 1 ok	ok	N/A	p1 5/31 rows printed	ok	centavos spill	p2 total left-aligned	6.5pt TIN	N/A	ok	BROKEN (maxui-p1.png drops 26 rows)
+main-00a20033-plus3	2	main 00a20033 also prints 5 Part II rows	ok	N/A	same 5-row cap	ok	ok	ok	8pt	N/A	ok	BASELINE 00a20033

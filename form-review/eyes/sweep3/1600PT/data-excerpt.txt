@@ -1,0 +1,69 @@
+=== 1600PT cap (2011-p1) applied=37 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  atc_rows (5 rows): first={'atc_code': 'WB011', 'rate_text': '3', 'tax_base': 101111111.01, 'tax_withheld': 0.0} last={'atc_code': 'WB015', 'rate_text': '3', 'tax_base': 105555555.05, 'tax_withheld': 0.0}
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2011-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 5767, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:21:00.586937751+00:00
+  email: juana.santos@example.com
+  id: 85
+  month: 1
+  penalty_due_date: 2011-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (4 rows): first={'tin': '00011122200001', 'payee_name': 'PAYEE_PT_R01', 'atc': 'WB030', 'income_payment': 51111111.01, 'tax_rate': 3.0, 'tax_withheld': 1533333.33} last={'tin': '00011122200004', 'payee_name': 'PAYEE_PT_R04', 'atc': 'WB030', 'income_payment': 54444444.04, 'tax_rate': 3.0, 'tax_withheld': 1633333.32}
+  schedule_total: 6333333.3
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:21:00.586937751+00:00
+  year: 2011
+  zip_code: 1003
+=== 1600PT plus3 (2010-p1) applied=51 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  atc_rows (8 rows): first={'atc_code': 'WB011', 'rate_text': '3', 'tax_base': 101111111.01, 'tax_withheld': 0.0} last={'atc_code': 'WB018', 'rate_text': '3', 'tax_base': 108888888.08, 'tax_withheld': 0.0}
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2010-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6132, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:22:08.963957074+00:00
+  email: juana.santos@example.com
+  id: 86
+  month: 1
+  penalty_due_date: 2010-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (5 rows): first={'tin': '00011122200001', 'payee_name': 'PAYEE_PT_R01', 'atc': 'WB030', 'income_payment': 51111111.01, 'tax_rate': 3.0, 'tax_withheld': 1533333.33} last={'tin': '00011122200005', 'payee_name': 'PAYEE_PT_R05', 'atc': 'WB030', 'income_payment': 55555555.05, 'tax_rate': 3.0, 'tax_withheld': 1666666.65}
+  schedule_total: 7999999.95
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:22:08.963957074+00:00
+  year: 2010
+  zip_code: 1003
+=== 1600PT maxui (2009-p1) applied=120 saved=True (saved=True unsaved=False cleared=False) pages=2 ===
+  agent_category: government
+  agent_name: SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA
+  atc_rows (31 rows): first={'atc_code': 'WB011', 'rate_text': '3', 'tax_base': 101111111.01, 'tax_withheld': 0.0} last={'atc_code': 'WB041', 'rate_text': '3', 'tax_base': 134444441.31, 'tax_withheld': 0.0}
+  computed_penalties: {'surcharge': 0.0, 'interest': 0.0, 'compromise': 0.0, 'inputs': {'due_date': '2009-02-10', 'filing_date': '2026-11-25', 'payment_date': '2026-11-25', 'days_late': 6497, 'basic_tax_due': 0.0, 'taxpayer_class': 'Regular', 'class_from_profile': False, 'schedule': 'Withholding'}}
+  contact_number: 09171234567
+  created_at: 2026-11-25T12:23:17.490226875+00:00
+  email: juana.santos@example.com
+  id: 87
+  month: 1
+  penalty_due_date: 2009-02-10
+  penalty_model_version: 1
+  profile_baseline: {'/agent_name': 'SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA', '/contact_number': '09171234567', '/email': 'juana.santos@example.com', '/line_of_business': '', '/rdo_code': '008', '/registered_address': 'UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA', '/zip_code': '1003'}
+  rdo_code: 008
+  registered_address: UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA
+  schedule (5 rows): first={'tin': '00011122200001', 'payee_name': 'PAYEE_PT_R01', 'atc': 'WB030', 'income_payment': 51111111.01, 'tax_rate': 3.0, 'tax_withheld': 1533333.33} last={'tin': '00011122200005', 'payee_name': 'PAYEE_PT_R05', 'atc': 'WB030', 'income_payment': 55555555.05, 'tax_rate': 3.0, 'tax_withheld': 1666666.65}
+  schedule_total: 7999999.95
+  status: Draft
+  taxes_withheld: True
+  tin: 00012345300000
+  updated_at: 2026-11-25T12:23:17.490226875+00:00
+  year: 2009
+  zip_code: 1003

@@ -461,3 +461,67 @@ Re-audited box-by-box from persisted SQLite drafts (`r3-redo-g2.db`, reopened `f
 6. **[HARM 4 — Formatting / Alignment] `2550Q` (`plus3-p2.png`, `maxui-p2.png`, Rule 4)**: Schedule 1 Col B (`D`/`I` short code) and Cols F/G (`60`/`36` life counts) are left-aligned instead of centred/right-aligned, and paper rows 1–2 print `60.00`/`36.00` and `1/01/2021` while grown rows 3–10 print `60`/`36` and `1/3/2021`.
 7. **[UI Blockers preventing full form-page `+3`/`+40` entry on `b9552e27`]**: `2550M` (Schedules 1–3 drawers open blank), `1601EQ` (`Additional ATC rows 7-30` opens blank), `2551Q` (caps at 6 rows; rows 2–6 ATC say `"Can't be filled on this page yet"`), `1601C` (Schedule I caps at 3 rows), `1701A` & `2550Q` (cap at 12 rows in UI, blocking `+40`).
 
+
+---
+
+### Sweep 3 — Part 2 & Follow-Up Answers (`b9552e27` vs `origin/main` `00a20033`)
+
+- **Target audited**: `hexuria/buwiz-forms`, branch `try/forms-band-flow` at **`b9552e27`** (unchanged)
+- **Comparison baseline**: `origin/main` at **`00a20033`** (updated from `3aceafe8` per follow-up instructions; noted in every README)
+- **Evidence**: `uriahg17/buwiz-forms`, branch `try/forms-eyes`, directory `form-review/eyes/sweep3/<CODE>/`
+
+#### Follow-Up Questions Settled
+
+1. **The "blank drawers" (`2550M` Sched 1–3, `1601EQ` Additional ATC rows 7–30)** — **TOOL FAULT (`gpui-agent`), NOT AN APP FAULT**:
+   - Screenshots of all four open drawers on **both** `b9552e27` (`2550M/drawer-sched{1,2,3}-b9552e27.png`, `1601EQ/drawer-row7-b9552e27.png`) and `00a20033` (`2550M/drawer-sched{1,2,3}-00a20033.png`, `1601EQ/drawer-row7-00a20033.png`) show every input control visibly rendered on screen while `gpui-agent` element lookup reports `0` controls inside the sheet.
+   - Using real X11 mouse/keyboard input on `b9552e27`:
+     - **`2550M` Schedule 2** (`cap=4`, `plus3=7`, `maxui=10`): `plus3-p2.png` grows cleanly inline from 4 to 7 rows (`CAPGOOD_M2_R01..R07`, Amount `731,111,108.28` / Input Tax `87,733,324.28` matching arithmetic); `maxui-p2.png` prints all 10 rows (`1,061,111,105.55` / `127,333,315.55`) with a sparse trailing continuation page (`maxui-p3.png`, **TWEAK**).
+     - **`1601EQ` Additional ATC rows** (`plus3`, `plus10`): `plus3-p1.png` grows rows `18a` (`WI050`) and `18b` (`WI159`) inline directly under row 18 (`WI041`) with Item 19 total `46,833,333.16` matching rows 13–18; stamp box pushed to `plus3-p2.png` (**TWEAK**; note `wait_saved` stayed `unsaved=True` after X11 input).
+
+2. **`2550Q` Schedule 1 row counts & `origin/main` (`00a20033`) comparison**:
+   - Official sheet draws: **2** rows.
+   - `cap`: **2** saved, **2** printed (`b9552e27`).
+   - `cap+1`: **3** saved, **3** printed (`b9552e27`).
+   - `+3`: **5** saved, **5** printed (`b9552e27`).
+   - `maxui`: **12** saved:
+     - **`b9552e27` (`maxui-p2.png`)**: prints **10** rows (`CAPGOOD_R01..R10`, Col E sum `106,111,105.55`), **silently drops rows 11–12** (`CAPGOOD_R11` = `11,222,221.11`, `CAPGOOD_R12` = `11,333,332.12`) with no Page 3, while Total prints all 12 (`128,666,658.78`).
+     - **`origin/main` `00a20033` (`main-00a20033-maxui-p2.png`)**: prints **2** rows (`CAPGOOD_R01`, `CAPGOOD_R02`, Col E sum `20,333,333.03`), **drops rows 3–12 (10 rows)** with NO Additional Sheet (2 pages), while Total prints `128,666,658.78`.
+   - Conclusion: `b9552e27` gains rows 3–10 over `main`, **not** losing rows `main` kept, but still fails Rule 5 by dropping rows 11–12 instead of breaking to a Page 3 continuation.
+
+3. **`1701A` Item 42 official semantics & `origin/main` (`00a20033`) comparison**:
+   - On the official BIR Form 1701A sheet (and on `origin/main` `00a20033`, `main-00a20033-plus3-p2.png`, `main-00a20033-maxui-p2.png`), Item 42 `OTHERS` is a **single summary line** whose amount is the sum of the itemised details, with those details intended for an attached sheet (2 pages on `main`, no `42a..42l` inline).
+   - Expanding `42a..42l` inline on `b9552e27` directly beneath Item 42 `OTHERS` while Item 42 still prints their sum (`313,333,332` / `1,313,333,322`) double-counts them on paper against Item 44 (`Sum of Items 41 to 43`) — this needs an explicit rule (suppress Item 42's summary amount when expanding inline, or keep details on an attached sheet).
+
+4. **UI caps on `origin/main` (`00a20033`) vs `b9552e27`**:
+   - **`2551Q`**: `00a20033` has the **same** 6-row cap (`txtATCAmt1..6`) and still displays `"Can't be filled on this page yet."` for rows 2–6 ATC — **page finding, not engine**.
+   - **`1601C`**: `00a20033` has the **same** 3-row cap (`txtDatePaid0..2`, `txtShouldTaxDue0..2`) — **page finding, not engine**.
+
+#### Part 2 Per-Form Table (Remaining 22 Growable Forms + 3 Non-Growable Rule 6 Forms)
+
+| Form | Verdict | Band-flow (`b9552e27`) vs `origin/main` (`00a20033`) | Rule 6 |
+|---|---|---|---|
+| **1600PT** | **BROKEN** | Part II (p1, cap=5) **silently drops rows 6–8 in `plus3` (`WB016..WB018`, `323,333,331.21` missing; printed `516,666,665.15` vs saved `839,999,996.36`) and 26 rows in `maxui` (`WB016..WB041`)** on `plus3-p1.png`/`maxui-p1.png` (no growth, no cont page; Tax Base centavos spill into Tax Rate `01 3%..05 3%`). p2 Sched 1 grows cleanly 4→5 (`7,999,999.95`, total left-aligned). | N/A |
+| **1800** | **BROKEN** | Sched A (`GIFT_PERS_R06..R08`) & Sched B (`OCT-006..OCT-010`) insert **5 blank gap rows (6–10)** and misnumber rows 6–8 as `11..13` (`plus3-p2.png`); Sched B Continuation breaks to `Page 2 (continued)` (`plus3-p3.png`) with **NO repeated table head and NO section title** (starts at row 2). Total `839,999,996.36` matches sum of 8 rows. | N/A |
+| **1801** | **CLEAN** | **Edge case (2 tables on same page both growing)**: Sched 1 (2→5 / 2→25) and Sched 1A (2→5 / 2→17) grow cleanly inline (`plus3-p2.png`, `maxui-p2.png`, `maxui-p3.png`); totals match (`1,033,333,330.30` / `4,731,111,062.78`); `Page 2 (continued)` has TIN, Name, repeated section title, and table head. | N/A |
+| **1702RT** | **CLEAN** | Sched II Item 4 modal rows (`4a..4f` on `plus3-p3.png`, `4g` + Item 5 Total on `plus3-p4.png`) grow inline and break cleanly to `Page 3 (continued)` with TIN, Registered Name, repeated section title, and column headers (note: `form.fill` `C3` persisted `0` in SQLite `more_rows.amount`). | N/A |
+| **1700** | **CLEAN** | Rule 6 Item 57 (`r6-over-p2.png`) moves long text to full-width line under label, amount `123456789` stays level. Sched 1 UI caps at 4 rows. | **CLEAN** |
+| **1701Q** | **CLEAN** | Non-growable Rule 6 override: Item 61 (`r6-over-p2.png`) moves long text to full-width line under label, amount `123456790` stays level. | **CLEAN** |
+| **1701MS** | **CLEAN** | Non-growable Rule 6 override: Part V Items 7 & 9 (`r6-over-p2.png`) both move cleanly to full-width lines under labels, amounts `111,222,333` & `222,333,444` stay level (Total `333,555,777`). | **CLEAN** |
+| **1603Q** | **CLEAN** | Non-growable Rule 6 override: Item 16 (`r6-over-p1.png`) moves cleanly to full-width line under label, amount `12,345,678.91` stays level, stamp box fits on p1. | **CLEAN** |
+| **1604E** | **CLEAN** | p1 Sched 1 (4 quarters, `411,115,120.10`) & Sched 2 (12 months, `1,223,345,352.21`) fixed tables print cleanly (`plus3-p1.png`); p2 Alphalist growables are "Format Only" (0 UI inputs). | N/A |
+| **1604F** | **CLEAN** | p1 Sched 1–3 (4 quarters each: `411,115,120.10` / `811,119,120.10` / `1,211,123,120.10`) print cleanly (`cap-plus1-p1.png`); p2 Alphalist growables are "Format Only". | N/A |
+| **2200C** | **CLEAN** | UI caps Sched 1 at 10 rows (exact paper capacity); 10/10 rows print cleanly on 2 pages. | N/A |
+| **2000** | **TWEAK** | Sched 1 grows cleanly inline 3→6→14 rows on p2 (`maxui-p2.png`, `120,999,999.89` matches sum of rows 4–14); minor base-sheet TIN/Name touching; Sched 2 rows blank. | N/A |
+| **2000OT** | **TWEAK** | Mixed engine: Sched 1.A grows cleanly inline 4→7 (`801,111,108.28`, `plus3-p2.png`) & 4→15 (`maxui-p2.png`), but Sched 1.B falls back to legacy `ADDITIONAL SHEET` (`plus3-p3.png`, `Return Period: —`). | N/A |
+| **1707A** | **TWEAK** | Does not use band-flow: falls back to legacy `ADDITIONAL SHEET` (`plus3-p3.png`, `CORP_A_R03..R06` sum `419,999,998.18`) with blank `Taxpayer's Name: —` & `Return Period: —`; row 3 blank on `plus3-p2.png`. | N/A |
+| **1702EX** | **TWEAK** | Falls back to legacy `ADDITIONAL SHEET` (`plus3-p4.png`, `731,111,108.00`, `Return Period: —`) AND emits a completely blank 5th page (`plus3-p5.png`). | N/A |
+| **1602Q** | **TWEAK** | Sched 1 (14 fixed rows) prints cleanly (`124,666,666.24` matches 6 rows, `plus3-p2.png`); `plus3-p3.png` is a blank header-only page. | N/A |
+| **1600VT, 1600WP, 1702MX, 1706, 1707, 2552** | **TWEAK** | `form.fill` accepted schedule keys into SQLite/UI, but printed base-page tables stayed blank / did not trigger band-flow growth (same page count as `00a20033`). | N/A |
+| **1601FQ, 1606, 1701** | **BLOCKED BY UI** | `1601FQ` rows 7–41 refuse `form.fill` (editor-only); `1606` & `1701` have no growable overflow fields exposed on `b9552e27`. | N/A |
+
+#### Part 2 Ranked Faults (by Harm)
+
+1. **Value dropped on paper (`1600PT`, `plus3-p1.png`, `maxui-p1.png`, Rule 5)**: `plus3` saves 8 Part II rows (`WB011..WB018`, sum of Tax Bases `839,999,996.36`) but prints only 5 (`WB011..WB015`, sum `516,666,665.15`), silently dropping `WB016` (`106,666,666.06`), `WB017` (`107,777,777.07`), and `WB018` (`108,888,888.08`, missing `323,333,331.21`); `maxui` silently drops 26 of 31 rows (`WB016..WB041`). Also Tax Base centavos spill into Tax Rate (`01 3%..05 3%`).
+2. **Visual/structural band-flow break (`1800`, `plus3-p2.png`, `plus3-p3.png`, Rule 5)**: Extra rows in Schedule A (`GIFT_PERS_R06..R08`) and Schedule B (`OCT-006..OCT-010`) are inserted after 5 blank rows (`6..10`) and misnumbered `11..13` / `11..15` instead of directly under row 5; Schedule B Continuation breaks to `plus3-p3.png` with **no repeated table head and no section title** (starts directly at row `2`).
+3. **Legacy Additional Sheet fallback & blank pages (`1707A` `plus3-p3.png`, `1702EX` `plus3-p4.png`/`plus3-p5.png`, `2000OT` `plus3-p3.png`, `2550M` `maxui-p3.png`, `1602Q` `plus3-p3.png`, Rule 5)**: `1707A`, `1702EX`, and `2000OT` Sched 1.B fall back to legacy `ADDITIONAL SHEET` with missing header metadata (`Taxpayer's Name: —`, `Return Period: —`); `1702EX` emits a completely blank 5th page (`plus3-p5.png`).
+4. **Cosmetic/alignment (`1600PT` `plus3-p2.png`, `2000` `maxui-p2.png`, Rule 4)**: `1600PT` p2 Sched 1 Total `7,999,999.95` is left-aligned; `2000` p2 TIN touches Taxpayer's Name without separator.
