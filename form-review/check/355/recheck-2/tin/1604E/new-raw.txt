@@ -1,0 +1,154 @@
+REPUBLIC OF THE PHILIPPINES
+DEPARTMENT OF FINANCE
+For BIR BCS/
+BUREAU OF INTERNAL REVENUE
+Use Only Item:
+Annual Information Return
+BIR Form No.
+of Creditable Income Taxes Withheld (Expanded)/
+1604-E Income Payments Exempt from Withholding Tax
+January 2018 (ENCS) Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with 1604-E 01/18ENCS P1
+an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer
+Page 1
+2 0 2 Amended Yes No
+1 For the Year 3 Number of Sheet/s Attached
+Return?
+(20YY)
+Part I – Background Information
+/ / /
+4 Taxpayer Identification Number 5 RDO Code
+(TIN)
+6 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+7 Registered Address (Indicatecompleteaddress.Ifbranch,indicatethebranchaddress.Iftheregisteredaddressisdifferentfromthecurrentaddress,gototheRDOtoupdateregisteredaddressbyusingBIRFormNo.1905)
+7A ZIP Code
+8 Category of Withholding Agent Private Government 8A If private, top withholding agent? Yes No
+9 Contact Number 10 Email Address
+Part II – Summary of Remittances
+Schedule 1 – Remittance per BIR Form No. 1601-EQ
+Drawee Bank/
+Date of TRA/eROR/eAR Total Amount
+Quarter Bank Code/ Taxes Withheld Penalties
+Remittance Number Remitted
+Agency
+(MM/DD/YYYY)
+1 Quarter
+st
+2 Quarter
+nd
+3 Quarter
+rd
+4 Quarter
+th
+TOTAL
+Schedule 2 – Remittance per BIR Form No. 1606
+Drawee Bank/
+Date of TRA/eROR/eAR Total Amount
+Month Bank Code/ Taxes Withheld Penalties
+Remittance Number Remitted
+Agency
+(MM/DD/YYYY)
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+TOTAL
+I/We declare under the penalties of perjury that this return, and all its attachments, has been made in good faith, verified by me/us, and to the best of my/our
+knowledge and belief, is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under
+authority thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No.
+10173) for legitimate and lawful purposes.
+For Individual: For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent Signature over Printed Name of President/Vice President/Authorized Officer
+or Representative/Tax Agent
+(Indicate Title/Designation and TIN) (Indicate Title/Designation and TIN)
+Tax Agent Accreditation No./ Date of Issue Date of Expiry
+(MM/DD/YYYY) (MM/DD/YYYY)
+Attorney’s Roll No. (ifapplicable)
+*NOTE: The BIR Data Privacy is in the BR website (www.bir.gov.ph)
+2025 0 0
+X
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES
+FOR PRINT OVERFLOW TESTING
+U N I T 2 7 F T H E V E R Y L O N G C O R P O R A T E T O W E R 1
+2 3 4 5 D O N A J U A N A M A R I E D E L A C R U Z 1 1 0 0
+X X
+0 9 1 7 1 2 3 4 5 6 7 juana.santos.independent.print.check@example.com
+04/30/2025 BANK1604E SPECIM... REF1604E-SPECIMEN L... 12,345.68 100.01 12,445.69
+07/31/2025 AGENCY2 EROR2 1,000.00 0.00 1,000.00
+0.00 0.00 0.00
+01/30/2026 BANK4 EAR4 250,000.00 0.00 250,000.00
+263,345.68 100.01 263,445.69
+02/10/2025 QUARTERLYBANK S... QREF-SPECIMEN LONG... 1,000.50 0.50 1,001.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+07/10/2025 BANKJUN TRA06 2,500.13 0.00 2,500.13
+0.00 0.00 0.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+0.00 0.00 0.00
+01/15/2026 BANKDEC TRA12 333.33 12.00 345.33
+3,833.96 12.50 3,846.46
+BIR Form No. Annual Information Return
+1604-E of Creditable Income Taxes Withheld (Expanded)/
+Income Payments Exempt from Withholding Tax
+January 2018 (ENCS) 1604-E 01/18ENCS P2
+Page 2
+TIN Withholding Agent’s Name (Last Name for Individual OR Registered Name for Non-Individual)
+Part III – Alphabetical List of Payees (Format Only)
+Schedule 3 - Alphalist of Payees Subject to Expanded Withholding Tax (Declared and Certified using BIR Form No.2307)
+Name of Payees Amount of Income Tax Amount of Tax
+SEQ (Last Name, First Name, Middle Name for
+TIN ATC Payment Rate Withheld
+No. Individual)/(Registered Name for Non-
+Individual)
+(1) (2) (3) (4) (5) (6) (7) = (5 x 6)
+TOTAL
+Schedule 4 – Alphalist of Other Payees Whose Income Payments are Exempt from Withholding Tax but Subject to
+Income Tax (Declared and Certified using BIR Form No. 2304)
+Name of Payees
+SEQ Nature of Income Amount of Income
+(Last Name, First Name, Middle Name
+TIN ATC
+No. Payment Payment
+for Individual)/(Registered name for Non-
+Individual)
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+BIR Form No. 1604E ADDITIONAL SHEET
+Annual Information Return of Creditable Income Taxes Withheld
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUEVAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Return Period: 2025
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Schedule 1 1st Quarter Drawee
+Bank/Bank Code/Agency
+BANK1604E SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF
+PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+Page 1 Schedule 1 1st Quarter TRA/eROR/eAR
+Number
+REF1604E-SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF
+PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+Page 1 Schedule 2 January Drawee Bank/Bank
+Code/Agency
+QUARTERLYBANK SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER
+OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+Page 1 Schedule 2 January TRA/eROR/eAR
+Number
+QREF-SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT
+WITH MANY WORDS TO EXERCISE WRAPPING
+

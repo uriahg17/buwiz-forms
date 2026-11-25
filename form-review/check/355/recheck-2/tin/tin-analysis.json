@@ -1,0 +1,42 @@
+[
+  {
+    "form": "1600WP",
+    "pages": 2,
+    "additional_page": 2,
+    "tin_correct": true,
+    "name": true,
+    "period_or_date": true,
+    "decoys_in_header": [],
+    "line": "TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                  Date of Withholding: 01/31/2026"
+  },
+  {
+    "form": "1601C",
+    "pages": 3,
+    "additional_page": 3,
+    "tin_correct": true,
+    "name": true,
+    "period_or_date": true,
+    "decoys_in_header": [],
+    "line": "TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                           Return Period: 06/2025"
+  },
+  {
+    "form": "1604E",
+    "pages": 3,
+    "additional_page": 3,
+    "tin_correct": true,
+    "name": true,
+    "period_or_date": true,
+    "decoys_in_header": [],
+    "line": "TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                             Return Period: 2025"
+  },
+  {
+    "form": "2552",
+    "pages": 3,
+    "additional_page": 3,
+    "tin_correct": true,
+    "name": true,
+    "period_or_date": true,
+    "decoys_in_header": [],
+    "line": "TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                 Date of Transaction: 03/14/2025"
+  }
+]

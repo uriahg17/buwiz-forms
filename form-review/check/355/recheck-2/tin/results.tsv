@@ -1,0 +1,5 @@
+form	pages	additional_page	header_tin_correct_000-123-453-00000	name_present	period_or_date_present	payee_decoy_tins_in_header	header_line
+1600WP	2	2	True	True	True	none	TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                  Date of Withholding: 01/31/2026
+1601C	3	3	True	True	True	none	TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                           Return Period: 06/2025
+1604E	3	3	True	True	True	none	TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                             Return Period: 2025
+2552	3	3	True	True	True	none	TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-                 Date of Transaction: 03/14/2025
