@@ -175,3 +175,22 @@
 10. **1801** (`WRONG ON PAPER ONLY`): Choices: TY `2025`, Schedule 1 Exclusive Real Property `15,000,000.00`, Standard Deduction `5,000,000.00`. Screen & XML hold `tin = 00012345300000`, `net_taxable_estate = 10,000,000.00`, `estate_tax_due = 600,000.00` (`10,000,000 × 6%`, `rules/forms/1801-v2018/calculations.json` lines 30–64, 229–383). Print/PDF prints Page 1 Item 5 TIN (digits 1–9), Item 16 (`NET TAXABLE ESTATE`), and Item 24 (`TOTAL AMOUNT PAYABLE`) blank while Item 18/20/22 print `600,000.00`.
 11. **1702MX** (`WRONG ON PAPER ONLY`): Choices: TY `2025`, Item 13 `Method of Deduction = Itemized`, Schedule 2 sales populated. Screen & XML hold Part II `item_14 = -1,000`, `item_15 = 78,000`, `item_16 = -79,000`, `item_21 = -79,000` (`rules/forms/1702mx-v2018c/calculations.json` lines 72–125). Print/PDF prints Page 1 Items 14, 15, and 16 completely blank while printing Item 21 `-79,000`.
 12. **1702Q** (`WRONG ON PAPER ONLY`): Choices: Q2 `2025`, regular income tax due `875,000`, special `57,000`, aggregate `932,000`, credits `193,735`, net payable `738,265`, penalties `324,517`, total payable `1,062,782`. Screen & XML hold exact whole-peso integers (`rules/forms/1702q-v2018c/calculations.json` lines 424–432, 519–623). Print/PDF prints `.00` inside whole-peso combs (shifting every Part II value left across boxes) and doubled commas on Item 25.
+
+---
+
+## Round 2 — Part B (Year-Collision Verification Across 8 Forms)
+
+Tight side-by-side crops (official sheet left, our print right, 1,400 px wide) under `form-review/eyes/round2/part-b/<CODE>-year.png`:
+
+**Summary:** **6 withdrawn** (`1702Q`, `1702RT`, `1702EX`, `1702MX`, `1600PT`, `1600VT`), **2 confirmed** (`1604C`, `1604E`).
+
+| Form | Crop | Plain reading of our print | Verdict |
+|---|---|---|---|
+| **1702Q** | `part-b/1702Q-year.png` | `1 2 / 2 0 2 5` (two-digit `2 5` sits cleanly in the two slots after `/20`) | **WITHDRAWN** |
+| **1702RT** | `part-b/1702RT-year.png` | `1 2 / 2 0 2 5` (clean in the two slots after `/20`) | **WITHDRAWN** |
+| **1702EX** | `part-b/1702EX-year.png` | `1 2 / 2 0 2 5` (clean in the two slots after `/20`) | **WITHDRAWN** |
+| **1702MX** | `part-b/1702MX-year.png` | `1 2 / 2 0 2 5` (clean in the two slots after `/20`) | **WITHDRAWN** |
+| **1600PT** | `part-b/1600PT-year.png` | `0 6 | 2 0 2 5` (clean in the two slots after pre-printed `2 0`) | **WITHDRAWN** |
+| **1600VT** | `part-b/1600VT-year.png` | `0 6 | 2 0 2 5` (clean in the two slots after pre-printed `2 0`) | **WITHDRAWN** |
+| **1604C** | `part-b/1604C-year.png` | Unspaced `2025` overprints the pre-printed bold `2` left of `0`, leaving the two `YY` slots blank (reads as garbled `225 0`) | **CONFIRMED** |
+| **1604E** | `part-b/1604E-year.png` | Unspaced `2025` overprints the pre-printed bold `2` left of `0`, leaving the two `YY` slots blank (reads as garbled `225 0`) | **CONFIRMED** |
