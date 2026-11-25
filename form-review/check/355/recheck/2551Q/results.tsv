@@ -1,0 +1,5 @@
+case	fault_area	old_3e8b1212	new_05b9c989	verdict	note
+base	item17_specify_rule6	inline ellipsis in small specify box	full-width one-line rectangle under label; amount 100000.00 level with item 17	fixed	exact specify text fits once on form
+base	additional_sheet	page 3 continuation	pages reduced 3 to 2; no additional sheet	correct	no text is truncated, so no continuation copy is required
+base	negative_overpayment	(303,703.70)/(264,444.36)	(303,703.70)/(264,444.36)	stable	arithmetic and signed display unchanged
+base	numeric_content	n/a	no numeric-token loss detected	pass	page 1 token differences are the intended expanded specify text replacing ellipsis
