@@ -1,0 +1,7 @@
+case	main_result	head_result	verdict
+page count	4	5 incl additional sheet	pass directional
+negative item24	not found as parenthesized amount	(103,076,544) and (205,012,346)	pass head
+large sched4 item1	not found	1,156,942,024 prints in both columns	pass head
+Part VII item9 long specify	no additional sheet	ellipsis on form plus full text on additional sheet	pass head
+additional sheet TIN	no additional sheet	TIN: — instead of 000-123-453-00000	fail head
+address	one line	two wrapped lines	pass head

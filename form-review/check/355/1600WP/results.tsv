@@ -1,0 +1,7 @@
+case	main_result	head_result	verdict
+page count	1	2 incl additional sheet	pass directional
+agent long name	one clipped line	two wrapped lines	pass head
+schedule row2 payee	full but crowded in cell	WINNINGS ON HORSE RACE... ellipsis; full text on additional sheet	pass head
+Schedule 1.1 amount total	blank	2,500,000.00	pass head
+Schedule 1.1 withheld total	blank	190,000.00	pass head
+additional sheet TIN	none	000-123-453-00000 correct	pass

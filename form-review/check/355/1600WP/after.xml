@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="9" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="17" family="Times" color="#000000"/>
+	<fontspec id="4" size="34" family="Times" color="#000000"/>
+	<fontspec id="5" size="8" family="Times" color="#000000"/>
+	<fontspec id="6" size="7" family="Times" color="#000000"/>
+	<fontspec id="7" size="7" family="Times" color="#000000"/>
+	<fontspec id="8" size="6" family="Times" color="#000000"/>
+	<fontspec id="9" size="9" family="Times" color="#000000"/>
+<text top="31" left="69" width="108" height="12" font="0">(To be filled up by the BIR)</text>
+<text top="40" left="89" width="25" height="14" font="1"><b>DLN:</b></text>
+<text top="40" left="674" width="26" height="14" font="1"><b>PSIC:</b></text>
+<text top="56" left="146" width="104" height="14" font="2">Republika ng Pilipinas</text>
+<text top="57" left="698" width="61" height="14" font="2">BIR Form No</text>
+<text top="58" left="341" width="268" height="22" font="3"><b>Remittance Return of Percentage</b></text>
+<text top="58" left="760" width="3" height="12" font="0">.</text>
+<text top="66" left="661" width="141" height="45" font="4"><b>1600-WP</b></text>
+<text top="73" left="146" width="124" height="14" font="2">Kagawaran ng Pananalapi</text>
+<text top="78" left="362" width="225" height="22" font="3"><b>Tax on Winnings and Prizes</b></text>
+<text top="88" left="145" width="144" height="14" font="2">Kawanihan ng Rentas Internas</text>
+<text top="97" left="339" width="277" height="22" font="3"><b>Withheld by Race Track Operators</b></text>
+<text top="103" left="682" width="101" height="14" font="2">January 2010 (ENCS)</text>
+<text top="122" left="69" width="318" height="14" font="2">  Fill in all applicable spaces. Mark all appropriate boxes with an “X”.</text>
+<text top="136" left="89" width="153" height="14" font="2">For the Period    (MM/DD/YYYY)</text>
+<text top="136" left="440" width="84" height="14" font="2">Amended Return?</text>
+<text top="136" left="712" width="98" height="14" font="2">Any Taxes Withheld?</text>
+<text top="136" left="69" width="6" height="14" font="1"><b>1</b></text>
+<text top="136" left="426" width="6" height="14" font="1"><b>2</b></text>
+<text top="136" left="554" width="122" height="14" font="1"><b>3</b>  No. of Sheet/s Attached</text>
+<text top="136" left="698" width="6" height="14" font="1"><b>4</b></text>
+<text top="150" left="69" width="25" height="14" font="2">From</text>
+<text top="150" left="247" width="12" height="14" font="2">To</text>
+<text top="165" left="464" width="18" height="14" font="2">Yes</text>
+<text top="165" left="516" width="13" height="14" font="2">No</text>
+<text top="165" left="795" width="13" height="14" font="2">No</text>
+<text top="166" left="742" width="18" height="14" font="2">Yes</text>
+<text top="182" left="69" width="26" height="14" font="1"><b>Part I</b></text>
+<text top="182" left="338" width="189" height="14" font="1"><b>B a c k g r o u n d    I n f o r m a t i o n</b></text>
+<text top="197" left="69" width="6" height="14" font="1"><b>5</b></text>
+<text top="197" left="89" width="17" height="14" font="2">TIN</text>
+<text top="197" left="421" width="68" height="14" font="1"><b>6 </b>RDO Code</text>
+<text top="197" left="625" width="141" height="14" font="2">Category of Withholding Agent</text>
+<text top="197" left="608" width="6" height="14" font="1"><b>7</b></text>
+<text top="212" left="655" width="31" height="14" font="2">Private</text>
+<text top="212" left="721" width="56" height="14" font="2">Government</text>
+<text top="226" left="69" width="6" height="14" font="1"><b>8</b></text>
+<text top="227" left="89" width="123" height="14" font="2">Withholding Agent's Name </text>
+<text top="227" left="232" width="434" height="14" font="2">(Last Name, First Name, Middle Name for Individuals)/(Registered Name for Non-Individuals)</text>
+<text top="267" left="69" width="6" height="14" font="1"><b>9</b></text>
+<text top="268" left="89" width="93" height="14" font="2">Registered Address</text>
+<text top="268" left="693" width="61" height="14" font="1"><b>10</b>   Zip Code</text>
+<text top="307" left="89" width="271" height="14" font="2">Are there payees availing of tax relief under Special Law or</text>
+<text top="307" left="69" width="12" height="14" font="1"><b>11</b></text>
+<text top="320" left="116" width="117" height="14" font="2">International Tax Treaty?</text>
+<text top="320" left="309" width="18" height="14" font="2">Yes</text>
+<text top="320" left="384" width="91" height="14" font="2">No     If yes, specify</text>
+<text top="338" left="69" width="30" height="14" font="1"><b>Part II</b></text>
+<text top="338" left="356" width="150" height="14" font="1"><b>C o m p u t a t i o n   o f   T a x</b></text>
+<text top="352" left="701" width="109" height="14" font="1"><b>TAX REQUIRED TO BE</b></text>
+<text top="359" left="79" width="25" height="14" font="1"><b>*ATC</b></text>
+<text top="359" left="247" width="115" height="14" font="1"><b>NATURE OF PAYMENT</b></text>
+<text top="359" left="555" width="51" height="14" font="1"><b>TAX BASE</b></text>
+<text top="359" left="659" width="26" height="14" font="1"><b>RATE</b></text>
+<text top="366" left="730" width="54" height="14" font="1"><b>WITHHELD</b></text>
+<text top="379" left="116" width="347" height="12" font="0">Tax on winnings from double, forecast/quinella and trifecta bets on horse races paid by</text>
+<text top="383" left="72" width="38" height="14" font="2">WB 191</text>
+<text top="384" left="666" width="13" height="12" font="0">4%</text>
+<text top="391" left="136" width="127" height="12" font="0">Government Withholding Agent</text>
+<text top="402" left="116" width="370" height="11" font="5">Tax on winnings or prizes paid to winners of winning horse race tickets other than double, forecast/</text>
+<text top="406" left="72" width="38" height="14" font="2">WB 192</text>
+<text top="407" left="664" width="18" height="12" font="0">10%</text>
+<text top="414" left="136" width="369" height="11" font="5">quinella and trifecta bets; &amp; owners of winning race horses paid by Government Withholding Agent</text>
+<text top="425" left="116" width="347" height="12" font="0">Tax on winnings from double, forecast/quinella and trifecta bets on horse races paid by</text>
+<text top="429" left="72" width="38" height="14" font="2">WB 193</text>
+<text top="430" left="666" width="13" height="12" font="0">4%</text>
+<text top="436" left="136" width="105" height="12" font="0">Private Withholding Agent</text>
+<text top="448" left="116" width="370" height="11" font="5">Tax on winnings or prizes paid to winners of winning horse race tickets other than double, forecast/</text>
+<text top="452" left="72" width="38" height="14" font="2">WB 194</text>
+<text top="453" left="664" width="18" height="12" font="0">10%</text>
+<text top="459" left="136" width="358" height="11" font="5">quinella and trifecta bets; and owners of winning race horses paid by Private Withholding Agent</text>
+<text top="471" left="677" width="12" height="14" font="1"><b>12</b></text>
+<text top="472" left="69" width="215" height="14" font="1"><b>12 </b>Tax Required to be Withheld and Remitted</text>
+<text top="488" left="677" width="12" height="14" font="1"><b>13</b></text>
+<text top="489" left="69" width="378" height="14" font="1"><b>13 </b>    Less: Tax Remitted in Return Previously Filed, if this is an amended return</text>
+<text top="505" left="677" width="12" height="14" font="1"><b>14</b></text>
+<text top="507" left="69" width="165" height="14" font="1"><b>14 </b>Tax  Still Due/(Overremittance)</text>
+<text top="522" left="542" width="58" height="14" font="2">Compromise</text>
+<text top="524" left="69" width="103" height="14" font="1"><b>15 </b>    Add:  Penalties</text>
+<text top="524" left="226" width="49" height="14" font="2">Surcharge</text>
+<text top="524" left="393" width="34" height="14" font="2">Interest</text>
+<text top="541" left="165" width="19" height="14" font="1"><b>15A</b></text>
+<text top="541" left="323" width="19" height="14" font="1"><b>15B</b></text>
+<text top="541" left="480" width="19" height="14" font="1"><b>15C</b></text>
+<text top="541" left="669" width="19" height="14" font="1"><b>15D</b></text>
+<text top="557" left="677" width="12" height="14" font="1"><b>16</b></text>
+<text top="558" left="69" width="331" height="14" font="1"><b>16 </b>Total Amount Still Due / (Overremittance)(Sum of Items 14 &amp; 15D)</text>
+<text top="574" left="89" width="370" height="14" font="2">For late filers with overremittance, extend amount of penalties (Item 15D to 16).</text>
+<text top="588" left="477" width="170" height="14" font="2">To be issued a Tax Credit Certificate</text>
+<text top="588" left="89" width="174" height="14" font="2">If overremittance, mark one box only:</text>
+<text top="588" left="347" width="76" height="14" font="2">To be Refunded</text>
+<text top="606" left="69" width="345" height="10" font="6"><b>ATTACHMENT TO BIR FORM 1600-WP - ALPHABETICAL LIST OF PAYEES (FORMAT ONLY)</b></text>
+<text top="606" left="730" width="18" height="10" font="7">Page</text>
+<text top="606" left="770" width="7" height="10" font="7">of</text>
+<text top="620" left="69" width="124" height="10" font="7">FOR THE PERIOD (MM/DD/YYYY)</text>
+<text top="620" left="327" width="57" height="10" font="7">WITHHOLDING</text>
+<text top="620" left="530" width="137" height="10" font="7">                        WITHHOLDING AGENT</text>
+<text top="635" left="327" width="51" height="10" font="7">   AGENT TIN:</text>
+<text top="635" left="583" width="23" height="10" font="7">NAME:</text>
+<text top="635" left="69" width="20" height="9" font="8">FROM</text>
+<text top="635" left="210" width="9" height="9" font="8">TO</text>
+<text top="653" left="69" width="41" height="10" font="6"><b>Schedule 1.1</b></text>
+<text top="653" left="252" width="415" height="10" font="7">ALPHABETICAL LIST OF PAYEES FROM WHOM TAXES WERE WITHHELD (Attach additional sheet/s, if necessary)</text>
+<text top="667" left="208" width="61" height="10" font="7">PAYEE DETAILS</text>
+<text top="667" left="453" width="166" height="10" font="7">INCOME PAYMENT/TAX WITHHELD DETAILS</text>
+<text top="667" left="665" width="15" height="10" font="7">TAX</text>
+<text top="667" left="729" width="57" height="10" font="7">TAX REQUIRED</text>
+<text top="674" left="74" width="35" height="10" font="7">SEQ. NO.</text>
+<text top="674" left="382" width="19" height="10" font="7">*ATC</text>
+<text top="682" left="157" width="13" height="10" font="7">TIN</text>
+<text top="682" left="235" width="105" height="10" font="7">INDIVIDUAL/CORPORATION</text>
+<text top="682" left="431" width="84" height="10" font="7">NATURE OF PAYMENT</text>
+<text top="682" left="574" width="32" height="10" font="7">AMOUNT</text>
+<text top="682" left="662" width="19" height="10" font="7">RATE</text>
+<text top="682" left="725" width="65" height="10" font="7">TO BE WITHHELD</text>
+<text top="695" left="86" width="10" height="10" font="7">(1)</text>
+<text top="695" left="158" width="10" height="10" font="7">(2)</text>
+<text top="695" left="283" width="10" height="10" font="7">(3)</text>
+<text top="695" left="387" width="10" height="10" font="7">(4)</text>
+<text top="695" left="469" width="10" height="10" font="7">(5)</text>
+<text top="695" left="586" width="10" height="10" font="7">(6)</text>
+<text top="695" left="668" width="10" height="10" font="7">(7)</text>
+<text top="695" left="754" width="10" height="10" font="7">(8)</text>
+<text top="708" left="237" width="102" height="10" font="7">(LAST NAME, FIRST NAME,</text>
+<text top="708" left="124" width="79" height="9" font="7">(Including Branch Code)</text>
+<text top="719" left="225" width="125" height="10" font="7">MIDDLE NAME FOR INDIVIDUALS</text>
+<text top="730" left="233" width="109" height="10" font="7">OR REGISTERED NAME FOR</text>
+<text top="742" left="252" width="72" height="10" font="7">NON-INDIVIDUALS)</text>
+<text top="847" left="461" width="25" height="10" font="6"><b>TOTAL</b></text>
+<text top="847" left="530" width="5" height="10" font="6"><b>P</b></text>
+<text top="847" left="692" width="5" height="10" font="6"><b>P</b></text>
+<text top="861" left="116" width="670" height="14" font="2">I declare, under the penalties of perjury that this return has been made in good faith, verified by me, and to the best of my knowledge and belief,</text>
+<text top="875" left="89" width="701" height="14" font="2"> is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof.</text>
+<text top="901" left="100" width="12" height="14" font="1"><b>17</b></text>
+<text top="913" left="129" width="275" height="14" font="2">Taxpayer/Authorized Representative/Accredited Tax Agent</text>
+<text top="913" left="672" width="74" height="14" font="2">TIN of Signatory</text>
+<text top="914" left="462" width="118" height="14" font="2">Title/Position of Signatory</text>
+<text top="951" left="154" width="226" height="14" font="2">Tax Agent Acc. No./Atty's Roll No. (if applicable)</text>
+<text top="951" left="677" width="64" height="14" font="2">Date of Expiry</text>
+<text top="952" left="482" width="78" height="14" font="2">Date of Issuance</text>
+<text top="970" left="686" width="123" height="14" font="2">Stamp of Receiving Office/</text>
+<text top="971" left="69" width="32" height="14" font="1"><b>Part III</b></text>
+<text top="971" left="314" width="142" height="14" font="1"><b>D e t a i l s   of   P a y m e n t</b></text>
+<text top="983" left="690" width="116" height="14" font="2">AAB and Date of Receipt</text>
+<text top="984" left="156" width="78" height="14" font="1"><b>   Drawee Bank/</b></text>
+<text top="984" left="408" width="23" height="14" font="1"><b>Date</b></text>
+<text top="990" left="84" width="55" height="14" font="1"><b>Particulars</b></text>
+<text top="990" left="282" width="40" height="14" font="1"><b>Number</b></text>
+<text top="990" left="574" width="38" height="14" font="1"><b>Amount</b></text>
+<text top="996" left="698" width="100" height="14" font="2">(RO's Signature/Bank</text>
+<text top="997" left="180" width="38" height="14" font="1"><b>Agency</b></text>
+<text top="997" left="374" width="104" height="14" font="1"><b>MM   DD         YYYY</b></text>
+<text top="1009" left="717" width="63" height="14" font="2">Teller's Initial)</text>
+<text top="1010" left="69" width="12" height="14" font="1"><b>18</b></text>
+<text top="1011" left="84" width="73" height="13" font="0">Cash/ Bank <b>18A</b></text>
+<text top="1011" left="240" width="17" height="12" font="9"><b>18B</b></text>
+<text top="1011" left="349" width="17" height="12" font="9"><b>18C</b></text>
+<text top="1011" left="495" width="17" height="12" font="9"><b>18D</b></text>
+<text top="1024" left="69" width="79" height="13" font="0">         Debit Memo</text>
+<text top="1038" left="69" width="48" height="14" font="1"><b>19 </b>Check</text>
+<text top="1038" left="138" width="12" height="14" font="1"><b>19</b></text>
+<text top="1039" left="240" width="17" height="12" font="9"><b>19B</b></text>
+<text top="1039" left="349" width="17" height="12" font="9"><b>19C</b></text>
+<text top="1039" left="495" width="17" height="12" font="9"><b>19D</b></text>
+<text top="1040" left="150" width="7" height="12" font="9"><b>A</b></text>
+<text top="1066" left="69" width="49" height="14" font="1"><b>20 </b>Others</text>
+<text top="1067" left="240" width="17" height="12" font="9"><b>20B</b></text>
+<text top="1067" left="349" width="17" height="12" font="9"><b>20C</b></text>
+<text top="1067" left="495" width="17" height="12" font="9"><b>20D</b></text>
+<text top="1068" left="140" width="17" height="12" font="9"><b>20A</b></text>
+<text top="1088" left="69" width="365" height="14" font="2">Machine Validation/Revenue Official Receipt Details (If not filed with the bank)</text>
+<text top="158" left="104" width="6" height="14" font="2">0</text>
+<text top="158" left="125" width="112" height="14" font="2">1 3 1 2 0 2 6</text>
+<text top="158" left="269" width="126" height="14" font="2">0 1 3 1 2 0 2 6</text>
+<text top="158" left="497" width="7" height="14" font="2">X</text>
+<text top="158" left="621" width="6" height="14" font="2">0</text>
+<text top="158" left="648" width="6" height="14" font="2">1</text>
+<text top="158" left="722" width="7" height="14" font="2">X</text>
+<text top="203" left="119" width="39" height="14" font="2">0 0 0</text>
+<text top="203" left="189" width="39" height="14" font="2">1 2 3</text>
+<text top="203" left="259" width="39" height="14" font="2">4 5 3</text>
+<text top="203" left="328" width="73" height="14" font="2">0 0 0 0 0</text>
+<text top="203" left="524" width="6" height="14" font="2">0</text>
+<text top="203" left="545" width="25" height="14" font="2">3 9</text>
+<text top="209" left="634" width="6" height="12" font="0">X</text>
+<text top="239" left="107" width="681" height="14" font="2">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR</text>
+<text top="249" left="107" width="144" height="14" font="2">PRINT OVERFLOW TESTING</text>
+<text top="283" left="746" width="25" height="14" font="2">1 2</text>
+<text top="283" left="786" width="25" height="14" font="2">2 9</text>
+<text top="279" left="107" width="545" height="14" font="2">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER</text>
+<text top="290" left="107" width="316" height="14" font="2">VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="320" left="360" width="7" height="13" font="2">X</text>
+<text top="430" left="588" width="62" height="14" font="2">1,500,000.00</text>
+<text top="430" left="773" width="47" height="14" font="2">60,000.00</text>
+<text top="453" left="588" width="62" height="14" font="2">2,500,000.00</text>
+<text top="453" left="768" width="53" height="14" font="2">250,000.00</text>
+<text top="473" left="768" width="53" height="14" font="2">310,000.00</text>
+<text top="489" left="800" width="21" height="14" font="2">0.00</text>
+<text top="507" left="768" width="53" height="14" font="2">310,000.00</text>
+<text top="541" left="269" width="41" height="14" font="2">1,234.56</text>
+<text top="541" left="426" width="41" height="14" font="2">2,345.67</text>
+<text top="541" left="584" width="41" height="14" font="2">3,456.78</text>
+<text top="542" left="779" width="41" height="14" font="2">7,037.01</text>
+<text top="559" left="768" width="53" height="14" font="2">317,037.01</text>
+<text top="631" left="94" width="102" height="15" font="2">0 1 3 1 2 0 2 6</text>
+<text top="631" left="220" width="102" height="14" font="2">0 1 3 1 2 0 2 6</text>
+<text top="631" left="385" width="28" height="14" font="2">0 0 0</text>
+<text top="631" left="430" width="28" height="14" font="2">1 2 3</text>
+<text top="631" left="475" width="28" height="14" font="2">4 5 3</text>
+<text top="631" left="520" width="50" height="14" font="2">0 0 0 0 0</text>
+<text top="754" left="70" width="6" height="14" font="2">1</text>
+<text top="754" left="115" width="82" height="14" font="2">12345678900001</text>
+<text top="755" left="213" width="142" height="13" font="0">SANTOS, JUANA MARIE DEL...</text>
+<text top="754" left="373" width="35" height="14" font="2">WB193</text>
+<text top="755" left="420" width="98" height="13" font="0">TAX ON WINNINGS...</text>
+<text top="754" left="588" width="93" height="14" font="2">1,000,000.00 4 %</text>
+<text top="754" left="773" width="47" height="14" font="2">40,000.00</text>
+<text top="770" left="70" width="6" height="14" font="2">2</text>
+<text top="770" left="115" width="82" height="14" font="2">12345678900002</text>
+<text top="770" left="213" width="144" height="13" font="0">WINNINGS ON HORSE RACE...</text>
+<text top="770" left="373" width="35" height="14" font="2">WB194</text>
+<text top="770" left="420" width="98" height="13" font="0">TAX ON WINNINGS...</text>
+<text top="770" left="588" width="96" height="14" font="2">1,500,000.00 10 %</text>
+<text top="770" left="768" width="53" height="14" font="2">150,000.00</text>
+<text top="785" left="800" width="21" height="14" font="2">0.00</text>
+<text top="800" left="800" width="21" height="14" font="2">0.00</text>
+<text top="815" left="800" width="21" height="14" font="2">0.00</text>
+<text top="831" left="800" width="21" height="14" font="2">0.00</text>
+<text top="846" left="586" width="62" height="14" font="2">2,500,000.00</text>
+<text top="846" left="768" width="53" height="14" font="2">190,000.00</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="10" size="14" family="Times" color="#000000"/>
+	<fontspec id="11" size="11" family="Times" color="#000000"/>
+	<fontspec id="12" size="11" family="Times" color="#212121"/>
+	<fontspec id="13" size="9" family="Times" color="#444444"/>
+	<fontspec id="14" size="10" family="Times" color="#444444"/>
+	<fontspec id="15" size="12" family="Times" color="#000000"/>
+	<fontspec id="16" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="152" height="19" font="10"><b>BIR Form No. 1600WP</b></text>
+<text top="49" left="688" width="124" height="15" font="11"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="307" height="15" font="12">Remittance Return of Percentage Tax on Winnings and Prizes</text>
+<text top="86" left="80" width="275" height="13" font="13">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="14"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="2"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="14"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="2"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="2">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="2">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="2">TESTING</text>
+<text top="111" left="654" width="103" height="14" font="14"><b>Date of Withholding:</b></text>
+<text top="111" left="757" width="56" height="14" font="2"> 01/31/2026</text>
+<text top="194" left="80" width="190" height="16" font="15"><b>Entries continued from the form</b></text>
+<text top="197" left="597" width="216" height="13" font="13">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="221" left="106" width="24" height="13" font="9"><b>Page</b></text>
+<text top="221" left="160" width="52" height="13" font="9"><b>Item / Field</b></text>
+<text top="221" left="394" width="46" height="13" font="9"><b>Full Entry</b></text>
+<text top="242" left="102" width="31" height="13" font="16">Page 1</text>
+<text top="242" left="160" width="198" height="13" font="0">Schedule 1.1, row 1, Individual/Corporation</text>
+<text top="242" left="394" width="398" height="13" font="0">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY </text>
+<text top="255" left="394" width="370" height="13" font="0">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="277" left="102" width="31" height="13" font="16">Page 1</text>
+<text top="277" left="160" width="181" height="13" font="0">Schedule 1.1, row 1, Nature of Payment</text>
+<text top="277" left="394" width="397" height="13" font="0">TAX ON WINNINGS FROM DOUBLE, FORECAST/QUINELLA AND TRIFECTA BETS ON </text>
+<text top="290" left="394" width="290" height="13" font="0">HORSE RACES PAID BY PRIVATE WITHHOLDING TAX AGENT </text>
+<text top="311" left="102" width="31" height="13" font="16">Page 1</text>
+<text top="311" left="160" width="198" height="13" font="0">Schedule 1.1, row 2, Individual/Corporation</text>
+<text top="311" left="394" width="330" height="13" font="0">WINNINGS ON HORSE RACES BENEFICIARY WITH VERY LONG NAME</text>
+<text top="333" left="102" width="31" height="13" font="16">Page 1</text>
+<text top="333" left="160" width="181" height="13" font="0">Schedule 1.1, row 2, Nature of Payment</text>
+<text top="333" left="394" width="414" height="13" font="0">TAX ON WINNINGS OR PRIZES PAID TO WINNERS OF WINNING HORSE RACE TICKETS </text>
+<text top="346" left="394" width="412" height="13" font="0">OTHER THAN DOUBLE, FORECAST/QUINELLA AND TRIFECTA BETS; AND OWNERS OF </text>
+<text top="359" left="394" width="336" height="13" font="0">WINNING RACE HORSES PAID BY PRIVATE WITHHOLDING TAX AGENT </text>
+</page>
+</pdf2xml>

@@ -1,0 +1,7 @@
+case	main_result	head_result	verdict
+taxpayer name 137ch	one tiny clipped line	three lines at minimum size; third line visually clipped	fail head
+address 137ch	one clipped line	two readable wrapped lines	pass
+phone 11 digits	comb/tick separators remain visible	plain rectangle, no internal ticks	pass head
+item 19 9876543.21	left-aligned 9,876,543.21	right-aligned 9,876,543 21 around printed decimal	pass head
+item 20D arithmetic 361481.45	prints 361,481.45	prints 361,481 45	pass
+item21 arithmetic 10238024.66	prints 10,238,024.66	prints 10,238,024 66	pass

@@ -1,0 +1,79 @@
+(To be filled up the BIR)
+      DLN:                                                                                                                                          PSIC:                       PSOC:
+
+
+                                                                                                                                                                            0605
+                                                                                                                                                                              BIR Form No.
+                 Republika ng Pilipinas
+                 Kagawaran ng Pananalapi
+                 Kawanihan ng Rentas Internas                                           Payment Form
+                                                                                                                                                                             July 1999 (ENCS)
+
+Fill in all applicable spaces. Mark all appropriate boxes with an "X"
+1  For the X Calendar          Fiscal 3 Quarter                                                       4 Due Date ( MM / DD / YYYY) 5 No. of Sheets                               6 ATC
+2  Year Ended                                                                                   X                                    Attached
+  ( MM / YYYY ) 1 2 2 0 2 5             1st     2nd 3rd                                         4th         0 1 3 1 2 0 2 6                                           0 1                FP010
+7 Return Period ( MM / DD / YYYY ) 8 Tax Type Code                                                     BCS No./Item No. (To be filled up by the BIR)
+           1 2         3 1 2 0 2 5                                         D O
+
+Part I                                                                   Background Information
+9 Taxpayer Identification No.                                               10 RDO Code 11 Taxpayer Classification                             12 Line of Business/Occupation
+      0 0 0                1 2 3           4 5 3          0 0 0 0 0                   0 3 9                    I X          N
+                                                                                                                                                    INDEPENDENT PRINT LAYOUT VERIFICATION SERVICES AND CONSULT
+
+
+
+13 Taxpayer's                                                                                                                                                       14 Telephone Number
+   Name
+                              SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+
+                                                                                                                                                                        09171234567
+                                   (Last Name, First Name, Middle Name for Individuals) / (Registered Name for Non-Individuals)
+15 Registered                                                                                                                                                       16 Zip Code           1 2 2 9
+   Address                  UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LO
+
+
+
+                                                                   17 Manner of Payment                                                                                 18 Type of Payment
+                       Voluntary Payment                                                        Per Audit/Delinquent Account                                            X Installment
+        Self-Assessment                                        Penalties                            Preliminary/Final Assessment/Deficiency Tax                             No. of Installment
+        Tax Deposit/Advance Payment                                                                 Accounts Receivable/Delinquent Account                                  Partial
+        Income Tax Second Installment                                                                                                                                       Payment
+        (Individual)                                                                                                                                                        Full
+      X Others (Specify)                                                                                                                                                    Payment
+Part II                                                                  Computation of Tax
+
+19      Basic Tax / Deposit / Advance Payment                                                                                               19 9,876,543.21
+20      Add: Penalties Surcharge                                         Interest                              Compromise
+       20A                              20B                                                      20C                                      20D 361,481.45
+             123,456.78                                   234,567.89                                   3,456.78
+
+21        Total Amount Payable (Sum of Items 19 & 20D)                                                                                      21 10,238,024.66
+                                                 For Voluntary Payment                                                            For Payment of Deficiency Taxes                      Stamp of Receiving
+                                                                                                                                      From Audit/Investigation/                              Office
+                  I declare, under the penalties of perjury, that this document has been                                                Delinquent Accounts                            and Date of Receipt
+             made in good faith, verified by me, and to the best of my knowledge and                                            APPROVED BY:
+             belief, is true and correct, pursuant to the provisions of the National
+             Internal Revenue Code, as amended, and the regulations issued under
+             authority thereof.
+
+
+22A                                                                                                                           22B
+      Signature over Printed Name of Taxpayer /Authorized Representative                     Title/Position of Signatory        Signature over Printed Name of Head of Office
+Part III                                                                 D e t a i l s of P a y m e n t
+Particulars      Drawee Bank/Agency                Number                   MM                             DD        YYYY                                             Amount
+23 Cash/Bank                                                                                                                           23
+    Debit Memo
+             24A                      24B                         24C                                                                  24D
+24 Check
+25 Tax Debit                          25A                         25B                                                                  25C
+    Memo
+             26A                      26B                         26C                                                                  26D
+26 Others
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+
+
+
+
+Taxpayer Classification:        I - Individual      N - Non-Individual
+
