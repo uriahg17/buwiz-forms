@@ -1,0 +1,143 @@
+(To be filled up by the BIR)
+DLN: PSIC:
+Republika ng Pilipinas BIR Form No
+Remittance Return of Percentage .
+1600-WP
+Kagawaran ng Pananalapi
+Tax on Winnings and Prizes
+Kawanihan ng Rentas Internas
+Withheld by Race Track Operators January 2010 (ENCS)
+Fill in all applicable spaces. Mark all appropriate boxes with an “X”.
+For the Period (MM/DD/YYYY) Amended Return? Any Taxes Withheld?
+1 2 3 No. of Sheet/s Attached 4
+From To
+Yes No No
+Yes
+Part I B a c k g r o u n d I n f o r m a t i o n
+5 TIN 6 RDO Code Category of Withholding Agent
+7
+Private Government
+8 Withholding Agent's Name (Last Name, First Name, Middle Name for Individuals)/(Registered Name for Non-Individuals)
+9 Registered Address 10 Zip Code
+Are there payees availing of tax relief under Special Law or
+11
+International Tax Treaty? Yes No If yes, specify
+Part II C o m p u t a t i o n o f T a x
+TAX REQUIRED TO BE
+*ATC NATURE OF PAYMENT TAX BASE RATE WITHHELD
+Tax on winnings from double, forecast/quinella and trifecta bets on horse races paid by
+WB 191 4%
+Government Withholding Agent
+Tax on winnings or prizes paid to winners of winning horse race tickets other than double, forecast/
+WB 192 10%
+quinella and trifecta bets; & owners of winning race horses paid by Government Withholding Agent
+Tax on winnings from double, forecast/quinella and trifecta bets on horse races paid by
+WB 193 4%
+Private Withholding Agent
+Tax on winnings or prizes paid to winners of winning horse race tickets other than double, forecast/
+WB 194 10%
+quinella and trifecta bets; and owners of winning race horses paid by Private Withholding Agent
+12
+12 Tax Required to be Withheld and Remitted
+13
+13 Less: Tax Remitted in Return Previously Filed, if this is an amended return
+14
+14 Tax Still Due/(Overremittance)
+Compromise
+15 Add: Penalties Surcharge Interest
+15A 15B 15C 15D
+16
+16 Total Amount Still Due / (Overremittance)(Sum of Items 14 & 15D)
+For late filers with overremittance, extend amount of penalties (Item 15D to 16).
+To be issued a Tax Credit Certificate
+If overremittance, mark one box only: To be Refunded
+ATTACHMENT TO BIR FORM 1600-WP - ALPHABETICAL LIST OF PAYEES (FORMAT ONLY) Page of
+FOR THE PERIOD (MM/DD/YYYY) WITHHOLDING WITHHOLDING AGENT
+AGENT TIN: NAME:
+FROM TO
+Schedule 1.1 ALPHABETICAL LIST OF PAYEES FROM WHOM TAXES WERE WITHHELD (Attach additional sheet/s, if necessary)
+PAYEE DETAILS INCOME PAYMENT/TAX WITHHELD DETAILS TAX TAX REQUIRED
+SEQ. NO. *ATC
+TIN INDIVIDUAL/CORPORATION NATURE OF PAYMENT AMOUNT RATE TO BE WITHHELD
+(1) (2) (3) (4) (5) (6) (7) (8)
+(LAST NAME, FIRST NAME,
+(Including Branch Code)
+MIDDLE NAME FOR INDIVIDUALS
+OR REGISTERED NAME FOR
+NON-INDIVIDUALS)
+TOTAL P P
+I declare, under the penalties of perjury that this return has been made in good faith, verified by me, and to the best of my knowledge and belief,
+is true and correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof.
+17
+Taxpayer/Authorized Representative/Accredited Tax Agent TIN of Signatory
+Title/Position of Signatory
+Tax Agent Acc. No./Atty's Roll No. (if applicable) Date of Expiry
+Date of Issuance
+Stamp of Receiving Office/
+Part III D e t a i l s of P a y m e n t
+AAB and Date of Receipt
+Drawee Bank/ Date
+Particulars Number Amount (RO's Signature/Bank
+Agency MM DD YYYY
+Teller's Initial)
+18 Cash/ Bank 18A 18B 18C 18D
+Debit Memo
+19 Check 19 19B 19C 19D
+A
+20 Others 20B 20C 20D
+20A
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+0 1 3 1 2 0 2 6 0 1 3 1 2 0 2 6 X 0 1 X
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9 X
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR
+PRINT OVERFLOW TESTING...
+1 2 2 9
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER
+VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI...
+X
+1,500,000.00 60,000.00
+2,500,000.00 250,000.00
+310,000.00
+0.00
+310,000.00
+1,234.56 2,345.67 3,456.78 7,037.01
+317,037.01
+0 1 3 1 2 0 2 6 0 1 3 1 2 0 2 6 0 0 0 1 2 3 4 5 3 0 0 0 0 0
+1 12345678900001 SANTOS, JUANA MARIE DE... WB193 TAX ON WINNING... 1,000,000.00 4 % 40,000.00
+2 12345678900002 WINNINGS ON HORSE RA... WB194 TAX ON WINNING... 1,500,000.00 10 % 150,000.00
+0.00
+0.00
+0.00
+0.00
+2,500,000.00 190,000.00
+BIR Form No. 1600WP ADDITIONAL SHEET
+Remittance Return of Percentage Tax on Winnings and Prizes
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUEVAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Date of Withholding: 01/31/2026
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Item 8 — Withholding Agent's Name SANTOS, JUANAMARIE DELACRUZ-VILLANUEVAEXTRAORDINARILY LONG
+FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+Page 1 Item 9 — Registered Address UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONAJUANAMARIE
+DELACRUZ AVENUE CORNER VILLANUEVABOULEVARD BARANGAY SAN
+LORENZO MAKATI
+Page 1 Schedule 1.1, row 1,
+Individual/Corporation
+SANTOS, JUANAMARIE DELACRUZ-VILLANUEVAEXTRAORDINARILY LONG
+FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+Page 1 Schedule 1.1, row 1, Nature of Payment TAX ON WINNINGS FROM DOUBLE, FORECAST/QUINELLAAND TRIFECTA
+BETS ON HORSE RACES PAID BY PRIVATE WITHHOLDING TAX AGENT
+Page 1 Schedule 1.1, row 2,
+Individual/Corporation
+WINNINGS ON HORSE RACES BENEFICIARY WITH VERY LONG NAME
+Page 1 Schedule 1.1, row 2, Nature of Payment TAX ON WINNINGS OR PRIZES PAID TO WINNERS OF WINNING HORSE
+RACE TICKETS OTHER THAN DOUBLE, FORECAST/QUINELLAAND
+TRIFECTABETS; AND OWNERS OF WINNING RACE HORSES PAID BY
+PRIVATE WITHHOLDING TAX AGENT
+

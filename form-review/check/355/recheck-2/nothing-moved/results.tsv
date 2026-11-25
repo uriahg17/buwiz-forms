@@ -1,0 +1,11 @@
+form	pages_05b_to_a067	preview_captures_vs_pdf	extracted_text_result	interpretation
+0605	1->2	2/2	page 1 LOB ending CONSULT -> CONS... plus additional sheet	changed by 0605 scaling/ellipsis claim; value continued, no loss found
+1701	5->5	5/5	token multiset unchanged on all pages; ordering/layout-only diffs pages 3/5	no semantic box movement found
+1600WP	2->2	2/2	header TIN fixed; several long values truncate earlier and appear as additional-sheet entries	intended TIN fix plus scaling/truncation movement; full values continued, no loss found
+1702Q	3->3	3/3	item 6a specify moved from truncated/additional entry back to full two-line form text	intended claim 3
+2550Q	3->3	3/3	token multiset unchanged; ordering/layout-only diff on additional sheet	no semantic box movement found
+2551Q	2->2	2/2	extracted pages exactly identical	no movement
+1601C	3->3	3/3	token multiset unchanged on all pages; ordering/layout-only diff on additional sheet	no semantic box movement found
+1702MX	5->5	5/5	only added tokens on page 5 are Return Period 12/25	intended claim 5
+2000OT	4->4	4/4	some long schedule values ellipsis a few characters earlier on pages 2/4	readability/truncation movement; full values are carried in continuation entries, no token-count amount loss found
+0619E	2->2	2/2	token multiset unchanged on all pages; ordering/layout-only diff on additional sheet	no semantic box movement found

@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="20" family="Times" color="#000000"/>
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="11" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="15" family="Times" color="#000000"/>
+	<fontspec id="9" size="14" family="Times" color="#000000"/>
+	<fontspec id="10" size="13" family="Times" color="#000000"/>
+	<fontspec id="11" size="9" family="Times" color="#000000"/>
+	<fontspec id="12" size="9" family="Times" color="#000000"/>
+	<fontspec id="13" size="10" family="Times" color="#000000"/>
+	<fontspec id="14" size="7" family="Times" color="#000000"/>
+	<fontspec id="15" size="7" family="Times" color="#000000"/>
+	<fontspec id="16" size="7" family="Times" color="#000000"/>
+	<fontspec id="17" size="8" family="Times" color="#000000"/>
+	<fontspec id="18" size="11" family="Times" color="#000000"/>
+<text top="34" left="401" width="133" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="44" left="64" width="36" height="14" font="1">For BIR</text>
+<text top="45" left="116" width="25" height="14" font="1">BCS/</text>
+<text top="46" left="401" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="56" left="64" width="75" height="15" font="1">Use Only Item:</text>
+<text top="58" left="401" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="76" left="92" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="80" left="275" width="256" height="26" font="2"><b>Annual Income Tax Return </b></text>
+<text top="88" left="95" width="59" height="34" font="3"><b>1701</b></text>
+<text top="103" left="222" width="360" height="15" font="4"><b>Individuals (including MIXED Income Earner), Estates and Trusts</b></text>
+<text top="117" left="205" width="398" height="12" font="5"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with </i></text>
+<text top="118" left="73" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="128" left="252" width="306" height="12" font="5"><i>an “X”. Two copies must be filed with the BIR and one held by the Tax Filer.</i></text>
+<text top="130" left="107" width="34" height="14" font="0"><b>Page 1</b></text>
+<text top="133" left="731" width="96" height="14" font="1">1701 01/18ENCS P1</text>
+<text top="152" left="70" width="79" height="15" font="4"><b>1 </b>For the Year </text>
+<text top="152" left="311" width="101" height="15" font="4"><b>2</b> Amended Return?</text>
+<text top="152" left="559" width="119" height="15" font="4"><b>3 </b>Short Period Return?</text>
+<text top="152" left="463" width="20" height="15" font="6">Yes</text>
+<text top="152" left="520" width="15" height="15" font="6">No</text>
+<text top="152" left="716" width="20" height="15" font="6">Yes</text>
+<text top="152" left="783" width="15" height="15" font="6">No</text>
+<text top="153" left="149" width="4" height="15" font="6">(</text>
+<text top="153" left="152" width="26" height="14" font="7"><i>YYYY)</i></text>
+<text top="176" left="304" width="286" height="15" font="4"><b>PART I – Background Information of Taxpayer/Filer </b></text>
+<text top="193" left="537" width="89" height="21" font="8"><b>0  0  0  0  0</b></text>
+<text top="194" left="364" width="5" height="19" font="9"><b>-</b></text>
+<text top="194" left="442" width="5" height="19" font="9"><b>-</b></text>
+<text top="195" left="521" width="4" height="17" font="10"><b>-</b></text>
+<text top="196" left="70" width="178" height="15" font="4"><b>4</b> Taxpayer Identification Number </text>
+<text top="196" left="660" width="66" height="15" font="4"><b>5</b>  RDO Code</text>
+<text top="197" left="248" width="24" height="14" font="7"><i>(TIN)</i></text>
+<text top="219" left="70" width="89" height="15" font="4"><b>6 </b>Taxpayer Type</text>
+<text top="219" left="215" width="87" height="15" font="6">Single Proprietor </text>
+<text top="219" left="349" width="63" height="15" font="6">Professional</text>
+<text top="219" left="466" width="32" height="15" font="6">Estate</text>
+<text top="219" left="560" width="25" height="15" font="6">Trust</text>
+<text top="219" left="640" width="113" height="15" font="6">  Compensation Earner </text>
+<text top="240" left="70" width="140" height="15" font="4"><b>7</b> Alphanumeric Tax Code </text>
+<text top="241" left="268" width="164" height="14" font="1">II012 Business Income-Graduated IT Rates</text>
+<text top="241" left="461" width="179" height="13" font="11">II014 Income from Profession–Graduated IT Rates</text>
+<text top="241" left="675" width="144" height="13" font="11">II013 Mixed Income–Graduated IT Rates </text>
+<text top="241" left="210" width="28" height="14" font="7"><i>(ATC)</i></text>
+<text top="261" left="268" width="138" height="14" font="1">II015 Business Income - 8% IT Rate</text>
+<text top="261" left="461" width="164" height="14" font="1">II017 Income from Profession – 8% IT Rate</text>
+<text top="261" left="675" width="126" height="14" font="1">II016 Mixed Income – 8% IT Rate </text>
+<text top="261" left="106" width="132" height="14" font="1">II011 Compensation Income</text>
+<text top="279" left="70" width="103" height="15" font="4"><b>8</b> Taxpayer’s Name</text>
+<text top="280" left="351" width="59" height="14" font="1">ESTATE OF</text>
+<text top="280" left="590" width="60" height="14" font="1">TRUST FAO</text>
+<text top="281" left="177" width="175" height="13" font="5"><i>(Last Name, First Name, Middle Name)/</i></text>
+<text top="281" left="413" width="175" height="13" font="5"><i>(First Name, Middle Name, Last Name)/</i></text>
+<text top="281" left="650" width="162" height="13" font="5"><i>: (First Name, Middle Name, Last Name)</i></text>
+<text top="314" left="70" width="114" height="15" font="4"><b>9 </b>Registered Address</text>
+<text top="316" left="187" width="613" height="12" font="5"><i>(Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="351" left="668" width="63" height="15" font="4"><b>9A</b> ZIP Code</text>
+<text top="369" left="64" width="82" height="15" font="4"><b>10</b> Date of Birth</text>
+<text top="369" left="217" width="91" height="15" font="4"><b>11</b> Email Address </text>
+<text top="371" left="150" width="56" height="13" font="5"><i>(MM/DD/YYYY)</i></text>
+<text top="404" left="380" width="131" height="15" font="6">Claiming Foreign Tax Credits?</text>
+<text top="404" left="64" width="75" height="15" font="4"><b>12 </b>Citizenship</text>
+<text top="404" left="364" width="13" height="15" font="4"><b>13</b></text>
+<text top="404" left="518" width="128" height="15" font="4"><b>14</b> Foreign Tax Number,</text>
+<text top="406" left="649" width="50" height="13" font="5"><i>if applicable</i></text>
+<text top="423" left="427" width="20" height="15" font="6">Yes</text>
+<text top="423" left="487" width="15" height="15" font="6">No</text>
+<text top="442" left="64" width="106" height="15" font="4"><b>15 </b>Contact Number </text>
+<text top="442" left="308" width="76" height="15" font="4"><b>16</b> Civil Status</text>
+<text top="444" left="170" width="109" height="13" font="5"><i>(Landline/Cellphone No.)</i></text>
+<text top="444" left="387" width="59" height="13" font="5"><i>(if applicable)</i></text>
+<text top="460" left="390" width="31" height="15" font="6">Single</text>
+<text top="460" left="504" width="38" height="15" font="6">Married</text>
+<text top="460" left="618" width="97" height="15" font="6"> Legally Separated </text>
+<text top="460" left="762" width="47" height="15" font="6">Widow/er</text>
+<text top="481" left="64" width="182" height="15" font="4"><b>17 </b>If married, spouse has income?</text>
+<text top="481" left="521" width="80" height="15" font="4"><b>18</b> Filing Status</text>
+<text top="481" left="330" width="20" height="15" font="6">Yes</text>
+<text top="481" left="429" width="15" height="15" font="6">No</text>
+<text top="481" left="643" width="55" height="15" font="6">Joint Filing</text>
+<text top="481" left="739" width="77" height="15" font="6">Separate Filing</text>
+<text top="497" left="451" width="262" height="14" font="0"><b>20</b> Income subject to SPECIAL/PREFERENTIAL RATE? </text>
+<text top="497" left="64" width="206" height="15" font="4"><b>19</b> Income EXEMPT from Income Tax?</text>
+<text top="497" left="343" width="18" height="14" font="1">Yes</text>
+<text top="497" left="414" width="13" height="14" font="1">No</text>
+<text top="497" left="745" width="18" height="14" font="1">Yes</text>
+<text top="497" left="798" width="13" height="14" font="1">No</text>
+<text top="511" left="82" width="324" height="12" font="12"><i><b>[If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]</b></i></text>
+<text top="511" left="451" width="339" height="12" font="12"><i><b>      [If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]</b></i></text>
+<text top="522" left="64" width="36" height="15" font="4"><b>21 </b>Tax</text>
+<text top="522" left="332" width="130" height="15" font="4"><b>21A</b> Method of Deduction </text>
+<text top="523" left="462" width="56" height="13" font="5"><i>(choose one)</i></text>
+<text top="535" left="83" width="30" height="15" font="6">Rate*</text>
+<text top="535" left="144" width="92" height="15" font="6"> Graduated Rates  </text>
+<text top="535" left="371" width="100" height="15" font="6">Itemized Deduction </text>
+<text top="535" left="543" width="152" height="15" font="6">Optional Standard Deduction</text>
+<text top="537" left="699" width="28" height="14" font="7"><i>(OSD)</i></text>
+<text top="549" left="64" width="56" height="13" font="5"><i>(choose one) </i></text>
+<text top="549" left="144" width="175" height="12" font="5"><i> (Choose Method of Deduction in Item 21A) </i></text>
+<text top="549" left="371" width="82" height="12" font="5"><i>[Sec. 34(A-J), NIRC] </i></text>
+<text top="549" left="543" width="264" height="12" font="5"><i> [40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]</i></text>
+<text top="568" left="144" width="476" height="15" font="6"> 8% in lieu of Graduated Rates under Sec. 24(A) &amp; Percentage Tax under Sec. 116 of NIRC</text>
+<text top="582" left="144" width="436" height="12" font="5"><i> [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)] </i></text>
+<text top="598" left="380" width="145" height="15" font="4"><b>PART II – Total Tax Payable</b></text>
+<text top="598" left="675" width="3" height="14" font="13"><i><b>;</b></i></text>
+<text top="600" left="574" width="101" height="12" font="12"><i><b>            (DO NOT enter Centavos</b></i></text>
+<text top="601" left="679" width="147" height="10" font="14"><i><b>49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="613" left="240" width="58" height="15" font="4"><b>Particulars</b></text>
+<text top="613" left="531" width="85" height="15" font="4"><b>A. Taxpayer/Filer</b></text>
+<text top="613" left="727" width="50" height="15" font="4"><b>B. Spouse</b></text>
+<text top="630" left="64" width="66" height="15" font="4"><b>22 Tax Due </b></text>
+<text top="632" left="130" width="93" height="13" font="5"><i>(From Part VI Item 5)</i></text>
+<text top="653" left="64" width="198" height="15" font="4"><b>23 </b>Less: Total Tax Credits/Payments </text>
+<text top="654" left="262" width="101" height="13" font="5"><i>(From Part VII Item 10)</i></text>
+<text top="675" left="64" width="172" height="15" font="4"><b>24 Tax Payable/(Overpayment)</b></text>
+<text top="677" left="239" width="97" height="13" font="5"><i>(Item 22 Less Item 23) </i></text>
+<text top="694" left="81" width="389" height="15" font="6">Less Portion of Tax Payable Allowed for 2  Installment to be paid on or before October 15</text>
+<text top="694" left="64" width="13" height="15" font="4"><b>25</b></text>
+<text top="694" left="263" width="7" height="10" font="16">nd</text>
+<text top="695" left="102" width="2" height="14" font="1">:</text>
+<text top="707" left="108" width="95" height="11" font="17"><i><b>(50% or less of Item 22)</b></i></text>
+<text top="722" left="64" width="222" height="15" font="4"><b>26</b> Amount of Tax Payable/(Overpayment)</text>
+<text top="724" left="290" width="99" height="13" font="5"><i>(Item 24 Less Item 25)</i></text>
+<text top="744" left="64" width="156" height="15" font="6">     Add: Penalties <b>27 </b>Interest</text>
+<text top="767" left="163" width="71" height="15" font="4"><b>28 </b>Surcharge</text>
+<text top="789" left="163" width="84" height="15" font="4"><b>29 </b>Compromise</text>
+<text top="812" left="64" width="95" height="15" font="4"><b>30</b> Total Penalties</text>
+<text top="814" left="162" width="103" height="13" font="5"><i>(Sum of Items 27 to 29)</i></text>
+<text top="834" left="64" width="228" height="15" font="4"><b>31 Total Amount Payable/(Overpayment)</b></text>
+<text top="836" left="295" width="112" height="13" font="5"><i>(Sum of Items 26 and 30)</i></text>
+<text top="856" left="64" width="258" height="15" font="4"><b>32 Aggregate Amount Payable/(Overpayment)</b></text>
+<text top="858" left="325" width="123" height="13" font="5"><i>(Sum of Items 31A and 31B)</i></text>
+<text top="874" left="70" width="430" height="14" font="1">    If overpayment, mark one (1) box only. <i>(Once the choice is made, the same is irrevocable)</i></text>
+<text top="890" left="145" width="70" height="14" font="1"> To be refunded</text>
+<text top="890" left="277" width="204" height="14" font="1"> To be issued a Tax Credit Certificate (TCC) </text>
+<text top="890" left="539" width="252" height="14" font="1"> To be carried over as a tax credit for next year/quarter </text>
+<text top="906" left="66" width="746" height="14" font="7"><i>          I declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me, and to the best of my knowledge and belief, are true and correct, </i></text>
+<text top="918" left="66" width="746" height="14" font="7"><i>pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as </i></text>
+<text top="930" left="66" width="393" height="14" font="7"><i>contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes.</i></text>
+<text top="932" left="464" width="289" height="12" font="5"><i>(If signed by an Authorized Representative, indicate TIN and attach authorization letter)</i></text>
+<text top="973" left="657" width="132" height="15" font="4"><b>33 </b>Number of Attachments</text>
+<text top="989" left="199" width="317" height="14" font="1">Printed Name and Signature of Taxpayer/Authorized Representative  </text>
+<text top="1007" left="371" width="151" height="15" font="4"><b>PART III - Details of Payment</b></text>
+<text top="1022" left="204" width="92" height="15" font="4"><b>Drawee Bank/Agency </b></text>
+<text top="1022" left="98" width="58" height="15" font="4"><b>Particulars</b></text>
+<text top="1022" left="378" width="42" height="15" font="4"><b>Number</b></text>
+<text top="1022" left="521" width="104" height="15" font="4"><b>Date <i>(MM/DD/YYYY)</i></b></text>
+<text top="1022" left="721" width="40" height="15" font="4"><b>Amount</b></text>
+<text top="1039" left="81" width="102" height="15" font="6">Cash/Bank Debit Memo</text>
+<text top="1039" left="64" width="13" height="15" font="4"><b>34</b></text>
+<text top="1060" left="64" width="50" height="15" font="4"><b>35 </b>Check</text>
+<text top="1081" left="64" width="103" height="15" font="4"><b>36 </b>Tax Debit Memo</text>
+<text top="1119" left="64" width="52" height="15" font="4"><b>37 </b>Others</text>
+<text top="1119" left="120" width="70" height="14" font="7"><i>(specify below)</i></text>
+<text top="1133" left="603" width="196" height="14" font="7"><i>Stamp of Receiving Office/AAB and Date of Receipt</i></text>
+<text top="1133" left="70" width="246" height="14" font="1">Machine Validation/Revenue Official Receipt Details </text>
+<text top="1134" left="316" width="186" height="13" font="5"><i>(if not filed with an Authorized Agent Bank)</i></text>
+<text top="1145" left="633" width="137" height="14" font="7"><i>(RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="1212" left="64" width="350" height="14" font="0"><b>*NOTE</b>: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph) </text>
+<text top="152" left="218" width="62" height="15" font="6">2 0 2 5</text>
+<text top="151" left="500" width="8" height="15" font="6">X</text>
+<text top="151" left="763" width="8" height="15" font="6">X</text>
+<text top="196" left="307" width="44" height="15" font="6">0 0 0</text>
+<text top="196" left="383" width="44" height="15" font="6">1 2 3</text>
+<text top="196" left="463" width="45" height="15" font="6">4 5 3</text>
+<text top="196" left="778" width="47" height="15" font="6">0 3 9</text>
+<text top="218" left="196" width="8" height="15" font="6">X</text>
+<text top="218" left="624" width="8" height="15" font="6">X</text>
+<text top="241" left="654" width="8" height="15" font="6">X</text>
+<text top="297" left="66" width="352" height="15" font="6">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA OF TARLAC</text>
+<text top="331" left="66" width="556" height="15" font="6">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE</text>
+<text top="352" left="66" width="409" height="15" font="6">CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="352" left="759" width="66" height="15" font="6">1 2 2 9</text>
+<text top="387" left="69" width="422" height="15" font="6">0 3 0 1 1 9 7 5 juana.santos.independent.print.check@example.com</text>
+<text top="423" left="66" width="273" height="15" font="6">FILIPINO WITH EXTRA LONG CITIZENSHIP TEXT</text>
+<text top="423" left="516" width="217" height="15" font="6">FOREIGN-TAX-12345678901234567890</text>
+<text top="423" left="405" width="8" height="15" font="6">X</text>
+<text top="461" left="70" width="194" height="15" font="6">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="460" left="486" width="8" height="15" font="6">X</text>
+<text top="479" left="305" width="8" height="15" font="6">X</text>
+<text top="479" left="625" width="8" height="15" font="6">X</text>
+<text top="498" left="392" width="6" height="12" font="11">X</text>
+<text top="498" left="781" width="6" height="12" font="11">X</text>
+<text top="538" left="130" width="8" height="15" font="6">X</text>
+<text top="538" left="349" width="8" height="15" font="6">X</text>
+<text top="630" left="639" width="7" height="15" font="6">0</text>
+<text top="630" left="818" width="7" height="15" font="6">0</text>
+<text top="652" left="482" width="343" height="15" font="6">1 0 3 0 7 6 5 4 4 2 0 5 0 1 2 3 4 6</text>
+<text top="676" left="576" width="74" height="15" font="6">(103,076,544)</text>
+<text top="676" left="756" width="74" height="15" font="6">(205,012,346)</text>
+<text top="699" left="639" width="7" height="15" font="6">0</text>
+<text top="699" left="818" width="7" height="15" font="6">0</text>
+<text top="722" left="576" width="74" height="15" font="6">(103,076,544)</text>
+<text top="722" left="756" width="74" height="15" font="6">(205,012,346)</text>
+<text top="744" left="600" width="46" height="15" font="6">2 5 0</text>
+<text top="744" left="778" width="47" height="15" font="6">3 0 1</text>
+<text top="767" left="600" width="46" height="15" font="6">5 0 0</text>
+<text top="767" left="778" width="47" height="15" font="6">6 0 1</text>
+<text top="789" left="600" width="46" height="15" font="6">1 0 0</text>
+<text top="789" left="778" width="47" height="15" font="6">2 0 0</text>
+<text top="812" left="600" width="46" height="15" font="6">8 5 1</text>
+<text top="812" left="759" width="66" height="15" font="6">1 1 0 1</text>
+<text top="834" left="600" width="46" height="15" font="6">8 5 1</text>
+<text top="834" left="759" width="66" height="15" font="6">1 1 0 1</text>
+<text top="857" left="659" width="64" height="15" font="6">1 9 5 2</text>
+<text top="889" left="522" width="8" height="15" font="6">X</text>
+<text top="973" left="794" width="26" height="15" font="6">0 9</text>
+<text top="1041" left="194" width="101" height="13" font="11">BPI VERY LONG BR...</text>
+<text top="1039" left="307" width="99" height="15" font="6">123456789012345</text>
+<text top="1039" left="501" width="145" height="15" font="6">0 4 1 5 2 0 2 6</text>
+<text top="1039" left="697" width="128" height="15" font="6">1 1 1 1 1 1 1</text>
+<text top="1062" left="194" width="106" height="13" font="11">BDO VERY LONG BR...</text>
+<text top="1060" left="307" width="124" height="15" font="6">CHK123456789012345</text>
+<text top="1060" left="501" width="145" height="15" font="6">0 4 1 5 2 0 2 6</text>
+<text top="1060" left="697" width="128" height="15" font="6">2 2 2 2 2 2 2</text>
+<text top="1082" left="307" width="125" height="15" font="6">TDM123456789012345</text>
+<text top="1082" left="501" width="145" height="15" font="6">0 4 1 5 2 0 2 6</text>
+<text top="1082" left="697" width="128" height="15" font="6">3 3 3 3 3 3 3</text>
+<text top="1117" left="66" width="232" height="13" font="11">OTHER PAYMENT SPEC... MOBILE WALLET VE...</text>
+<text top="1116" left="307" width="124" height="15" font="6">OTH123456789012345</text>
+<text top="1115" left="501" width="145" height="15" font="6">0 4 1 5 2 0 2 6</text>
+<text top="1115" left="697" width="128" height="15" font="6">4 4 4 4 4 4 4</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="19" size="21" family="Times" color="#000000"/>
+	<fontspec id="20" size="9" family="Times" color="#000000"/>
+	<fontspec id="21" size="8" family="Times" color="#000000"/>
+	<fontspec id="22" size="8" family="Times" color="#000000"/>
+	<fontspec id="23" size="8" family="Times" color="#000000"/>
+<text top="40" left="88" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="52" left="260" width="264" height="27" font="19"><b>Annual Income Tax Return </b></text>
+<text top="52" left="96" width="48" height="28" font="19"><b>1701</b></text>
+<text top="76" left="211" width="363" height="15" font="4"><b>Individuals (including MIXED Income Earner), Estates and Trusts</b></text>
+<text top="77" left="69" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="89" left="731" width="96" height="14" font="1">1701 01/18ENCS P2 </text>
+<text top="89" left="103" width="34" height="14" font="0"><b>Page 2</b></text>
+<text top="103" left="70" width="17" height="14" font="0"><b>TIN</b></text>
+<text top="103" left="326" width="107" height="14" font="0"><b>Tax Filer’s Last Name </b></text>
+<text top="117" left="227" width="86" height="21" font="8"><b>0  0  0  0  0</b></text>
+<text top="142" left="333" width="228" height="14" font="0"><b>PART IV – Background Information of Spouse</b></text>
+<text top="158" left="540" width="88" height="21" font="8"><b>0  0  0  0  0</b></text>
+<text top="159" left="371" width="5" height="19" font="9"><b>-</b></text>
+<text top="159" left="447" width="5" height="19" font="9"><b>-</b></text>
+<text top="159" left="523" width="5" height="19" font="9"><b>-</b></text>
+<text top="160" left="66" width="218" height="15" font="4"><b>1</b> Spouse’s Taxpayer Identification Number</text>
+<text top="160" left="661" width="66" height="15" font="4"><b>2</b>  RDO Code</text>
+<text top="181" left="66" width="118" height="15" font="4"><b>3 </b>Filer’s Spouse Type</text>
+<text top="181" left="245" width="87" height="15" font="6">Single Proprietor </text>
+<text top="181" left="442" width="63" height="15" font="6">Professional</text>
+<text top="181" left="640" width="120" height="15" font="6">   Compensation Earner</text>
+<text top="201" left="65" width="140" height="15" font="4"><b>4</b> Alphanumeric Tax Code </text>
+<text top="202" left="268" width="164" height="14" font="1">II012 Business Income-Graduated IT Rates</text>
+<text top="202" left="461" width="179" height="13" font="11">II014 Income from Profession–Graduated IT Rates</text>
+<text top="202" left="675" width="144" height="13" font="11">II013 Mixed Income–Graduated IT Rates </text>
+<text top="202" left="206" width="28" height="14" font="7"><i>(ATC)</i></text>
+<text top="222" left="268" width="138" height="14" font="1">II015 Business Income - 8% IT Rate</text>
+<text top="222" left="461" width="164" height="14" font="1">II017 Income from Profession – 8% IT Rate</text>
+<text top="222" left="675" width="126" height="14" font="1">II016 Mixed Income – 8% IT Rate </text>
+<text top="222" left="107" width="132" height="14" font="1">II011 Compensation Income</text>
+<text top="238" left="75" width="87" height="15" font="6">Spouse’s Name </text>
+<text top="239" left="66" width="6" height="15" font="4"><b>5</b></text>
+<text top="240" left="162" width="170" height="13" font="5"><i>(Last Name, First Name, Middle Name) </i></text>
+<text top="274" left="66" width="96" height="15" font="4"><b>6 </b>Contact Number</text>
+<text top="274" left="389" width="66" height="15" font="4"><b>7 </b>Citizenship</text>
+<text top="291" left="367" width="117" height="15" font="4"><b>9</b> Foreign Tax Number </text>
+<text top="296" left="66" width="170" height="15" font="4"><b>8 </b>Claiming Foreign Tax Credits?</text>
+<text top="296" left="276" width="18" height="14" font="1">Yes</text>
+<text top="296" left="332" width="13" height="14" font="1">No</text>
+<text top="305" left="389" width="60" height="10" font="15"><i>       (if applicable)</i></text>
+<text top="315" left="451" width="262" height="14" font="0"><b>11</b> Income subject to SPECIAL/PREFERENTIAL RATE? </text>
+<text top="315" left="66" width="206" height="15" font="4"><b>10</b> Income EXEMPT from Income Tax?</text>
+<text top="315" left="343" width="18" height="14" font="1">Yes</text>
+<text top="315" left="414" width="13" height="14" font="1">No</text>
+<text top="315" left="745" width="18" height="14" font="1">Yes</text>
+<text top="315" left="798" width="13" height="14" font="1">No</text>
+<text top="329" left="70" width="338" height="12" font="12"><i><b>     [If yes, fill out also consolidation of ALL Activities per Tax Regime (Part X)]</b></i></text>
+<text top="329" left="464" width="326" height="12" font="12"><i><b> [If yes, fill out also consolidation of ALL activities per Tax Regime (Part X)]</b></i></text>
+<text top="340" left="66" width="34" height="15" font="4"><b>12 </b>Tax</text>
+<text top="340" left="330" width="130" height="15" font="4"><b>12A</b> Method of Deduction </text>
+<text top="341" left="460" width="56" height="13" font="5"><i>(choose one)</i></text>
+<text top="354" left="80" width="28" height="15" font="6">Rate*</text>
+<text top="354" left="147" width="78" height="15" font="6">Graduated Rates</text>
+<text top="354" left="369" width="94" height="15" font="6">Itemized Deduction </text>
+<text top="354" left="542" width="170" height="15" font="6">Optional Standard Deduction (OSD)</text>
+<text top="367" left="64" width="56" height="13" font="5"><i>(choose one) </i></text>
+<text top="367" left="143" width="175" height="12" font="5"><i> (Choose Method of Deduction in Item 12A) </i></text>
+<text top="367" left="369" width="82" height="12" font="5"><i>[Sec. 34(A-J), NIRC] </i></text>
+<text top="367" left="542" width="264" height="12" font="5"><i> [40% of Gross Sales/Receipts/Revenues/Fees [Sec. 34(L), NIRC]</i></text>
+<text top="386" left="147" width="449" height="15" font="6">8% in lieu of Graduated Rates under Sec. 24(A) &amp; Percentage Tax under Sec. 116 of NIRC </text>
+<text top="399" left="143" width="436" height="12" font="5"><i> [available if gross sales/receipts and other non-operating income do not exceed Three million pesos (P3M)] </i></text>
+<text top="415" left="375" width="147" height="14" font="0"><b>PART V – Computation of Tax</b></text>
+<text top="429" left="67" width="307" height="14" font="0"><b>Schedule 1 – Gross Compensation Income and Tax Withheld </b></text>
+<text top="430" left="374" width="173" height="13" font="5"><i>(Attach Additional Sheet/s, if necessary)</i></text>
+<text top="442" left="70" width="753" height="14" font="7"><i>On Items 1 and 2, enter the required information for each of your employer/s and mark (X) whether the information is for the Taxpayer or the Spouse. On Item 3A, enter the Total </i></text>
+<text top="454" left="527" width="300" height="14" font="13"><i><b>(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="454" left="70" width="406" height="14" font="7"><i>Gross Compensation and Total Tax Withheld for the Taxpayer and on Item 3B, for the Spouse.</i></text>
+<text top="468" left="319" width="97" height="14" font="0"><b>a</b>. Name of Employer </text>
+<text top="488" left="104" width="49" height="15" font="6">Taxpayer</text>
+<text top="497" left="70" width="7" height="15" font="4"><b>1</b></text>
+<text top="502" left="111" width="40" height="15" font="6">Spouse</text>
+<text top="506" left="458" width="76" height="15" font="4"><b>b.</b> Employer’s TIN</text>
+<text top="530" left="104" width="49" height="15" font="6">Taxpayer</text>
+<text top="539" left="70" width="7" height="15" font="4"><b>2</b></text>
+<text top="544" left="111" width="40" height="15" font="6">Spouse</text>
+<text top="547" left="458" width="76" height="15" font="4"><b>b.</b> Employer’s TIN</text>
+<text top="565" left="505" width="114" height="14" font="1">c. Compensation Income </text>
+<text top="565" left="705" width="71" height="14" font="1">d. Tax Withheld </text>
+<text top="565" left="70" width="141" height="13" font="12"><i><b>(Continuation of Table Above)</b></i></text>
+<text top="581" left="71" width="7" height="15" font="4"><b>1</b></text>
+<text top="602" left="71" width="7" height="15" font="4"><b>2</b></text>
+<text top="620" left="106" width="256" height="14" font="1">Gross Compensation Income and Total Tax Withheld for</text>
+<text top="624" left="68" width="15" height="15" font="4"><b>3A</b></text>
+<text top="632" left="106" width="41" height="12" font="20"><b>TAXPAYER</b></text>
+<text top="633" left="149" width="170" height="11" font="21">(<b>To Part V <i>Schedule 2 Item 4A and Part VII Item 5A</b>)</i></text>
+<text top="643" left="106" width="261" height="14" font="1">Gross Compensation Income and Total Tax Withheld for  </text>
+<text top="647" left="68" width="15" height="15" font="4"><b>3B</b></text>
+<text top="655" left="108" width="31" height="12" font="20"><b>SPOUSE</b></text>
+<text top="656" left="141" width="170" height="11" font="22"><b>(To Part V <i>Schedule 2 Item 4B and Part VII Item 5B</b>)</i></text>
+<text top="668" left="527" width="300" height="14" font="13"><i><b>(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="668" left="67" width="223" height="14" font="0"><b>Schedule 2 – Taxable Compensation Income</b></text>
+<text top="682" left="239" width="55" height="14" font="0"><b>Particulars</b></text>
+<text top="682" left="532" width="80" height="14" font="0"><b>A. Taxpayer/Filer</b></text>
+<text top="682" left="727" width="47" height="14" font="0"><b>B. Spouse</b></text>
+<text top="698" left="70" width="170" height="15" font="4"><b>4</b> Gross Compensation Income (</text>
+<text top="699" left="408" width="4" height="14" font="7"><i>)</i></text>
+<text top="700" left="241" width="167" height="13" font="5"><i>From Part V Schedule 1 Item 3Ac/3Bc</i></text>
+<text top="719" left="70" width="237" height="15" font="4"><b>5</b> Less: Non-Taxable / Exempt Compensation </text>
+<text top="740" left="70" width="177" height="15" font="4"><b>6</b> Taxable Compensation Income </text>
+<text top="742" left="248" width="88" height="13" font="5"><i>(Item 4 Less Item 5)</i></text>
+<text top="761" left="70" width="187" height="15" font="4"><b>7 Tax Due-Compensation Income</b></text>
+<text top="763" left="261" width="153" height="12" font="5"><i>(Item 6 x applicable Income Tax Rate) </i></text>
+<text top="780" left="267" width="4" height="15" font="4"><b>(</b></text>
+<text top="781" left="67" width="626" height="14" font="0"><b>Schedule 3 – Taxable Business Income  <i>If graduated rates, fill in items 8 to 24;  if 8% flat income tax rate, fill in items 25 to 30)</i></b></text>
+<text top="795" left="79" width="188" height="14" font="0"><b>3.A – For Graduated Income Tax Rates</b></text>
+<text top="812" left="70" width="175" height="15" font="4"><b>8 </b>Sales/Revenues/Receipts/Fees</text>
+<text top="833" left="70" width="259" height="15" font="4"><b>9</b> Less: Sales Returns, Allowances and Discounts </text>
+<text top="854" left="66" width="207" height="15" font="4"><b>10</b> Net Sales/Revenues/Receipts/Fees </text>
+<text top="856" left="273" width="88" height="13" font="5"><i>(Item 8 Less Item 9)</i></text>
+<text top="875" left="66" width="174" height="15" font="4"><b>11</b> Less: Cost of Sales/Services  </text>
+<text top="876" left="241" width="195" height="14" font="13"><i><b>(applicable only if availing Itemized Deductions)</b></i></text>
+<text top="896" left="66" width="209" height="15" font="4"><b>12</b> Gross Income/(Loss) from Operation</text>
+<text top="897" left="279" width="105" height="14" font="7"><i>(Item 10 Less Item 11)</i></text>
+<text top="914" left="70" width="226" height="14" font="1">Less: Deductions Allowable under Existing Laws</text>
+<text top="930" left="66" width="230" height="15" font="4"><b>13</b> Ordinary Allowable Itemized Deductions </text>
+<text top="931" left="296" width="156" height="14" font="7"><i>(From Part V Schedule 4 Item 18)</i></text>
+<text top="951" left="66" width="223" height="15" font="4"><b>14</b> Special Allowable Itemized Deductions </text>
+<text top="952" left="290" width="176" height="14" font="7"><i>(From Part V Schedule 5 Item 3 and/or Item 6)</i></text>
+<text top="972" left="66" width="13" height="15" font="4"><b>15</b></text>
+<text top="973" left="83" width="212" height="14" font="1">Allowance for Net Operating Loss Carry Over (NOLCO)</text>
+<text top="974" left="299" width="169" height="13" font="5"><i>(From Part V Schedule 6 Item 8 and/or Item 13)</i></text>
+<text top="993" left="65" width="211" height="15" font="4"><b>16</b> Total Allowable Itemized Deductions </text>
+<text top="994" left="276" width="110" height="14" font="7"><i>(Sum of Items 13 to 15)</i></text>
+<text top="1011" left="149" width="16" height="14" font="0"><b>OR</b></text>
+<text top="1027" left="65" width="209" height="15" font="4"><b>17</b> Optional Standard Deduction (OSD) </text>
+<text top="1028" left="274" width="73" height="13" font="5"><i>(40% of Item 10)</i></text>
+<text top="1048" left="428" width="3" height="15" font="6">)</text>
+<text top="1048" left="66" width="117" height="15" font="4"><b>18</b> Net Income/(Loss) </text>
+<text top="1049" left="183" width="244" height="14" font="7"><i>(If Itemized: Item 12 Less Item 16; If OSD: Item 10 Less Item 17</i></text>
+<text top="1065" left="70" width="234" height="14" font="1">Add: Other Non-Operating Income <i>(specify below)</i></text>
+<text top="1081" left="66" width="13" height="15" font="4"><b>19</b></text>
+<text top="1119" left="66" width="13" height="15" font="4"><b>20</b></text>
+<text top="1139" left="83" width="230" height="15" font="6">Amount Received/Share in Income by a Partner from </text>
+<text top="1139" left="66" width="13" height="15" font="4"><b>21</b></text>
+<text top="1140" left="313" width="152" height="14" font="1">General Professional Partnership (GPP)</text>
+<text top="1158" left="66" width="202" height="15" font="4"><b>22 </b>Total Other Non-Operating Income </text>
+<text top="1160" left="268" width="103" height="13" font="5"><i>(Sum of Items 19 to 21)</i></text>
+<text top="1177" left="66" width="156" height="15" font="4"><b>23 </b>Taxable Income-Business </text>
+<text top="1179" left="222" width="112" height="13" font="5"><i>(Sum of Items 18 and 22)</i></text>
+<text top="1199" left="81" width="266" height="15" font="6">Total Taxable Income – Compensation &amp; Business</text>
+<text top="1200" left="66" width="12" height="14" font="0"><b>24</b></text>
+<text top="1201" left="350" width="97" height="12" font="5"><i>(Sum of Items 6 and 23)</i></text>
+<text top="1218" left="110" width="199" height="15" font="4"><b>Tax Due-Compensation and Business Income</b></text>
+<text top="1218" left="80" width="27" height="15" font="4"><b>Total</b></text>
+<text top="1219" left="66" width="12" height="14" font="0"><b>25</b></text>
+<text top="1220" left="311" width="81" height="12" font="12"><i><b>(under graduated rates)</b></i></text>
+<text top="1231" left="80" width="199" height="12" font="5"><i>  (Item 24 x applicable income tax rate ) <b>(To Part VI Item 1)</b></i></text>
+<text top="120" left="69" width="147" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="120" left="324" width="106" height="15" font="6">S A N T O S</text>
+<text top="160" left="313" width="44" height="15" font="6">1 2 3</text>
+<text top="160" left="389" width="44" height="15" font="6">4 5 6</text>
+<text top="160" left="465" width="44" height="15" font="6">7 8 8</text>
+<text top="160" left="541" width="86" height="15" font="6">0 0 0 0 1</text>
+<text top="160" left="780" width="45" height="15" font="6">0 3 9</text>
+<text top="181" left="213" width="8" height="15" font="6">X</text>
+<text top="181" left="626" width="8" height="15" font="6">X</text>
+<text top="202" left="654" width="8" height="15" font="6">X</text>
+<text top="255" left="66" width="339" height="15" font="6">DELA CRUZ, MIGUEL ANTONIO VILLANUEVA LONGSPOUSE</text>
+<text top="274" left="181" width="195" height="15" font="6">0 9 1 7 0 0 0 0 0 0 1</text>
+<text top="274" left="483" width="147" height="15" font="6">F I L I P I N O</text>
+<text top="293" left="255" width="8" height="15" font="6">X</text>
+<text top="296" left="499" width="177" height="15" font="6">SPOUSE-FOREIGN-1234567890</text>
+<text top="317" left="392" width="6" height="12" font="11">X</text>
+<text top="317" left="781" width="6" height="12" font="11">X</text>
+<text top="352" left="129" width="8" height="15" font="6">X</text>
+<text top="356" left="348" width="8" height="15" font="6">X</text>
+<text top="489" left="89" width="7" height="14" font="6">X</text>
+<text top="545" left="88" width="7" height="14" font="1">X</text>
+<text top="581" left="519" width="126" height="15" font="6">1 2 3 4 5 6 8</text>
+<text top="581" left="738" width="86" height="15" font="6">7 6 5 4 3</text>
+<text top="603" left="538" width="106" height="15" font="6">9 8 7 6 5 4</text>
+<text top="603" left="738" width="86" height="15" font="6">1 2 3 4 6</text>
+<text top="624" left="519" width="126" height="15" font="6">1 2 3 4 5 6 8</text>
+<text top="624" left="738" width="86" height="15" font="6">7 6 5 4 3</text>
+<text top="647" left="538" width="106" height="15" font="6">9 8 7 6 5 4</text>
+<text top="647" left="738" width="87" height="15" font="6">1 2 3 4 6</text>
+<text top="699" left="519" width="126" height="15" font="6">1 2 3 4 5 6 8</text>
+<text top="699" left="717" width="107" height="15" font="6">9 8 7 6 5 4</text>
+<text top="719" left="558" width="86" height="15" font="6">9 0 0 0 0</text>
+<text top="719" left="738" width="86" height="15" font="6">4 5 0 0 0</text>
+<text top="740" left="519" width="126" height="15" font="6">1 1 4 4 5 6 8</text>
+<text top="740" left="717" width="107" height="15" font="6">9 4 2 6 5 4</text>
+<text top="761" left="538" width="106" height="15" font="6">1 8 8 6 4 2</text>
+<text top="761" left="717" width="107" height="15" font="6">1 3 8 1 6 4</text>
+<text top="812" left="573" width="76" height="15" font="6">1,250,000,001</text>
+<text top="812" left="754" width="76" height="15" font="6">1,156,942,024</text>
+<text top="834" left="481" width="343" height="15" font="6">3 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 1</text>
+<text top="855" left="481" width="343" height="15" font="6">9 5 0 0 0 0 0 0 0 9 5 6 9 4 2 0 2 4</text>
+<text top="875" left="638" width="7" height="15" font="6">0</text>
+<text top="875" left="738" width="86" height="15" font="6">1 0 0 0 0</text>
+<text top="897" left="481" width="343" height="15" font="6">9 5 0 0 0 0 0 0 0 9 5 6 9 3 2 0 2 4</text>
+<text top="931" left="573" width="76" height="15" font="6">1,156,942,024</text>
+<text top="931" left="754" width="76" height="15" font="6">1,177,942,025</text>
+<text top="951" left="538" width="106" height="15" font="6">5 0 0 0 0 0</text>
+<text top="951" left="717" width="107" height="15" font="6">4 0 0 0 0 0</text>
+<text top="972" left="500" width="145" height="15" font="6">2 0 0 0 0 0 0 0</text>
+<text top="972" left="678" width="147" height="15" font="6">1 5 0 0 0 0 0 0</text>
+<text top="993" left="573" width="76" height="15" font="6">1,177,442,024</text>
+<text top="993" left="754" width="76" height="15" font="6">1,193,342,025</text>
+<text top="1027" left="638" width="7" height="15" font="6">0</text>
+<text top="1027" left="818" width="7" height="15" font="6">0</text>
+<text top="1048" left="579" width="70" height="15" font="6">-227,442,024</text>
+<text top="1048" left="760" width="70" height="15" font="6">-236,410,001</text>
+<text top="1081" left="638" width="7" height="15" font="6">0</text>
+<text top="1081" left="818" width="7" height="15" font="6">0</text>
+<text top="1119" left="638" width="7" height="15" font="6">0</text>
+<text top="1119" left="818" width="7" height="15" font="6">0</text>
+<text top="1138" left="638" width="7" height="15" font="6">0</text>
+<text top="1138" left="818" width="7" height="15" font="6">0</text>
+<text top="1158" left="638" width="7" height="15" font="6">0</text>
+<text top="1158" left="818" width="7" height="15" font="6">0</text>
+<text top="1177" left="579" width="70" height="15" font="6">-227,442,024</text>
+<text top="1177" left="760" width="70" height="15" font="6">-236,410,001</text>
+<text top="1198" left="579" width="70" height="15" font="6">-226,297,456</text>
+<text top="1198" left="760" width="70" height="15" font="6">-235,467,347</text>
+<text top="1223" left="638" width="7" height="15" font="6">0</text>
+<text top="1223" left="818" width="7" height="15" font="6">0</text>
+<text top="1101" left="68" width="382" height="15" font="6">SAMPLE LONG RENTAL INCOME DESCRIPTION FOR PRINT WRAPPING</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="41" left="88" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="52" left="256" width="264" height="27" font="19"><b>Annual Income Tax Return </b></text>
+<text top="53" left="96" width="48" height="28" font="19"><b>1701</b></text>
+<text top="77" left="207" width="363" height="15" font="4"><b>Individuals (including MIXED Income Earner), Estates and Trusts</b></text>
+<text top="78" left="66" width="105" height="14" font="1">  January 2018 (ENCS)</text>
+<text top="89" left="731" width="96" height="14" font="1">1701 01/18ENCS P3 </text>
+<text top="90" left="103" width="34" height="14" font="0"><b>Page 3</b></text>
+<text top="104" left="70" width="17" height="14" font="0"><b>TIN</b></text>
+<text top="104" left="325" width="107" height="14" font="0"><b>Tax Filer’s Last Name </b></text>
+<text top="118" left="228" width="86" height="21" font="8"><b>0  0  0  0  0</b></text>
+<text top="143" left="527" width="300" height="14" font="13"><i><b>(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="143" left="84" width="171" height="14" font="0"><b>3.B – For 8% Flat Income Tax Rate</b></text>
+<text top="157" left="239" width="55" height="14" font="0"><b>Particulars</b></text>
+<text top="157" left="532" width="80" height="14" font="0"><b>A. Taxpayer/Filer</b></text>
+<text top="157" left="727" width="47" height="14" font="0"><b>B. Spouse</b></text>
+<text top="173" left="66" width="182" height="15" font="4"><b>26 </b>Sales/Revenues/Receipts/Fees</text>
+<text top="175" left="251" width="207" height="13" font="5"><i>(net of sales returns, allowances and discounts)</i></text>
+<text top="191" left="64" width="184" height="15" font="6">Add: Other Non-Operating Income </text>
+<text top="192" left="248" width="70" height="14" font="7"><i>(specify below)</i></text>
+<text top="209" left="66" width="13" height="15" font="4"><b>27</b></text>
+<text top="231" left="66" width="88" height="15" font="4"><b>28</b> Total Income </text>
+<text top="232" left="154" width="112" height="13" font="5"><i>(Sum of Items 26 and 27)</i></text>
+<text top="248" left="66" width="45" height="15" font="4"><b>29 </b>Less:</text>
+<text top="249" left="114" width="351" height="14" font="1">Allowable reduction from gross sales/receipts and other non-operating income of purely self-</text>
+<text top="262" left="86" width="379" height="12" font="11">employed individuals and/or professionals in the amount of P250,000 (not applicable if with compensation income)</text>
+<text top="276" left="66" width="140" height="15" font="4"><b>30</b> Taxable Income/(Loss) </text>
+<text top="278" left="206" width="99" height="13" font="5"><i>(Item 28 Less Item 29)</i></text>
+<text top="298" left="81" width="117" height="15" font="4"><b>Tax Due-Business Income </b></text>
+<text top="298" left="66" width="12" height="15" font="4"><b>31</b></text>
+<text top="300" left="198" width="123" height="12" font="5"><i>(Item 30 x 8% Flat Income Tax Rate)</i></text>
+<text top="320" left="81" width="61" height="14" font="0"><b>Total Tax Due–</b></text>
+<text top="320" left="66" width="12" height="14" font="0"><b>32</b></text>
+<text top="321" left="142" width="191" height="13" font="20"><b>Compensation &amp; Business Income <i>(under flat rate)</i></b></text>
+<text top="323" left="335" width="123" height="10" font="15"><i>(Sum of Items 7and 31) <b>(To Part VI Item 1)</b></i></text>
+<text top="342" left="64" width="450" height="14" font="0"><b>Schedule 4 - Ordinary Allowable Itemized Deductions </b><i>(attach additional sheet/s, if necessary)</i></text>
+<text top="360" left="68" width="82" height="15" font="4"><b>1 </b>Amortizations</text>
+<text top="381" left="68" width="61" height="15" font="4"><b>2</b> Bad Debts</text>
+<text top="402" left="68" width="191" height="15" font="4"><b>3</b> Charitable and Other Contributions </text>
+<text top="423" left="68" width="60" height="15" font="4"><b>4 </b>Depletion</text>
+<text top="444" left="68" width="76" height="15" font="4"><b>5 </b>Depreciation</text>
+<text top="465" left="68" width="235" height="15" font="4"><b>6 </b>Entertainment, Amusement and Recreation </text>
+<text top="486" left="68" width="88" height="15" font="4"><b>7 </b>Fringe Benefits </text>
+<text top="507" left="68" width="50" height="15" font="4"><b>8 </b>Interest</text>
+<text top="528" left="68" width="48" height="15" font="4"><b>9 </b>Losses</text>
+<text top="549" left="65" width="94" height="15" font="4"><b>10 </b>Pension Trusts </text>
+<text top="570" left="67" width="51" height="15" font="4"><b>11 </b>Rental</text>
+<text top="591" left="67" width="162" height="15" font="4"><b>12 </b>Research and Development </text>
+<text top="612" left="67" width="187" height="15" font="4"><b>13 </b>Salaries, Wages and Allowances </text>
+<text top="633" left="67" width="298" height="15" font="4"><b>14 </b>SSS, GSIS, Philhealth, HDMF and Other Contributions</text>
+<text top="654" left="67" width="120" height="15" font="4"><b>15 </b>Taxes and Licenses </text>
+<text top="675" left="67" width="151" height="15" font="4"><b>16 </b>Transportation and Travel </text>
+<text top="692" left="68" width="357" height="15" font="4"><b>17</b> Others (Deductions Subject to Withholding Tax and Other Expenses)</text>
+<text top="694" left="428" width="213" height="12" font="5"><i>[Specify below; Add additional sheet(s), if necessary]</i></text>
+<text top="710" left="88" width="204" height="15" font="6">a  Janitorial and Messengerial Services</text>
+<text top="733" left="88" width="106" height="15" font="6">b  Professional Fees</text>
+<text top="755" left="88" width="102" height="15" font="6">c  Security Services</text>
+<text top="778" left="88" width="7" height="15" font="6">d</text>
+<text top="799" left="67" width="13" height="15" font="4"><b>18</b></text>
+<text top="800" left="83" width="175" height="14" font="1">Total Ordinary Allowable Itemized Deductions</text>
+<text top="801" left="262" width="204" height="13" font="5"><i>(Sum of Items 1 to 17d) (To Part V Schedule 3.A Item 13)</i></text>
+<text top="822" left="64" width="446" height="14" font="0"><b>Schedule 5 – Special Allowable Itemized Deductions </b><i>(attach additional sheet/s, if necessary)</i></text>
+<text top="835" left="81" width="99" height="14" font="0"><b>5.A – Taxpayer/Filer</b></text>
+<text top="835" left="266" width="53" height="14" font="1">Description</text>
+<text top="835" left="538" width="50" height="14" font="1">Legal Basis</text>
+<text top="835" left="725" width="34" height="14" font="1">Amount</text>
+<text top="852" left="67" width="7" height="15" font="4"><b>1</b></text>
+<text top="873" left="67" width="7" height="15" font="4"><b>2</b></text>
+<text top="894" left="76" width="260" height="15" font="6">Total Special Allowable Itemized Deductions <b>Taxpayer/Filer</b></text>
+<text top="894" left="66" width="7" height="15" font="4"><b>3</b></text>
+<text top="895" left="267" width="3" height="14" font="1">-</text>
+<text top="895" left="339" width="271" height="14" font="7"><i>(Sum of Items 1 and 2) (To Part V Schedule 3.A Item 14A)</i></text>
+<text top="912" left="64" width="84" height="14" font="0"><b>      5.B – Spouse</b></text>
+<text top="929" left="67" width="7" height="15" font="4"><b>4</b></text>
+<text top="950" left="67" width="7" height="15" font="4"><b>5</b></text>
+<text top="971" left="66" width="290" height="15" font="4"><b>6 </b>Total Special Allowable Itemized Deductions <b>Spouse</b></text>
+<text top="972" left="310" width="4" height="14" font="1">-</text>
+<text top="972" left="359" width="270" height="14" font="7"><i>(Sum of Items 4 and 5) (To Part V Schedule 3.A Item 14B)</i></text>
+<text top="993" left="64" width="344" height="14" font="0"><b>Schedule 6 - Computation of Net Operating Loss Carry Over (NOLCO)</b></text>
+<text top="1008" left="70" width="325" height="14" font="0"><b>  6.A – Computation of NOLCO                                                           </b></text>
+<text top="1020" left="240" width="58" height="14" font="0"><b>Description</b></text>
+<text top="1020" left="534" width="80" height="14" font="0"><b>A. Taxpayer/Filer</b></text>
+<text top="1020" left="729" width="47" height="14" font="0"><b>B. Spouse</b></text>
+<text top="1036" left="67" width="82" height="15" font="4"><b>1 </b>Gross Income </text>
+<text top="1058" left="67" width="243" height="15" font="4"><b>2</b> Less: Ordinary Allowable Itemized Deductions</text>
+<text top="1079" left="67" width="112" height="15" font="4"><b>3</b> Net Operating Loss</text>
+<text top="1080" left="182" width="286" height="13" font="5"><i>(Item 1 Less Item 2) (To Schedule 6.A.1 Item 7A &amp;/or Schedule 6.A.2  Item 12A)</i></text>
+<text top="1119" left="70" width="337" height="14" font="0"><b>  6.A.1 – Taxpayer/Filer’s Detailed Computation of Available NOLCO</b></text>
+<text top="1119" left="129" width="86" height="14" font="1">Net Operating Loss</text>
+<text top="1119" left="711" width="99" height="14" font="1">E. Net Operating Loss</text>
+<text top="1119" left="308" width="84" height="14" font="1">B. NOLCO Applied</text>
+<text top="1119" left="579" width="87" height="14" font="1">D. NOLCO Applied </text>
+<text top="1122" left="442" width="88" height="14" font="1">C. NOLCO Expired </text>
+<text top="1122" left="735" width="52" height="14" font="1">(Unapplied)</text>
+<text top="1128" left="315" width="73" height="14" font="1">Previous Year/s </text>
+<text top="1128" left="594" width="56" height="14" font="1">Current Year</text>
+<text top="1128" left="77" width="60" height="14" font="1">Year Incurred</text>
+<text top="1128" left="207" width="45" height="14" font="1">A. Amount</text>
+<text top="1135" left="724" width="76" height="12" font="5"><i>[(E)= A – (B+C+D)]</i></text>
+<text top="1203" left="88" width="149" height="15" font="6">Total NOLCO - Taxpayer/Filer</text>
+<text top="1204" left="69" width="6" height="14" font="0"><b>8</b></text>
+<text top="1205" left="241" width="259" height="13" font="5"><i>(Sum of Items 4D to 7D) (To Part V Schedule 3.A Item 15A)</i></text>
+<text top="1146" left="69" width="6" height="14" font="0"><b>4</b></text>
+<text top="1161" left="69" width="6" height="14" font="0"><b>5</b></text>
+<text top="1175" left="69" width="6" height="14" font="0"><b>6</b></text>
+<text top="1189" left="69" width="6" height="14" font="0"><b>7</b></text>
+<text top="121" left="69" width="147" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="121" left="324" width="106" height="15" font="6">S A N T O S</text>
+<text top="173" left="638" width="7" height="15" font="6">0</text>
+<text top="173" left="818" width="7" height="15" font="6">0</text>
+<text top="209" left="85" width="230" height="15" font="6">INTEREST INCOME LONG DESCRIPTION</text>
+<text top="209" left="638" width="7" height="15" font="6">0</text>
+<text top="209" left="818" width="7" height="15" font="6">0</text>
+<text top="230" left="638" width="7" height="15" font="6">0</text>
+<text top="230" left="818" width="7" height="15" font="6">0</text>
+<text top="253" left="638" width="7" height="15" font="6">0</text>
+<text top="253" left="818" width="7" height="15" font="6">0</text>
+<text top="277" left="638" width="7" height="15" font="6">0</text>
+<text top="277" left="818" width="7" height="15" font="6">0</text>
+<text top="297" left="638" width="7" height="15" font="6">0</text>
+<text top="297" left="818" width="7" height="15" font="6">0</text>
+<text top="321" left="638" width="7" height="15" font="6">0</text>
+<text top="321" left="818" width="7" height="15" font="6">0</text>
+<text top="360" left="572" width="76" height="15" font="6">1,156,942,024</text>
+<text top="360" left="754" width="76" height="15" font="6">1,156,942,024</text>
+<text top="381" left="636" width="7" height="15" font="6">0</text>
+<text top="381" left="676" width="149" height="15" font="6">2 0 0 0 0 0 0 1</text>
+<text top="402" left="636" width="7" height="15" font="6">0</text>
+<text top="402" left="818" width="7" height="15" font="6">0</text>
+<text top="423" left="636" width="7" height="15" font="6">0</text>
+<text top="423" left="818" width="7" height="15" font="6">0</text>
+<text top="444" left="636" width="7" height="15" font="6">0</text>
+<text top="444" left="818" width="7" height="15" font="6">0</text>
+<text top="465" left="636" width="7" height="15" font="6">0</text>
+<text top="465" left="818" width="7" height="15" font="6">0</text>
+<text top="486" left="636" width="7" height="15" font="6">0</text>
+<text top="486" left="818" width="7" height="15" font="6">0</text>
+<text top="507" left="636" width="7" height="15" font="6">0</text>
+<text top="507" left="818" width="7" height="15" font="6">0</text>
+<text top="528" left="636" width="7" height="15" font="6">0</text>
+<text top="528" left="818" width="7" height="15" font="6">0</text>
+<text top="549" left="636" width="7" height="15" font="6">0</text>
+<text top="549" left="818" width="7" height="15" font="6">0</text>
+<text top="570" left="636" width="7" height="15" font="6">0</text>
+<text top="570" left="818" width="7" height="15" font="6">0</text>
+<text top="591" left="636" width="7" height="15" font="6">0</text>
+<text top="591" left="818" width="7" height="15" font="6">0</text>
+<text top="612" left="636" width="7" height="15" font="6">0</text>
+<text top="612" left="818" width="7" height="15" font="6">0</text>
+<text top="633" left="636" width="7" height="15" font="6">0</text>
+<text top="633" left="818" width="7" height="15" font="6">0</text>
+<text top="654" left="636" width="7" height="15" font="6">0</text>
+<text top="654" left="818" width="7" height="15" font="6">0</text>
+<text top="675" left="636" width="7" height="15" font="6">0</text>
+<text top="675" left="818" width="7" height="15" font="6">0</text>
+<text top="709" left="636" width="7" height="15" font="6">0</text>
+<text top="709" left="818" width="7" height="15" font="6">0</text>
+<text top="732" left="636" width="7" height="15" font="6">0</text>
+<text top="732" left="818" width="7" height="15" font="6">0</text>
+<text top="755" left="636" width="7" height="15" font="6">0</text>
+<text top="755" left="696" width="129" height="15" font="6">1 0 0 0 0 0 0</text>
+<text top="778" left="101" width="351" height="15" font="6">MISCELLANEOUS LONG ITEMIZED DEDUCTION DESCRIPTION</text>
+<text top="778" left="636" width="7" height="15" font="6">0</text>
+<text top="778" left="818" width="7" height="15" font="6">0</text>
+<text top="801" left="572" width="76" height="15" font="6">1,156,942,024</text>
+<text top="801" left="754" width="76" height="15" font="6">1,177,942,025</text>
+<text top="853" left="84" width="245" height="15" font="6">SPECIAL DEDUCTION LONG DESCRIPTION</text>
+<text top="853" left="479" width="154" height="15" font="6">RA 123456789 LONG BASIS</text>
+<text top="852" left="720" width="105" height="15" font="6">5 0 0 0 0 0</text>
+<text top="873" left="818" width="7" height="15" font="6">0</text>
+<text top="894" left="720" width="105" height="15" font="6">5 0 0 0 0 0</text>
+<text top="930" left="84" width="298" height="15" font="6">SPOUSE SPECIAL DEDUCTION LONG DESCRIPTION</text>
+<text top="930" left="479" width="154" height="15" font="6">RA 987654321 LONG BASIS</text>
+<text top="929" left="720" width="105" height="15" font="6">4 0 0 0 0 0</text>
+<text top="950" left="818" width="7" height="15" font="6">0</text>
+<text top="971" left="720" width="105" height="15" font="6">4 0 0 0 0 0</text>
+<text top="1037" left="641" width="7" height="15" font="6">0</text>
+<text top="1037" left="818" width="7" height="15" font="6">0</text>
+<text top="1058" left="641" width="7" height="15" font="6">0</text>
+<text top="1058" left="818" width="7" height="15" font="6">0</text>
+<text top="1078" left="641" width="7" height="15" font="6">0</text>
+<text top="1078" left="818" width="7" height="15" font="6">0</text>
+<text top="1146" left="82" width="26" height="15" font="6">2022</text>
+<text top="1146" left="218" width="65" height="15" font="6">100,000,000</text>
+<text top="1146" left="357" width="59" height="15" font="6">10,000,000</text>
+<text top="1146" left="544" width="7" height="15" font="6">0</text>
+<text top="1146" left="632" width="59" height="15" font="6">20,000,000</text>
+<text top="1146" left="769" width="59" height="15" font="6">70,000,000</text>
+<text top="1161" left="277" width="6" height="15" font="6">0</text>
+<text top="1161" left="409" width="6" height="15" font="6">0</text>
+<text top="1161" left="544" width="6" height="15" font="6">0</text>
+<text top="1161" left="684" width="6" height="15" font="6">0</text>
+<text top="1161" left="821" width="6" height="15" font="6">0</text>
+<text top="1176" left="277" width="6" height="15" font="6">0</text>
+<text top="1176" left="409" width="6" height="15" font="6">0</text>
+<text top="1176" left="544" width="6" height="15" font="6">0</text>
+<text top="1176" left="684" width="6" height="15" font="6">0</text>
+<text top="1176" left="821" width="6" height="15" font="6">0</text>
+<text top="1188" left="277" width="7" height="15" font="6">0</text>
+<text top="1188" left="409" width="7" height="15" font="6">0</text>
+<text top="1188" left="544" width="7" height="15" font="6">0</text>
+<text top="1188" left="684" width="7" height="15" font="6">0</text>
+<text top="1188" left="821" width="7" height="15" font="6">0</text>
+<text top="1204" left="634" width="56" height="15" font="6">20,000,000</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="38" left="88" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="50" left="260" width="264" height="27" font="19"><b>Annual Income Tax Return </b></text>
+<text top="50" left="96" width="48" height="28" font="19"><b>1701</b></text>
+<text top="74" left="211" width="363" height="15" font="4"><b>Individuals (including MIXED Income Earner), Estates and Trusts</b></text>
+<text top="76" left="69" width="102" height="14" font="1">January 2018 (ENCS) </text>
+<text top="87" left="731" width="96" height="14" font="1">1701 01/18ENCS P4 </text>
+<text top="88" left="103" width="34" height="14" font="0"><b>Page 4</b></text>
+<text top="102" left="70" width="17" height="14" font="0"><b>TIN</b></text>
+<text top="102" left="325" width="107" height="14" font="0"><b>Tax Filer’s Last Name </b></text>
+<text top="115" left="226" width="86" height="21" font="8"><b>0  0  0  0  0</b></text>
+<text top="138" left="70" width="142" height="14" font="13"><i><b>(Continuation of Schedule 6)  </b></i></text>
+<text top="152" left="70" width="304" height="14" font="0"><b>  6.A.2 – Spouse’s Detailed Computation of Available NOLCO</b></text>
+<text top="166" left="129" width="86" height="14" font="1">Net Operating Loss</text>
+<text top="166" left="711" width="99" height="14" font="1">E. Net Operating Loss</text>
+<text top="171" left="308" width="84" height="14" font="1">B. NOLCO Applied</text>
+<text top="171" left="579" width="87" height="14" font="1">D. NOLCO Applied </text>
+<text top="177" left="442" width="88" height="14" font="1">C. NOLCO Expired </text>
+<text top="178" left="736" width="52" height="14" font="1">(Unapplied)</text>
+<text top="183" left="315" width="73" height="14" font="1">Previous Year/s </text>
+<text top="183" left="594" width="56" height="14" font="1">Current Year</text>
+<text top="183" left="77" width="60" height="14" font="1">Year Incurred</text>
+<text top="183" left="194" width="45" height="14" font="1">A. Amount</text>
+<text top="190" left="724" width="76" height="12" font="5"><i>[(E)= A – (B+C+D)]</i></text>
+<text top="259" left="65" width="139" height="15" font="4"><b>13 </b>Total NOLCO - Spouse</text>
+<text top="260" left="207" width="265" height="13" font="5"><i>(Sum of Items 9D to 12D) (To Part V Schedule 3.A Item 15B)</i></text>
+<text top="277" left="348" width="196" height="14" font="0"><b>PART VI – Summary of Income Tax Due</b></text>
+<text top="294" left="66" width="173" height="15" font="4"><b>1</b> Regular Rate–Income Tax Due</text>
+<text top="295" left="243" width="184" height="14" font="7"><i>(From Part V, Either Item 25 or Item 32)</i></text>
+<text top="314" left="66" width="174" height="15" font="4"><b>2</b> Special Rate–Income Tax Due </text>
+<text top="315" left="240" width="130" height="14" font="7"><i>(From Part X Item 17B/17F)</i></text>
+<text top="333" left="66" width="234" height="15" font="4"><b>3</b> Less: Share of Other Government Agency,</text>
+<text top="334" left="303" width="148" height="14" font="7"><i>if remitted directly to the Agency</i></text>
+<text top="353" left="172" width="172" height="15" font="6">Income Tax Due/Share of National Govt</text>
+<text top="353" left="66" width="105" height="15" font="4"><b>4 </b>Net Special Rate–</text>
+<text top="353" left="344" width="3" height="15" font="6">.</text>
+<text top="354" left="350" width="75" height="14" font="7"><i>(Item 2 Less Item 3)</i></text>
+<text top="372" left="66" width="126" height="15" font="4"><b>5</b> Total Income Tax Due</text>
+<text top="373" left="196" width="188" height="14" font="7"><i>(Sum of Items 1 &amp; 4) (To Part II Item 22)</i></text>
+<text top="394" left="327" width="233" height="14" font="0"><b>PART VII - Tax Credits/Payments <i>(attach proof)</i></b></text>
+<text top="410" left="66" width="152" height="15" font="4"><b>1 </b>Prior Year’s Excess Credits </text>
+<text top="430" left="66" width="245" height="15" font="4"><b>2</b> Tax Payments for the First Three (3) Quarters</text>
+<text top="449" left="66" width="299" height="15" font="4"><b>3 </b>Creditable Tax Withheld for the First Three (3) Quarters </text>
+<text top="469" left="375" width="7" height="10" font="16">th</text>
+<text top="469" left="66" width="357" height="15" font="4"><b>4 </b>Creditable Tax Withheld per BIR Form No. 2307 for the 4 Quarter</text>
+<text top="488" left="76" width="207" height="15" font="6">Creditable Tax Withheld per BIR Form No. 2316</text>
+<text top="488" left="66" width="7" height="15" font="4"><b>5</b></text>
+<text top="490" left="286" width="173" height="13" font="5"><i>(From Part V Schedule 1 Item 3Ad/3Bd) </i></text>
+<text top="508" left="66" width="345" height="15" font="4"><b>6</b> Tax Paid in Return Previously Filed, if this is an Amended Return</text>
+<text top="527" left="66" width="121" height="15" font="4"><b>7</b> Foreign Tax Credits, </text>
+<text top="529" left="187" width="56" height="14" font="7"><i>if applicable</i></text>
+<text top="547" left="66" width="116" height="15" font="4"><b>8 </b>Special Tax Credits,</text>
+<text top="548" left="186" width="151" height="14" font="7"><i>if applicable (To Part VIII Item 6)</i></text>
+<text top="566" left="66" width="163" height="15" font="4"><b>9</b> Other Tax Credits/Payments </text>
+<text top="568" left="229" width="37" height="13" font="5"><i>(specify)</i></text>
+<text top="605" left="66" width="166" height="15" font="4"><b>10</b> Total Tax Credits/Payments </text>
+<text top="606" left="232" width="190" height="14" font="7"><i>(Sum of Items 1 to 9) (To Part II Item 23)</i></text>
+<text top="626" left="366" width="160" height="14" font="0"><b>PART VIII – Tax Relief Availment</b></text>
+<text top="640" left="77" width="101" height="14" font="0"><b>VIII.A – Special Rate</b></text>
+<text top="656" left="67" width="7" height="15" font="4"><b>1</b></text>
+<text top="658" left="77" width="137" height="14" font="1">Regular Income Tax Otherwise Due</text>
+<text top="658" left="218" width="241" height="13" font="5"><i>(Part X Item 16B &amp;/or Item 16F X applicable regular income tax rate)</i></text>
+<text top="673" left="327" width="116" height="13" font="5"><i>(Part X Item 7B and/or Item 7F X  </i></text>
+<text top="677" left="74" width="229" height="15" font="6"> Tax Relief on Special Allowable Itemized Deductions</text>
+<text top="677" left="67" width="7" height="15" font="4"><b>2</b></text>
+<text top="685" left="327" width="118" height="12" font="11">  applicable r<i>egular income tax rate)</i></text>
+<text top="698" left="68" width="131" height="15" font="4"><b>3 </b>Sub-Total – Tax Relief </text>
+<text top="700" left="199" width="107" height="14" font="7"><i>(Sum of Items 1 and 2)</i></text>
+<text top="718" left="68" width="128" height="15" font="4"><b>4</b> Less: Income Tax Due</text>
+<text top="719" left="200" width="186" height="14" font="7"><i>(From Part X Item 17B and/or Item 17F)</i></text>
+<text top="737" left="68" width="260" height="15" font="4"><b>5 </b>Tax Relief Availment Before Special Tax Credit </text>
+<text top="739" left="328" width="94" height="14" font="7"><i>(Item 3 Less Item 4)</i></text>
+<text top="757" left="68" width="172" height="15" font="4"><b>6</b> Add: Special Tax Credit, if any </text>
+<text top="758" left="240" width="102" height="14" font="7"><i>(From Part VII Item 8)</i></text>
+<text top="776" left="68" width="209" height="15" font="4"><b>7</b> Total Tax Relief Availment- SPECIAL </text>
+<text top="778" left="277" width="107" height="14" font="7"><i>(Sum of Items 5 and 6)</i></text>
+<text top="798" left="77" width="76" height="14" font="0"><b>VIII.B – Exempt</b></text>
+<text top="814" left="77" width="154" height="15" font="6">Regular Income Tax Otherwise Due</text>
+<text top="814" left="67" width="7" height="15" font="4"><b>8</b></text>
+<text top="816" left="234" width="226" height="13" font="5"><i>(Part X Item 16A &amp;/or 16E X applicable regular income tax rate) </i></text>
+<text top="831" left="327" width="117" height="13" font="5"><i>(Part X Item 7A and/or Item 7E X </i></text>
+<text top="835" left="74" width="229" height="15" font="6"> Tax Relief on Special Allowable Itemized Deductions</text>
+<text top="835" left="67" width="7" height="15" font="4"><b>9</b></text>
+<text top="843" left="326" width="116" height="12" font="11"> applicable r<i>egular income tax rate)</i></text>
+<text top="856" left="68" width="214" height="15" font="4"><b>10 </b>Total Tax Relief Availment- EXEMPT </text>
+<text top="857" left="282" width="107" height="14" font="7"><i>(Sum of Items 8 and 9)</i></text>
+<text top="878" left="177" width="376" height="14" font="0"><b>PART IX – Reconciliation of Net Income per Books Against Taxable Income</b></text>
+<text top="879" left="556" width="158" height="12" font="5"><i>(Attach additional sheet/s, if necessary)</i></text>
+<text top="892" left="240" width="55" height="14" font="0"><b>Particulars</b></text>
+<text top="892" left="533" width="80" height="14" font="0"><b>A. Taxpayer/Filer</b></text>
+<text top="892" left="727" width="47" height="14" font="0"><b>B.  Spouse</b></text>
+<text top="907" left="70" width="163" height="15" font="4"><b>1</b> Net Income/(Loss) per Books</text>
+<text top="924" left="65" width="252" height="14" font="1"> Add: Non-Deductible Expenses/Taxable Other Income</text>
+<text top="998" left="69" width="36" height="15" font="4"><b>5 </b>Total</text>
+<text top="1000" left="108" width="92" height="13" font="5"><i>(Sum of Items 1 to 4)</i></text>
+<text top="1015" left="70" width="305" height="14" font="1">Less: A) Non-Taxable Income and Income Subjected to Final Tax</text>
+<text top="1030" left="70" width="7" height="15" font="4"><b>6</b></text>
+<text top="1050" left="69" width="7" height="15" font="4"><b>7</b></text>
+<text top="1067" left="70" width="207" height="14" font="1">         B) Special/Other Allowable Deductions</text>
+<text top="1082" left="69" width="7" height="15" font="4"><b>8</b></text>
+<text top="1110" left="69" width="7" height="15" font="4"><b>9</b></text>
+<text top="1121" left="68" width="43" height="15" font="4"><b>10 </b>Total</text>
+<text top="1123" left="114" width="92" height="13" font="5"><i>(Sum of Items 6 to 9)</i></text>
+<text top="1140" left="68" width="167" height="15" font="4"><b>11 Net Taxable Income/(Loss)</b></text>
+<text top="1142" left="238" width="93" height="13" font="5"><i>(Item 5 Less Item 10)</i></text>
+<text top="202" left="69" width="6" height="15" font="4"><b>9</b></text>
+<text top="216" left="65" width="12" height="15" font="4"><b>10</b></text>
+<text top="230" left="65" width="12" height="15" font="4"><b>11</b></text>
+<text top="244" left="65" width="12" height="15" font="4"><b>12</b></text>
+<text top="940" left="70" width="7" height="15" font="4"><b>2</b></text>
+<text top="959" left="70" width="7" height="15" font="4"><b>3</b></text>
+<text top="979" left="70" width="7" height="15" font="4"><b>4</b></text>
+<text top="118" left="69" width="147" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="118" left="324" width="106" height="15" font="6">S A N T O S</text>
+<text top="201" left="82" width="26" height="15" font="6">2023</text>
+<text top="201" left="225" width="59" height="15" font="6">30,000,000</text>
+<text top="201" left="357" width="59" height="15" font="6">10,000,000</text>
+<text top="201" left="544" width="7" height="15" font="6">0</text>
+<text top="201" left="632" width="59" height="15" font="6">15,000,000</text>
+<text top="201" left="777" width="52" height="15" font="6">5,000,000</text>
+<text top="217" left="277" width="6" height="15" font="6">0</text>
+<text top="217" left="409" width="6" height="15" font="6">0</text>
+<text top="217" left="544" width="6" height="15" font="6">0</text>
+<text top="217" left="684" width="6" height="15" font="6">0</text>
+<text top="217" left="822" width="6" height="15" font="6">0</text>
+<text top="230" left="277" width="7" height="15" font="6">0</text>
+<text top="230" left="409" width="7" height="15" font="6">0</text>
+<text top="230" left="544" width="7" height="15" font="6">0</text>
+<text top="230" left="684" width="7" height="15" font="6">0</text>
+<text top="230" left="822" width="7" height="15" font="6">0</text>
+<text top="246" left="277" width="6" height="15" font="6">0</text>
+<text top="246" left="409" width="6" height="15" font="6">0</text>
+<text top="246" left="544" width="6" height="15" font="6">0</text>
+<text top="246" left="684" width="6" height="15" font="6">0</text>
+<text top="246" left="822" width="6" height="15" font="6">0</text>
+<text top="259" left="631" width="59" height="15" font="6">15,000,000</text>
+<text top="294" left="638" width="7" height="15" font="6">0</text>
+<text top="294" left="819" width="7" height="15" font="6">0</text>
+<text top="313" left="638" width="7" height="15" font="6">0</text>
+<text top="313" left="819" width="7" height="15" font="6">0</text>
+<text top="333" left="638" width="7" height="15" font="6">0</text>
+<text top="333" left="819" width="7" height="15" font="6">0</text>
+<text top="353" left="638" width="7" height="15" font="6">0</text>
+<text top="353" left="819" width="7" height="15" font="6">0</text>
+<text top="373" left="638" width="7" height="15" font="6">0</text>
+<text top="373" left="819" width="7" height="15" font="6">0</text>
+<text top="410" left="519" width="126" height="15" font="6">1 0 0 0 0 0 0</text>
+<text top="410" left="698" width="128" height="15" font="6">2 0 0 0 0 0 0</text>
+<text top="430" left="519" width="126" height="15" font="6">2 0 0 0 0 0 1</text>
+<text top="430" left="698" width="128" height="15" font="6">3 0 0 0 0 0 1</text>
+<text top="450" left="481" width="345" height="15" font="6">1 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0</text>
+<text top="469" left="638" width="7" height="15" font="6">0</text>
+<text top="469" left="819" width="7" height="15" font="6">0</text>
+<text top="488" left="558" width="86" height="15" font="6">7 6 5 4 3</text>
+<text top="488" left="740" width="86" height="15" font="6">1 2 3 4 6</text>
+<text top="508" left="638" width="7" height="15" font="6">0</text>
+<text top="508" left="819" width="7" height="15" font="6">0</text>
+<text top="528" left="638" width="7" height="15" font="6">0</text>
+<text top="528" left="819" width="7" height="15" font="6">0</text>
+<text top="547" left="638" width="7" height="15" font="6">0</text>
+<text top="547" left="819" width="7" height="15" font="6">0</text>
+<text top="566" left="638" width="7" height="15" font="6">0</text>
+<text top="566" left="819" width="7" height="15" font="6">0</text>
+<text top="605" left="481" width="345" height="15" font="6">1 0 3 0 7 6 5 4 4 2 0 5 0 1 2 3 4 6</text>
+<text top="656" left="638" width="7" height="15" font="6">0</text>
+<text top="656" left="819" width="7" height="15" font="6">0</text>
+<text top="677" left="638" width="7" height="15" font="6">0</text>
+<text top="677" left="819" width="7" height="15" font="6">0</text>
+<text top="699" left="638" width="7" height="15" font="6">0</text>
+<text top="699" left="819" width="7" height="15" font="6">0</text>
+<text top="718" left="638" width="7" height="15" font="6">0</text>
+<text top="718" left="819" width="7" height="15" font="6">0</text>
+<text top="737" left="638" width="7" height="15" font="6">0</text>
+<text top="737" left="819" width="7" height="15" font="6">0</text>
+<text top="757" left="638" width="7" height="15" font="6">0</text>
+<text top="757" left="819" width="7" height="15" font="6">0</text>
+<text top="777" left="638" width="7" height="15" font="6">0</text>
+<text top="777" left="819" width="7" height="15" font="6">0</text>
+<text top="814" left="638" width="7" height="15" font="6">0</text>
+<text top="814" left="819" width="7" height="15" font="6">0</text>
+<text top="835" left="638" width="7" height="15" font="6">0</text>
+<text top="835" left="819" width="7" height="15" font="6">0</text>
+<text top="857" left="638" width="7" height="15" font="6">0</text>
+<text top="857" left="819" width="7" height="15" font="6">0</text>
+<text top="907" left="574" width="252" height="15" font="6">1,650,000,000 4 9 8 9 9 9 0 0 0</text>
+<text top="940" left="639" width="7" height="15" font="6">0</text>
+<text top="940" left="819" width="7" height="15" font="6">0</text>
+<text top="959" left="639" width="7" height="15" font="6">0</text>
+<text top="959" left="819" width="7" height="15" font="6">0</text>
+<text top="979" left="639" width="7" height="15" font="6">0</text>
+<text top="979" left="819" width="7" height="15" font="6">0</text>
+<text top="998" left="574" width="252" height="15" font="6">1,650,000,000 4 9 8 9 9 9 0 0 0</text>
+<text top="1030" left="639" width="7" height="15" font="6">0</text>
+<text top="1030" left="819" width="7" height="15" font="6">0</text>
+<text top="1050" left="639" width="7" height="15" font="6">0</text>
+<text top="1050" left="819" width="7" height="15" font="6">0</text>
+<text top="1082" left="639" width="7" height="15" font="6">0</text>
+<text top="1082" left="819" width="7" height="15" font="6">0</text>
+<text top="1101" left="639" width="7" height="15" font="6">0</text>
+<text top="1101" left="819" width="7" height="15" font="6">0</text>
+<text top="1121" left="639" width="7" height="15" font="6">0</text>
+<text top="1121" left="819" width="7" height="15" font="6">0</text>
+<text top="1142" left="574" width="252" height="15" font="6">1,650,000,000 4 9 8 9 9 9 0 0 0</text>
+<text top="582" left="68" width="521" height="15" font="6">SAMPLE ENTRY TXTPG4IPART7_9SPECIFY VERY LONG SPECIFY TEXT FOR ADDITIONAL SHEET</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="24" size="11" family="Times" color="#212121"/>
+	<fontspec id="25" size="9" family="Times" color="#444444"/>
+	<fontspec id="26" size="10" family="Times" color="#444444"/>
+	<fontspec id="27" size="12" family="Times" color="#000000"/>
+	<fontspec id="28" size="11" family="Times" color="#444444"/>
+	<fontspec id="29" size="11" family="Times" color="#333333"/>
+<text top="46" left="80" width="129" height="19" font="9"><b>BIR Form No. 1701</b></text>
+<text top="49" left="688" width="124" height="15" font="4"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="303" height="15" font="24">Annual Income Tax Return for Individuals, Estates and Trusts</text>
+<text top="86" left="80" width="275" height="13" font="25">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="26"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="1"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="26"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="1"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="125" height="14" font="1">VILLANUEVA OF TARLAC</text>
+<text top="111" left="698" width="73" height="14" font="26"><b>Return Period:</b></text>
+<text top="111" left="771" width="41" height="14" font="1"> 12/2025</text>
+<text top="169" left="80" width="190" height="16" font="27"><b>Entries continued from the form</b></text>
+<text top="170" left="565" width="247" height="15" font="28">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="194" left="104" width="27" height="15" font="4"><b>Page</b></text>
+<text top="194" left="160" width="59" height="15" font="4"><b>Item / Field</b></text>
+<text top="194" left="394" width="52" height="15" font="4"><b>Full Entry</b></text>
+<text top="217" left="99" width="36" height="15" font="29">Page 1</text>
+<text top="217" left="160" width="183" height="15" font="6">Item 34 — Cash/Bank Debit Memo,</text>
+<text top="231" left="160" width="113" height="15" font="6">Drawee Bank/Agency</text>
+<text top="217" left="394" width="138" height="15" font="6">BPI VERY LONG BRANCH</text>
+<text top="254" left="99" width="36" height="15" font="29">Page 1</text>
+<text top="254" left="160" width="209" height="15" font="6">Item 35 — Check, Drawee Bank/Agency</text>
+<text top="254" left="394" width="144" height="15" font="6">BDO VERY LONG BRANCH</text>
+<text top="276" left="99" width="36" height="15" font="29">Page 1</text>
+<text top="276" left="160" width="199" height="15" font="6">Item 37 — Others, Particulars (specify</text>
+<text top="290" left="160" width="35" height="15" font="6">below)</text>
+<text top="276" left="394" width="248" height="15" font="6">OTHER PAYMENT SPECIFY VERY LONG TEXT</text>
+<text top="313" left="99" width="36" height="15" font="29">Page 1</text>
+<text top="313" left="160" width="211" height="15" font="6">Item 37 — Others, Drawee Bank/Agency</text>
+<text top="313" left="394" width="210" height="15" font="6">MOBILE WALLET VERY LONG AGENCY</text>
+</page>
+</pdf2xml>

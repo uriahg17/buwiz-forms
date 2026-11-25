@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="9" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="10" family="Times" color="#000000"/>
+	<fontspec id="3" size="42" family="Times" color="#000000"/>
+	<fontspec id="4" size="28" family="Times" color="#000000"/>
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="8" family="Times" color="#000000"/>
+	<fontspec id="8" size="9" family="Times" color="#000000"/>
+	<fontspec id="9" size="7" family="Times" color="#000000"/>
+	<fontspec id="10" size="13" family="Times" color="#000000"/>
+<text top="37" left="63" width="96" height="12" font="0">(To be filled up the BIR)</text>
+<text top="55" left="82" width="25" height="14" font="1"><b>DLN:</b></text>
+<text top="55" left="593" width="26" height="14" font="1"><b>PSIC:</b></text>
+<text top="55" left="701" width="31" height="14" font="1"><b>PSOC:</b></text>
+<text top="77" left="689" width="63" height="13" font="2">BIR Form No.</text>
+<text top="80" left="682" width="99" height="56" font="3"><b>0605</b></text>
+<text top="86" left="376" width="205" height="37" font="4"><b>Payment Form</b></text>
+<text top="88" left="126" width="107" height="13" font="2">Republika ng Pilipinas</text>
+<text top="99" left="126" width="127" height="13" font="2">Kagawaran ng Pananalapi</text>
+<text top="110" left="126" width="186" height="17" font="5">Kawanihan ng Rentas Internas</text>
+<text top="127" left="685" width="85" height="13" font="2">July 1999 (ENCS)</text>
+<text top="168" left="64" width="350" height="15" font="6">Fill in all applicable spaces.  Mark all appropriate boxes with an &#34;X&#34;</text>
+<text top="193" left="82" width="176" height="14" font="2">  For the           Calendar           Fiscal</text>
+<text top="193" left="286" width="36" height="14" font="2">Quarter</text>
+<text top="193" left="446" width="134" height="14" font="2">Due Date ( MM / DD / YYYY)</text>
+<text top="193" left="720" width="27" height="14" font="2">A T C</text>
+<text top="194" left="425" width="6" height="14" font="1"><b>4</b></text>
+<text top="194" left="593" width="6" height="14" font="1"><b>5</b></text>
+<text top="194" left="701" width="6" height="14" font="1"><b>6</b></text>
+<text top="195" left="609" width="62" height="14" font="2">No. of Sheets</text>
+<text top="195" left="63" width="6" height="14" font="1"><b>1</b></text>
+<text top="195" left="268" width="6" height="14" font="1"><b>3</b></text>
+<text top="210" left="63" width="80" height="15" font="1"><b>2 </b>  Year Ended</text>
+<text top="211" left="609" width="40" height="14" font="2">Attached</text>
+<text top="226" left="82" width="69" height="14" font="2">(  MM / YYYY ) </text>
+<text top="226" left="286" width="14" height="14" font="2">1st</text>
+<text top="226" left="325" width="18" height="14" font="2">2nd</text>
+<text top="226" left="364" width="15" height="14" font="2">3rd</text>
+<text top="226" left="405" width="15" height="14" font="2">4th</text>
+<text top="241" left="82" width="163" height="14" font="2"> Return Period ( MM / DD / YYYY )</text>
+<text top="241" left="425" width="217" height="14" font="2"> BCS No./Item No. (To be filled up by the  BIR)</text>
+<text top="242" left="63" width="6" height="14" font="1"><b>7</b></text>
+<text top="243" left="268" width="91" height="14" font="1"><b>8 </b>Tax Type Code</text>
+<text top="302" left="63" width="441" height="14" font="1"><b>Part I                                                                           B a c k g r o u n d    I n f o r m a t i o n</b></text>
+<text top="322" left="63" width="147" height="14" font="1"><b>9 </b>Taxpayer Identification  No.</text>
+<text top="322" left="343" width="72" height="14" font="1"><b>10 </b>RDO Code</text>
+<text top="322" left="430" width="12" height="14" font="1"><b>11</b></text>
+<text top="322" left="577" width="148" height="14" font="1"><b>12 </b>Line of Business/Occupation</text>
+<text top="323" left="446" width="107" height="14" font="2">Taxpayer Classification</text>
+<text top="354" left="460" width="3" height="14" font="2">I</text>
+<text top="354" left="507" width="8" height="14" font="2">N</text>
+<text top="370" left="88" width="51" height="14" font="2">Taxpayer's</text>
+<text top="370" left="650" width="103" height="14" font="1"><b>14</b> Telephone Number</text>
+<text top="371" left="63" width="12" height="14" font="1"><b>13</b></text>
+<text top="386" left="91" width="28" height="14" font="2">Name</text>
+<text top="404" left="174" width="449" height="14" font="2">   (Last Name, First Name, Middle Name for Individuals) / (Registered Name for Non-Individuals)</text>
+<text top="422" left="88" width="51" height="14" font="2">Registered</text>
+<text top="422" left="66" width="12" height="14" font="1"><b>15</b></text>
+<text top="422" left="650" width="55" height="14" font="1"><b>16 </b>Zip Code</text>
+<text top="434" left="88" width="39" height="14" font="2">Address</text>
+<text top="458" left="300" width="110" height="14" font="1"><b>17 </b>Manner of Payment</text>
+<text top="458" left="669" width="96" height="14" font="1"><b>18 </b>Type of Payment</text>
+<text top="483" left="174" width="89" height="14" font="2">Voluntary Payment</text>
+<text top="483" left="405" width="136" height="14" font="2">Per Audit/Delinquent Account</text>
+<text top="483" left="683" width="49" height="14" font="2">Installment</text>
+<text top="500" left="100" width="80" height="14" font="2">Self-Assessment</text>
+<text top="500" left="425" width="210" height="14" font="2">Preliminary/Final Assessment/Deficiency Tax</text>
+<text top="500" left="683" width="80" height="14" font="2">No. of Installment</text>
+<text top="500" left="286" width="44" height="14" font="2">Penalties</text>
+<text top="516" left="100" width="145" height="14" font="2">Tax Deposit/Advance Payment</text>
+<text top="516" left="425" width="192" height="14" font="2">Accounts Receivable/Delinquent Account</text>
+<text top="516" left="683" width="28" height="14" font="2">Partial</text>
+<text top="532" left="100" width="149" height="14" font="2">Income Tax Second Installment</text>
+<text top="532" left="683" width="40" height="14" font="2">Payment</text>
+<text top="548" left="100" width="52" height="14" font="2">(Individual)</text>
+<text top="548" left="683" width="15" height="14" font="2">Full</text>
+<text top="565" left="100" width="76" height="14" font="2">Others (Specify)</text>
+<text top="565" left="683" width="40" height="14" font="2">Payment</text>
+<text top="591" left="63" width="406" height="14" font="1"><b>Part II                                                                          C o m p u t a t i o n   o f   T a x</b></text>
+<text top="620" left="559" width="12" height="14" font="1"><b>19</b></text>
+<text top="627" left="66" width="210" height="14" font="1"><b>19 </b>    Basic Tax / Deposit / Advance Payment</text>
+<text top="640" left="66" width="157" height="14" font="1"><b>20 </b>    Add: Penalties Surcharge</text>
+<text top="640" left="286" width="235" height="14" font="2">           Interest                                   Compromise</text>
+<text top="653" left="88" width="19" height="14" font="1"><b>20A</b></text>
+<text top="653" left="249" width="19" height="14" font="1"><b>20B</b></text>
+<text top="653" left="408" width="19" height="14" font="1"><b>20C</b></text>
+<text top="653" left="557" width="19" height="14" font="1"><b>20D</b></text>
+<text top="693" left="82" width="239" height="14" font="2">    Total Amount Payable  (Sum of Items 19 &amp; 20D)</text>
+<text top="693" left="66" width="12" height="14" font="1"><b>21</b></text>
+<text top="693" left="559" width="12" height="14" font="1"><b>21</b></text>
+<text top="721" left="230" width="115" height="14" font="1"><b>For Voluntary Payment</b></text>
+<text top="721" left="533" width="163" height="14" font="1"><b>For Payment of Deficiency Taxes</b></text>
+<text top="722" left="722" width="74" height="11" font="7"><b>Stamp of Receiving</b></text>
+<text top="735" left="552" width="125" height="14" font="1"><b>From Audit/Investigation/</b></text>
+<text top="736" left="750" width="24" height="12" font="8"><b>Office</b></text>
+<text top="749" left="563" width="103" height="14" font="1"><b>Delinquent Accounts</b></text>
+<text top="749" left="63" width="390" height="14" font="2">                       I declare, under the penalties of perjury, that this document has been</text>
+<text top="750" left="720" width="83" height="12" font="8"><b>and Date of Receipt</b></text>
+<text top="763" left="63" width="387" height="14" font="2">                made in good faith, verified by me, and to the  best of my knowledge and</text>
+<text top="763" left="514" width="83" height="14" font="2">  APPROVED BY:</text>
+<text top="777" left="63" width="385" height="14" font="2">                belief, is true and correct,  pursuant  to  the  provisions  of  the   National</text>
+<text top="791" left="63" width="384" height="14" font="2">                Internal Revenue Code, as amended, and  the  regulations issued under</text>
+<text top="805" left="63" width="127" height="14" font="2">                authority thereof.</text>
+<text top="855" left="514" width="19" height="14" font="1"><b>22B</b></text>
+<text top="856" left="63" width="17" height="12" font="8"><b>22A</b></text>
+<text top="869" left="63" width="300" height="12" font="0">        Signature over Printed Name of Taxpayer /Authorized Representative</text>
+<text top="869" left="387" width="109" height="12" font="0">   Title/Position of Signatory</text>
+<text top="869" left="521" width="186" height="12" font="0">Signature over Printed Name of Head of Office</text>
+<text top="894" left="63" width="396" height="14" font="1"><b>Part III                                                                          D e t a i l s   of   P a y m e n t</b></text>
+<text top="918" left="64" width="50" height="14" font="2">Particulars</text>
+<text top="918" left="137" width="110" height="14" font="2">   Drawee Bank/Agency</text>
+<text top="918" left="305" width="38" height="14" font="2">Number</text>
+<text top="918" left="411" width="18" height="14" font="2">MM</text>
+<text top="918" left="446" width="15" height="14" font="2">DD</text>
+<text top="918" left="483" width="26" height="14" font="2">YYYY</text>
+<text top="918" left="663" width="34" height="14" font="2">Amount</text>
+<text top="935" left="63" width="66" height="14" font="1"><b>23 </b>Cash/Bank</text>
+<text top="937" left="547" width="12" height="14" font="1"><b>23</b></text>
+<text top="952" left="82" width="57" height="14" font="2">Debit Memo</text>
+<text top="973" left="121" width="19" height="14" font="1"><b>24A</b></text>
+<text top="973" left="250" width="19" height="14" font="1"><b>24B</b></text>
+<text top="973" left="364" width="19" height="14" font="1"><b>24C</b></text>
+<text top="973" left="547" width="19" height="14" font="1"><b>24D</b></text>
+<text top="987" left="63" width="45" height="14" font="1"><b>24 </b>Check</text>
+<text top="1008" left="250" width="19" height="14" font="1"><b>25A</b></text>
+<text top="1008" left="364" width="19" height="14" font="1"><b>25B</b></text>
+<text top="1008" left="547" width="19" height="14" font="1"><b>25C</b></text>
+<text top="1008" left="63" width="56" height="14" font="1"><b>25 </b>Tax Debit</text>
+<text top="1021" left="82" width="29" height="14" font="2">Memo</text>
+<text top="1040" left="121" width="19" height="14" font="1"><b>26A</b></text>
+<text top="1040" left="250" width="19" height="14" font="1"><b>26B</b></text>
+<text top="1040" left="364" width="19" height="14" font="1"><b>26C</b></text>
+<text top="1040" left="547" width="19" height="14" font="1"><b>26D</b></text>
+<text top="1053" left="63" width="46" height="14" font="1"><b>26 </b>Others</text>
+<text top="1070" left="63" width="365" height="14" font="2">Machine Validation/Revenue Official Receipt Details (If not filed with the bank)</text>
+<text top="1157" left="63" width="85" height="10" font="9">Taxpayer Classification:</text>
+<text top="1157" left="174" width="43" height="10" font="9">I - Individual</text>
+<text top="1157" left="248" width="64" height="10" font="9">N - Non-Individual</text>
+<text top="195" left="131" width="7" height="13" font="2">X</text>
+<text top="216" left="157" width="98" height="18" font="10">1 2 2 0 2 5</text>
+<text top="212" left="407" width="7" height="13" font="2">X</text>
+<text top="216" left="450" width="133" height="18" font="10">0 1 3 1 2 0 2 6</text>
+<text top="216" left="661" width="27" height="18" font="10">0 1</text>
+<text top="216" left="746" width="36" height="18" font="10">FP010</text>
+<text top="263" left="103" width="152" height="18" font="10">1 2 3 1 2 0 2 5</text>
+<text top="264" left="328" width="29" height="18" font="10">D O</text>
+<text top="343" left="87" width="37" height="18" font="10">0 0 0</text>
+<text top="343" left="148" width="37" height="18" font="10">1 2 3</text>
+<text top="343" left="210" width="37" height="18" font="10">4 5 3</text>
+<text top="343" left="268" width="66" height="18" font="10">0 0 0 0 0</text>
+<text top="343" left="370" width="44" height="18" font="10">0 3 9</text>
+<text top="343" left="474" width="10" height="18" font="10">X</text>
+<text top="339" left="595" width="163" height="15" font="6">INDEPENDENT PRINT LAYOUT</text>
+<text top="350" left="595" width="203" height="15" font="6">VERIFICATION SERVICES AND CONS...</text>
+<text top="372" left="166" width="467" height="15" font="6">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="384" left="166" width="419" height="15" font="6">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="389" left="669" width="65" height="15" font="6">09171234567</text>
+<text top="425" left="732" width="64" height="18" font="10">1 2 2 9</text>
+<text top="423" left="157" width="462" height="15" font="6">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ</text>
+<text top="433" left="157" width="438" height="15" font="6">AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="483" left="667" width="8" height="15" font="6">X</text>
+<text top="561" left="85" width="9" height="16" font="5">X</text>
+<text top="618" left="716" width="76" height="18" font="10">9,876,543 21</text>
+<text top="656" left="726" width="66" height="18" font="10">361,481 45</text>
+<text top="657" left="178" width="66" height="18" font="10">123,456 78</text>
+<text top="658" left="333" width="66" height="18" font="10">234,567 89</text>
+<text top="658" left="499" width="52" height="18" font="10">3,456 78</text>
+<text top="689" left="709" width="83" height="18" font="10">10,238,024 66</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="11" size="14" family="Times" color="#000000"/>
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+	<fontspec id="13" size="11" family="Times" color="#212121"/>
+	<fontspec id="14" size="9" family="Times" color="#444444"/>
+	<fontspec id="15" size="10" family="Times" color="#444444"/>
+	<fontspec id="16" size="12" family="Times" color="#000000"/>
+	<fontspec id="17" size="11" family="Times" color="#444444"/>
+	<fontspec id="18" size="11" family="Times" color="#333333"/>
+<text top="46" left="80" width="129" height="19" font="11"><b>BIR Form No. 0605</b></text>
+<text top="49" left="688" width="124" height="15" font="12"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="73" height="15" font="13">Payment Form</text>
+<text top="86" left="80" width="275" height="13" font="14">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="15"><b>TIN:</b></text>
+<text top="111" left="101" width="95" height="14" font="2"> 000-123-453-00000</text>
+<text top="111" left="285" width="89" height="14" font="15"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="188" height="14" font="2"> SANTOS, JUANA MARIE DELA CRUZ-</text>
+<text top="124" left="285" width="300" height="14" font="2">VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH</text>
+<text top="137" left="285" width="282" height="14" font="2">MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW</text>
+<text top="150" left="285" width="46" height="14" font="2">TESTING</text>
+<text top="111" left="713" width="73" height="14" font="15"><b>Return Period:</b></text>
+<text top="111" left="786" width="26" height="14" font="2"> 2025</text>
+<text top="194" left="80" width="190" height="16" font="16"><b>Entries continued from the form</b></text>
+<text top="195" left="565" width="247" height="15" font="17">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="220" left="104" width="27" height="15" font="12"><b>Page</b></text>
+<text top="220" left="160" width="59" height="15" font="12"><b>Item / Field</b></text>
+<text top="220" left="394" width="52" height="15" font="12"><b>Full Entry</b></text>
+<text top="243" left="99" width="36" height="15" font="18">Page 1</text>
+<text top="243" left="160" width="208" height="15" font="6">Item 12 — Line of Business/Occupation</text>
+<text top="243" left="394" width="390" height="15" font="6">INDEPENDENT PRINT LAYOUT VERIFICATION SERVICES AND CONSULT</text>
+</page>
+</pdf2xml>

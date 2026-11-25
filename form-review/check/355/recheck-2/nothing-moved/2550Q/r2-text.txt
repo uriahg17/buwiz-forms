@@ -1,0 +1,171 @@
+                                                                                                Republic of the Philippines
+For BIR BCS/                                                                                      Department of Finance
+Use Only Item:                                                                                  Bureau of Internal Revenue
+       BIR Form No.
+                                                         Quarterly Value-Added Tax
+    2550Q
+     April 2024 (ENCS)
+                                                                           (VAT) Return
+                                          Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes
+            Page 1                              with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.                                                                  2550Q 04/24ENCS P1
+ 1 For the X Calendar              Fiscal 2 Year Ended (MM/YYYY) 1 2 2 0 2 5 3 Quarter X 1st                          2nd        3rd   4th
+ 4 Return Period (MM/DD/YYYY)                                                    5 Amended Return?           6 Short Period Return?
+   From 0 1 0 1 2 0 2 5 To 0 3 3 1 2 0 2 5                                                   Yes X No                   Yes       X No
+                                                       Part I – Background Information
+ 7 Taxpayer Identification Number (TIN)                0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 8 RDO Code 0 3 9
+ 9 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+10 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI                                                                                                                         10A ZIP Code 1 1 0 0
+ 11 Contact Number (Landline/Cellphone No.) 12 Email Address
+0 9 1 7 1 2 3 4 5 6 7                                       juana.santos.independent.print.check@example.com
+ 13 Taxpayer Classification                    Micro                      X Small                               Medium                                 Large
+ 14 Are you availing of tax relief under
+    Special Law or International Tax Treaty?                              Yes X No 14A If yes, specify
+                                                                                Part II – Total Tax Payable
+ 15 Net VAT Payable/(Excess Input Tax) (From Part IV, Item 61)                                                                                                                           . 0 5
+                                                                                                                                                                                3 6 8 7 1 6
+    Less: Tax Credits/Payments
+ 16 Creditable VAT Withheld (From Part V - Schedule 3, Column D)                                                                                                             1 2 3 4 5 6 . 7 8
+ 17 Advance VAT Payments (From Part V - Schedule 4)                                                                                                                          2 3 4 5 6 7 . 8 9
+ 18 VAT paid in return previously filed, if this is an amended return                                                                                                                  0 . 0 0
+ 19 Other Credits/Payment (Specify)                                                                                                                                        2 0 0 0 0 0 0 . 0 0
+ SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+ 20 Total Tax Credits/Payment (Sum of Items 16 to 19)                                                                                                                      2 3 5 8 0 2 4 . 6 7
+ 21 Tax Still Payable/(Excess Credits) (Item 15 Less Item 20)                                                                                                                         (1,989,308.62)
+    Add: Penalties 22 Surcharge                                                                                                                                                1 2 3 4 5 . 6 7
+                     23 Interest                                                                                                                                               2 3 4 5 6 . 7 8
+                     24 Compromise                                                                                                                                               3 4 5 6 . 8 9
+                     25 Total Penalties (Sum of Items 22 to 24)                                                                                                                3 9 2 5 9 . 3 4
+ 26 TOTAL AMOUNT PAYABLE/(Excess Credits) (Sum of Items 21 and 25)                                                                                                             3 9 2 5 9 . 3 4
+      I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our
+ knowledge and belief, is true and correct pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority
+ thereof. Further, I/we give my/our consent to the processing of my/our information as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate
+ and lawful purposes. (If Authorized Representative, attach authorization letter and indicate TIN)
+ For Individual:                                                                                                        For Non-Individual:
+
+
+
+ Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent                                                Signature over Printed Name of President/Vice President/Authorized
+                                     (Indicate Title/Designation and TIN)                                                   Officer or Representative/Tax Agent (Indicate Title/Designation and TIN)
+  Tax Agent Accreditation No./                                                                             Date of Issue                                                 Expiry Date
+ Attorney’s Roll No. (If applicable)                                                                       (MM/DD/YYYY)                                                (MM/DD/YYYY)
+                                                                              Part III – Details of Payment
+      Particulars                     Drawee                           Number            Date (MM/DD/YYY)                                                                        Amount
+                                    Bank/Agency
+ 27 Cash/Bank Debit Advice                                                                                                                                                                                          .
+ 28 Check                                                                                                                                                                                                           .
+ 29 Tax Debit Memo                                                                                                                                                                                                  .
+ 30 Others (Specify below)
+                                                                                                                                                                                                                    .
+ Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank)                                            Stamp of Receiving Office/AAB and Date of Receipt
+                                                                                                                                                          (RO’s Signature/Bank Teller’s Initial)
+
+
+
+*NOTE: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+        BIR Form No.
+
+   2550Q
+    April 2024 (ENCS)
+                                                        Quarterly Value-Added Tax
+                                                               (VAT) Return
+           Page 2                                                                                                                                                2550Q 04/24ENCS P2
+ TIN                          Taxpayer’s Last Name (if Individual)/ Registered Name (if Non-Individual)
+ 0 0 0 1 2 3 4 5 3 0 0 0 0 0 WITH
+                             SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME
+                                  MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+                              Part IV – Details of VAT Computation
+      Total Sales and Output Tax                         A.   Sales for the Quarter (Exclusive of VAT)                                     B. Output Tax for the Quarter
+31 VATable Sales                                                     9 8 7 6 5 4 3                        . 2 1                                 1 1 8 5 1 8 5                   . 1 9
+32 Zero-Rated Sales                                                  1 2 3 4 5 6 7                        . 8 9
+33 Exempt Sales                                                        2 3 4 5 6 7                        . 8 9
+34 Total Sales & Output Tax Due
+    (Sum of Items 31A to 33A) / (Item 31B)                         1 1 3 4 5 6 7 8                        . 9 9                                 1 1 8 5 1 8 5   . 1 9
+35 Less: Output VAT on Uncollected Receivables                                                                                                              0   . 0 0
+36 Add: Output VAT on Recovered Uncollected Receivables Previously Deducted                                                                                 0   . 0 0
+37 Total Adjusted Output Tax Due (Item 34B Less Item 35B Add Item 36B)                                                                          1 1 8 5 1 8 5   . 1 9
+   Less: Allowable Input Tax                                                                                                                     B. Input Tax
+38 Input Tax Carried Over from Previous Quarter                                                                                                               0 . 0 0
+39 Input Tax Deferred on Capital Goods Exceeding P1 Million from Previous Quarter (From Part V - Schedule 1 Col E)                                 1 4 8 1 4 8 . 1 5
+40 Transitional Input Tax                                                                                                                                     0 . 0 0
+41 Presumptive Input Tax                                                                                                                                      0 . 0 0
+42 Others (Specify)                                                                                                                                      2 0 0 0 0 . 0 0
+SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+43 Total (Sum of Items 38B to 42B)                                                                                                                 1 6 8 1 4 8 . 1 5
+           Current Transactions                                           A. Purchases                                                           B. Input Tax
+44 Domestic Purchases                                                   5 0 0 0 0 0 0                     .    0 0                                 6 0 0 0 0 0                  .     0 0
+45 Services Rendered by Non-Residents                                   1 0 0 0 0 0 0                     .    0 0                                 1 2 0 0 0 0                  .     0 0
+46 Importations                                                           5 0 0 0 0 0                     .    0 0                                   6 0 0 0 0                  .     0 0
+47 Others (Specify)                                                       2 5 0 0 0 0                     .    0 0                                   3 0 0 0 0                  .     0 0
+SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+48 Domestic Purchases with No Input Tax                  0 . 0 0
+49 VAT- Exempt Importations                              0 . 0 0
+50 Total Current Purchases/Input Tax                                    6 7 5 0 0 0 0 . 0 0                                                        8 1 0 0 0 0 . 0 0
+  (Sum of Items 44A to 49A)/(Sum of Items 44B to 47B)
+51 Total Available Input Tax (Sum of Items 43B and 50B)                                                                                            9 7 8 1 4 8 . 1 5
+    Less: Adjustment/Deductions from Input Tax                                                                                                   B. Input Tax
+52 Input Tax on Purchases/Importation of Capital Goods exceeding P1 Million deferred for the succeeding period                                     1 4 5 6 7 9                  .     0 1
+   (From Part V Schedule 1, Column I)
+53 Input Tax Attributable to VAT Exempt Sales (From Part V - Schedule 2)                                                                               1 0 0 0                  .     0 0
+54 VAT Refund/TCC Claimed                                                                                                                                    0                  .     0 0
+55 Input VAT on Unpaid Payables                                                                                                                              0                  .     0 0
+56 Others (Specify)                                                                                                                                  1 5 0 0 0                  .     0 0
+57 Total Deductions from Input Tax (Sum of Items 52B to 56B)                                                                                       1 6 1 6 7 9                  .     0 1
+58 Add: Input VAT on Settled Unpaid Payables Previously Deducted                                                                                             0                  .     0 0
+59 Adjusted Deductions from Input Tax (Sum of Items 57B and 58B)                                                                                   1 6 1 6 7 9                  .     0 1
+60 Total Allowable Input Tax (Item 51B Less Item 59B)                                                                                              8 1 6 4 6 9                  .     1 4
+61 Net VAT Payable/(Excess Input Tax) (Item 37B Less Item 60B) (To Part II, Item 15)                                                               3 6 8 7 1 6                  .     0 5
+                                                              Part V – Schedules
+ Schedule 1 – Amortized Input Tax from Capital Goods (Attach additional sheet/s, if necessary)
+ Date Purchased/ Source                        Amount of Purchases/    Balance of Input                                       Recognized Life   Allowable Input Tax Balance of Input Tax to
+     Imported    Code*       Description       Importation of Capital Tax from Previous Estimated    Life
+                                                                                            (in months)                         (in Months)       for the Period**     be carried to Next
+  (MM/DD/YYYY)                                Goods Exceeding P 1 M         Period                                             Remaining Life                        Period (E) Less (H)
+       (A)                  (B)                (C)             (D)                          (E)               (F)                    (G)               (H)                     (I)
+5/15/2026              INVOI... CAPITAL GOODS...                 1,234,567.89                148,148.15 60.00               12.00                            2,469.14           145,679.01
+                                                                         0.00                      0.00 0.00                0.00                                 0.00                 0.00
+Total (Column E - To Part IV, Item 39B)/(Column I - To Part IV, Item 52B)                   148,148.15                                                                         145,679.01
+          * D for Domestic Purchase; I for Importation          **E divided by G multiplied by the Number of months in use during the quarter
+ Schedule 2 – Input Tax Attributable to VAT Exempt Sales
+ Input Tax directly attributable to VAT Exempt Sale                                                                                                                                 1,000.00
+ Add: Ratable portion of Input Tax not directly attributable to any activity:
+       VAT Exempt Sale                                                                                                                                                                 0.00
+                                                  X Amount of Input Tax not directly attributable
+          Total
+ Total Input TaxSales
+                  attributable to Exempt Sale (To Part IV, Item 53)                                                                                                                 1,000.00
+Schedule 3 – Creditable VAT Withheld (Attach additional sheet/s, if necessary)
+ (A) Period Covered                              (B) Name of Withholding Agent                                                      (C) Income Payment           (D) Total Tax Withheld
+04/01/26-06/30/26         SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG...                                                       1,234,567.89                  123,456.78
+                                                                                                                                                         0.00                        0.00
+Total (Column D - To Part II, Item 16)                                                                                                           1,234,567.89                  123,456.78
+Schedule 4 – Advance VAT Payment (Attach additional sheet/s, if necessary)
+  (A) Period Covered                  (B) Name of Miller                 (C) Name of Taxpayer (D) Official Receipt Number                                           (E) Amount Paid
+04/01/26-06/30/26      SANTOS, JUANA MARIE DELA CRUZ-VI... SANTOS, JUANA MARIE DELA CRU... OR-123456789012345                                                                   234,567.89
+                                                                                                                                                          0.00                        0.00
+ Total (To Part II, Item 17)                                                                                                                                                   234,567.89
+BIR Form No. 2550Q                                                                                                           ADDITIONAL SHEET
+Quarterly Value-Added Tax Return
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000                           Taxpayer's Name: SANTOS, JUANA MARIE DELA CRUZ-
+                                                 VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH
+                                                 MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+                                                 TESTING
+
+Entries continued from the form                                                                 Full text of entries shortened with "..." on the form
+     Page          Item / Field                                       Full Entry
+    Page 2         Schedule 1, row 1, (B) Source Code                 INVOICE-123456789
+    Page 2         Schedule 1, row 1, (C) Description                 CAPITAL GOODS LONG DESCRIPTION FOR PRINT WRAPPING
+    Page 2         Schedule 3, row 1, (B) Name of                     SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+                   Withholding Agent                                  FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+                                                                      OVERFLOW TESTING
+    Page 2         Schedule 4, row 1, (B) Name of Miller              SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+                                                                      FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+                                                                      OVERFLOW TESTING
+    Page 2         Schedule 4, row 1, (C) Name of Taxpayer            SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG
+                                                                      FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+                                                                      OVERFLOW TESTING
+

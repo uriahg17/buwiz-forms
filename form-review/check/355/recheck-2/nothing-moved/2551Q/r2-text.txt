@@ -1,0 +1,85 @@
+ For BIR               BCS/                                                                       Republic of the Philippines
+ Use Only              Item                                                                        Department of Finance
+                                                                                                  Bureau of Internal Revenue
+    BIR Form No.
+ 2551Q Quarterly Percentage Tax Return
+                      Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable
+ January 2018 (ENCS) boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer.
+       Page 1                                                                                                                                                                                   2551Q 01/18ENCS P1
+ 1 For the     X Calendar     Fiscal 3 Quarter                                                                                                             4 Amended Return? 5 Number of Sheet/s
+ 2 Year Ended (MM/YYYY) 1 2 2 0 2 5       X 1st                                                                  2nd              3rd              4th            Yes X No Attached 0 0
+                                                                                   Part I – Background Information
+ 6 Taxpayer Identification Number (TIN)          0 0 0 - 1 2 3 - 4 5 3 - 0 0 0 0 0 7 RDO Code                                                                                                                       0 3 9
+ 8 Taxpayer’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+ 9 Registered Address (Indicate complete address. If branch, indicate the branch address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI                                                                                                                            9A ZIP Code                1 1 0 0
+10 Contact Number (Landline/Cellphone No.) 11 Email Address
+ 0 9 1 7 1 2 3 4 5 6 7                                             juana.santos.independent.print.check@example.com
+12 Are you availing of tax relief under
+   Special Law or International Tax Treaty?    Yes X No 12A If yes, specify
+13 Only for individual taxpayers whose sales/receipts are subject to Percentage Tax under Section 116 of the Tax Code, as amended:
+    What income tax rates are you availing? (choose one)
+    (To be filled out only on the initial X Graduated income tax rate on net                                                             8% income tax rate on gross sales/receipts/others
+     quarter of the taxable year)           taxable income
+                                                          Part II – Total Tax Payable
+14 Total Tax Due (From Schedule 1 Item 7)                                                                                                                                        2 9 6 2 9 6                        . 3 0
+   Less: Tax Credit/Payment (attach proof)
+         15 Creditable Percentage Tax Withheld per BIR Form No. 2307                5 0 0 0 0 0                                                                                                                     . 0 0
+         16 Tax Paid in Return Previously Filed, if this is an Amended Return                 0                                                                                                                     . 0 0
+         17 Other Tax Credit/Payment (specify)                                      1 0 0 0 0 0                                                                                                                     . 0 0
+SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+18 Total Tax Credits/Payments (Sum of Items 15 to 17)                               6 0 0 0 0 0                                                                                                                     . 0 0
+19 Tax Still Payable/(Overpayment) (Item 14 Less Item 18)                                                                                                                                                     (303,703.70)
+   Add: Penalties
+         20 Surcharge                                                                                                                                                                  1 2 3            4     5     . 6 7
+         21 Interest                                                                                                                                                                   2 3 4            5     6     . 7 8
+         22 Compromise                                                                                                                                                                   3 4            5     6     . 8 9
+23 Total Penalties (Sum of Items 20 to 22)                                                                                                                                             3 9 2            5     9     . 3 4
+24 TOTAL AMOUNT PAYABLE/(Overpayment) (Sum of Items 19 and 23)                                                                                                                                                (264,444.36)
+     If overpayment, mark one box only:                                       To be refunded                     To be issued a Tax Credit Certificate
+       I/We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct
+ pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I give my consent to the processing of my information as
+ contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+ For Individual:                                                                                           For Non-Individual:
+
+
+  Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent                                                    Signature over Printed Name of President/Vice President/
+                                  (Indicate title/designation and TIN)                                                                Authorized Officer or Representative/Tax Agent
+                                                                                                                                                     (Indicate title/designation and TIN)
+ Tax Agent Accreditation No./                                                                  Date of Issue                                                        Expiry Date
+ Attorney’s Roll No. (If applicable)                                                           (MM/DD/YYYY)                                                       (MM/DD/YYYY)
+                                                                               Part III – Details of Payment
+     Particulars                           Drawee Bank/                    Number          Date (MM/DD/YYYY)                                                                     Amount
+                                              Agency
+25 Cash/Bank Debit Memo                                                                                                                                                                                             .
+26 Check                                                                                                                                                                                                            .
+27 Tax Debit Memo                                                                                                                                                                                                   .
+28 Others (Specify below)
+                                                                                                                                                                                                                    .
+ Machine Validation/Revenue Official Receipt (ROR) Details (if not filed with an Authorized Agent Bank)                                             Stamp of receiving Office/AAB and Date of Receipt
+                                                                                                                                                          (RO’s Signature/Bank Teller’s Initial)
+
+
+
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+  BIR Form No.
+2551Q Quarterly Percentage Tax Return
+January 2018 (ENCS)
+      Page 2                                                                                                         2551Q 01/18ENCS P2
+TIN                                                   Taxpayer’s Last Name (if Individual) / Registered Name(if Non-Individual)
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS,                           JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+                                                     NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+Schedule 1 – Computation of Tax (Attach additional sheet/s, if necessary)
+Alphanumeric Tax                       Taxable Amount                            Tax                            Tax Due
+   Code (ATC)                                                                   Rate
+1 P T 0 1 0                             9 8 7 6 5 4 3 . 2 1 3                         %                          2 9 6 2 9 6 . 3 0
+2                                                               0 . 0 0               %                                         0 . 0 0
+3                                                               0 . 0 0               %                                         0 . 0 0
+4                                                               0 . 0 0               %                                         0 . 0 0
+5                                                               0 . 0 0               %                                         0 . 0 0
+6                                                               0 . 0 0               %                                         0 . 0 0
+7 Total Tax Due (Sum of Items 1 to 6)(To Part II Item 14)                                                        2 9 6 2 9 6 . 3 0
+

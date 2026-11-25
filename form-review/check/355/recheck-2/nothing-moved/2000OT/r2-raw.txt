@@ -1,0 +1,197 @@
+Republic of the Philippines
+Department of Finance
+BCS/
+For BIR
+Bureau of Internal Revenue
+Item:
+Use Only
+BIR Form No.
+Documentary Stamp Tax Declaration/
+2000-OT Return (One-Time Transactions)
+January 2018 (ENCS) Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable
+Page 1 boxes with an “X”. Two copies MUST be filed with the BIR and one held by the Taxpayer. 2000-OT 01/18ENCS P1
+1 Date of Transaction 2 Amended Return? 3 Alphanumeric Tax Code (ATC) 4 Number of Sheet/s Attached
+(MM/DD/YYYY)
+Yes No DO 102 DO 122 DO 125
+Part I – Background Information
+6 RDO Code of Location of
+5 Taxpayer Identification Number (TIN) the Property
+7 Taxpayer’s Name (Last Name, First Name, Middle Name for Individuals OR Registered Name for Non-Individuals)
+8 Registered Address (Indicatecompleteaddress.Ifbranch,indicatethebranchaddress.Ifregisteredaddressisdifferentfromthecurrentaddress,gototheRDOtoupdateregisteredaddressbyusingBIRFormNo.1905)
+8A ZIP Code
+9 Contact Number 10 Email Address
+11 Other Party to the transaction Seller/Transferor/Donor Buyer/Transferee/Donee
+11A Name (Last Name, First Name, Middle Name for Individual)/(Registered Name for Non-Individual)
+11B TIN
+12 Nature of Transaction
+Transfer of Shares of Stock Not Traded Through the Local Stock Exchange
+(Does not include original issue of shares of stock by the issuing corporation)
+Transfer of Real Property Classified as Capital Asset Transfer of Real Property Other Than Capital Asset
+13 Location of Real Property (if sale/transfer/donation of real property)
+Part II – Computation of Tax
+14 Taxable Base-Shares of Stock FromPartIVSchedule1.Bcolumn(d)or(e),whicheverisapplicable] ●
+[
+15 Taxable Base – Real Property (From Part IV Schedule 2 Item 2) ●
+16 Tax Rate
+17 Tax Due (Item 14 or 15 x Item 16) ●
+18 Less: Tax Paid in Return previously filed, if this is an amended return ●
+19 Tax Still Due/(Overpayment) (Item 17 less Item 18)
+20 Add: Penalties
+20A Surcharge ●
+20B Interest ●
+20C Compromise ●
+20D Total Penalties (Sum of Items 20A to 20C) ●
+21 Total Amount Payable/(Overpayment) (Sum of Items 19 and 20D) ●
+Incaseofoverpayment,applyfortaxrefundusingBIRFormNo.1914(ApplicationforTaxCredits/Refunds)
+Wedeclareunderthepenaltiesofperjurythatthisreturn,andallitsattachments,havebeenmadeingoodfaith,verifiedbyme/us,andtothebestofmy/ourknowledgeandbelief,istrueandcorrectpursuantto
+I/
+theprovisionsoftheNationalInternalRevenueCode,asamended,andtheregulationsissuedunderauthoritythereof.Further,I/wegivemy/ourconsenttotheprocessingofmy/ourinformationascontemplatedunderthe
+*DataPrivacyActof2012(R.A.No.10173)forlegitimateandlawfulpurposes. (IfAuthorizedRepresentative,attachSpecialPowerofAttorney)
+For Individual: For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/Tax Agent Signature over Printed Name of President/Vice President/Authorized Officer or Representative/Tax Agent
+(Indicate title/designation and TIN)
+(Indicate title/designation and TIN)
+Date of Issue Date of Expiry
+Tax Agent Accreditation No./
+Attorney’s Roll No. (MM/DD/YYYY) (MM/DD/YYYY)
+(if applicable)
+Part III – Details of Payment
+Date Amount
+Particulars Number
+DraweeBank/Agency (MM/DD/YYYY)
+/ /
+22 Cash/Bank Debit Memo ●
+/ /
+23 Check ●
+/ /
+24 Tax Debit Memo ●
+25 Others (specify)
+/ /
+●
+Stamp of Authorized Agent Bank and Date of Receipt
+MachineValidation (Bank Teller’s Initial)
+*Note: The BIR Data Privacy Policy is in the BIR website (www.bir.gov.ph)
+NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+0 6 1 5 2 0 2 5 0 0
+X X
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLO...
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE
+CORNER VILLANUEVA BOULEVARD BARANGAY SAN LORENZO MAKATI 1 1 0 0
+0 9 1 7 1 2 3 4 5 6 7 juana.santos.independent.print.check@example.com
+X
+S A M P L E B U Y E R C O R P
+9 8 7 6 5 4 3 2 1 0 0 0
+X
+BARANGAY SAN LORENZO LONG LOCATION DESCRIPTION MAKATI CITY
+0 0 0
+9 8 7 6 5 4 3 2 1
+P15/P1,000
+1 4 8 1 5 5 0 0
+2 0 0 0 0 0 0 0
+(51,845.00)
+1 2 3 4 5 6 7
+2 3 4 5 6 7 8
+3 4 5 6 8 9
+3 9 2 5 9 3 4
+3 9 2 5 9 3 4
+BIR Form No.
+Documentary Stamp Tax Declaration/
+2000-OT Return (One-Time Transactions)
+January 2018 (ENCS)
+Page 2 2000-OT 01/18ENCS P2
+TIN Taxpayer’s Name
+PART IV - Schedules
+/
+Schedule 1– Brief Description of Property Shares of Stock Sold (Attach additional sheet/s if necessary)
+1.A - Real Property
+OCT/TCT/CCT No. Tax Declaration No. (TD) Location
+5
+Continuation of Schedule 1.A
+Fair Market Value
+Area Fair Market Value (FMV) FMV per BIR (Zonal Value)
+Lot / Improvement *Classification (whichever is higher
+(sq.m.) per TD (Column 1) (Column 2) between Columns 1 & 2)
+TOTAL (To Schedule 2 Item B)
+1.B - Shares of Stock
+Stock DST Paid Upon Original Issue
+Par Value of Shares
+Number of
+Name of Corporate Stock Certificate of Shares of Stock Sold
+(for shares of stock with
+Shares Sold par value)
+Number (for shares of stock without par value)
+(a) (b) (c) (d) (e)
+Schedule 2– Determination of Taxable Base for Real Property Sold/Transferred/Donated
+1 A Gross Selling Price / Bid Price for foreclosure sale / Net Gift ●
+B Total Fair Market Value of Land and Improvement per Schedule 1.A ●
+C Others (Specify)
+●
+2 Taxable Base (For cash/foreclosure sale/net gift Item A or B whichever is higher; or, For other transaction Item C,
+whichever is applicable) (To Part II, Item 15) ●
+1
+2
+3
+4
+1
+2
+3
+4
+5
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+TCT-1234567890123... TD-12345678901234567890 LONGPROPERTYLOCATIONBARANGAYSANLORENZOMAKATI
+TCT-12346 TD-0002 BARANGAYEXAMPLE
+TCT-20002 TD-0002 BARANGAYEXAMPLE
+TCT-20003 TD-0003 BARANGAYEXAMPLE
+TCT-20004 TD-0004 BARANGAYEXAMPLE
+LOTWITHVERYLO... RESIDENTIA... 123456 9,876,543.21 8,765,432.10 9,876,543.21
+IMPROVEMENT RESIDENTIAL 120 800,000.00 750,000.50 800,000.00
+LOT2 RESIDENTIAL 100 200,000.00 90,000.00 200,000.00
+LOT3 RESIDENTIAL 100 300,000.00 90,000.00 300,000.00
+LOT4 RESIDENTIAL 100 400,000.00 90,000.00 400,000.00
+12,076,543.21
+0.00 0.00
+0.00 0.00
+0.00 0.00
+1 2 3 4 5 6 7 8 9 0
+1 2 0 7 6 5 4 3 2 1
+9 8 7 6 5 4 3 2 1
+9 8 7 6 5 4 3 2 1
+SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY WORDS TO EXERCISE WRAPPING
+BIR Form No.
+Documentary Stamp Tax Declaration/
+2000-OT Return (One-Time Transactions)
+January 2018 (ENCS)
+Add'l Sheet 2000-OT 01/18ENCS P2
+TIN Taxpayer’s Name
+OCT/TCT/CCT No. Tax Declaration No. (TD) Location
+6
+Continuation of Schedule 1.A
+Fair Market Value
+Area Fair Market Value (FMV) FMV per BIR (Zonal Value)
+Lot / Improvement *Classification (whichever is higher
+(sq.m.) per TD (Column 1) (Column 2) between Columns 1 & 2)
+6
+TOTAL (To Schedule 2 Item B) (as on page 2)
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY
+NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING
+TCT-20005 TD-0005 BARANGAYEXAMPLE
+LOT5 RESIDENTIAL 100 500,000.00 90,000.00 500,000.00
+12,076,543.21
+BIR Form No. 2000-OT ADDITIONAL SHEET
+Documentary Stamp Tax Declaration/Return (One-Time Transactions)
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUEVAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Item 7 — Taxpayer's Name SANTOS, JUANAMARIE DELACRUZ-VILLANUEVAEXTRAORDINARILY LONG
+FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+Page 2 Schedule 1.A, row 1, OCT/TCT/CCT No. TCT-12345678901234567890
+Page 2 Schedule 1.A, row 1, Lot / Improvement LOT WITH VERY LONG DESCRIPTION
+Page 2 Schedule 1.A, row 1, Classification RESIDENTIAL LONG CLASSIFICATION
+
