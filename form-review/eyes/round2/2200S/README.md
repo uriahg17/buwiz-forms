@@ -1,0 +1,6 @@
+# Form 2200S — Round 2 Part A Evidence (`WRONG ON PAPER ONLY`)
+
+- `2200S-flow.mp4`: App-window flow (captured via `gpui-agent screenshot` at 1280x900, followed by the exact rendered `sheet.html` print preview page) showing the open 2200S return with populated Schedule 1 beverage rows (`XB010` `74,074.02`, `XB030` `60,003.00`, etc.; Part III Item 18 Excise Tax Due `135,277.02`), clicking Print preview, and Page 2 Schedule 1 printing every line item (`XB010`–`XB100` and Others) blank while `GRAND TOTAL EXCISE TAX DUE` prints `135,277.02`.
+  - **Does not show**: Live OS desktop outside the app window, or live BIR submission (dry-run/test env only). Because `x11grab` on this headless Plasma/Xvfb desktop captures only wallpaper behind composited surfaces and Print Preview opens in a separate system window, the app flow uses `gpui-agent screenshot` frames and the final preview view renders the exact `sheet.html` emitted by that click.
+- `screen-crop.png`: 1400 px crop of the app form page showing Part III Item 18 Excise Tax Due = `135,277.02`.
+- `print-crop.png`: 1400 px crop of printed Page 2 Schedule 1 showing blank `XB010`–`XB100` / Others rows above `GRAND TOTAL EXCISE TAX DUE = 135,277.02`.
