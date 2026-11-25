@@ -1,0 +1,117 @@
+{
+  "rows": {
+    "cr-a": {
+      "role": "checkbox",
+      "name": "Alpha row",
+      "checked": false,
+      "enabled": true,
+      "bounds": {
+        "x": 17.0,
+        "y": 17.0,
+        "w": 666.0,
+        "h": 52.0
+      },
+      "states": [
+        "unchecked"
+      ]
+    },
+    "cr-b": {
+      "role": "checkbox",
+      "name": "Beta row",
+      "checked": true,
+      "enabled": true,
+      "bounds": {
+        "x": 17.0,
+        "y": 69.0,
+        "w": 666.0,
+        "h": 52.0
+      },
+      "states": [
+        "checked"
+      ]
+    },
+    "cr-off": {
+      "role": "checkbox",
+      "name": "Gamma row",
+      "checked": false,
+      "enabled": false,
+      "bounds": {
+        "x": 17.0,
+        "y": 121.0,
+        "w": 666.0,
+        "h": 52.0
+      },
+      "states": [
+        "disabled",
+        "unchecked"
+      ]
+    }
+  },
+  "start": "a:off/0 b:on/0",
+  "alpha_text": [
+    {
+      "readout": "a:on/1 b:on/0",
+      "reply": {
+        "ok": true,
+        "error": null,
+        "error_code": null
+      }
+    },
+    {
+      "readout": "a:off/2 b:on/0",
+      "reply": {
+        "ok": true,
+        "error": null,
+        "error_code": null
+      }
+    }
+  ],
+  "gamma": [
+    {
+      "area": "box",
+      "readout": "a:off/2 b:on/0",
+      "checked": false,
+      "enabled": false,
+      "reply": {
+        "ok": false,
+        "error": "node 3 is disabled",
+        "error_code": "host_error",
+        "delivery_status": "delivery_uncertain"
+      }
+    },
+    {
+      "area": "text",
+      "readout": "a:off/2 b:on/0",
+      "checked": false,
+      "enabled": false,
+      "reply": {
+        "ok": false,
+        "error": "node 28 is disabled",
+        "error_code": "host_error",
+        "delivery_status": "delivery_uncertain"
+      }
+    },
+    {
+      "area": "empty",
+      "readout": "a:off/2 b:on/0",
+      "checked": false,
+      "enabled": false,
+      "reply": {
+        "ok": false,
+        "error": "node 28 is disabled",
+        "error_code": "host_error",
+        "delivery_status": "delivery_uncertain"
+      }
+    }
+  ],
+  "xdotool_double_click_alpha_text": {
+    "before": "a:off/2 b:on/0",
+    "after": "a:off/2 b:on/0",
+    "note": "real xdotool double click, two presses 45 ms apart"
+  },
+  "xdotool_double_click_alpha_text_valid": {
+    "before": "a:off/0 b:on/0",
+    "after": "a:off/0 b:on/0",
+    "note": "real xdotool double click, two presses 45 ms apart, at logical (130,43) in the fixture window"
+  }
+}

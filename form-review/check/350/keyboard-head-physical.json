@@ -1,0 +1,26 @@
+{
+  "start": {
+    "count": "2 selected",
+    "checked1601C": true
+  },
+  "focused_row_start": {
+    "count": "2 selected",
+    "checked1601C": true
+  },
+  "space_once": {
+    "count": "1 selected",
+    "checked1601C": false
+  },
+  "space_twice": {
+    "count": "2 selected",
+    "checked1601C": true
+  },
+  "Return_once": {
+    "count": "1 selected",
+    "checked1601C": false
+  },
+  "Return_twice": {
+    "count": "2 selected",
+    "checked1601C": true
+  }
+}

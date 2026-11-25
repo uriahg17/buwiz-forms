@@ -1,0 +1,1976 @@
+{
+  "app": "Native Shell",
+  "nodes": [
+    {
+      "_depth": 0,
+      "bounds": {
+        "h": 844.0,
+        "w": 420.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      "children": [
+        {
+          "_depth": 1,
+          "bounds": {
+            "h": 844.0,
+            "w": 420.0,
+            "x": 0.0,
+            "y": 0.0
+          },
+          "children": [
+            {
+              "_depth": 2,
+              "bounds": {
+                "h": 844.0,
+                "w": 420.0,
+                "x": 0.0,
+                "y": 0.0
+              },
+              "children": [
+                {
+                  "_depth": 3,
+                  "bounds": {
+                    "h": 844.0,
+                    "w": 420.0,
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "children": [
+                    {
+                      "_depth": 4,
+                      "bounds": {
+                        "h": 40.0,
+                        "w": 420.0,
+                        "x": 0.0,
+                        "y": 0.0
+                      },
+                      "children": [
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 28.0,
+                            "w": 28.0,
+                            "x": 8.0,
+                            "y": 6.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 28.0,
+                                "w": 28.0,
+                                "x": 8.0,
+                                "y": 6.0
+                              },
+                              "children": [
+                                {
+                                  "_depth": 7,
+                                  "bounds": {
+                                    "h": 16.0,
+                                    "w": 16.0,
+                                    "x": 14.0,
+                                    "y": 12.0
+                                  },
+                                  "enabled": true,
+                                  "focused": false,
+                                  "id": "n3074",
+                                  "name": "",
+                                  "role": "generic"
+                                }
+                              ],
+                              "enabled": true,
+                              "focused": false,
+                              "id": "nb-menu",
+                              "name": "Menu",
+                              "role": "button"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "n3064",
+                          "name": "",
+                          "role": "generic"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 28.0,
+                            "w": 28.0,
+                            "x": 40.0,
+                            "y": 6.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 16.0,
+                                "w": 16.0,
+                                "x": 46.0,
+                                "y": 12.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3084",
+                              "name": "",
+                              "role": "generic"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "nb-back",
+                          "name": "Back",
+                          "role": "button"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 23.0,
+                            "w": 159.0,
+                            "x": 72.0,
+                            "y": 9.0
+                          },
+                          "enabled": true,
+                          "focused": false,
+                          "id": "nb-title",
+                          "name": "Forms",
+                          "role": "note"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 32.0,
+                            "w": 32.0,
+                            "x": 235.0,
+                            "y": 4.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 32.0,
+                                "w": 32.0,
+                                "x": 235.0,
+                                "y": 4.0
+                              },
+                              "children": [
+                                {
+                                  "_depth": 7,
+                                  "bounds": {
+                                    "h": 32.0,
+                                    "w": 32.0,
+                                    "x": 235.0,
+                                    "y": 4.0
+                                  },
+                                  "children": [
+                                    {
+                                      "_depth": 8,
+                                      "bounds": {
+                                        "h": 28.0,
+                                        "w": 28.0,
+                                        "x": 237.0,
+                                        "y": 6.0
+                                      },
+                                      "enabled": true,
+                                      "focused": false,
+                                      "id": "n3092",
+                                      "name": "Juana Santos [grouped]",
+                                      "role": "image",
+                                      "states": [
+                                        "grouped"
+                                      ]
+                                    }
+                                  ],
+                                  "enabled": true,
+                                  "focused": false,
+                                  "id": "nb-avatar",
+                                  "name": "Account",
+                                  "role": "button",
+                                  "states": [
+                                    "collapsed"
+                                  ]
+                                }
+                              ],
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3102",
+                              "name": "",
+                              "role": "generic"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "nb-account-menu",
+                          "name": "nb-account-menu",
+                          "role": "generic"
+                        }
+                      ],
+                      "enabled": true,
+                      "focused": false,
+                      "id": "narrow-bar",
+                      "name": "narrow-bar",
+                      "role": "generic"
+                    },
+                    {
+                      "_depth": 4,
+                      "bounds": {
+                        "h": 747.0,
+                        "w": 420.0,
+                        "x": 0.0,
+                        "y": 40.0
+                      },
+                      "children": [
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 747.0,
+                            "w": 420.0,
+                            "x": 0.0,
+                            "y": 40.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 745.0,
+                                "w": 420.0,
+                                "x": 0.0,
+                                "y": 41.0
+                              },
+                              "children": [
+                                {
+                                  "_depth": 7,
+                                  "bounds": {
+                                    "h": 745.0,
+                                    "w": 420.0,
+                                    "x": 0.0,
+                                    "y": 41.0
+                                  },
+                                  "children": [
+                                    {
+                                      "_depth": 8,
+                                      "bounds": {
+                                        "h": 556.0,
+                                        "w": 420.0,
+                                        "x": 0.0,
+                                        "y": 41.0
+                                      },
+                                      "children": [
+                                        {
+                                          "_depth": 9,
+                                          "bounds": {
+                                            "h": 480.0,
+                                            "w": 388.0,
+                                            "x": 16.0,
+                                            "y": 61.0
+                                          },
+                                          "children": [
+                                            {
+                                              "_depth": 10,
+                                              "bounds": {
+                                                "h": 480.0,
+                                                "w": 388.0,
+                                                "x": 16.0,
+                                                "y": 61.0
+                                              },
+                                              "children": [
+                                                {
+                                                  "_depth": 11,
+                                                  "bounds": {
+                                                    "h": 178.0,
+                                                    "w": 388.0,
+                                                    "x": 16.0,
+                                                    "y": 61.0
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 97.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 61.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 40.0,
+                                                            "w": 40.0,
+                                                            "x": 16.0,
+                                                            "y": 69.0
+                                                          },
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n992",
+                                                          "name": "Juana Santos [grouped]",
+                                                          "role": "image",
+                                                          "states": [
+                                                            "grouped"
+                                                          ]
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 55.0,
+                                                            "w": 334.0,
+                                                            "x": 70.0,
+                                                            "y": 61.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 33.0,
+                                                                "w": 334.0,
+                                                                "x": 70.0,
+                                                                "y": 61.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n938",
+                                                              "name": "Juana Santos",
+                                                              "role": "note"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 20.0,
+                                                                "w": 334.0,
+                                                                "x": 70.0,
+                                                                "y": 96.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 334.0,
+                                                                    "x": 70.0,
+                                                                    "y": 96.0
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 20.0,
+                                                                        "w": 133.0,
+                                                                        "x": 70.0,
+                                                                        "y": 96.0
+                                                                      },
+                                                                      "children": [
+                                                                        {
+                                                                          "_depth": 17,
+                                                                          "bounds": {
+                                                                            "h": 20.0,
+                                                                            "w": 133.0,
+                                                                            "x": 70.0,
+                                                                            "y": 96.0
+                                                                          },
+                                                                          "enabled": true,
+                                                                          "focused": false,
+                                                                          "id": "n970",
+                                                                          "name": "000-123-453-00000",
+                                                                          "role": "note"
+                                                                        }
+                                                                      ],
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n974",
+                                                                      "name": "",
+                                                                      "role": "generic"
+                                                                    },
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 20.0,
+                                                                        "w": 77.0,
+                                                                        "x": 211.0,
+                                                                        "y": 96.0
+                                                                      },
+                                                                      "children": [
+                                                                        {
+                                                                          "_depth": 17,
+                                                                          "bounds": {
+                                                                            "h": 3.0,
+                                                                            "w": 3.0,
+                                                                            "x": 211.0,
+                                                                            "y": 105.0
+                                                                          },
+                                                                          "enabled": true,
+                                                                          "focused": false,
+                                                                          "id": "n978",
+                                                                          "name": "",
+                                                                          "role": "generic"
+                                                                        },
+                                                                        {
+                                                                          "_depth": 17,
+                                                                          "bounds": {
+                                                                            "h": 20.0,
+                                                                            "w": 66.0,
+                                                                            "x": 222.0,
+                                                                            "y": 96.0
+                                                                          },
+                                                                          "enabled": true,
+                                                                          "focused": false,
+                                                                          "id": "n980",
+                                                                          "name": "Head office",
+                                                                          "role": "note"
+                                                                        }
+                                                                      ],
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n976",
+                                                                      "name": "",
+                                                                      "role": "generic"
+                                                                    },
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 20.0,
+                                                                        "w": 66.0,
+                                                                        "x": 296.0,
+                                                                        "y": 96.0
+                                                                      },
+                                                                      "children": [
+                                                                        {
+                                                                          "_depth": 17,
+                                                                          "bounds": {
+                                                                            "h": 3.0,
+                                                                            "w": 3.0,
+                                                                            "x": 296.0,
+                                                                            "y": 105.0
+                                                                          },
+                                                                          "enabled": true,
+                                                                          "focused": false,
+                                                                          "id": "n986",
+                                                                          "name": "",
+                                                                          "role": "generic"
+                                                                        },
+                                                                        {
+                                                                          "_depth": 17,
+                                                                          "bounds": {
+                                                                            "h": 20.0,
+                                                                            "w": 55.0,
+                                                                            "x": 307.0,
+                                                                            "y": 96.0
+                                                                          },
+                                                                          "enabled": true,
+                                                                          "focused": false,
+                                                                          "id": "n988",
+                                                                          "name": "Individual",
+                                                                          "role": "note"
+                                                                        }
+                                                                      ],
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n984",
+                                                                      "name": "",
+                                                                      "role": "generic"
+                                                                    }
+                                                                  ],
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n968",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n966",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n936",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 224.0,
+                                                            "x": 16.0,
+                                                            "y": 130.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 28.0,
+                                                                "w": 102.0,
+                                                                "x": 16.0,
+                                                                "y": 130.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 16.0,
+                                                                    "w": 16.0,
+                                                                    "x": 27.0,
+                                                                    "y": 136.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1024",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                },
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 58.0,
+                                                                    "x": 49.0,
+                                                                    "y": 133.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1020",
+                                                                  "name": "Copy TIN",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-copy-tin",
+                                                              "name": "Copy TIN",
+                                                              "role": "button"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 28.0,
+                                                                "w": 114.0,
+                                                                "x": 126.0,
+                                                                "y": 130.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 16.0,
+                                                                    "w": 16.0,
+                                                                    "x": 137.0,
+                                                                    "y": 136.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1032",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                },
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 70.0,
+                                                                    "x": 159.0,
+                                                                    "y": 133.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1028",
+                                                                  "name": "New return",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-new-return",
+                                                              "name": "New return",
+                                                              "role": "button"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1016",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "n934",
+                                                      "name": "",
+                                                      "role": "generic"
+                                                    },
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 37.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 178.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 36.0,
+                                                            "w": 61.0,
+                                                            "x": 16.0,
+                                                            "y": 178.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 41.0,
+                                                                "x": 26.0,
+                                                                "y": 185.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1038",
+                                                              "name": "Profile",
+                                                              "role": "note"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-tabs-profile",
+                                                          "name": "Profile",
+                                                          "role": "tab"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 36.0,
+                                                            "w": 85.0,
+                                                            "x": 81.0,
+                                                            "y": 178.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 39.0,
+                                                                "x": 91.0,
+                                                                "y": 185.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1044",
+                                                              "name": "Forms",
+                                                              "role": "note"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 18.0,
+                                                                "w": 20.0,
+                                                                "x": 136.0,
+                                                                "y": 187.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 18.0,
+                                                                    "w": 8.0,
+                                                                    "x": 142.0,
+                                                                    "y": 187.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1050",
+                                                                  "name": "2",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1048",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-tabs-forms",
+                                                          "name": "Forms",
+                                                          "role": "tab",
+                                                          "states": [
+                                                            "selected"
+                                                          ]
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 36.0,
+                                                            "w": 111.0,
+                                                            "x": 170.0,
+                                                            "y": 178.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 65.0,
+                                                                "x": 180.0,
+                                                                "y": 185.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1056",
+                                                              "name": "Templates",
+                                                              "role": "note"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 18.0,
+                                                                "w": 20.0,
+                                                                "x": 251.0,
+                                                                "y": 187.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 18.0,
+                                                                    "w": 8.0,
+                                                                    "x": 257.0,
+                                                                    "y": 187.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1062",
+                                                                  "name": "0",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1060",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-tabs-templates",
+                                                          "name": "Templates",
+                                                          "role": "tab"
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "tp-tabs",
+                                                      "name": "tp-tabs",
+                                                      "role": "tablist"
+                                                    }
+                                                  ],
+                                                  "enabled": true,
+                                                  "focused": false,
+                                                  "id": "tp-header",
+                                                  "name": "tp-header",
+                                                  "role": "generic"
+                                                },
+                                                {
+                                                  "_depth": 11,
+                                                  "bounds": {
+                                                    "h": 302.0,
+                                                    "w": 388.0,
+                                                    "x": 16.0,
+                                                    "y": 239.0
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 64.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 239.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 55.0,
+                                                            "x": 16.0,
+                                                            "y": 239.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 51.0,
+                                                                "x": 18.0,
+                                                                "y": 241.0
+                                                              },
+                                                              "checked": true,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 31.0,
+                                                                    "x": 28.0,
+                                                                    "y": 243.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1076",
+                                                                  "name": "2026",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-years-2026",
+                                                              "name": "2026",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "selected",
+                                                                "checked"
+                                                              ]
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-years",
+                                                          "name": "Tax year",
+                                                          "role": "radiogroup"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 101.0,
+                                                            "x": 83.0,
+                                                            "y": 239.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 16.0,
+                                                                "w": 16.0,
+                                                                "x": 94.0,
+                                                                "y": 245.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1086",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 57.0,
+                                                                "x": 116.0,
+                                                                "y": 242.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1082",
+                                                              "name": "Add year",
+                                                              "role": "note"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-add-year-open",
+                                                          "name": "Add year",
+                                                          "role": "button"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 0.0,
+                                                            "w": 58.0,
+                                                            "x": 196.0,
+                                                            "y": 253.0
+                                                          },
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1070",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 20.0,
+                                                            "w": 60.0,
+                                                            "x": 266.0,
+                                                            "y": 243.0
+                                                          },
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-forms-count",
+                                                          "name": "2 selected",
+                                                          "role": "note"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 66.0,
+                                                            "x": 338.0,
+                                                            "y": 239.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 44.0,
+                                                                "x": 349.0,
+                                                                "y": 242.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1184",
+                                                              "name": "Cancel",
+                                                              "role": "note"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-forms-cancel",
+                                                          "name": "Cancel",
+                                                          "role": "button"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 93.0,
+                                                            "x": 16.0,
+                                                            "y": 275.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 22.0,
+                                                                "w": 71.0,
+                                                                "x": 27.0,
+                                                                "y": 278.0
+                                                              },
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1190",
+                                                              "name": "Save forms",
+                                                              "role": "note"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-forms-save",
+                                                          "name": "Save forms",
+                                                          "role": "button"
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "n1068",
+                                                      "name": "",
+                                                      "role": "generic"
+                                                    },
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 68.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 319.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 32.0,
+                                                            "w": 280.0,
+                                                            "x": 16.0,
+                                                            "y": 319.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 32.0,
+                                                                "w": 280.0,
+                                                                "x": 16.0,
+                                                                "y": 319.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 32.0,
+                                                                    "w": 280.0,
+                                                                    "x": 16.0,
+                                                                    "y": 319.0
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 14.0,
+                                                                        "w": 14.0,
+                                                                        "x": 27.0,
+                                                                        "y": 328.0
+                                                                      },
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n1204",
+                                                                      "name": "",
+                                                                      "role": "generic"
+                                                                    },
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 30.0,
+                                                                        "w": 238.0,
+                                                                        "x": 47.0,
+                                                                        "y": 320.0
+                                                                      },
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "tp-forms-search",
+                                                                      "name": "Find a form",
+                                                                      "role": "textbox",
+                                                                      "value": "1601C"
+                                                                    }
+                                                                  ],
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1200",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1198",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1196",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 331.0,
+                                                            "x": 16.0,
+                                                            "y": 359.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 35.0,
+                                                                "x": 18.0,
+                                                                "y": 361.0
+                                                              },
+                                                              "checked": true,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 15.0,
+                                                                    "x": 28.0,
+                                                                    "y": 363.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1210",
+                                                                  "name": "All",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-forms-freq-All",
+                                                              "name": "All",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "selected",
+                                                                "checked"
+                                                              ]
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 67.0,
+                                                                "x": 55.0,
+                                                                "y": 361.0
+                                                              },
+                                                              "checked": false,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 47.0,
+                                                                    "x": 65.0,
+                                                                    "y": 363.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1216",
+                                                                  "name": "Monthly",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-forms-freq-Monthly",
+                                                              "name": "Monthly",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "unchecked"
+                                                              ]
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 74.0,
+                                                                "x": 124.0,
+                                                                "y": 361.0
+                                                              },
+                                                              "checked": false,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 54.0,
+                                                                    "x": 134.0,
+                                                                    "y": 363.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1222",
+                                                                  "name": "Quarterly",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-forms-freq-Quarterly",
+                                                              "name": "Quarterly",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "unchecked"
+                                                              ]
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 61.0,
+                                                                "x": 200.0,
+                                                                "y": 361.0
+                                                              },
+                                                              "checked": false,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 41.0,
+                                                                    "x": 210.0,
+                                                                    "y": 363.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1228",
+                                                                  "name": "Annual",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-forms-freq-Annual",
+                                                              "name": "Annual",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "unchecked"
+                                                              ]
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 24.0,
+                                                                "w": 82.0,
+                                                                "x": 263.0,
+                                                                "y": 361.0
+                                                              },
+                                                              "checked": false,
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 62.0,
+                                                                    "x": 273.0,
+                                                                    "y": 363.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1234",
+                                                                  "name": "As needed",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-forms-freq-As needed",
+                                                              "name": "As needed",
+                                                              "role": "radio",
+                                                              "states": [
+                                                                "unchecked"
+                                                              ]
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-forms-freq",
+                                                          "name": "Frequency",
+                                                          "role": "radiogroup"
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "n1194",
+                                                      "name": "",
+                                                      "role": "generic"
+                                                    },
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 62.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 403.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 20.0,
+                                                            "w": 40.0,
+                                                            "x": 16.0,
+                                                            "y": 407.0
+                                                          },
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1240",
+                                                          "name": "Setups",
+                                                          "role": "note"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 158.0,
+                                                            "x": 64.0,
+                                                            "y": 403.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 28.0,
+                                                                "w": 158.0,
+                                                                "x": 64.0,
+                                                                "y": 403.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 136.0,
+                                                                    "x": 75.0,
+                                                                    "y": 406.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1248",
+                                                                  "name": "Non-VAT professional",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-setup-non_vat_professional",
+                                                              "name": "Non-VAT professional",
+                                                              "role": "button"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1244",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 106.0,
+                                                            "x": 228.0,
+                                                            "y": 403.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 28.0,
+                                                                "w": 106.0,
+                                                                "x": 228.0,
+                                                                "y": 403.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 84.0,
+                                                                    "x": 239.0,
+                                                                    "y": 406.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1256",
+                                                                  "name": "VAT business",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-setup-vat_business_individual",
+                                                              "name": "VAT business",
+                                                              "role": "button"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1252",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        },
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 28.0,
+                                                            "w": 81.0,
+                                                            "x": 16.0,
+                                                            "y": 437.0
+                                                          },
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 28.0,
+                                                                "w": 81.0,
+                                                                "x": 16.0,
+                                                                "y": 437.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 59.0,
+                                                                    "x": 27.0,
+                                                                    "y": 440.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1264",
+                                                                  "name": "Employer",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "tp-setup-employer",
+                                                              "name": "Employer",
+                                                              "role": "button"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "n1260",
+                                                          "name": "",
+                                                          "role": "generic"
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "tp-setups",
+                                                      "name": "tp-setups",
+                                                      "role": "generic"
+                                                    },
+                                                    {
+                                                      "_depth": 12,
+                                                      "bounds": {
+                                                        "h": 60.0,
+                                                        "w": 388.0,
+                                                        "x": 16.0,
+                                                        "y": 481.0
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "_depth": 13,
+                                                          "bounds": {
+                                                            "h": 58.0,
+                                                            "w": 386.0,
+                                                            "x": 17.0,
+                                                            "y": 482.0
+                                                          },
+                                                          "checked": true,
+                                                          "children": [
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 16.0,
+                                                                "w": 16.0,
+                                                                "x": 33.0,
+                                                                "y": 503.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 12.0,
+                                                                    "w": 12.0,
+                                                                    "x": 35.0,
+                                                                    "y": 505.0
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 12.0,
+                                                                        "w": 12.0,
+                                                                        "x": 35.0,
+                                                                        "y": 505.0
+                                                                      },
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n3060",
+                                                                      "name": "",
+                                                                      "role": "generic"
+                                                                    }
+                                                                  ],
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1526",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n157",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 20.0,
+                                                                "w": 68.0,
+                                                                "x": 61.0,
+                                                                "y": 501.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 68.0,
+                                                                    "x": 61.0,
+                                                                    "y": 501.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1488",
+                                                                  "name": "1601C",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1486",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 42.0,
+                                                                "w": 138.0,
+                                                                "x": 141.0,
+                                                                "y": 490.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 22.0,
+                                                                    "w": 138.0,
+                                                                    "x": 141.0,
+                                                                    "y": 490.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1494",
+                                                                  "name": "Monthly Remittance Return of Income Taxes Withheld on Compensation",
+                                                                  "role": "note"
+                                                                },
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 138.0,
+                                                                    "x": 141.0,
+                                                                    "y": 512.0
+                                                                  },
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n1498",
+                                                                  "name": "Next: November 2026",
+                                                                  "role": "note"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1492",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            },
+                                                            {
+                                                              "_depth": 14,
+                                                              "bounds": {
+                                                                "h": 20.0,
+                                                                "w": 96.0,
+                                                                "x": 291.0,
+                                                                "y": 501.0
+                                                              },
+                                                              "children": [
+                                                                {
+                                                                  "_depth": 15,
+                                                                  "bounds": {
+                                                                    "h": 20.0,
+                                                                    "w": 80.0,
+                                                                    "x": 291.0,
+                                                                    "y": 501.0
+                                                                  },
+                                                                  "children": [
+                                                                    {
+                                                                      "_depth": 16,
+                                                                      "bounds": {
+                                                                        "h": 18.0,
+                                                                        "w": 64.0,
+                                                                        "x": 299.0,
+                                                                        "y": 502.0
+                                                                      },
+                                                                      "enabled": true,
+                                                                      "focused": false,
+                                                                      "id": "n3056",
+                                                                      "name": "No template",
+                                                                      "role": "note"
+                                                                    }
+                                                                  ],
+                                                                  "enabled": true,
+                                                                  "focused": false,
+                                                                  "id": "n3054",
+                                                                  "name": "",
+                                                                  "role": "generic"
+                                                                }
+                                                              ],
+                                                              "enabled": true,
+                                                              "focused": false,
+                                                              "id": "n1516",
+                                                              "name": "",
+                                                              "role": "generic"
+                                                            }
+                                                          ],
+                                                          "enabled": true,
+                                                          "focused": false,
+                                                          "id": "tp-form-1601C",
+                                                          "name": "File 1601C in 2026",
+                                                          "role": "checkbox",
+                                                          "states": [
+                                                            "checked"
+                                                          ]
+                                                        }
+                                                      ],
+                                                      "enabled": true,
+                                                      "focused": false,
+                                                      "id": "tp-forms-list",
+                                                      "name": "tp-forms-list",
+                                                      "role": "generic"
+                                                    }
+                                                  ],
+                                                  "enabled": true,
+                                                  "focused": false,
+                                                  "id": "tp-forms-tab",
+                                                  "name": "tp-forms-tab",
+                                                  "role": "generic"
+                                                }
+                                              ],
+                                              "enabled": true,
+                                              "focused": false,
+                                              "id": "tp-page-forms",
+                                              "name": "tp-page-forms",
+                                              "role": "generic"
+                                            }
+                                          ],
+                                          "enabled": true,
+                                          "focused": false,
+                                          "id": "content-column",
+                                          "name": "content-column",
+                                          "role": "generic"
+                                        }
+                                      ],
+                                      "enabled": true,
+                                      "focused": false,
+                                      "id": "n926",
+                                      "name": "",
+                                      "role": "generic"
+                                    }
+                                  ],
+                                  "enabled": true,
+                                  "focused": false,
+                                  "id": "main-scroll",
+                                  "name": "main-scroll",
+                                  "role": "scroll"
+                                }
+                              ],
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n110",
+                              "name": "",
+                              "role": "generic"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "main-surface",
+                          "name": "main-surface",
+                          "role": "generic"
+                        }
+                      ],
+                      "enabled": true,
+                      "focused": false,
+                      "id": "frame-body",
+                      "name": "frame-body",
+                      "role": "generic"
+                    },
+                    {
+                      "_depth": 4,
+                      "bounds": {
+                        "h": 57.0,
+                        "w": 420.0,
+                        "x": 0.0,
+                        "y": 787.0
+                      },
+                      "children": [
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 56.0,
+                            "w": 105.0,
+                            "x": 0.0,
+                            "y": 788.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 16.0,
+                                "w": 16.0,
+                                "x": 45.0,
+                                "y": 798.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3108",
+                              "name": "",
+                              "role": "generic"
+                            },
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 18.0,
+                                "w": 32.0,
+                                "x": 37.0,
+                                "y": 816.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3110",
+                              "name": "Home",
+                              "role": "note"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "tab-home",
+                          "name": "Home",
+                          "role": "button"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 56.0,
+                            "w": 105.0,
+                            "x": 105.0,
+                            "y": 788.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 16.0,
+                                "w": 16.0,
+                                "x": 150.0,
+                                "y": 798.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3116",
+                              "name": "",
+                              "role": "generic"
+                            },
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 18.0,
+                                "w": 33.0,
+                                "x": 141.0,
+                                "y": 816.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3118",
+                              "name": "Forms",
+                              "role": "note"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "tab-library",
+                          "name": "Forms",
+                          "role": "button"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 56.0,
+                            "w": 105.0,
+                            "x": 210.0,
+                            "y": 788.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 16.0,
+                                "w": 16.0,
+                                "x": 255.0,
+                                "y": 798.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3124",
+                              "name": "",
+                              "role": "generic"
+                            },
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 18.0,
+                                "w": 35.0,
+                                "x": 245.0,
+                                "y": 816.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3126",
+                              "name": "Filings",
+                              "role": "note"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "tab-filings",
+                          "name": "Filings",
+                          "role": "button"
+                        },
+                        {
+                          "_depth": 5,
+                          "bounds": {
+                            "h": 56.0,
+                            "w": 105.0,
+                            "x": 315.0,
+                            "y": 788.0
+                          },
+                          "children": [
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 16.0,
+                                "w": 16.0,
+                                "x": 360.0,
+                                "y": 798.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3132",
+                              "name": "",
+                              "role": "generic"
+                            },
+                            {
+                              "_depth": 6,
+                              "bounds": {
+                                "h": 18.0,
+                                "w": 48.0,
+                                "x": 344.0,
+                                "y": 816.0
+                              },
+                              "enabled": true,
+                              "focused": false,
+                              "id": "n3134",
+                              "name": "Calendar",
+                              "role": "note"
+                            }
+                          ],
+                          "enabled": true,
+                          "focused": false,
+                          "id": "tab-calendar",
+                          "name": "Calendar",
+                          "role": "button"
+                        }
+                      ],
+                      "enabled": true,
+                      "focused": false,
+                      "id": "tab-bar",
+                      "name": "tab-bar",
+                      "role": "generic"
+                    },
+                    {
+                      "_depth": 4,
+                      "bounds": {
+                        "h": 0.0,
+                        "w": 420.0,
+                        "x": 0.0,
+                        "y": 844.0
+                      },
+                      "enabled": true,
+                      "focused": false,
+                      "id": "sheet-profile",
+                      "name": "sheet-profile",
+                      "role": "generic",
+                      "visible": false
+                    },
+                    {
+                      "_depth": 4,
+                      "bounds": {
+                        "h": 0.0,
+                        "w": 420.0,
+                        "x": 0.0,
+                        "y": 844.0
+                      },
+                      "enabled": true,
+                      "focused": false,
+                      "id": "sheet-notifications",
+                      "name": "sheet-notifications",
+                      "role": "generic",
+                      "visible": false
+                    }
+                  ],
+                  "enabled": true,
+                  "focused": false,
+                  "id": "frame",
+                  "name": "frame",
+                  "role": "generic"
+                }
+              ],
+              "enabled": true,
+              "focused": false,
+              "id": "shell",
+              "name": "shell",
+              "role": "generic"
+            }
+          ],
+          "enabled": true,
+          "focused": false,
+          "id": "n2",
+          "name": "",
+          "role": "generic"
+        },
+        {
+          "_depth": 1,
+          "bounds": {
+            "h": 76.0,
+            "w": 420.0,
+            "x": 0.0,
+            "y": 768.0
+          },
+          "children": [
+            {
+              "_depth": 2,
+              "bounds": {
+                "h": 0.0,
+                "w": 388.0,
+                "x": 16.0,
+                "y": 768.0
+              },
+              "enabled": true,
+              "focused": false,
+              "id": "n8",
+              "name": "",
+              "role": "generic"
+            }
+          ],
+          "enabled": true,
+          "focused": false,
+          "id": "toaster",
+          "name": "toaster",
+          "role": "generic"
+        }
+      ],
+      "enabled": true,
+      "focused": false,
+      "id": "n1",
+      "name": "",
+      "role": "generic"
+    }
+  ],
+  "platform": "desktop",
+  "ready": true
+}

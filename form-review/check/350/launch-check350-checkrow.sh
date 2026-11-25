@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+set -euo pipefail
+exec ~/BuwizNsh/nsh2404.sh bash -lc 'export XDG_RUNTIME_DIR=/tmp/xdg-run-ubuntu GSK_RENDERER=cairo BUWIZ_NO_KEYCHAIN=1 EBIR_TEST_ENV=1 BIR_AUTH_BYPASS=1 BIR_SFTP_DRY_RUN=1 GPUI_AGENT=1 GPUI_AGENT_TOKEN=check350local GPUI_AGENT_ADDR=127.0.0.1:17521; unset BIR_SFTP_LIVE BIR_DATABASE_PATH; mkdir -p "$XDG_RUNTIME_DIR"; chmod 700 "$XDG_RUNTIME_DIR"; export PATH="$HOME/BuwizNsh/tools/bin:$HOME/just145/bin:$PATH" CARGO_TARGET_DIR="$HOME/BuwizNsh/target-nsh"; dbus-run-session -- xvfb-run --server-num=99 -s "-screen 0 1920x1080x24" env CARGO=/home/ubuntu/repos/buwiz-forms-hexuria/nsh/agent/cargo-with-agent.sh nsh test ./check350-checkrow-hold.test.tsx --target linux'

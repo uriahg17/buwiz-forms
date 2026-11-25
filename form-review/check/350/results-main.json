@@ -1,0 +1,1049 @@
+{
+  "addr": "127.0.0.1:17521",
+  "commit": "main",
+  "existing_dialog": {
+    "existing_visible": true,
+    "fast_lane_before_keep": true,
+    "fast_lane_clicks": [
+      {
+        "after": false,
+        "area": "text",
+        "before": false,
+        "bounds": {
+          "h": 16.0,
+          "w": 16.0,
+          "x": 531.0,
+          "y": 546.0
+        },
+        "name": "Don't ask again for drafts (this session)",
+        "reply": {
+          "delivery_status": "delivery_uncertain",
+          "error": "node 4062 is not pressable",
+          "error_code": "host_error",
+          "ok": false
+        },
+        "role": "checkbox"
+      },
+      {
+        "after": false,
+        "area": "text2",
+        "before": false,
+        "bounds": {
+          "h": 16.0,
+          "w": 16.0,
+          "x": 531.0,
+          "y": 546.0
+        },
+        "name": "Don't ask again for drafts (this session)",
+        "reply": {
+          "delivery_status": "delivery_uncertain",
+          "error": "node 4062 is not pressable",
+          "error_code": "host_error",
+          "ok": false
+        },
+        "role": "checkbox"
+      },
+      {
+        "after": true,
+        "area": "box",
+        "before": false,
+        "bounds": {
+          "h": 16.0,
+          "w": 16.0,
+          "x": 531.0,
+          "y": 546.0
+        },
+        "name": "Don't ask again for drafts (this session)",
+        "reply": {
+          "delivery_status": "delivered_unverified",
+          "error": null,
+          "error_code": null,
+          "ok": true
+        },
+        "role": "checkbox"
+      },
+      {
+        "after": false,
+        "area": "box2",
+        "before": true,
+        "bounds": {
+          "h": 16.0,
+          "w": 16.0,
+          "x": 531.0,
+          "y": 546.0
+        },
+        "name": "Don't ask again for drafts (this session)",
+        "reply": {
+          "delivery_status": "delivered_unverified",
+          "error": null,
+          "error_code": null,
+          "ok": true
+        },
+        "role": "checkbox"
+      }
+    ],
+    "opened_sample": {
+      "form_page": true,
+      "sample_note": true
+    },
+    "second_period": {
+      "existing_offer_shown": false,
+      "text_tail": [
+        "5",
+        "Alphanumeric tax code",
+        "Return details",
+        "Return details",
+        "5 items",
+        "Part I \u00b7 Background Information",
+        "Part I \u00b7 Background Information",
+        "9 items",
+        "Part II \u00b7 Computation of Tax",
+        "Part II \u00b7 Computation of Tax",
+        "22 items",
+        "Part III \u00b7 Details of Payment",
+        "Part III \u00b7 Details of Payment",
+        "5 items",
+        "Part IV \u00b7 Schedule",
+        "Part IV \u00b7 Schedule",
+        "2 items",
+        "Not on the printed sheet",
+        "Not on the printed sheet",
+        "1 item",
+        "Previous to do",
+        "All sections",
+        "All sections \u00b7 3 to do \u00b7 Page 1 \u00b7 Return details \u00b7 3 items need attention",
+        "3 to do \u00b7 Page 1",
+        "Return details",
+        "3",
+        "Next to do",
+        "Loaded your saved February 2026 draft (you chose not to be asked again).",
+        "Undo",
+        "Undo"
+      ]
+    }
+  },
+  "gestures": {
+    "press_drag_scroll": {
+      "after": [
+        "2 selected",
+        true
+      ],
+      "after_y": 727.0,
+      "before": [
+        "2 selected",
+        true
+      ],
+      "before_y": 727.0,
+      "reply": {
+        "error": null,
+        "error_code": null,
+        "ok": true
+      },
+      "scrolled": false
+    },
+    "press_start_row_end_next": {
+      "after": [
+        "2 selected",
+        true
+      ],
+      "before": [
+        "2 selected",
+        true
+      ],
+      "reply": {
+        "error": null,
+        "error_code": null,
+        "ok": true
+      }
+    },
+    "sequence_first_rows": {
+      "before": {
+        "accessibility1601C": {
+          "checkbox_count": 1,
+          "checkboxes": [
+            {
+              "bounds": {
+                "h": 16.0,
+                "w": 16.0,
+                "x": 449.0,
+                "y": 749.0
+              },
+              "checked": false,
+              "enabled": true,
+              "id": "tp-form-1601C-check",
+              "name": "File 1601C in 2026",
+              "role": "checkbox",
+              "states": [
+                "unchecked"
+              ]
+            }
+          ],
+          "child_count": 13,
+          "row": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 727.0
+            },
+            "checked": null,
+            "enabled": true,
+            "focused": false,
+            "id": "tp-form-1601C",
+            "name": "tp-form-1601C",
+            "role": "generic",
+            "states": null
+          }
+        },
+        "count": "1 selected",
+        "rows": {
+          "0605": {
+            "bounds": {
+              "h": 58.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 374.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "0619E": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 432.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "0619F": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 491.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1600PT": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 550.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1600VT": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 609.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1600WP": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 668.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1601C": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 727.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1601EQ": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 786.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1601FQ": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 845.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1602Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 904.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1603Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 963.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1604C": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1022.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1604E": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1081.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1604F": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1140.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1606": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1199.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1700": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1258.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1701": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1317.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1701A": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1376.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1701MS": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1435.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1701Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1494.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1702EX": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1553.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1702MX": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1612.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1702Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1671.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1702RT": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1730.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1706": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1789.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1707": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1848.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1707A": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1907.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1800": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 1966.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "1801": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2025.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2000": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2084.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2000OT": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2143.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200A": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2202.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200AN": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2261.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200C": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2320.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200M": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2379.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200P": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2438.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200S": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2497.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2200T": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2556.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2550M": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2615.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2550Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2674.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2551Q": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2733.0
+            },
+            "checked": true,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2552": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2792.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          },
+          "2553": {
+            "bounds": {
+              "h": 59.0,
+              "w": 814.0,
+              "x": 433.0,
+              "y": 2851.0
+            },
+            "checked": false,
+            "enabled": true,
+            "role": "generic"
+          }
+        }
+      },
+      "rows": [
+        "0605",
+        "0619E",
+        "0619F"
+      ],
+      "steps": [
+        {
+          "checked": false,
+          "code": "0605",
+          "count": "1 selected"
+        },
+        {
+          "checked": false,
+          "code": "0619E",
+          "count": "1 selected"
+        },
+        {
+          "checked": false,
+          "code": "0619F",
+          "count": "1 selected"
+        }
+      ]
+    }
+  },
+  "keyboard_access": {
+    "accessibility_after": {
+      "checkbox_count": 1,
+      "checkboxes": [
+        {
+          "bounds": {
+            "h": 16.0,
+            "w": 16.0,
+            "x": 449.0,
+            "y": 395.0
+          },
+          "checked": false,
+          "enabled": true,
+          "id": "tp-form-1601C-check",
+          "name": "File 1601C in 2026",
+          "role": "checkbox",
+          "states": [
+            "unchecked"
+          ]
+        }
+      ],
+      "child_count": 13,
+      "row": {
+        "bounds": {
+          "h": 58.0,
+          "w": 814.0,
+          "x": 433.0,
+          "y": 374.0
+        },
+        "checked": null,
+        "enabled": true,
+        "focused": false,
+        "id": "tp-form-1601C",
+        "name": "tp-form-1601C",
+        "role": "generic",
+        "states": null
+      }
+    },
+    "accessibility_before": {
+      "checkbox_count": 1,
+      "checkboxes": [
+        {
+          "bounds": {
+            "h": 16.0,
+            "w": 16.0,
+            "x": 449.0,
+            "y": 395.0
+          },
+          "checked": false,
+          "enabled": true,
+          "id": "tp-form-1601C-check",
+          "name": "File 1601C in 2026",
+          "role": "checkbox",
+          "states": [
+            "unchecked"
+          ]
+        }
+      ],
+      "child_count": 13,
+      "row": {
+        "bounds": {
+          "h": 58.0,
+          "w": 814.0,
+          "x": 433.0,
+          "y": 374.0
+        },
+        "checked": null,
+        "enabled": true,
+        "focused": false,
+        "id": "tp-form-1601C",
+        "name": "tp-form-1601C",
+        "role": "generic",
+        "states": null
+      }
+    },
+    "direct_virtual_keys": [
+      {
+        "after": false,
+        "before": false,
+        "count": "3 selected",
+        "key": "Space",
+        "reply": {
+          "error": "node 12344 cannot receive native focus",
+          "error_code": "host_error",
+          "ok": false
+        }
+      },
+      {
+        "after": false,
+        "before": false,
+        "count": "3 selected",
+        "key": "Enter",
+        "reply": {
+          "error": "node 12344 cannot receive native focus",
+          "error_code": "host_error",
+          "ok": false
+        }
+      },
+      {
+        "after": false,
+        "before": false,
+        "count": "3 selected",
+        "key": "Return",
+        "reply": {
+          "error": "node 12344 cannot receive native focus",
+          "error_code": "host_error",
+          "ok": false
+        }
+      }
+    ],
+    "focus_probe": {
+      "after_row_clicks": [],
+      "after_tab": [],
+      "before": [],
+      "tab_reply": {
+        "error": null,
+        "error_code": null,
+        "ok": true
+      }
+    }
+  },
+  "outside_editing": {
+    "after_text_click": {
+      "access": {
+        "checkbox_count": 0,
+        "checkboxes": [],
+        "child_count": 13,
+        "row": {
+          "bounds": {
+            "h": 58.0,
+            "w": 814.0,
+            "x": 433.0,
+            "y": 282.0
+          },
+          "checked": null,
+          "enabled": true,
+          "focused": false,
+          "id": "tp-form-1601C",
+          "name": "tp-form-1601C",
+          "role": "generic",
+          "states": null
+        }
+      },
+      "checked": null,
+      "role": "generic"
+    },
+    "before": {
+      "access": {
+        "checkbox_count": 0,
+        "checkboxes": [],
+        "child_count": 13,
+        "row": {
+          "bounds": {
+            "h": 58.0,
+            "w": 814.0,
+            "x": 433.0,
+            "y": 282.0
+          },
+          "checked": null,
+          "enabled": true,
+          "focused": false,
+          "id": "tp-form-1601C",
+          "name": "tp-form-1601C",
+          "role": "generic",
+          "states": null
+        }
+      },
+      "checked": null,
+      "role": "generic"
+    },
+    "press_reply": {
+      "delivery_status": "delivery_uncertain",
+      "error": "node 1108 is not pressable",
+      "error_code": "host_error",
+      "ok": false
+    }
+  },
+  "save_cancel": {
+    "after_cancel": {
+      "editing": false,
+      "visible_form_rows": [
+        "2551Q"
+      ]
+    },
+    "after_reopen": {
+      "has1601C": false,
+      "has2551Q": true,
+      "visible_form_rows": [
+        "2551Q"
+      ]
+    },
+    "after_save": {
+      "editing": false,
+      "texts": [
+        "Filings",
+        "Filings",
+        "Account menu",
+        "Local account",
+        "Admin \u00b7 this computer",
+        "Juana Santos",
+        "000-123-453-00000",
+        "Head office",
+        "Individual",
+        "Copy TIN",
+        "Copy TIN",
+        "New return",
+        "New return",
+        "Profile",
+        "Forms",
+        "1",
+        "Templates",
+        "0",
+        "2026",
+        "Add year",
+        "Add year",
+        "Edit forms",
+        "Edit forms",
+        "2551Q",
+        "Quarterly Percentage Tax Return",
+        "Next: Q4 2026",
+        "Quarterly",
+        "Due Jan 25, 2027",
+        "No template",
+        "2026 forms updated: 0 added, 1 removed."
+      ],
+      "visible_form_rows": [
+        "2551Q"
+      ]
+    }
+  },
+  "search_filter_setup": {
+    "frequency_steps": [
+      {
+        "count": "3 selected",
+        "freq": "Monthly",
+        "row_count": 2,
+        "rows": [
+          "1600VT",
+          "2550M"
+        ]
+      },
+      {
+        "count": "3 selected",
+        "freq": "Quarterly",
+        "row_count": 1,
+        "rows": [
+          "2550Q"
+        ]
+      },
+      {
+        "count": "3 selected",
+        "freq": "Annual",
+        "row_count": 0,
+        "rows": []
+      },
+      {
+        "count": "3 selected",
+        "freq": "As needed",
+        "row_count": 0,
+        "rows": []
+      },
+      {
+        "count": "3 selected",
+        "freq": "All",
+        "row_count": 3,
+        "rows": [
+          "1600VT",
+          "2550M",
+          "2550Q"
+        ]
+      }
+    ],
+    "select_filtered_2550Q": {
+      "after_text_press": false,
+      "before": false,
+      "count": "3 selected",
+      "final": true,
+      "text_reply": {
+        "delivery_status": "delivery_uncertain",
+        "error": "node 9974 is not pressable",
+        "error_code": "host_error",
+        "ok": false
+      }
+    },
+    "setup_non_vat": {
+      "editing": false,
+      "text_tail": [
+        "Head office",
+        "Individual",
+        "Copy TIN",
+        "Copy TIN",
+        "New return",
+        "New return",
+        "Profile",
+        "Forms",
+        "3",
+        "Templates",
+        "0",
+        "2026",
+        "Add year",
+        "Add year",
+        "Edit forms",
+        "Edit forms",
+        "1701",
+        "Annual Income Tax Return for Individuals, Estates and Trusts",
+        "Next: TY 2026",
+        "Annual",
+        "Due Apr 15, 2027",
+        "No template",
+        "1701Q",
+        "Quarterly Income Tax Return for Individuals, Estates and Trusts",
+        "Next: Q3 2026",
+        "Quarterly",
+        "Due Nov 16, 2026",
+        "No template",
+        "2551Q",
+        "Quarterly Percentage Tax Return",
+        "Next: Q4 2026",
+        "Quarterly",
+        "Due Jan 25, 2027",
+        "No template",
+        "Non-VAT professional: 3 forms for 2026."
+      ],
+      "visible_form_rows": [
+        "1701",
+        "1701Q",
+        "2551Q"
+      ]
+    },
+    "vat_filter": {
+      "count": "2 selected",
+      "has1601C": false,
+      "has2550Q": true,
+      "rows": [
+        "1600VT",
+        "2550M",
+        "2550Q"
+      ]
+    }
+  },
+  "started": "2026-11-25T12:58:12+0000",
+  "startup": {
+    "has_edit": true,
+    "initial_rows": [
+      "1601C",
+      "2551Q"
+    ],
+    "node_count": 164
+  },
+  "widths": {}
+}

@@ -1,0 +1,39 @@
+{
+  "checkbox_count": 1,
+  "checkboxes": [
+    {
+      "bounds": {
+        "h": 58.0,
+        "w": 814.0,
+        "x": 433.0,
+        "y": 374.0
+      },
+      "checked": false,
+      "enabled": true,
+      "id": "tp-form-1601C",
+      "name": "File 1601C in 2026",
+      "role": "checkbox",
+      "states": [
+        "unchecked"
+      ]
+    }
+  ],
+  "child_count": 12,
+  "row": {
+    "bounds": {
+      "h": 58.0,
+      "w": 814.0,
+      "x": 433.0,
+      "y": 374.0
+    },
+    "checked": false,
+    "enabled": true,
+    "focused": false,
+    "id": "tp-form-1601C",
+    "name": "File 1601C in 2026",
+    "role": "checkbox",
+    "states": [
+      "unchecked"
+    ]
+  }
+}
