@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="22.02.0">
+<page number="1" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="0" size="10" family="Times" color="#000000"/>
+	<fontspec id="1" size="10" family="Times" color="#000000"/>
+	<fontspec id="2" size="21" family="Times" color="#000000"/>
+	<fontspec id="3" size="26" family="Times" color="#000000"/>
+	<fontspec id="4" size="11" family="Times" color="#000000"/>
+	<fontspec id="5" size="9" family="Times" color="#000000"/>
+	<fontspec id="6" size="11" family="Times" color="#000000"/>
+	<fontspec id="7" size="10" family="Times" color="#000000"/>
+	<fontspec id="8" size="14" family="Times" color="#000000"/>
+	<fontspec id="9" size="15" family="Times" color="#000000"/>
+	<fontspec id="10" size="18" family="Times" color="#000000"/>
+	<fontspec id="11" size="14" family="Times" color="#000000"/>
+	<fontspec id="12" size="11" family="Times" color="#000000"/>
+	<fontspec id="13" size="7" family="Times" color="#000000"/>
+	<fontspec id="14" size="10" family="Times" color="#000000"/>
+	<fontspec id="15" size="9" family="Times" color="#000000"/>
+	<fontspec id="16" size="7" family="Times" color="#000000"/>
+	<fontspec id="17" size="9" family="Times" color="#000000"/>
+<text top="54" left="390" width="134" height="14" font="0"><b>Republic of the Philippines</b></text>
+<text top="66" left="390" width="121" height="14" font="0"><b>    Department of Finance</b></text>
+<text top="67" left="67" width="33" height="14" font="1">For BIR</text>
+<text top="68" left="120" width="25" height="14" font="1">BCS/</text>
+<text top="78" left="390" width="132" height="14" font="0"><b>Bureau of Internal Revenue</b></text>
+<text top="79" left="67" width="76" height="15" font="1">Use Only:   Item:</text>
+<text top="96" left="261" width="265" height="27" font="2"><b>Annual Income Tax Return </b></text>
+<text top="106" left="89" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="118" left="72" width="107" height="34" font="3"><b>1702-MX</b></text>
+<text top="120" left="252" width="283" height="15" font="4"><b>Corporation, Partnership and Other Non-Individual  </b></text>
+<text top="134" left="226" width="335" height="15" font="4"><b>with MIXED Income Subject to Multiple Income Tax Rates or  </b></text>
+<text top="147" left="238" width="311" height="15" font="4"><b>with Income Subject to SPECIAL/PREFERENTIAL RATE </b></text>
+<text top="148" left="78" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="160" left="109" width="34" height="14" font="0"><b>Page 1</b></text>
+<text top="161" left="206" width="370" height="12" font="5"><i>Enter all required information in CAPITAL LETTERS using BLACK ink. Mark applicable boxes with an “X”.</i></text>
+<text top="162" left="704" width="115" height="14" font="1">1702-MX 01/18ENCS P1</text>
+<text top="172" left="271" width="248" height="12" font="5"><i>Two copies MUST be filed with the BIR and one held by the taxpayer.</i></text>
+<text top="189" left="247" width="104" height="15" font="4"><b>3 </b>Amended Return? </text>
+<text top="189" left="368" width="272" height="15" font="4"><b>4 </b>Short Period Return? <b>5 </b>Alphanumeric Tax Code </text>
+<text top="190" left="640" width="26" height="14" font="7"><i>(ATC)</i></text>
+<text top="192" left="74" width="27" height="15" font="4"><b>1 </b>For</text>
+<text top="192" left="131" width="105" height="15" font="6">Calendar        Fiscal</text>
+<text top="203" left="518" width="27" height="14" font="1">IC 055</text>
+<text top="203" left="583" width="168" height="14" font="1">Minimum Corporate Income Tax (MCIT)</text>
+<text top="209" left="74" width="72" height="15" font="4"><b>2 </b>Year Ended</text>
+<text top="210" left="150" width="53" height="14" font="7"><i>(MM/20YY)</i></text>
+<text top="212" left="278" width="25" height="19" font="8">Yes</text>
+<text top="212" left="334" width="19" height="19" font="8">No</text>
+<text top="212" left="401" width="25" height="19" font="8">Yes</text>
+<text top="212" left="458" width="19" height="19" font="8">No</text>
+<text top="222" left="127" width="22" height="21" font="9">/20</text>
+<text top="246" left="356" width="178" height="15" font="4"><b>Part I – Background Information  </b></text>
+<text top="262" left="570" width="90" height="24" font="10"><b>0 0 0 0 0</b></text>
+<text top="264" left="394" width="5" height="19" font="11"><b>-</b></text>
+<text top="264" left="474" width="5" height="19" font="11"><b>-</b></text>
+<text top="264" left="554" width="5" height="19" font="11"><b>-</b></text>
+<text top="266" left="74" width="205" height="15" font="4"><b>6</b> Taxpayer Identification Number <i>(TIN)</i></text>
+<text top="266" left="671" width="63" height="15" font="4"><b>7</b> RDO Code</text>
+<text top="284" left="74" width="105" height="15" font="4"><b>8</b> Registered Name </text>
+<text top="285" left="180" width="251" height="14" font="7"><i>(Enter only 1 letter per box using CAPITAL LETTERS)</i></text>
+<text top="375" left="74" width="117" height="15" font="4"><b>9</b> Registered Address </text>
+<text top="376" left="192" width="572" height="14" font="7"><i>(Indicate complete address. If the registered address is different from the current address, go to the RDO to update registered address by using BIR Form No. 1905)</i></text>
+<text top="446" left="672" width="63" height="15" font="4"><b>9A</b> ZIP Code</text>
+<text top="466" left="74" width="193" height="15" font="4"><b>10</b> Date of Incorporation/Organization</text>
+<text top="470" left="335" width="4" height="19" font="11"><b>/</b></text>
+<text top="470" left="395" width="4" height="19" font="11"><b>/</b></text>
+<text top="472" left="494" width="98" height="15" font="4"><b>11</b> Contact Number</text>
+<text top="482" left="120" width="55" height="10" font="13"><i>(MM/DD/YYYY)</i></text>
+<text top="497" left="74" width="91" height="15" font="4"><b>12</b> Email Address </text>
+<text top="517" left="511" width="307" height="15" font="6">Optional Standard Deduction (OSD)–40% of Gross Income </text>
+<text top="523" left="74" width="126" height="15" font="4"><b>13</b> Method of Deduction</text>
+<text top="524" left="232" width="230" height="15" font="6">Itemized Deduction [Section 34 (A-J), NIRC]</text>
+<text top="533" left="514" width="138" height="12" font="5"><i>[Section 34(L) NIRC, as amended]</i></text>
+<text top="549" left="374" width="141" height="15" font="4"><b>Part II – Total Tax Payable</b></text>
+<text top="549" left="587" width="13" height="15" font="12"><i>(D</i></text>
+<text top="550" left="672" width="3" height="14" font="14"><i><b>;</b></i></text>
+<text top="551" left="599" width="73" height="12" font="15"><i><b>O NOT enter Centavos</b></i></text>
+<text top="553" left="676" width="147" height="10" font="16"><i><b>49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="570" left="74" width="185" height="15" font="4"><b>14 Total Tax Due/(Overpayment) </b></text>
+<text top="571" left="259" width="168" height="14" font="7"><i>(From Part IV-Schedule 2 Item 19D)</i></text>
+<text top="596" left="74" width="198" height="15" font="4"><b>15 </b>Less: Total Tax Credits/Payments </text>
+<text top="597" left="272" width="167" height="14" font="7"><i>(From Part IV-Schedule 3 Item 32D)</i></text>
+<text top="621" left="74" width="201" height="15" font="4"><b>16 Net Tax Payable / (Overpayment)</b></text>
+<text top="622" left="278" width="219" height="14" font="7"><i>(Item 14 Less Item 15) (From Part IV Item 33D)</i></text>
+<text top="641" left="74" width="88" height="15" font="6">     Add: Penalties</text>
+<text top="661" left="91" width="71" height="15" font="4"><b>17 </b>Surcharge</text>
+<text top="687" left="91" width="56" height="15" font="4"><b>18 </b>Interest</text>
+<text top="712" left="91" width="84" height="15" font="4"><b>19 </b>Compromise</text>
+<text top="738" left="74" width="95" height="15" font="4"><b>20</b> Total Penalties</text>
+<text top="739" left="173" width="110" height="14" font="7"><i>(Sum of Items 17 to 19)</i></text>
+<text top="763" left="74" width="250" height="15" font="4"><b>21 TOTAL AMOUNT PAYABLE / (Overpayment)</b></text>
+<text top="764" left="326" width="111" height="14" font="7"><i>(Sum of  Items 16 and 20)  </i></text>
+<text top="783" left="74" width="487" height="15" font="6">     If overpayment, mark one (1) box only. <i>(Once the choice is made, the same is irrevocable)</i></text>
+<text top="800" left="108" width="85" height="15" font="6">  To be refunded </text>
+<text top="800" left="234" width="229" height="15" font="6"> To be issued a Tax Credit Certificate (TCC) </text>
+<text top="800" left="508" width="268" height="15" font="6">To be carried over as tax credit for next year/quarter</text>
+<text top="822" left="74" width="742" height="14" font="7"><i>          We declare under the penalties of perjury that this return, and all its attachments, have been made in good faith, verified by us, and to the best of our knowledge and belief, are true and </i></text>
+<text top="834" left="74" width="539" height="14" font="7"><i>correct, pursuant to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. </i></text>
+<text top="835" left="614" width="200" height="12" font="5"><i>(If signed by an Authorized Representative, indicate TIN and</i></text>
+<text top="846" left="74" width="87" height="12" font="5"><i>attach authorization letter)</i></text>
+<text top="875" left="734" width="69" height="15" font="4"><b>22 </b>Number of</text>
+<text top="889" left="748" width="64" height="15" font="6">Attachments</text>
+<text top="919" left="69" width="636" height="14" font="1"> Signature over Printed Name of President/Principal Officer/ Authorized Representative Signature over Printed Name of Treasurer/ Assistant Treasurer</text>
+<text top="935" left="613" width="19" height="15" font="6">TIN</text>
+<text top="935" left="74" width="79" height="14" font="1">Title of Signatory</text>
+<text top="935" left="274" width="17" height="14" font="1">TIN</text>
+<text top="935" left="414" width="77" height="14" font="1">Title of Signatory</text>
+<text top="956" left="368" width="153" height="15" font="4"><b>Part III – Details of Payment </b></text>
+<text top="972" left="112" width="61" height="15" font="4"><b>Particulars</b></text>
+<text top="972" left="358" width="43" height="15" font="4"><b>Number</b></text>
+<text top="972" left="471" width="26" height="15" font="4"><b>Date</b></text>
+<text top="972" left="689" width="43" height="15" font="4"><b>Amount</b></text>
+<text top="973" left="222" width="88" height="14" font="0"><b>Drawee Bank/Agency</b></text>
+<text top="973" left="500" width="72" height="14" font="7"><i>(MM/DD/YYYY)</i></text>
+<text top="992" left="72" width="140" height="15" font="4"><b>23</b> Cash/Bank Debit Memo </text>
+<text top="1017" left="72" width="50" height="15" font="4"><b>24 </b>Check</text>
+<text top="1043" left="72" width="102" height="15" font="4"><b>25</b> Tax Debit Memo </text>
+<text top="1063" left="72" width="52" height="15" font="4"><b>26 </b>Others</text>
+<text top="1064" left="128" width="70" height="14" font="7"><i>(specify below)</i></text>
+<text top="1118" left="605" width="198" height="14" font="7"><i>Stamp of Receiving Office/AAB and Date of</i></text>
+<text top="1120" left="74" width="280" height="15" font="6">Machine Validation/Revenue Official Receipt Details [</text>
+<text top="1119" left="354" width="224" height="14" font="7"><i>if not filed with an Authorized Agent Bank (AAB)]</i></text>
+<text top="1119" left="605" width="203" height="14" font="7"><i>Receipt (RO’s Signature/Bank Teller’s Initial)</i></text>
+<text top="193" left="114" width="8" height="15" font="6">X</text>
+<text top="204" left="791" width="7" height="13" font="1">X</text>
+<text top="214" left="316" width="8" height="15" font="6">X</text>
+<text top="214" left="442" width="8" height="15" font="6">X</text>
+<text top="221" left="521" width="28" height="13" font="1">IC010</text>
+<text top="224" left="89" width="24" height="15" font="6">1 2</text>
+<text top="224" left="153" width="24" height="15" font="6">2 5</text>
+<text top="266" left="334" width="46" height="15" font="6">0 0 0</text>
+<text top="266" left="413" width="46" height="15" font="6">1 2 3</text>
+<text top="266" left="493" width="46" height="15" font="6">4 5 3</text>
+<text top="266" left="753" width="46" height="15" font="6">0 3 9</text>
+<text top="305" left="74" width="107" height="15" font="6">S A M P L E</text>
+<text top="305" left="213" width="88" height="15" font="6">D U M M Y</text>
+<text top="305" left="333" width="148" height="15" font="6">T A X P A Y E R</text>
+<text top="395" left="70" width="350" height="15" font="6">UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA</text>
+<text top="421" left="70" width="333" height="15" font="6">JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA</text>
+<text top="447" left="70" width="278" height="15" font="6">BOULEVARD BARANGAY SAN LORENZO MAKATI</text>
+<text top="447" left="753" width="66" height="15" font="6">1 1 0 0</text>
+<text top="471" left="294" width="26" height="15" font="6">0 1</text>
+<text top="471" left="353" width="26" height="15" font="6">1 5</text>
+<text top="471" left="413" width="66" height="15" font="6">2 0 1 5</text>
+<text top="471" left="613" width="206" height="15" font="6">0 9 1 7 1 2 3 4 5 6 7</text>
+<text top="497" left="189" width="279" height="15" font="6">juana.santos.independent.print.check@example.com</text>
+<text top="661" left="733" width="86" height="15" font="6">1 2 3 4 5</text>
+<text top="687" left="733" width="86" height="15" font="6">2 3 4 5 6</text>
+<text top="712" left="753" width="66" height="15" font="6">3 4 5 6</text>
+<text top="738" left="733" width="86" height="15" font="6">3 9 2 5 7</text>
+<text top="764" left="713" width="106" height="15" font="6">5 9 5 3 0 2</text>
+<text top="910" left="753" width="46" height="15" font="6">0 0 0</text>
+<text top="988" left="221" width="64" height="13" font="17">BANK WITH A</text>
+<text top="998" left="221" width="89" height="13" font="17">VERY LONG DRA...</text>
+<text top="986" left="316" width="127" height="15" font="6">PAY-123456789012345</text>
+<text top="998" left="316" width="33" height="15" font="6">67890</text>
+<text top="992" left="453" width="139" height="15" font="6">0 1 3 1 2 0 2 6</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="18" size="6" family="Times" color="#000000"/>
+	<fontspec id="19" size="7" family="Times" color="#000000"/>
+	<fontspec id="20" size="8" family="Times" color="#000000"/>
+	<fontspec id="21" size="8" family="Times" color="#000000"/>
+	<fontspec id="22" size="15" family="Times" color="#000000"/>
+	<fontspec id="23" size="8" family="Times" color="#000000"/>
+<text top="54" left="94" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="54" left="261" width="264" height="27" font="2"><b>Annual Income Tax Return </b></text>
+<text top="66" left="71" width="107" height="34" font="3"><b>1702-MX</b></text>
+<text top="79" left="252" width="283" height="15" font="4"><b>Corporation, Partnership and Other Non-Individual  </b></text>
+<text top="92" left="226" width="335" height="15" font="4"><b>with MIXED Income Subject to Multiple Income Tax Rates or  </b></text>
+<text top="96" left="78" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="106" left="238" width="311" height="15" font="4"><b>with Income Subject to SPECIAL/PREFERENTIAL RATE</b></text>
+<text top="108" left="108" width="34" height="14" font="0"><b>Page 2</b></text>
+<text top="110" left="704" width="115" height="14" font="1">1702-MX 01/18ENCS P2</text>
+<text top="124" left="74" width="193" height="15" font="6">Taxpayer Identification Number (TIN) </text>
+<text top="124" left="355" width="90" height="15" font="6">Registered Name </text>
+<text top="138" left="251" width="90" height="24" font="10"><b>0 0 0 0 0</b></text>
+<text top="165" left="394" width="108" height="15" font="4"><b>Part IV – Schedules</b></text>
+<text top="181" left="74" width="71" height="15" font="4"><b>Instructions</b>:</text>
+<text top="182" left="178" width="521" height="14" font="1">A. Only one activity/project under EXEMPT and/or SPECIAL Tax Regimes, fill-out the applicable columns below. </text>
+<text top="195" left="177" width="633" height="14" font="1">B. Two or more activities/projects under EXEMPT and/or SPECIAL Tax Regimes, accomplish Part V-Mandatory Attachments per activity</text>
+<text top="196" left="71" width="76" height="12" font="5"><i>(mark appropriate box)</i></text>
+<text top="207" left="571" width="2" height="14" font="1">.</text>
+<text top="207" left="74" width="496" height="14" font="1">                                      and reflect consolidated amounts from Part V on the corresponding columns below</text>
+<text top="221" left="74" width="169" height="15" font="4"><b>Schedule 1 – Basis of Tax Relief </b></text>
+<text top="236" left="682" width="101" height="14" font="0"><b>C. Special Tax Relief</b></text>
+<text top="241" left="130" width="55" height="14" font="0"><b>Particulars</b></text>
+<text top="241" left="323" width="48" height="14" font="0"><b>A.  Exempt</b></text>
+<text top="241" left="520" width="46" height="14" font="0"><b>B.  Special</b></text>
+<text top="248" left="671" width="133" height="12" font="5"><i>      (Under Regular/Normal Rate)</i></text>
+<text top="259" left="81" width="140" height="14" font="1">Investment Promotion Agency (IPA)/</text>
+<text top="259" left="72" width="6" height="14" font="0"><b>1</b></text>
+<text top="271" left="83" width="134" height="12" font="17">Implementing Government Entity</text>
+<text top="286" left="72" width="71" height="15" font="4"><b>2 </b>Legal Basis</text>
+<text top="307" left="82" width="120" height="15" font="6">Registered Activity/Program</text>
+<text top="307" left="72" width="7" height="15" font="4"><b>3</b></text>
+<text top="308" left="206" width="40" height="14" font="7"><i>(Reg. No.)</i></text>
+<text top="326" left="629" width="13" height="19" font="11"><b>%</b></text>
+<text top="328" left="72" width="100" height="15" font="4"><b>4 </b>Special Tax Rate</text>
+<text top="337" left="593" width="4" height="9" font="18">●</text>
+<text top="345" left="217" width="41" height="14" font="1">Exemption</text>
+<text top="345" left="72" width="145" height="14" font="0"><b>5 </b>Effectivity Date of Tax Relief/</text>
+<text top="358" left="83" width="81" height="10" font="19">FROM <i>(MM/DD/YYYY)</i></text>
+<text top="368" left="218" width="41" height="14" font="1">Exemption</text>
+<text top="368" left="72" width="146" height="14" font="0"><b>6 </b>Expiration Date of Tax Relief/</text>
+<text top="381" left="81" width="68" height="10" font="19">TO <i>(MM/DD/YYYY)</i></text>
+<text top="395" left="74" width="288" height="14" font="0"><b>Schedule 2 – Computation of Income Tax per Tax Regime</b></text>
+<text top="397" left="543" width="257" height="12" font="15"><i><b>(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)</b></i></text>
+<text top="409" left="180" width="53" height="14" font="1">Description</text>
+<text top="409" left="370" width="72" height="14" font="1">A. Total Exempt</text>
+<text top="409" left="490" width="69" height="14" font="1">B. Total Special</text>
+<text top="409" left="609" width="74" height="14" font="1">C.  Total  Regular</text>
+<text top="409" left="716" width="94" height="14" font="1">D. Total All Columns</text>
+<text top="422" left="72" width="156" height="14" font="0"><b>1 </b>Sales/Receipts/Revenues/Fees</text>
+<text top="435" left="72" width="265" height="12" font="5"><i>   (From all of Part V-Sched B Item 1, if letter B of instructions above is marked</i>)</text>
+<text top="446" left="72" width="232" height="14" font="0"><b>2</b> Less: Sales Returns, Allowances and Discounts</text>
+<text top="459" left="78" width="254" height="12" font="5"><i>(From all of Part V-Sched B Item 2, if letter B of instructions above is marked)</i></text>
+<text top="473" left="72" width="178" height="14" font="0"><b>3</b> Net Sales/Receipts/Revenues/Fees </text>
+<text top="474" left="250" width="72" height="13" font="5"><i>(Item 1 Less Item 2)</i></text>
+<text top="490" left="72" width="141" height="14" font="0"><b>4</b> Less: Cost of Sales/Services </text>
+<text top="503" left="78" width="260" height="12" font="5"><i> (From all of Part V-Sched B Item 4, if letter B of instructions above is marked)</i></text>
+<text top="517" left="72" width="147" height="14" font="0"><b>5</b> Gross Income from Operation</text>
+<text top="518" left="223" width="82" height="12" font="5"><i>(Item 3 Less Item 4)</i></text>
+<text top="533" left="106" width="187" height="14" font="1">Other Taxable Income not subjected to Final Tax</text>
+<text top="533" left="72" width="31" height="14" font="0"><b>6 </b>Add:</text>
+<text top="546" left="85" width="256" height="12" font="5"><i>From all of Part V-Sched B Item 6, if letter B of instructions above is marked)</i></text>
+<text top="546" left="82" width="3" height="12" font="5"><i>(</i></text>
+<text top="562" left="72" width="110" height="14" font="0"><b>7</b> Total Taxable Income</text>
+<text top="563" left="185" width="85" height="12" font="5"><i>(Sum of Items 5 and 6)</i></text>
+<text top="580" left="72" width="216" height="14" font="1">Less: Deductions Allowable under Existing Law</text>
+<text top="592" left="81" width="153" height="14" font="1">Ordinary Allowable Itemized Deductions</text>
+<text top="592" left="72" width="6" height="14" font="0"><b>8</b></text>
+<text top="594" left="237" width="94" height="12" font="5"><i>(From Sched 5 Item 18) &amp;/or </i></text>
+<text top="606" left="82" width="256" height="12" font="5"><i> (From all of Part V-Sched B Item 8, if letter B of instructions above is marked)</i></text>
+<text top="616" left="81" width="148" height="14" font="1">Special Allowable Itemized Deductions</text>
+<text top="616" left="72" width="6" height="14" font="0"><b>9</b></text>
+<text top="618" left="232" width="90" height="12" font="5"><i>(From Sched 6 Item 5) &amp;/or </i></text>
+<text top="630" left="81" width="260" height="12" font="5"><i> (From all of Part V-Sched B Item 9, if letter B of instructions above is marked)</i></text>
+<text top="641" left="132" width="193" height="12" font="5"><i>[Only for those taxable under Section 27 (A to C); Section</i></text>
+<text top="645" left="69" width="52" height="14" font="0"><b>10 </b>NOLCO</text>
+<text top="652" left="132" width="159" height="12" font="5"><i>28(A)(1)(A)(6)(b) of the Tax Code, as amended]</i></text>
+<text top="663" left="74" width="253" height="11" font="20"><i>(<b>For Special Rate</b>: If w/ only 1 activity, From Schedule 8.1 Item 8; if with 2 or more</i></text>
+<text top="673" left="74" width="267" height="11" font="20"><i>activities, From all of Part V-Sched B Item 10; <b>For Reg. Rate</b>: From Sched 7.1 Item 8)</i></text>
+<text top="688" left="69" width="139" height="14" font="0"><b>11 </b>Total Itemized Deductions </text>
+<text top="690" left="209" width="91" height="12" font="5"><i>(Sum of Items 8 to 10)</i></text>
+<text top="704" left="95" width="226" height="14" font="14"><i><b>OR </b>[in case taxable under Sec 27(A) &amp; 28(A)(1)]</i></text>
+<text top="717" left="69" width="258" height="14" font="0"><b>12</b> Optional Standard Deduction (OSD) <i>(40% of Item 7)</i></text>
+<text top="730" left="69" width="140" height="14" font="0"><b>13</b> Net Taxable Income/(Loss)  </text>
+<text top="742" left="84" width="223" height="13" font="5"><i>(If Itemized: Item 7 Less Item 11; If OSD: Item 7 Less Item 12)</i></text>
+<text top="754" left="70" width="146" height="14" font="0"><b>14</b> Applicable Income Tax Rate</text>
+<text top="757" left="390" width="33" height="21" font="22"><b> 0 %</b></text>
+<text top="757" left="570" width="14" height="21" font="22"><b>%</b></text>
+<text top="757" left="688" width="14" height="21" font="22"><b>%</b></text>
+<text top="767" left="84" width="151" height="12" font="5"><i>(i.e. Special or Regular/Normal Rate)</i></text>
+<text top="768" left="533" width="5" height="10" font="19">●</text>
+<text top="768" left="653" width="5" height="10" font="19">●</text>
+<text top="778" left="70" width="171" height="14" font="0"><b>15 </b>Income Tax Due other than MCIT</text>
+<text top="779" left="243" width="84" height="12" font="17">[<i>For <b>Special Rate</b>: If with</i></text>
+<text top="786" left="429" width="29" height="21" font="22"><b>0.00</b></text>
+<text top="791" left="74" width="263" height="12" font="5"><i>     only 1 activity, (Item 3 <b>OR</b> Item 7) X Item 14; if with 2 or more activities, from </i></text>
+<text top="803" left="74" width="234" height="12" font="5"><i>     all of Part V-Sched B Item 14; For<b> Regular Rate</b> Item 13 X Item 14 ]</i></text>
+<text top="813" left="70" width="212" height="14" font="0"><b>16 </b>Less: Share of Other Government Agency, </text>
+<text top="817" left="668" width="29" height="21" font="22"><b>0.00</b></text>
+<text top="827" left="118" width="73" height="13" font="17">if remitted directly</text>
+<text top="839" left="70" width="225" height="14" font="0"><b>17 </b>Net Income Tax Due to National Government</text>
+<text top="853" left="74" width="141" height="12" font="5"><i>     (Item 15 Less Item 16)              </i></text>
+<text top="865" left="70" width="40" height="14" font="0"><b>18 </b>MCIT</text>
+<text top="866" left="113" width="137" height="13" font="5"><i>(2% of Gross Income in Item 7)</i></text>
+<text top="880" left="69" width="202" height="14" font="0"><b>19 Total Income Tax Due / (Overpayment)</b></text>
+<text top="894" left="84" width="254" height="12" font="5"><i>(Item 19B = Item 17B) (Item 19C = Normal Income Tax in Item</i></text>
+<text top="905" left="74" width="254" height="12" font="5"><i>    15C OR MCIT in Item 18C, whichever is higher) (Item 18D = </i></text>
+<text top="916" left="87" width="229" height="12" font="5"><i>Sum of Items 19B and 19C) (Item 19D to Part II Item 14) </i></text>
+<text top="932" left="72" width="246" height="14" font="0"><b>Schedule 3 - Tax Credits/Payments <i>(attach proof)</i></b></text>
+<text top="947" left="70" width="222" height="14" font="0"><b>20 </b>Prior Year’s Excess Credits other than MCIT</text>
+<text top="962" left="84" width="224" height="14" font="1">Income Tax Payment under MCIT from Previous Quarter/s</text>
+<text top="962" left="70" width="12" height="14" font="0"><b>21</b></text>
+<text top="976" left="84" width="236" height="14" font="1">Income Tax Payment Under Regular Rate from Previous Qtr/s </text>
+<text top="976" left="70" width="12" height="14" font="0"><b>22</b></text>
+<text top="990" left="70" width="228" height="14" font="0"><b>23 </b>Excess MCIT Applied this Current Taxable Year</text>
+<text top="1003" left="86" width="104" height="12" font="5"><i>(From Schedule 9 Item 4)</i></text>
+<text top="1015" left="85" width="257" height="14" font="1">Creditable Tax Withheld from Previous Qtr/s per BIR Form No.  2307</text>
+<text top="1015" left="70" width="12" height="14" font="0"><b>24</b></text>
+<text top="1029" left="84" width="226" height="14" font="1">Creditable Tax Withheld per BIR Form No.  2307 for the 4th Qtr</text>
+<text top="1029" left="70" width="12" height="14" font="0"><b>25</b></text>
+<text top="1044" left="70" width="169" height="14" font="0"><b>26 </b>Foreign Tax Credits, if applicable</text>
+<text top="1059" left="84" width="248" height="14" font="1">Tax Paid in Return Previously Filed, if this is an Amended Return</text>
+<text top="1059" left="70" width="12" height="14" font="0"><b>27</b></text>
+<text top="1074" left="84" width="238" height="14" font="1">Income Tax Payments under Special Rate from Previous Qtr/s</text>
+<text top="1074" left="70" width="12" height="14" font="0"><b>28</b></text>
+<text top="1089" left="70" width="109" height="14" font="0"><b>29 </b>Special Tax Credits </text>
+<text top="1090" left="179" width="125" height="12" font="5"><i>(To Part IV-Schedule 4 Item 6)</i></text>
+<text top="1119" left="70" width="136" height="14" font="1">Other Tax Credits/Payments </text>
+<text top="1118" left="205" width="37" height="13" font="5"><i>(specify)</i></text>
+<text top="1119" left="69" width="12" height="14" font="0"><b>30</b></text>
+<text top="1132" left="69" width="12" height="14" font="0"><b>31</b></text>
+<text top="1145" left="70" width="143" height="14" font="0"><b>32 </b>Total Tax Credits/Payments </text>
+<text top="1158" left="86" width="228" height="13" font="5"><i>(Sum of Items 20 to 31) (Item 32D to Part II Item 15)</i></text>
+<text top="1174" left="70" width="179" height="14" font="0"><b>33 Net Tax Payable / (Overpayment)</b></text>
+<text top="1187" left="84" width="224" height="13" font="5"><i>(Item 19 Less Item 32) (Item 33D to Part II Item 16)</i></text>
+<text top="143" left="74" width="167" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="138" left="350" width="470" height="15" font="6">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY</text>
+<text top="150" left="350" width="434" height="15" font="6">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="183" left="161" width="6" height="12" font="23">X</text>
+<text top="286" left="453" width="66" height="15" font="6">3 0 0 0</text>
+<text top="286" left="653" width="86" height="15" font="6">7 5 0 0 0</text>
+<text top="307" left="453" width="86" height="15" font="6">9 6 0 0 0</text>
+<text top="307" left="653" width="106" height="15" font="6">4 6 0 0 4 5</text>
+<text top="427" left="456" width="7" height="15" font="6">0</text>
+<text top="427" left="576" width="7" height="15" font="6">0</text>
+<text top="427" left="696" width="7" height="15" font="6">0</text>
+<text top="427" left="815" width="7" height="15" font="6">0</text>
+<text top="451" left="456" width="7" height="15" font="6">0</text>
+<text top="451" left="576" width="7" height="15" font="6">0</text>
+<text top="451" left="696" width="7" height="15" font="6">0</text>
+<text top="451" left="815" width="7" height="15" font="6">0</text>
+<text top="473" left="456" width="7" height="15" font="6">0</text>
+<text top="473" left="576" width="7" height="15" font="6">0</text>
+<text top="473" left="696" width="7" height="15" font="6">0</text>
+<text top="473" left="815" width="7" height="15" font="6">0</text>
+<text top="494" left="456" width="7" height="15" font="6">0</text>
+<text top="494" left="576" width="7" height="15" font="6">0</text>
+<text top="494" left="696" width="7" height="15" font="6">0</text>
+<text top="494" left="815" width="7" height="15" font="6">0</text>
+<text top="517" left="456" width="7" height="15" font="6">0</text>
+<text top="517" left="576" width="7" height="15" font="6">0</text>
+<text top="517" left="696" width="7" height="15" font="6">0</text>
+<text top="517" left="815" width="7" height="15" font="6">0</text>
+<text top="538" left="456" width="7" height="15" font="6">0</text>
+<text top="538" left="576" width="7" height="15" font="6">0</text>
+<text top="538" left="696" width="7" height="15" font="6">0</text>
+<text top="538" left="815" width="7" height="15" font="6">0</text>
+<text top="561" left="456" width="7" height="15" font="6">0</text>
+<text top="561" left="576" width="7" height="15" font="6">0</text>
+<text top="561" left="696" width="7" height="15" font="6">0</text>
+<text top="561" left="815" width="7" height="15" font="6">0</text>
+<text top="597" left="456" width="7" height="15" font="6">0</text>
+<text top="597" left="576" width="7" height="15" font="6">0</text>
+<text top="597" left="696" width="7" height="15" font="6">0</text>
+<text top="597" left="815" width="7" height="15" font="6">0</text>
+<text top="622" left="456" width="7" height="15" font="6">0</text>
+<text top="622" left="576" width="7" height="15" font="6">0</text>
+<text top="622" left="696" width="7" height="15" font="6">0</text>
+<text top="622" left="815" width="7" height="15" font="6">0</text>
+<text top="655" left="576" width="7" height="15" font="6">0</text>
+<text top="655" left="696" width="7" height="15" font="6">0</text>
+<text top="655" left="815" width="7" height="15" font="6">0</text>
+<text top="688" left="456" width="7" height="15" font="6">0</text>
+<text top="688" left="576" width="7" height="15" font="6">0</text>
+<text top="688" left="696" width="7" height="15" font="6">0</text>
+<text top="688" left="815" width="7" height="15" font="6">0</text>
+<text top="718" left="697" width="6" height="13" font="1">0</text>
+<text top="718" left="816" width="6" height="13" font="1">0</text>
+<text top="735" left="456" width="7" height="15" font="6">0</text>
+<text top="735" left="576" width="7" height="15" font="6">0</text>
+<text top="735" left="696" width="7" height="15" font="6">0</text>
+<text top="735" left="815" width="7" height="15" font="6">0</text>
+<text top="788" left="576" width="7" height="15" font="6">0</text>
+<text top="788" left="696" width="7" height="15" font="6">0</text>
+<text top="788" left="815" width="7" height="15" font="6">0</text>
+<text top="819" left="467" width="7" height="15" font="6">0</text>
+<text top="819" left="707" width="7" height="15" font="6">0</text>
+<text top="844" left="576" width="7" height="15" font="6">0</text>
+<text top="844" left="696" width="7" height="15" font="6">0</text>
+<text top="844" left="815" width="7" height="15" font="6">0</text>
+<text top="864" left="696" width="7" height="15" font="6">0</text>
+<text top="864" left="815" width="7" height="15" font="6">0</text>
+<text top="897" left="576" width="7" height="15" font="6">0</text>
+<text top="897" left="696" width="7" height="15" font="6">0</text>
+<text top="897" left="815" width="7" height="15" font="6">0</text>
+<text top="948" left="456" width="6" height="15" font="6">0</text>
+<text top="948" left="576" width="6" height="15" font="6">0</text>
+<text top="948" left="696" width="6" height="15" font="6">0</text>
+<text top="948" left="815" width="6" height="15" font="6">0</text>
+<text top="960" left="696" width="7" height="15" font="6">0</text>
+<text top="960" left="815" width="7" height="15" font="6">0</text>
+<text top="976" left="348" width="7" height="15" font="6">0</text>
+<text top="976" left="467" width="7" height="15" font="6">0</text>
+<text top="976" left="587" width="7" height="15" font="6">0</text>
+<text top="976" left="707" width="7" height="15" font="6">0</text>
+<text top="995" left="696" width="7" height="15" font="6">0</text>
+<text top="995" left="815" width="7" height="15" font="6">0</text>
+<text top="1014" left="456" width="7" height="15" font="6">0</text>
+<text top="1014" left="576" width="7" height="15" font="6">0</text>
+<text top="1014" left="696" width="7" height="15" font="6">0</text>
+<text top="1014" left="815" width="7" height="15" font="6">0</text>
+<text top="1028" left="456" width="7" height="15" font="6">0</text>
+<text top="1028" left="576" width="7" height="15" font="6">0</text>
+<text top="1028" left="696" width="7" height="15" font="6">0</text>
+<text top="1028" left="815" width="7" height="15" font="6">0</text>
+<text top="1043" left="456" width="7" height="15" font="6">0</text>
+<text top="1043" left="576" width="7" height="15" font="6">0</text>
+<text top="1043" left="696" width="7" height="15" font="6">0</text>
+<text top="1043" left="815" width="7" height="15" font="6">0</text>
+<text top="1058" left="456" width="7" height="15" font="6">0</text>
+<text top="1058" left="576" width="7" height="15" font="6">0</text>
+<text top="1058" left="696" width="7" height="15" font="6">0</text>
+<text top="1058" left="815" width="7" height="15" font="6">0</text>
+<text top="1073" left="348" width="7" height="15" font="6">0</text>
+<text top="1073" left="467" width="7" height="15" font="6">0</text>
+<text top="1073" left="587" width="7" height="15" font="6">0</text>
+<text top="1073" left="707" width="7" height="15" font="6">0</text>
+<text top="1089" left="456" width="7" height="15" font="6">0</text>
+<text top="1089" left="576" width="7" height="15" font="6">0</text>
+<text top="1089" left="696" width="7" height="15" font="6">0</text>
+<text top="1089" left="815" width="7" height="15" font="6">0</text>
+<text top="1116" left="456" width="7" height="15" font="6">0</text>
+<text top="1116" left="576" width="7" height="15" font="6">0</text>
+<text top="1116" left="696" width="7" height="15" font="6">0</text>
+<text top="1116" left="815" width="7" height="15" font="6">0</text>
+<text top="1131" left="456" width="7" height="15" font="6">0</text>
+<text top="1131" left="576" width="7" height="15" font="6">0</text>
+<text top="1131" left="696" width="7" height="15" font="6">0</text>
+<text top="1131" left="815" width="7" height="15" font="6">0</text>
+<text top="1151" left="456" width="7" height="15" font="6">0</text>
+<text top="1151" left="576" width="7" height="15" font="6">0</text>
+<text top="1151" left="696" width="7" height="15" font="6">0</text>
+<text top="1151" left="815" width="7" height="15" font="6">0</text>
+<text top="1178" left="456" width="7" height="15" font="6">0</text>
+<text top="1178" left="576" width="7" height="15" font="6">0</text>
+<text top="1178" left="696" width="7" height="15" font="6">0</text>
+<text top="1178" left="815" width="7" height="15" font="6">0</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1263" width="892">
+<text top="78" left="89" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="79" left="261" width="264" height="27" font="2"><b>Annual Income Tax Return </b></text>
+<text top="90" left="68" width="107" height="34" font="3"><b>1702-MX</b></text>
+<text top="103" left="252" width="283" height="15" font="4"><b>Corporation, Partnership and Other Non-Individual  </b></text>
+<text top="117" left="226" width="335" height="15" font="4"><b>with MIXED Income Subject to Multiple Income Tax Rates or  </b></text>
+<text top="120" left="75" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="130" left="238" width="311" height="15" font="4"><b>with Income Subject to SPECIAL/PREFERENTIAL RATE</b></text>
+<text top="132" left="109" width="34" height="14" font="0"><b>Page 3</b></text>
+<text top="134" left="705" width="115" height="14" font="1">1702-MX 01/18ENCS P3</text>
+<text top="150" left="74" width="193" height="15" font="6">Taxpayer Identification Number (TIN) </text>
+<text top="150" left="354" width="90" height="15" font="6">Registered Name </text>
+<text top="166" left="250" width="90" height="24" font="10"><b>0 0 0 0 0</b></text>
+<text top="194" left="74" width="459" height="15" font="4"><b>Schedule 4 – Tax Relief Availment                                                                                 </b></text>
+<text top="197" left="533" width="285" height="12" font="15"><i><b>(DO NOT enter Centavos; 49 Centavos or Less drop down; 50 or more round up)</b></i></text>
+<text top="212" left="177" width="59" height="15" font="6">Description</text>
+<text top="212" left="361" width="78" height="15" font="6">A. Total Exempt</text>
+<text top="212" left="484" width="77" height="15" font="6">B. Total Special</text>
+<text top="212" left="602" width="81" height="15" font="6">C.Total Regular </text>
+<text top="212" left="713" width="102" height="15" font="6">D.Total All Columns </text>
+<text top="227" left="72" width="201" height="15" font="4"><b>1</b> Regular Income Tax Otherwise Due </text>
+<text top="229" left="274" width="62" height="13" font="5"><i>(Item 13A/B of </i></text>
+<text top="242" left="84" width="245" height="13" font="5"><i>Part IV-Schedule 2 X applicable regular income tax rate) </i></text>
+<text top="254" left="72" width="7" height="15" font="4"><b>2</b></text>
+<text top="254" left="136" width="13" height="15" font="6">on</text>
+<text top="254" left="82" width="50" height="15" font="6">Tax Relief</text>
+<text top="254" left="152" width="192" height="15" font="6">Special Allowable Itemized Deductions</text>
+<text top="268" left="85" width="247" height="13" font="5"><i>(Item 9A/B/C of Part IV-Sched 2 X applicable regular income tax rate) </i></text>
+<text top="282" left="72" width="131" height="15" font="4"><b>3</b> Sub-Total – Tax Relief </text>
+<text top="284" left="203" width="100" height="13" font="5"><i>(Sum of Items 1 and 2)</i></text>
+<text top="298" left="72" width="127" height="15" font="4"><b>4</b> Less: Income Tax Due  </text>
+<text top="301" left="429" width="29" height="21" font="22"><b>0.00</b></text>
+<text top="311" left="72" width="166" height="13" font="5"><i>   (From Part IV-Schedule 2 Item 15B)</i></text>
+<text top="323" left="72" width="254" height="15" font="4"><b>5</b> Tax Relief Availment before Special Tax Credit </text>
+<text top="338" left="84" width="88" height="13" font="5"><i>(Item 3 Less Item 4)</i></text>
+<text top="350" left="72" width="138" height="15" font="4"><b>6</b> Add: Special Tax Credit,</text>
+<text top="351" left="213" width="25" height="14" font="7"><i>if any</i></text>
+<text top="363" left="82" width="150" height="13" font="5"><i>(From Part IV-Schedule 3 Item 29) </i></text>
+<text top="377" left="72" width="158" height="15" font="4"><b>7 Total Tax Relief Availment</b></text>
+<text top="379" left="233" width="91" height="13" font="5"><i>(Sum of Items 5 &amp; 6)</i></text>
+<text top="398" left="74" width="306" height="15" font="4"><b>Schedule 5 – Ordinary Allowable Itemized Deductions </b></text>
+<text top="399" left="380" width="180" height="14" font="7"><i>(attach additional sheet/s, if necessary) </i></text>
+<text top="412" left="150" width="643" height="12" font="5"><i>(If with only one activity, fill-out the applicable columns below: if with two or more activities, amount for each expense shall come from all of Part V-Schedule D)</i></text>
+<text top="426" left="75" width="82" height="15" font="4"><b>1 </b>Amortizations</text>
+<text top="443" left="75" width="61" height="15" font="4"><b>2</b> Bad Debts</text>
+<text top="461" left="75" width="191" height="15" font="4"><b>3</b> Charitable and Other Contributions </text>
+<text top="479" left="75" width="60" height="15" font="4"><b>4 </b>Depletion</text>
+<text top="497" left="75" width="76" height="15" font="4"><b>5 </b>Depreciation</text>
+<text top="514" left="75" width="235" height="15" font="4"><b>6</b> Entertainment, Amusement and Recreation </text>
+<text top="532" left="75" width="88" height="15" font="4"><b>7</b> Fringe Benefits </text>
+<text top="550" left="75" width="50" height="15" font="4"><b>8 </b>Interest</text>
+<text top="567" left="75" width="47" height="15" font="4"><b>9 </b>Losses</text>
+<text top="585" left="70" width="94" height="15" font="4"><b>10</b> Pension Trusts </text>
+<text top="603" left="70" width="51" height="15" font="4"><b>11 </b>Rental</text>
+<text top="621" left="70" width="158" height="15" font="4"><b>12</b> Research and Development</text>
+<text top="638" left="70" width="184" height="15" font="4"><b>13</b> Salaries, Wages and Allowances</text>
+<text top="656" left="70" width="12" height="15" font="4"><b>14</b></text>
+<text top="657" left="85" width="255" height="14" font="1">SSS, GSIS, Philhealth, HDMF and Other Contributions</text>
+<text top="674" left="70" width="120" height="15" font="4"><b>15</b> Taxes and Licenses </text>
+<text top="691" left="70" width="147" height="15" font="4"><b>16</b> Transportation and Travel</text>
+<text top="707" left="70" width="378" height="15" font="4"><b>17</b> Others (Deductions Subject to Withholding Tax and Other Expenses)</text>
+<text top="709" left="451" width="244" height="14" font="7"><i>[Specify below; Add additional sheet(s), if necessary]</i></text>
+<text top="724" left="85" width="199" height="15" font="6">a. Janitorial and Messengerial Services</text>
+<text top="741" left="85" width="102" height="15" font="6">b. Professional Fees</text>
+<text top="759" left="85" width="98" height="15" font="6">c. Security Services</text>
+<text top="777" left="85" width="10" height="15" font="6">d.</text>
+<text top="794" left="85" width="10" height="15" font="6">e<b>.</b></text>
+<text top="812" left="85" width="7" height="15" font="6">f.</text>
+<text top="830" left="85" width="10" height="15" font="6">g<b>.</b></text>
+<text top="848" left="85" width="10" height="15" font="6">h.</text>
+<text top="865" left="85" width="6" height="15" font="6">i<b>.</b></text>
+<text top="881" left="70" width="234" height="15" font="4"><b>18</b> Total Ordinary Allowable Itemized Deductions</text>
+<text top="894" left="85" width="220" height="12" font="5"><i>(Sum of Items 1 to 17i) (To Part IV-Schedule 2 Item 8)</i></text>
+<text top="910" left="74" width="294" height="15" font="4"><b>Schedule 6 – Special Allowable Itemized Deductions</b></text>
+<text top="911" left="372" width="178" height="14" font="7"><i>(attach additional sheet/s, if necessary)</i></text>
+<text top="924" left="74" width="709" height="12" font="5"><i>                          (If with only one activity, fill-out the applicable columns below: if with two or more activities, amount for each expense shall come from all of Part V-Schedule E)</i></text>
+<text top="938" left="368" width="11" height="15" font="6">A.</text>
+<text top="938" left="490" width="11" height="15" font="6">B.</text>
+<text top="938" left="604" width="12" height="15" font="6">C.</text>
+<text top="938" left="713" width="12" height="15" font="6">D.</text>
+<text top="938" left="138" width="56" height="15" font="6">Description</text>
+<text top="938" left="277" width="56" height="15" font="6">Legal Basis </text>
+<text top="939" left="380" width="64" height="15" font="6">Total Exempt </text>
+<text top="939" left="502" width="60" height="15" font="6">Total Special</text>
+<text top="939" left="616" width="62" height="15" font="6">Total Regular</text>
+<text top="939" left="725" width="85" height="15" font="6">Total All Columns </text>
+<text top="1025" left="70" width="231" height="15" font="6"> 5 Total Special Allowable Itemized Deductions </text>
+<text top="1038" left="72" width="226" height="12" font="5"><i>     (Sum of Items 1 to 4) (To Part IV-Schedule 2 Item 9)</i></text>
+<text top="1054" left="74" width="490" height="15" font="4"><b>Schedule 7 – Computation of Net Operating Loss Carry Over (NOLCO) for Regular Rate</b></text>
+<text top="1056" left="564" width="260" height="13" font="5"><i> (Attach Additional Sheet/s, if necessary)                              </i></text>
+<text top="1075" left="74" width="81" height="15" font="4"><b>1</b> Gross Income</text>
+<text top="1077" left="158" width="154" height="14" font="7"><i>(From Part IV-Schedule 2 Item 7C)</i></text>
+<text top="1111" left="74" width="7" height="15" font="4"><b>2</b></text>
+<text top="1120" left="81" width="245" height="15" font="6"> Less: Ordinary Allowable Itemized Deductions</text>
+<text top="1119" left="329" width="154" height="14" font="7"><i>(From Part IV-Schedule 2 Item 8C)</i></text>
+<text top="1127" left="74" width="112" height="15" font="4"><b>3</b> Net Operating Loss</text>
+<text top="1128" left="190" width="256" height="14" font="7"><i>(Item 1 Less Item 2) (To Part IV-Schedule 7.1, Item 7A)</i></text>
+<text top="956" left="72" width="6" height="15" font="6">1</text>
+<text top="974" left="72" width="6" height="15" font="6">2</text>
+<text top="992" left="72" width="6" height="15" font="6">3</text>
+<text top="1009" left="72" width="6" height="15" font="6">4</text>
+<text top="170" left="74" width="166" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="159" left="349" width="431" height="15" font="6">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG</text>
+<text top="171" left="349" width="42" height="15" font="6">FAMILY</text>
+<text top="183" left="349" width="440" height="15" font="6">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="233" left="457" width="7" height="15" font="6">0</text>
+<text top="233" left="576" width="7" height="15" font="6">0</text>
+<text top="233" left="815" width="7" height="15" font="6">0</text>
+<text top="259" left="457" width="7" height="15" font="6">0</text>
+<text top="259" left="576" width="7" height="15" font="6">0</text>
+<text top="259" left="696" width="7" height="15" font="6">0</text>
+<text top="259" left="815" width="7" height="15" font="6">0</text>
+<text top="282" left="457" width="7" height="15" font="6">0</text>
+<text top="282" left="576" width="7" height="15" font="6">0</text>
+<text top="282" left="696" width="7" height="15" font="6">0</text>
+<text top="282" left="815" width="7" height="15" font="6">0</text>
+<text top="304" left="576" width="7" height="15" font="6">0</text>
+<text top="304" left="815" width="7" height="15" font="6">0</text>
+<text top="329" left="457" width="7" height="15" font="6">0</text>
+<text top="329" left="576" width="7" height="15" font="6">0</text>
+<text top="329" left="696" width="7" height="15" font="6">0</text>
+<text top="329" left="815" width="7" height="15" font="6">0</text>
+<text top="356" left="457" width="7" height="15" font="6">0</text>
+<text top="356" left="576" width="7" height="15" font="6">0</text>
+<text top="356" left="696" width="7" height="15" font="6">0</text>
+<text top="356" left="815" width="7" height="15" font="6">0</text>
+<text top="378" left="457" width="7" height="15" font="6">0</text>
+<text top="378" left="576" width="7" height="15" font="6">0</text>
+<text top="378" left="696" width="7" height="15" font="6">0</text>
+<text top="378" left="815" width="7" height="15" font="6">0</text>
+<text top="426" left="347" width="7" height="15" font="6">0</text>
+<text top="426" left="467" width="7" height="15" font="6">0</text>
+<text top="426" left="587" width="7" height="15" font="6">0</text>
+<text top="426" left="707" width="7" height="15" font="6">0</text>
+<text top="444" left="347" width="7" height="15" font="6">0</text>
+<text top="444" left="467" width="7" height="15" font="6">0</text>
+<text top="444" left="587" width="7" height="15" font="6">0</text>
+<text top="444" left="707" width="7" height="15" font="6">0</text>
+<text top="462" left="347" width="7" height="15" font="6">0</text>
+<text top="462" left="467" width="7" height="15" font="6">0</text>
+<text top="462" left="587" width="7" height="15" font="6">0</text>
+<text top="462" left="707" width="7" height="15" font="6">0</text>
+<text top="479" left="347" width="7" height="15" font="6">0</text>
+<text top="479" left="467" width="7" height="15" font="6">0</text>
+<text top="479" left="587" width="7" height="15" font="6">0</text>
+<text top="479" left="707" width="7" height="15" font="6">0</text>
+<text top="497" left="347" width="7" height="15" font="6">0</text>
+<text top="497" left="467" width="7" height="15" font="6">0</text>
+<text top="497" left="587" width="7" height="15" font="6">0</text>
+<text top="497" left="707" width="7" height="15" font="6">0</text>
+<text top="515" left="347" width="7" height="15" font="6">0</text>
+<text top="515" left="467" width="7" height="15" font="6">0</text>
+<text top="515" left="587" width="7" height="15" font="6">0</text>
+<text top="515" left="707" width="7" height="15" font="6">0</text>
+<text top="533" left="347" width="7" height="15" font="6">0</text>
+<text top="533" left="467" width="7" height="15" font="6">0</text>
+<text top="533" left="587" width="7" height="15" font="6">0</text>
+<text top="533" left="707" width="7" height="15" font="6">0</text>
+<text top="550" left="457" width="7" height="15" font="6">0</text>
+<text top="550" left="576" width="7" height="15" font="6">0</text>
+<text top="550" left="696" width="7" height="15" font="6">0</text>
+<text top="550" left="815" width="7" height="15" font="6">0</text>
+<text top="568" left="457" width="7" height="15" font="6">0</text>
+<text top="568" left="576" width="7" height="15" font="6">0</text>
+<text top="568" left="696" width="7" height="15" font="6">0</text>
+<text top="568" left="815" width="7" height="15" font="6">0</text>
+<text top="586" left="347" width="7" height="15" font="6">0</text>
+<text top="586" left="467" width="7" height="15" font="6">0</text>
+<text top="586" left="587" width="7" height="15" font="6">0</text>
+<text top="586" left="707" width="7" height="15" font="6">0</text>
+<text top="603" left="347" width="7" height="15" font="6">0</text>
+<text top="603" left="467" width="7" height="15" font="6">0</text>
+<text top="603" left="587" width="7" height="15" font="6">0</text>
+<text top="603" left="707" width="7" height="15" font="6">0</text>
+<text top="621" left="347" width="7" height="15" font="6">0</text>
+<text top="621" left="467" width="7" height="15" font="6">0</text>
+<text top="621" left="587" width="7" height="15" font="6">0</text>
+<text top="621" left="707" width="7" height="15" font="6">0</text>
+<text top="638" left="457" width="7" height="15" font="6">0</text>
+<text top="638" left="576" width="7" height="15" font="6">0</text>
+<text top="638" left="696" width="7" height="15" font="6">0</text>
+<text top="638" left="815" width="7" height="15" font="6">0</text>
+<text top="656" left="347" width="7" height="15" font="6">0</text>
+<text top="656" left="467" width="7" height="15" font="6">0</text>
+<text top="656" left="587" width="7" height="15" font="6">0</text>
+<text top="656" left="707" width="7" height="15" font="6">0</text>
+<text top="674" left="457" width="7" height="15" font="6">0</text>
+<text top="674" left="576" width="7" height="15" font="6">0</text>
+<text top="674" left="696" width="7" height="15" font="6">0</text>
+<text top="674" left="815" width="7" height="15" font="6">0</text>
+<text top="692" left="347" width="7" height="15" font="6">0</text>
+<text top="692" left="467" width="7" height="15" font="6">0</text>
+<text top="692" left="587" width="7" height="15" font="6">0</text>
+<text top="692" left="707" width="7" height="15" font="6">0</text>
+<text top="724" left="347" width="7" height="15" font="6">0</text>
+<text top="724" left="467" width="7" height="15" font="6">0</text>
+<text top="724" left="587" width="7" height="15" font="6">0</text>
+<text top="724" left="707" width="7" height="15" font="6">0</text>
+<text top="741" left="457" width="7" height="15" font="6">0</text>
+<text top="741" left="576" width="7" height="15" font="6">0</text>
+<text top="741" left="696" width="7" height="15" font="6">0</text>
+<text top="741" left="815" width="7" height="15" font="6">0</text>
+<text top="759" left="347" width="7" height="15" font="6">0</text>
+<text top="759" left="467" width="7" height="15" font="6">0</text>
+<text top="759" left="587" width="7" height="15" font="6">0</text>
+<text top="759" left="707" width="7" height="15" font="6">0</text>
+<text top="776" left="98" width="101" height="15" font="6">TRAINING COSTS</text>
+<text top="777" left="347" width="7" height="15" font="6">0</text>
+<text top="777" left="467" width="7" height="15" font="6">0</text>
+<text top="777" left="587" width="7" height="15" font="6">0</text>
+<text top="777" left="707" width="7" height="15" font="6">0</text>
+<text top="794" left="347" width="7" height="15" font="6">0</text>
+<text top="794" left="467" width="7" height="15" font="6">0</text>
+<text top="794" left="587" width="7" height="15" font="6">0</text>
+<text top="794" left="707" width="7" height="15" font="6">0</text>
+<text top="812" left="347" width="7" height="15" font="6">0</text>
+<text top="812" left="467" width="7" height="15" font="6">0</text>
+<text top="812" left="587" width="7" height="15" font="6">0</text>
+<text top="812" left="707" width="7" height="15" font="6">0</text>
+<text top="830" left="347" width="7" height="15" font="6">0</text>
+<text top="830" left="467" width="7" height="15" font="6">0</text>
+<text top="830" left="587" width="7" height="15" font="6">0</text>
+<text top="830" left="707" width="7" height="15" font="6">0</text>
+<text top="848" left="347" width="7" height="15" font="6">0</text>
+<text top="848" left="467" width="7" height="15" font="6">0</text>
+<text top="848" left="587" width="7" height="15" font="6">0</text>
+<text top="848" left="707" width="7" height="15" font="6">0</text>
+<text top="865" left="347" width="7" height="15" font="6">0</text>
+<text top="865" left="467" width="7" height="15" font="6">0</text>
+<text top="865" left="587" width="7" height="15" font="6">0</text>
+<text top="865" left="707" width="7" height="15" font="6">0</text>
+<text top="887" left="457" width="7" height="15" font="6">0</text>
+<text top="887" left="576" width="7" height="15" font="6">0</text>
+<text top="887" left="696" width="7" height="15" font="6">0</text>
+<text top="887" left="815" width="7" height="15" font="6">0</text>
+<text top="956" left="78" width="90" height="15" font="6">PENSION FUND</text>
+<text top="956" left="267" width="46" height="15" font="6">RA 4917</text>
+<text top="1030" left="457" width="7" height="15" font="6">0</text>
+<text top="1030" left="576" width="7" height="15" font="6">0</text>
+<text top="1030" left="696" width="7" height="15" font="6">0</text>
+<text top="1030" left="815" width="7" height="15" font="6">0</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="24" size="11" family="Times" color="#000000"/>
+<text top="57" left="89" width="64" height="14" font="1">BIR Form No<b>.</b></text>
+<text top="57" left="261" width="264" height="27" font="2"><b>Annual Income Tax Return </b></text>
+<text top="69" left="68" width="107" height="34" font="3"><b>1702-MX</b></text>
+<text top="82" left="252" width="283" height="15" font="4"><b>Corporation, Partnership and Other Non-Individual  </b></text>
+<text top="95" left="226" width="335" height="15" font="4"><b>with MIXED Income Subject to Multiple Income Tax Rates or  </b></text>
+<text top="99" left="75" width="99" height="14" font="1">January 2018 (ENCS)</text>
+<text top="109" left="238" width="311" height="15" font="4"><b>with Income Subject to SPECIAL/PREFERENTIAL RATE</b></text>
+<text top="111" left="109" width="34" height="14" font="0"><b>Page 4</b></text>
+<text top="113" left="704" width="115" height="14" font="1">1702-MX 01/18ENCS P4</text>
+<text top="129" left="74" width="193" height="15" font="6">Taxpayer Identification Number (TIN) </text>
+<text top="129" left="354" width="90" height="15" font="6">Registered Name </text>
+<text top="144" left="250" width="90" height="24" font="10"><b>0 0 0 0 0</b></text>
+<text top="173" left="74" width="80" height="15" font="4"><b>Schedule 7.1 </b>-</text>
+<text top="173" left="591" width="9" height="15" font="12"><i>D</i></text>
+<text top="174" left="672" width="3" height="14" font="14"><i><b>;</b></i></text>
+<text top="174" left="157" width="417" height="14" font="0"><b>Computation of Available Net Operating Loss Carry Over (NOLCO) for Regular Rate</b></text>
+<text top="175" left="600" width="73" height="12" font="15"><i><b>O NOT enter Centavos</b></i></text>
+<text top="177" left="677" width="147" height="10" font="16"><i><b>49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="189" left="122" width="101" height="15" font="6">Net Operating Loss </text>
+<text top="189" left="698" width="111" height="15" font="6">E. Net Operating Loss</text>
+<text top="196" left="300" width="98" height="15" font="6">B. NOLCO Applied </text>
+<text top="196" left="435" width="99" height="15" font="6">C. NOLCO Expired </text>
+<text top="196" left="571" width="98" height="15" font="6">D. NOLCO Applied </text>
+<text top="203" left="726" width="59" height="15" font="6">(Unapplied)</text>
+<text top="203" left="92" width="25" height="15" font="6">Year</text>
+<text top="210" left="308" width="82" height="15" font="6">Previous Year/s </text>
+<text top="210" left="587" width="63" height="15" font="6">Current Year</text>
+<text top="210" left="180" width="55" height="15" font="6">A.  Amount</text>
+<text top="216" left="705" width="98" height="15" font="6">[(E) = A – (B+C+D)]</text>
+<text top="217" left="85" width="43" height="15" font="6">Incurred</text>
+<text top="312" left="74" width="91" height="15" font="6">8  Total  NOLCO</text>
+<text top="313" left="168" width="273" height="14" font="7"><i>(Sum of Items 4D to 7D) (To Part IV-Schedule 2 Item 10C)</i></text>
+<text top="334" left="74" width="464" height="15" font="4"><b>Schedule 8 – Computation of Net Operating Loss Carry Over (NOLCO) for Special Rate</b></text>
+<text top="335" left="541" width="160" height="14" font="0"><b>(except those availing fiscal incentives) </b></text>
+<text top="347" left="151" width="176" height="13" font="5"><i>(Attach Additional Sheet/s, if necessary)</i></text>
+<text top="366" left="74" width="81" height="15" font="4"><b>1</b> Gross Income</text>
+<text top="368" left="158" width="154" height="14" font="7"><i>(From Part IV-Schedule 2 Item 7B)</i></text>
+<text top="392" left="74" width="252" height="15" font="4"><b>2</b> Less: Ordinary Allowable Itemized Deductions</text>
+<text top="393" left="329" width="153" height="14" font="7"><i>(From Part IV-Schedule 2 Item 8B)</i></text>
+<text top="418" left="74" width="112" height="15" font="4"><b>3</b> Net Operating Loss</text>
+<text top="419" left="190" width="253" height="14" font="7"><i>(Item 1 Less Item 2) (To Part IV-Schedule 8.1 Item 7A)</i></text>
+<text top="440" left="74" width="80" height="15" font="4"><b>Schedule 8.1 </b>-</text>
+<text top="440" left="589" width="9" height="15" font="12"><i>D</i></text>
+<text top="441" left="670" width="3" height="14" font="14"><i><b>;</b></i></text>
+<text top="441" left="157" width="415" height="14" font="0"><b>Computation of Available Net Operating Loss Carry Over (NOLCO) for Special Rate</b></text>
+<text top="443" left="597" width="73" height="12" font="15"><i><b>O NOT enter Centavos</b></i></text>
+<text top="444" left="675" width="147" height="10" font="16"><i><b>49 Centavos or Less drop down; 50 or more round up</b>)</i></text>
+<text top="456" left="122" width="101" height="15" font="6">Net Operating Loss </text>
+<text top="456" left="698" width="111" height="15" font="6">E. Net Operating Loss</text>
+<text top="463" left="300" width="98" height="15" font="6">B. NOLCO Applied </text>
+<text top="463" left="435" width="99" height="15" font="6">C. NOLCO Expired </text>
+<text top="463" left="571" width="98" height="15" font="6">D. NOLCO Applied </text>
+<text top="470" left="726" width="59" height="15" font="6">(Unapplied)</text>
+<text top="470" left="92" width="25" height="15" font="6">Year</text>
+<text top="477" left="308" width="82" height="15" font="6">Previous Year/s </text>
+<text top="477" left="587" width="63" height="15" font="6">Current Year</text>
+<text top="477" left="180" width="55" height="15" font="6">A.  Amount</text>
+<text top="483" left="705" width="98" height="15" font="6">[(E) = A – (B+C+D)]</text>
+<text top="484" left="85" width="43" height="15" font="6">Incurred</text>
+<text top="579" left="74" width="91" height="15" font="6">8  Total  NOLCO</text>
+<text top="580" left="168" width="272" height="14" font="7"><i>(Sum of Items 4D to 7D) (To Part IV-Schedule 2 Item 10B)</i></text>
+<text top="601" left="74" width="385" height="15" font="4"><b>Schedule 9 – Computation of Minimum Corporate Income Tax (MCIT) </b></text>
+<text top="617" left="641" width="165" height="15" font="6">Excess MCIT over Normal Income Tax </text>
+<text top="617" left="108" width="25" height="15" font="6">Year</text>
+<text top="617" left="179" width="181" height="15" font="6">A) Normal Income Tax as Adjusted</text>
+<text top="617" left="482" width="45" height="15" font="6">B)  MCIT</text>
+<text top="617" left="623" width="12" height="15" font="6">C)</text>
+<text top="636" left="74" width="7" height="15" font="4"><b>1</b></text>
+<text top="662" left="74" width="7" height="15" font="4"><b>2</b></text>
+<text top="687" left="74" width="7" height="15" font="4"><b>3</b></text>
+<text top="712" left="74" width="154" height="15" font="24"><i><b>Continuation of Schedule 9</b></i></text>
+<text top="714" left="234" width="183" height="13" font="5"><i>(Item numbers continue from table above)</i></text>
+<text top="728" left="669" width="148" height="15" font="6">Balance of Excess MCIT Allowable </text>
+<text top="728" left="652" width="13" height="15" font="6">G)</text>
+<text top="735" left="108" width="129" height="15" font="6">D) Excess MCIT Applied/</text>
+<text top="735" left="300" width="106" height="15" font="6">E) Expired Portion of</text>
+<text top="735" left="475" width="147" height="15" font="6">F) Excess MCIT Applied this</text>
+<text top="742" left="656" width="162" height="15" font="6">    as Tax Credit for Succeeding Year/s</text>
+<text top="749" left="103" width="142" height="15" font="6">       Used in Previous Years</text>
+<text top="749" left="321" width="69" height="15" font="6">Excess MCIT </text>
+<text top="749" left="488" width="114" height="15" font="6"> Current Taxable Year </text>
+<text top="756" left="684" width="103" height="15" font="6">[ G = C Less (D + E + F) ]</text>
+<text top="853" left="74" width="151" height="15" font="4"><b>4 </b>Total Excess MCIT Applied</text>
+<text top="854" left="228" width="214" height="14" font="7"><i>(Sum of Items 1F to 3F) (To Part IV-Schedule 3 Item 23)</i></text>
+<text top="878" left="74" width="449" height="15" font="4"><b>Schedule 10 – Reconciliation of Net Income per Books Against Taxable Income </b></text>
+<text top="879" left="523" width="181" height="14" font="7"><i>(attach additional sheet/s, if necessary)</i></text>
+<text top="896" left="178" width="56" height="15" font="6">Particulars</text>
+<text top="896" left="367" width="78" height="15" font="6">A. Total Exempt </text>
+<text top="896" left="487" width="76" height="15" font="6">B. Total Special </text>
+<text top="896" left="605" width="79" height="15" font="6">C. Total Regular </text>
+<text top="896" left="715" width="100" height="15" font="6">D. Total All Columns </text>
+<text top="914" left="72" width="162" height="15" font="4"><b>1</b> Net Income/(Loss) per Books </text>
+<text top="934" left="82" width="221" height="15" font="6">Add: Non-Deductible Expenses/Taxable Other Income</text>
+<text top="935" left="306" width="54" height="13" font="5"><i>(specify below)</i></text>
+<text top="953" left="72" width="7" height="15" font="4"><b>2</b></text>
+<text top="973" left="73" width="7" height="15" font="4"><b>3</b></text>
+<text top="993" left="73" width="36" height="15" font="4"><b>4 </b>Total</text>
+<text top="994" left="112" width="98" height="14" font="7"><i>(Sum of Items 1 to 3)</i></text>
+<text top="1013" left="84" width="266" height="15" font="6">Less: A) Non-Taxable Income and Income Subjected to Final Tax</text>
+<text top="1014" left="353" width="54" height="13" font="5"><i>(specify below)</i></text>
+<text top="1032" left="72" width="7" height="15" font="4"><b>5</b></text>
+<text top="1051" left="72" width="7" height="15" font="4"><b>6</b></text>
+<text top="1071" left="107" width="119" height="15" font="6">B) Special Deductions </text>
+<text top="1073" left="227" width="70" height="14" font="7"><i>(specify below)</i></text>
+<text top="1091" left="74" width="7" height="15" font="4"><b>7</b></text>
+<text top="1110" left="74" width="7" height="15" font="4"><b>8</b></text>
+<text top="1130" left="74" width="36" height="15" font="4"><b>9 </b>Total</text>
+<text top="1131" left="114" width="98" height="14" font="7"><i>(Sum of Items 5 to 8)</i></text>
+<text top="1149" left="69" width="162" height="15" font="4"><b>10 </b>Net Taxable Income/(Loss) </text>
+<text top="1151" left="231" width="94" height="14" font="7"><i>(Item 4 Less Item 9)</i></text>
+<text top="234" left="74" width="7" height="15" font="6">4</text>
+<text top="253" left="74" width="7" height="15" font="6">5</text>
+<text top="273" left="74" width="7" height="15" font="6">6</text>
+<text top="293" left="74" width="7" height="15" font="6">7</text>
+<text top="501" left="74" width="7" height="15" font="6">4</text>
+<text top="520" left="74" width="7" height="15" font="6">5</text>
+<text top="540" left="74" width="7" height="15" font="6">6</text>
+<text top="560" left="74" width="7" height="15" font="6">7</text>
+<text top="775" left="74" width="7" height="15" font="4"><b>1</b></text>
+<text top="801" left="74" width="7" height="15" font="4"><b>2</b></text>
+<text top="826" left="74" width="7" height="15" font="4"><b>3</b></text>
+<text top="149" left="74" width="166" height="15" font="6">0 0 0 1 2 3 4 5 3</text>
+<text top="138" left="349" width="429" height="15" font="6">SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG</text>
+<text top="150" left="349" width="42" height="15" font="6">FAMILY</text>
+<text top="161" left="349" width="438" height="15" font="6">NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW TESTING</text>
+<text top="233" left="87" width="26" height="15" font="6">2022</text>
+<text top="233" left="236" width="43" height="15" font="6">987,654</text>
+<text top="233" left="372" width="43" height="15" font="6">123,456</text>
+<text top="233" left="514" width="36" height="15" font="6">10,000</text>
+<text top="233" left="650" width="36" height="15" font="6">54,321</text>
+<text top="233" left="777" width="43" height="15" font="6">799,877</text>
+<text top="253" left="273" width="7" height="15" font="6">0</text>
+<text top="253" left="408" width="7" height="15" font="6">0</text>
+<text top="253" left="544" width="7" height="15" font="6">0</text>
+<text top="253" left="679" width="7" height="15" font="6">0</text>
+<text top="253" left="814" width="7" height="15" font="6">0</text>
+<text top="273" left="273" width="7" height="15" font="6">0</text>
+<text top="273" left="408" width="7" height="15" font="6">0</text>
+<text top="273" left="544" width="7" height="15" font="6">0</text>
+<text top="273" left="679" width="7" height="15" font="6">0</text>
+<text top="273" left="814" width="7" height="15" font="6">0</text>
+<text top="293" left="273" width="7" height="15" font="6">0</text>
+<text top="293" left="408" width="7" height="15" font="6">0</text>
+<text top="293" left="544" width="7" height="15" font="6">0</text>
+<text top="293" left="679" width="7" height="15" font="6">0</text>
+<text top="293" left="814" width="7" height="15" font="6">0</text>
+<text top="312" left="650" width="36" height="15" font="6">54,321</text>
+<text top="501" left="87" width="26" height="15" font="6">2023</text>
+<text top="501" left="236" width="43" height="15" font="6">876,543</text>
+<text top="501" left="372" width="43" height="15" font="6">234,567</text>
+<text top="501" left="514" width="36" height="15" font="6">20,000</text>
+<text top="501" left="650" width="36" height="15" font="6">65,432</text>
+<text top="501" left="777" width="43" height="15" font="6">556,544</text>
+<text top="521" left="273" width="7" height="15" font="6">0</text>
+<text top="521" left="408" width="7" height="15" font="6">0</text>
+<text top="521" left="544" width="7" height="15" font="6">0</text>
+<text top="521" left="679" width="7" height="15" font="6">0</text>
+<text top="521" left="814" width="7" height="15" font="6">0</text>
+<text top="540" left="273" width="7" height="15" font="6">0</text>
+<text top="540" left="408" width="7" height="15" font="6">0</text>
+<text top="540" left="544" width="7" height="15" font="6">0</text>
+<text top="540" left="679" width="7" height="15" font="6">0</text>
+<text top="540" left="814" width="7" height="15" font="6">0</text>
+<text top="559" left="273" width="7" height="15" font="6">0</text>
+<text top="559" left="408" width="7" height="15" font="6">0</text>
+<text top="559" left="544" width="7" height="15" font="6">0</text>
+<text top="559" left="679" width="7" height="15" font="6">0</text>
+<text top="559" left="814" width="7" height="15" font="6">0</text>
+<text top="579" left="650" width="36" height="15" font="6">65,432</text>
+<text top="636" left="94" width="66" height="15" font="6">2 0 2 3</text>
+<text top="915" left="457" width="7" height="15" font="6">0</text>
+<text top="915" left="576" width="7" height="15" font="6">0</text>
+<text top="915" left="696" width="7" height="15" font="6">0</text>
+<text top="915" left="815" width="7" height="15" font="6">0</text>
+<text top="953" left="457" width="7" height="15" font="6">0</text>
+<text top="953" left="576" width="7" height="15" font="6">0</text>
+<text top="953" left="696" width="7" height="15" font="6">0</text>
+<text top="953" left="815" width="7" height="15" font="6">0</text>
+<text top="973" left="457" width="7" height="15" font="6">0</text>
+<text top="973" left="576" width="7" height="15" font="6">0</text>
+<text top="973" left="696" width="7" height="15" font="6">0</text>
+<text top="973" left="815" width="7" height="15" font="6">0</text>
+<text top="993" left="457" width="7" height="15" font="6">0</text>
+<text top="993" left="576" width="7" height="15" font="6">0</text>
+<text top="993" left="696" width="7" height="15" font="6">0</text>
+<text top="993" left="815" width="7" height="15" font="6">0</text>
+<text top="1032" left="457" width="7" height="15" font="6">0</text>
+<text top="1032" left="576" width="7" height="15" font="6">0</text>
+<text top="1032" left="696" width="7" height="15" font="6">0</text>
+<text top="1032" left="815" width="7" height="15" font="6">0</text>
+<text top="1052" left="457" width="7" height="15" font="6">0</text>
+<text top="1052" left="576" width="7" height="15" font="6">0</text>
+<text top="1052" left="696" width="7" height="15" font="6">0</text>
+<text top="1052" left="815" width="7" height="15" font="6">0</text>
+<text top="1091" left="457" width="7" height="15" font="6">0</text>
+<text top="1091" left="576" width="7" height="15" font="6">0</text>
+<text top="1091" left="696" width="7" height="15" font="6">0</text>
+<text top="1091" left="815" width="7" height="15" font="6">0</text>
+<text top="1110" left="457" width="7" height="15" font="6">0</text>
+<text top="1110" left="576" width="7" height="15" font="6">0</text>
+<text top="1110" left="696" width="7" height="15" font="6">0</text>
+<text top="1110" left="815" width="7" height="15" font="6">0</text>
+<text top="1130" left="457" width="7" height="15" font="6">0</text>
+<text top="1130" left="576" width="7" height="15" font="6">0</text>
+<text top="1130" left="696" width="7" height="15" font="6">0</text>
+<text top="1130" left="815" width="7" height="15" font="6">0</text>
+<text top="1149" left="457" width="7" height="15" font="6">0</text>
+<text top="1149" left="576" width="7" height="15" font="6">0</text>
+<text top="1149" left="696" width="7" height="15" font="6">0</text>
+<text top="1149" left="815" width="7" height="15" font="6">0</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1263" width="892">
+	<fontspec id="25" size="11" family="Times" color="#212121"/>
+	<fontspec id="26" size="9" family="Times" color="#444444"/>
+	<fontspec id="27" size="10" family="Times" color="#444444"/>
+	<fontspec id="28" size="12" family="Times" color="#000000"/>
+	<fontspec id="29" size="9" family="Times" color="#000000"/>
+	<fontspec id="30" size="9" family="Times" color="#333333"/>
+<text top="46" left="80" width="150" height="19" font="11"><b>BIR Form No. 1702MX</b></text>
+<text top="49" left="688" width="124" height="15" font="4"><b>ADDITIONAL SHEET</b></text>
+<text top="68" left="80" width="219" height="15" font="25">Annual Income Tax Return — Mixed Income</text>
+<text top="86" left="80" width="275" height="13" font="26">Entries shortened with &#34;...&#34; on the form are printed in full below.</text>
+<text top="111" left="80" width="20" height="14" font="27"><b>TIN:</b></text>
+<text top="111" left="101" width="13" height="14" font="1"> —</text>
+<text top="111" left="285" width="89" height="14" font="27"><b>Taxpayer's Name:</b></text>
+<text top="111" left="374" width="123" height="14" font="1"> Sample Dummy Taxpayer</text>
+<text top="156" left="80" width="190" height="16" font="28"><b>Entries continued from the form</b></text>
+<text top="158" left="597" width="216" height="13" font="26">Full text of entries shortened with &#34;...&#34; on the form</text>
+<text top="182" left="106" width="24" height="13" font="29"><b>Page</b></text>
+<text top="182" left="160" width="52" height="13" font="29"><b>Item / Field</b></text>
+<text top="182" left="394" width="46" height="13" font="29"><b>Full Entry</b></text>
+<text top="204" left="102" width="31" height="13" font="30">Page 1</text>
+<text top="204" left="160" width="197" height="13" font="17">Item 23 — Cash/Bank Debit Memo, Drawee</text>
+<text top="217" left="160" width="61" height="13" font="17">Bank/Agency</text>
+<text top="204" left="394" width="245" height="13" font="17">BANK WITH A VERY LONG DRAWEE BRANCH NAME</text>
+</page>
+</pdf2xml>

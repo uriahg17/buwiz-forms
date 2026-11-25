@@ -1,0 +1,4 @@
+case	comparison	old_3e8b1212	new_05b9c989	verdict	note
+base	page1_content	unchanged	unchanged	pass	no token differences on form page
+base	additional_sheet_tin	000-123-453-00000	12345678900001-12345678900002-453-00000	regression	severe wrong-value regression: payee/schedule TINs are concatenated into the taxpayer TIN header
+base	additional_entries	present	present	stable	long schedule row values still continued correctly

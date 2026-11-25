@@ -1,0 +1,103 @@
+Republic of the Philippines
+BCS/
+For BIR Department of Finance
+Item:
+Use Only Bureau of Internal Revenue
+Monthly Remittance Form
+BIR Form No.
+0619-E of Creditable Income Taxes Withheld (Expanded)
+January 2018 0619-E 01/18 P1
+Enter all required information in CAPITAL LETTERS using BLACK ink. Mark all applicable boxes with an “X”.
+Page 1 Two copies MUST be filed with the BIR and one held by the Taxpayer.
+1 For the Month of ( 2 Due Date 3 Amended Form? 4 Any Taxes Withheld? 5 ATC 6 Tax Type Code
+MM/YYYY) (MM/DD/YYYY)
+WE
+WME10
+Yes No Yes No
+Part I – Background Information
+- - -
+7 Taxpayer Identification Number (TIN) 8 RDO Code
+9 Withholding Agent’s Name (Last Name, First Name, Middle Name for Individual OR Registered Name for Non-Individual)
+10 Registered Address (Indicatecompleteaddress.Ifbranch,indicatethebranchaddress.Iftheregisteredaddressisdifferentfromthecurrentaddress,gototheRDOtoupdateregisteredaddressbyusingBIRFormNo.1905)
+10A ZIP Code
+11 Contact Number 12 Category of Withholding Agent Private Government
+13 Email Address
+Part II – Tax Remittance
+14 Amount of Remittance ●
+15 Less: Amount Remitted from Previously Filed Form, if this is an amended form ●
+16 Net Amount of Remittance (Item 14 Less Item 15) ●
+17 Add: Penalties
+17A Surcharge ●
+17B Interest ●
+17C Compromise ●
+17D Total Penalties (Sum of Items 17A to 17C) ●
+18 Total Amount of Remittance (Sum of Items 16 and 17D) ●
+I/We declare under the penalties of perjury that this remittance form has been made in good faith, verified by me/us, and to the best of my/our knowledge and belief, is true and correct, pursuant
+to the provisions of the National Internal Revenue Code, as amended, and the regulations issued under authority thereof. Further, I/we give my/our consent to the processing of my/our information
+as contemplated under the *Data Privacy Act of 2012 (R.A. No. 10173) for legitimate and lawful purposes. (If Authorized Representative, attach authorization letter)
+For Individual: For Non-Individual:
+Signature over Printed Name of Taxpayer/Authorized Representative/ Tax Agent Signature over Printed Name of President/Vice President/
+Authorized Officer or Representative/Tax Agent
+(Indicate Title/Designation and TIN)
+(Indicate Title/Designation and TIN)
+Tax Agent Accreditation No./ Date of Issue Date of Expiry
+Attorney’s Roll No. (MM/DD/YYYY) (MM/DD/YYYY)
+(if applicable)
+Part III – Details of Payment
+Particulars Number Date Amount
+DraweeBank/Agency (MM/DD/YYYY)
+Cash/Bank Debit Memo
+19 ●
+20 Check ●
+21 Tax Debit Memo ●
+22 Others (specify below)
+●
+Machine Validation/Revenue Official Receipt Details Stamp of Receiving Office/AAB and Date of Receipt
+(if not filed with an Authorized Agent Bank)
+(RO’s Signature/Bank Teller’s Initial)
+*NOTE: Please read the BIR Data Privacy Policy found in the BIR website (www.bir.gov.ph)
+0 6 2 0 2 5 0 7 1 0 2 0 2 5 X X
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9
+SANTOS, JUANA MARIE DELA CRUZ-VILLANUEVA EXTRAORDINARILY LONG FAMILY NAME WITH MIDDLE NAMES AND SUFFIXES FOR PRINT
+OVERFLOW TESTING
+UNIT 27F THE VERY LONG CORPORATE TOWER 12345 DONA JUANA MARIE DELA CRUZ AVENUE CORNER VILLANUEVA BOULEVARD BARANGAY
+SAN LORENZO MAKATISECOND ADDRESS LINE LONG COMPLEMENT FOR PRINT OVERFLOW TESTING 1 1 0 0
+0 9 1 7 1 2 3 4 5 6 7 X
+juana.santos.independent.print.check@example.com
+9 8 7 6 5 4 3 2 1
+1 0 0 0 0 0 0 0 0 0
+- 1 2 3 4 5 6 7 9
+1 2 3 4 5 6 7
+2 3 4 5 6 7 8
+3 4 5 6 8 9
+3 9 2 5 9 3 4
+- 8 4 1 9 7 4 5
+TAX-AGENT-12345678901234567
+890
+BANK WITH A
+VERY LONG DRA...
+PAY-1234567890123
+4567890 0 6 3 0 2 0 2 5 1 2 3 4 5 6 7 8 9
+SPECIMEN LONG SPECIFY
+TEXT FOR OTHER MANN...
+MOBILE WALLET
+WITH VERY LON...
+OTH-1234567890123
+4567890 0 6 2 9 2 0 2 5 2 3 4 5 6 7 8 9
+BIR Form No. 0619E ADDITIONAL SHEET
+Monthly Remittance Form for Creditable Income Taxes Withheld (Expanded)
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: SANTOS, JUANAMARIE DELACRUZ-
+VILLANUEVAEXTRAORDINARILY LONG FAMILY NAME WITH
+MIDDLE NAMES AND SUFFIXES FOR PRINT OVERFLOW
+TESTING
+Return Period: 06/2025
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Item 19 — Cash/Bank Debit Memo: Drawee
+Bank/Agency
+BANK WITH AVERY LONG DRAWEE BRANCH NAME
+Page 1 Item 22 — Others (specify below) SPECIMEN LONG SPECIFY TEXT FOR OTHER MANNER OF PAYMENT WITH MANY
+WORDS TO EXERCISE WRAPPING
+Page 1 Item 22 — Others: Drawee Bank/Agency MOBILE WALLET WITH VERY LONG AGENCY NAME
+

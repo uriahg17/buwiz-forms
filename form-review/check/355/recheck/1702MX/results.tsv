@@ -1,0 +1,4 @@
+case	comparison	old_3e8b1212	new_05b9c989	verdict	note
+base	additional_sheet_tin	TIN dash	TIN 000-123-453-00000	fixed	TIN claim fixed for this form
+base	additional_sheet_period	no period/date	line still absent	unfixed_preexisting	user-requested full identity header is incomplete
+base	numeric_schedule_content	stable	stable	pass	no token loss on pages 2-4; page 1 difference is text adjacency/truncation position, not loss

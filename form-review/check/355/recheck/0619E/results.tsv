@@ -1,0 +1,4 @@
+case	comparison	old_3e8b1212	new_05b9c989	verdict	note
+base	numeric_content	stable	stable	pass	no amount loss detected
+base	payment_field_truncation	long values ellipsis/full on additional sheet	same behavior with slightly shifted truncation boundary	correct_or_cosmetic	full values remain exactly available on additional sheet
+base	additional_sheet	unchanged	unchanged	pass	page 2 tokens identical
