@@ -194,3 +194,68 @@ Tight side-by-side crops (official sheet left, our print right, 1,400 px wide) u
 | **1600VT** | `part-b/1600VT-year.png` | `0 6 | 2 0 2 5` (clean in the two slots after pre-printed `2 0`) | **WITHDRAWN** |
 | **1604C** | `part-b/1604C-year.png` | Unspaced `2025` overprints the pre-printed bold `2` left of `0`, leaving the two `YY` slots blank (reads as garbled `225 0`) | **CONFIRMED** |
 | **1604E** | `part-b/1604E-year.png` | Unspaced `2025` overprints the pre-printed bold `2` left of `0`, leaving the two `YY` slots blank (reads as garbled `225 0`) | **CONFIRMED** |
+
+---
+
+## Round 2 — Part C (All-43-Form Paper-Pattern Inventory)
+
+Checked form by form across all 43 rendered PDFs (`ours-p*.png` / `*-ours.pdf`), official PDFs, and `rules/forms/*/fields.json`.
+
+### 1. Continuation-page header where TIN runs into Name
+- **4 forms (5 pages)** where unspaced 14-digit TIN touches the taxpayer's Last Name (`gap < 1 pt`):
+  - **2000** — Page 2 (`gap = 0.7 pt`)
+  - **2200A** — Pages 2, 3 (`gap = 0.7 pt`)
+  - **2200C** — Page 2 (`gap = 0.8 pt`)
+  - **2200P** — Page 2 (`gap = 0.8 pt`)
+- *Related continuation-header TIN fault (does not touch Name)*: **1701Q** Page 2 crushes the 9-digit TIN on the far left beside an empty pre-printed `00000` branch box.
+
+### 2. Raw place codes (PSGC) instead of place names
+- **3 forms (all Page 1)** print 9-digit PSGC numeric codes instead of Region / Province / City names (bleeding across the boxes):
+  - **2200A** — Page 1 (Items 12A–C `040000000`, `042100000`, `042103000`; Items 13A–C `130000000`, `137400000`, `137403000`)
+  - **2200C** — Page 1 (Items 12A–C / 13A–C `130000000`, `137400000`, `137404000`)
+  - **2200P** — Page 1 (Items 12A–C `040000000`, `042100000`, `042103000`; Items 13A–C `130000000`, `137400000`, `137403000`)
+- *(Note: `2200S` Page 1 prints the text name, not a PSGC code, though Item 13 Region truncates `REGION IV-A` to `REG`; `2200AN`, `2200M`, `2200T` show no PSGC codes.)*
+
+### 3. Registered name or address clipped or under 7.5 pt (measured PDF font size)
+**10 forms** (all Page 1; demo taxpayer address is 142 chars):
+
+| Form | Name (pt) | Address (pt) | Clipped? | What is cut off / observed |
+|---|---:|---:|---|---|
+| **0605** | 13.98 | **6.70** | **Yes** | Address `< 7.5 pt` and cut off at `...METRO M` |
+| **1600WP** | 10.75 | 7.90 | **Yes** | Address cut off at `...METRO` |
+| **1604E** | 10.08 | 10.08 (comb) | **Yes** | Comb address cut off at `...845 ARNAIZ AV` |
+| **1604F** | 9.28 | 9.28 (comb) | **Yes** | Comb address cut off at `...845 ARNAIZ AV` |
+| **1606** | **6.70** | **4.80** | **Yes** | Both Buyer Name (`6.70 pt`) & Address (`4.80 pt`) `< 7.5 pt`; address cut off at `...METRO` |
+| **1702EX** | 12.00 | 12.00 (comb) | **Yes** | Comb address cut off at `...SAN LOREN` |
+| **1706** | **6.70** | **4.69** | **Yes** | Both Name (`6.70 pt`) & Address (`4.69 pt`) `< 7.5 pt`; address cut off at `...METRO` |
+| **1707** | 10.72 | **5.20** | No | Seller/Buyer addresses shrink to `5.20 pt` (`< 7.5 pt`) |
+| **2550M** | 11.00 | **7.30** | **Yes** | Address `< 7.5 pt` and cut off at `...METRO MAN` |
+| **2553** | 13.12 | 7.50 | **Yes** | Address cut off before `METRO MANILA` |
+
+All other 33 forms render the demo name and address at `>= 7.5 pt` without clipping.
+
+### 4. Amounts not right-aligned
+**21 forms** have at least one numeric amount column left-aligned instead of right-aligned (verified by PDF charbox x-alignment across stacked amounts plus visual inspection for single-row/comb pages):
+- **Page 1**: `0605` (Part II Items 20A–20D), `1600WP` (Part II), `1604C` (Part II), `1604E` (Part II), `1604F` (Part II), `1702Q` (Part II whole-peso combs shifted left with `.00`), `2550M` (Part II), `2553` (Part II).
+- **Page 2**: `1600PT` (Sched 1), `1600VT` (Sched 1), `1606` (Sched 1), `1707A` (Sched 1), `1800` (Sched A), `1801` (Sched 1–4), `2000OT` (Sched 1), `2200A` (Sched 1), `2200AN` (Sched 1), `2200M` (Sched 1), `2200P` (Sched 1), `2200T` (Sched 1), `2550Q` (Part V Sched 1–4).
+- **Page 3**: `2200A` (Sched 1 cont.), `2200T` (Sched 1 cont.).
+
+### 5. Unused boxes printing `0` or `0.00` (compared with official BIR defaults)
+- **All 43 forms** print `0` or `0.00` in unused numeric boxes on our rendered PDFs (from `3` boxes on `0605` up to `194` on `2200A` and `126` on `1701`).
+- **Comparison against official BIR program defaults (`rules/forms/*/fields.json`)**:
+  - **40 of 43 forms** initialize their amount fields to `0.00` or `0` in the official eBIRForms HTA itself (37 forms default to `0.00`, 3 whole-peso forms — `1700`, `1702MX`, `1702RT` — default to `0`, plus `1707A` with 4 default-`0` fields). On those 40 forms, printing `0` / `0.00` in unused numeric boxes **matches what the official BIR program prints** when left untouched.
+  - **3 forms** have **no** `0` / `0.00` defaults in `rules/forms/*/fields.json` (blank at load in official eBIRForms), yet our print fills unused boxes with zeros: **`1701MS`** (31 zeros), **`2550Q`** (92 zeros, mainly Part V Schedules 1–4), and **`2551Q`** (17 zeros, e.g. Items 16–17).
+
+### 6. Missing pages and omitted sections (8 forms)
+Every missing page or omitted section across the 8 forms was checked directly against the official BIR PDF. **All 8 are reference tables / guidelines only — none contain any filer-entered fields:**
+
+| Form | Missing / omitted part | Official PDF content | Filer-entered content? |
+|---|---|---|---|
+| **0605** | Page 2 (entire page; 1 vs 2 pages) | `ATC / NATURE OF PAYMENT` lookup table + `Guidelines and Instructions` | **No** (reference & guidelines only) |
+| **1702Q** | Page 3 (entire page; 2 vs 3 pages) | `ATC / Description / Tax Rate / Tax Base` table + `Guidelines and Instructions for BIR Form No. 1702Q` | **No** (reference & guidelines only) |
+| **1601EQ** | Page 2 body (~85% blank below header) | `Schedule of Alphanumeric Tax Codes (ATC)` (Nature of Income Payment & Tax Rate) | **No** (reference table only) |
+| **2551Q** | Page 2 bottom (~70% blank below Sched 1) | `Table 1 – Alphanumeric Tax Code (ATC)` (Percentage Tax On & Tax Rate) | **No** (reference table only) |
+| **1601C** | Page 2 bottom (~70% blank below Sched I) | `Guidelines and Instructions for BIR Form No. 1601-C` | **No** (guidelines only) |
+| **1701** | Page 4 bottom | `TABLE 1 – Tax Rates (Jan 1, 2018 – Dec 31, 2022)` & `TABLE 2 – Tax Rates (Jan 1, 2023 and onwards)` | **No** (reference tables only) |
+| **1701A** | Page 2 bottom | `TABLE 1` & `TABLE 2 – Tax Rates` | **No** (reference tables only) |
+| **1701Q** | Page 2 bottom | `TABLE 1` & `TABLE 2 – Tax Rates` | **No** (reference tables only) |
