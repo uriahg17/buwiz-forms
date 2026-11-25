@@ -1,0 +1,90 @@
+(To be filled up the BIR)
+      DLN:                                                                                                                             PSIC:                    PSOC:
+
+
+                                                                                                                                                            0605
+                                                                                                                                                              BIR Form No.
+                 Republika ng Pilipinas
+                 Kagawaran ng Pananalapi
+                 Kawanihan ng Rentas Internas                                    Payment Form
+                                                                                                                                                             July 1999 (ENCS)
+
+Fill in all applicable spaces. Mark all appropriate boxes with an "X"
+1  For the X Calendar          Fiscal 3 Quarter                                               4 Due Date ( MM / DD / YYYY) 5 No. of Sheets                       6 ATC
+2  Year Ended                                                                           X                                    Attached
+  ( MM / YYYY ) 1 2 2 0 2 5             1st     2nd 3rd                                 4th        0 1 3 1 2 0 2 6                                     0 1                   FP010
+7 Return Period ( MM / DD / YYYY ) 8 Tax Type Code                                            BCS No./Item No. (To be filled up by the BIR)
+           1 2 3 1 2 0 2 5                                             D O
+Part I                                                               Background Information
+9 Taxpayer Identification No.                                           10 RDO Code 11 Taxpayer Classification
+                                                                                                     12 Line of Business/Occupation
+   000 123 453 00000                                    0 3 9                                            BUSINESS200-ABCDEFGHIJKLMNOPQRSTU
+                                                                             I X N                       VWXYZABCDEFGHIJKLMN-PRINTCHECK...
+13 Taxpayer's   NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK ABCDEFGHIJ                              14 Telephone Number
+   Name         0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHE...                09171234567
+                   (Last Name, First Name, Middle Name for Individuals) / (Registered Name for Non-Individuals)
+15 Registered ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK ABCDEFGHIJ                             16 Zip Code     1 2 2 9
+   Address    0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHEC...
+                                           17 Manner of Payment                                                         18 Type of Payment
+                       Voluntary Payment                                                Per Audit/Delinquent Account                                     X Installment
+        Self-Assessment                                   Penalties                         Preliminary/Final Assessment/Deficiency Tax                     No. of Installment
+        Tax Deposit/Advance Payment                                                         Accounts Receivable/Delinquent Account                          Partial
+        Income Tax Second Installment                                                                                                                       Payment
+        (Individual)                                                                                                                                        Full
+      X Others (Specify)                                                                                                                                    Payment
+Part II                                                              Computation of Tax
+
+19      Basic Tax / Deposit / Advance Payment                                                                                    19                                    9,876,543 21
+20      Add: Penalties Surcharge                                     Interest                         Compromise
+       20A               123,456 78 20B                                 234,567 89 20C                             3,456 78 20D                                          361,481 45
+21        Total Amount Payable (Sum of Items 19 & 20D)                                                                           21                                   10,238,024 66
+                                             For Voluntary Payment                                                      For Payment of Deficiency Taxes                 Stamp of Receiving
+                                                                                                                            From Audit/Investigation/                        Office
+                  I declare, under the penalties of perjury, that this document has been                                      Delinquent Accounts                      and Date of Receipt
+             made in good faith, verified by me, and to the best of my knowledge and                                  APPROVED BY:
+             belief, is true and correct, pursuant to the provisions of the National
+             Internal Revenue Code, as amended, and the regulations issued under
+             authority thereof.
+
+
+22A                                                                                                                  22B
+      Signature over Printed Name of Taxpayer /Authorized Representative             Title/Position of Signatory      Signature over Printed Name of Head of Office
+Part III                                                             D e t a i l s of P a y m e n t
+Particulars      Drawee Bank/Agency                Number                   MM                    DD        YYYY                                        Amount
+23 Cash/Bank                                                                                                                23
+    Debit Memo
+             24A                      24B                         24C                                                       24D
+24 Check
+25 Tax Debit                          25A                         25B                                                       25C
+    Memo
+             26A                      26B                         26C                                                       26D
+26 Others
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+
+
+
+
+Taxpayer Classification:    I - Individual      N - Non-Individual
+BIR Form No. 0605                                                                                                             ADDITIONAL SHEET
+Payment Form
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000                           Taxpayer's Name: NAME200-                                                          Return Period: 2025
+                                                 ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-
+                                                 PRINTCHECK abcdefghij 0123456789 PRINTCHECK abcdefghij
+                                                 0123456789 PRINTCHECK abcdefghij 0123456789 PRINTCHECK
+                                                 abcdefghij 0123456789 PRINTCHECK abcdefgh
+
+Entries continued from the form                                                                         Full text of entries shortened with "..." on the form
+      Page         Item / Field                                       Full Entry
+     Page 1        Item 12 — Line of Business/Occupation              BUSINESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCD
+     Page 1        Item 13 — Taxpayer's Name                          NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+                                                                      ABCDEFGH
+     Page 1        Item 15 — Registered Address                       ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+                                                                      ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+                                                                      ABCDE
+

@@ -1,0 +1,107 @@
+(To be filled up the BIR)
+DLN: PSIC: PSOC:
+BIR Form No.
+0605
+Payment Form
+Republika ng Pilipinas
+Kagawaran ng Pananalapi
+Kawanihan ng Rentas Internas
+July 1999 (ENCS)
+Fill in all applicable spaces. Mark all appropriate boxes with an "X"
+For the Calendar Fiscal Quarter Due Date ( MM / DD / YYYY) A T C
+4 5 6
+No. of Sheets
+1 3
+2 Year Ended Attached
+( MM / YYYY ) 1st 2nd 3rd 4th
+Return Period ( MM / DD / YYYY ) BCS No./Item No. (To be filled up by the BIR)
+7 8 Tax Type Code
+Part I B a c k g r o u n d I n f o r m a t i o n
+9 Taxpayer Identification No. 10 RDO Code 11 12 Line of Business/Occupation
+Taxpayer Classification
+I N
+Taxpayer's 14 Telephone Number
+13
+Name
+(Last Name, First Name, Middle Name for Individuals) / (Registered Name for Non-Individuals)
+Registered
+15 16 Zip Code
+Address
+17 Manner of Payment 18 Type of Payment
+Voluntary Payment Per Audit/Delinquent Account Installment
+Self-Assessment Preliminary/Final Assessment/Deficiency Tax No. of Installment
+Penalties
+Tax Deposit/Advance Payment Accounts Receivable/Delinquent Account Partial
+Income Tax Second Installment Payment
+(Individual) Full
+Others (Specify) Payment
+Part II C o m p u t a t i o n o f T a x
+19
+19 Basic Tax / Deposit / Advance Payment
+20 Add: Penalties Surcharge Interest Compromise
+20A 20B 20C 20D
+Total Amount Payable (Sum of Items 19 & 20D)
+21 21
+For Voluntary Payment For Payment of Deficiency Taxes Stamp of Receiving
+From Audit/Investigation/ Office
+Delinquent Accounts
+I declare, under the penalties of perjury, that this document has been and Date of Receipt
+made in good faith, verified by me, and to the best of my knowledge and APPROVED BY:
+belief, is true and correct, pursuant to the provisions of the National
+Internal Revenue Code, as amended, and the regulations issued under
+authority thereof.
+22B
+22A
+Signature over Printed Name of Taxpayer /Authorized Representative Title/Position of Signatory Signature over Printed Name of Head of Office
+Part III D e t a i l s of P a y m e n t
+Particulars Drawee Bank/Agency Number MM DD YYYY Amount
+23 Cash/Bank 23
+Debit Memo
+24A 24B 24C 24D
+24 Check
+25A 25B 25C
+25 Tax Debit
+Memo
+26A 26B 26C 26D
+26 Others
+Machine Validation/Revenue Official Receipt Details (If not filed with the bank)
+Taxpayer Classification: I - Individual N - Non-Individual
+X
+1 2 2 0 2 5 X 0 1 3 1 2 0 2 6 0 1 FP010
+1 2 3 1 2 0 2 5 D O
+0 0 0 1 2 3 4 5 3 0 0 0 0 0 0 3 9 X BUSINESS200-ABCDEFGHIJKLMNOPQRSTU
+VWXYZABCDEFGHIJKLMN-PRINTCHECK...
+NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK ABCDEFGHIJ
+0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHE... 09171234567
+1 2 2 9
+ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK ABCDEFGHIJ
+0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHEC...
+X
+X
+9,876,543 21
+361,481 45
+123,456 78 234,567 89 3,456 78
+10,238,024 66
+BIR Form No. 0605 ADDITIONAL SHEET
+Payment Form
+Entries shortened with "..." on the form are printed in full below.
+TIN: 000-123-453-00000 Taxpayer's Name: NAME200-
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-
+PRINTCHECK abcdefghij 0123456789 PRINTCHECK abcdefghij
+0123456789 PRINTCHECK abcdefghij 0123456789 PRINTCHECK
+abcdefghij 0123456789 PRINTCHECK abcdefgh
+Return Period: 2025
+Entries continued from the form Full text of entries shortened with "..." on the form
+Page Item / Field Full Entry
+Page 1 Item 12 — Line of Business/Occupation BUSINESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK ABCD
+Page 1 Item 13 — Taxpayer's Name NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+ABCDEFGH
+Page 1 Item 15 — Registered Address ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMN-PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+ABCDEFGHIJ 0123456789 PRINTCHECK ABCDEFGHIJ 0123456789 PRINTCHECK
+ABCDE
+

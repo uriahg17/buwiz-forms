@@ -1,0 +1,15 @@
+case	field	pages	where_on_form	full_on_form	full_entry_on_additional	fontspec_size	approx_pt	verdict	note
+base131	name	1	two_clean_lines	yes_no_ellipsis	not_needed_no_truncation	11	8.25	fixed	old commit used three lines with third line clipped
+base134	address	1	two_clean_lines	yes_no_ellipsis	not_needed_no_truncation	10	7.50	pass	no clipping
+base60	line_of_business	1	two_clean_lines	yes_no_ellipsis	not_needed_no_truncation	10	7.50	pass	no clipping
+len60	name_address_lob	1	full_on_form	yes	0	10-11	7.50-8.25	pass	each exact 60-char value appears once on page 1; no additional sheet needed
+len100	name	2	full_on_form_two_lines	yes	0	11	8.25	pass	no truncation; additional sheet exists only because line-of-business truncates
+len100	address	2	full_on_form_two_lines	yes	0	10	7.50	pass	no truncation
+len100	line_of_business	2	two_lines_ellipsis	yes_entry_exactly_once	1	9	6.75	rule_breach	full entry correct once, but printed form text measures below 7.5pt
+len137	name	2	full_on_form_two_lines	yes	0	10	7.50	pass	no truncation; additional sheet exists only because line-of-business truncates
+len137	address	2	full_on_form_two_lines	yes	0	10	7.50	pass	no truncation
+len137	line_of_business	2	two_lines_ellipsis	yes_entry_exactly_once	1	9	6.75	rule_breach	full entry correct once, but printed form text measures below 7.5pt
+len200	name	2	two_lines_ellipsis	yes_entry_exactly_once	1	9	6.75	rule_breach	form stays within two lines and continuation is correct, but printed text measures below 7.5pt
+len200	address	2	two_lines_ellipsis	yes_entry_exactly_once	1	9	6.75	rule_breach	form stays within two lines and continuation is correct, but printed text measures below 7.5pt
+len200	line_of_business	2	two_lines_ellipsis	yes_entry_exactly_once	1	9	6.75	rule_breach	form stays within two lines and continuation is correct, but printed text measures below 7.5pt
+neighbors	all	1_base	header_identity_only_intended_diff					pass	page count unchanged for base; visual diff outside identity rows was not observed; no blank/header-only page

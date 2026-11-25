@@ -1,0 +1,431 @@
+[
+  {
+    "n": 60,
+    "pages": 1,
+    "name": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "additional_exact": [],
+      "ellipsis_p1": false,
+      "additional_pages": [],
+      "fonts": [
+        [
+          11,
+          8.25,
+          "NAME60-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKL",
+          373.0
+        ]
+      ]
+    },
+    "address": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "additional_exact": [],
+      "ellipsis_p1": false,
+      "additional_pages": [],
+      "fonts": [
+        [
+          10,
+          7.5,
+          "ADDRESS60-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHI",
+          423.0
+        ]
+      ]
+    },
+    "lob": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ]
+      ],
+      "additional_exact": [],
+      "ellipsis_p1": false,
+      "additional_pages": [],
+      "fonts": [
+        [
+          10,
+          7.5,
+          "BUSINESS60-ABCDEFGHIJKLMNOPQRST",
+          339.0
+        ]
+      ]
+    }
+  },
+  {
+    "n": 100,
+    "pages": 2,
+    "name": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          11,
+          8.25,
+          "NAME100-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJK",
+          373.0
+        ],
+        [
+          10,
+          7.5,
+          "NAME100-",
+          111.0
+        ]
+      ]
+    },
+    "address": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          10,
+          7.5,
+          "ADDRESS100-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGH",
+          423.0
+        ]
+      ]
+    },
+    "lob": {
+      "counts": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          9,
+          6.75,
+          "BUSINESS100-ABCDEFGHIJKLMNOPQRSTU",
+          340.0
+        ],
+        [
+          9,
+          6.75,
+          "BUSINESS100-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFG",
+          229.0
+        ]
+      ]
+    }
+  },
+  {
+    "n": 137,
+    "pages": 2,
+    "name": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          10,
+          7.5,
+          "NAME137-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJK",
+          374.0
+        ],
+        [
+          10,
+          7.5,
+          "NAME137-",
+          111.0
+        ]
+      ]
+    },
+    "address": {
+      "counts": [
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          10,
+          7.5,
+          "ADDRESS137-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGH",
+          423.0
+        ]
+      ]
+    },
+    "lob": {
+      "counts": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          9,
+          6.75,
+          "BUSINESS137-ABCDEFGHIJKLMNOPQRSTU",
+          340.0
+        ],
+        [
+          9,
+          6.75,
+          "BUSINESS137-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFG",
+          242.0
+        ]
+      ]
+    }
+  },
+  {
+    "n": 200,
+    "pages": 2,
+    "name": {
+      "counts": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          2
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          9,
+          6.75,
+          "NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJK",
+          375.0
+        ],
+        [
+          10,
+          7.5,
+          "NAME200-",
+          111.0
+        ],
+        [
+          9,
+          6.75,
+          "NAME200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJK",
+          302.0
+        ]
+      ]
+    },
+    "address": {
+      "counts": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          9,
+          6.75,
+          "ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGH",
+          424.0
+        ],
+        [
+          9,
+          6.75,
+          "ADDRESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGH",
+          363.0
+        ]
+      ]
+    },
+    "lob": {
+      "counts": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "additional_exact": [
+        [
+          2,
+          1
+        ]
+      ],
+      "ellipsis_p1": true,
+      "additional_pages": [
+        2
+      ],
+      "fonts": [
+        [
+          9,
+          6.75,
+          "BUSINESS200-ABCDEFGHIJKLMNOPQRSTU",
+          340.0
+        ],
+        [
+          9,
+          6.75,
+          "BUSINESS200-ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFG",
+          255.0
+        ]
+      ]
+    }
+  }
+]
