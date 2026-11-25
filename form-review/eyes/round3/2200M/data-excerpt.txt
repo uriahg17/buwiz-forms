@@ -1,0 +1,230 @@
+# Form 2200M — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2200M:rdoPg1Pt2MOP = PaymentActual
+frm2200M:txtSched1_VOMRIExemptB4 = 1,323.29
+frm2200M:txtSched1_VOMRIExemptB5 = 1,340.30
+frm2200M:txtSched1_VOMRIExemptB6 = 1,357.31
+frm2200M:txtSched1_VOMRIExemptB7 = 1,374.32
+frm2200M:txtSched1_VOMRIExemptB8 = 1,391.33
+frm2200M:txtSched1_ImportedExemptH11 = 2,326.88
+frm2200M:txtSched1_ImportedExemptH12 = 2,343.89
+frm2200M:txtSched1_ImportedExemptH13 = 2,360.90
+frm2200M:txtSched1_ImportedExemptH16 = 2,411.93
+frm2200M:txtSched1_ImportedExemptH17 = 2,428.94
+frm2200M:txtSched1_ImportedExemptH18 = 2,445.95
+frm2200M:txtSched1_ImportedExemptH19 = 2,462.96
+frm2200M:txtSched1_ImportedExemptH20 = 2,479.97
+frm2200M:txtSched1_ImportedExemptH21 = 2,496.98
+frm2200M:txtSched1_ImportedExemptH22 = 2,513.10
+frm2200M:txtSched1_ImportedExemptH23 = 2,530.11
+frm2200M:txtSched1_ImportedExemptH26 = 2,581.14
+frm2200M:txtSched1_ImportedTaxDue11 = 3,907.92
+frm2200M:txtSched1_ImportedTaxDue12 = 3,924.93
+frm2200M:txtSched1_ImportedTaxDue13 = 3,941.94
+frm2200M:txtSched1_ImportedTaxDue14 = 3,958.95
+frm2200M:txtSched1_ImportedTaxDue15 = 3,975.96
+frm2200M:txtSched1_ImportedTaxDue16 = 3,992.97
+frm2200M:txtSched1_ImportedTaxDue17 = 4,009.98
+frm2200M:txtSched1_ImportedTaxDue18 = 4,026.10
+frm2200M:txtSched1_ImportedTaxDue19 = 4,043.11
+frm2200M:txtSched1_ImportedTaxDue20 = 4,060.12
+frm2200M:txtSched1_ImportedTaxDue21 = 4,077.13
+frm2200M:txtSched1_ImportedTaxDue22 = 4,094.14
+frm2200M:txtSched1_ImportedTaxDue23 = 4,111.15
+frm2200M:txtSched1_ImportedTaxDue24 = 4,128.16
+frm2200M:txtSched1_ImportedTaxDue25 = 4,145.17
+frm2200M:txtSched1_ImportedTaxDue26 = 4,162.18
+frm2200M:txtSched1_ImportedTaxableG11 = 4,451.35
+frm2200M:txtSched1_ImportedTaxableG12 = 4,468.36
+frm2200M:txtSched1_ImportedTaxableG13 = 4,485.37
+frm2200M:txtSched1_ImportedTaxableG14 = 4,502.38
+frm2200M:txtSched1_ImportedTaxableG15 = 4,519.39
+frm2200M:txtSched1_ImportedTaxableG16 = 4,536.40
+frm2200M:txtSched1_ImportedTaxableG17 = 4,553.41
+frm2200M:txtSched1_ImportedTaxableG18 = 4,570.42
+frm2200M:txtSched1_ImportedTaxableG19 = 4,587.43
+frm2200M:txtSched1_ImportedTaxableG20 = 4,604.44
+frm2200M:txtSched1_ImportedTaxableG21 = 4,621.45
+frm2200M:txtSched1_ImportedTaxableG22 = 4,638.46
+frm2200M:txtSched1_ImportedTaxableG23 = 4,655.47
+frm2200M:txtSched1_ImportedTaxableG24 = 4,672.48
+frm2200M:txtSched1_ImportedTaxableG25 = 4,689.49
+frm2200M:txtSched1_ImportedTaxableG26 = 4,706.50
+frm2200M:txtSched1_LocallyExtractedTaxDueF11 = 5,267.83
+frm2200M:txtSched1_LocallyExtractedTaxDueF12 = 5,284.84
+frm2200M:txtSched1_LocallyExtractedTaxDueF13 = 5,301.85
+frm2200M:txtSched1_LocallyExtractedTaxDueF14 = 5,318.86
+frm2200M:txtSched1_LocallyExtractedTaxDueF15 = 5,335.87
+frm2200M:txtSched1_LocallyExtractedTaxDueF16 = 5,352.88
+frm2200M:txtSched1_LocallyExtractedTaxDueF17 = 5,369.89
+frm2200M:txtSched1_LocallyExtractedTaxDueF18 = 5,386.90
+frm2200M:txtSched1_LocallyExtractedTaxDueF19 = 5,403.91
+frm2200M:txtSched1_LocallyExtractedTaxDueF20 = 5,420.92
+frm2200M:txtSched1_LocallyExtractedTaxDueF21 = 5,437.93
+frm2200M:txtSched1_LocallyExtractedTaxDueF22 = 5,454.94
+frm2200M:txtSched1_LocallyExtractedTaxDueF23 = 5,471.95
+frm2200M:txtSched1_LocallyExtractedTaxDueF24 = 5,488.96
+frm2200M:txtSched1_LocallyExtractedTaxDueF25 = 5,505.97
+frm2200M:txtSched1_LocallyExtractedTaxDueF26 = 5,522.98
+frm2200M:txtSched1_PlaceOfRemoval11 = VAL283
+frm2200M:txtSched1_PlaceOfRemoval12 = VAL284
+frm2200M:txtSched1_PlaceOfRemoval13 = VAL285
+frm2200M:txtSched1_PlaceOfRemoval14 = VAL286
+frm2200M:txtSched1_PlaceOfRemoval15 = VAL287
+frm2200M:txtSched1_PlaceOfRemoval16 = VAL288
+frm2200M:txtSched1_PlaceOfRemoval17 = VAL289
+frm2200M:txtSched1_PlaceOfRemoval18 = VAL290
+frm2200M:txtSched1_PlaceOfRemoval19 = VAL291
+frm2200M:txtSched1_PlaceOfRemoval20 = VAL292
+frm2200M:txtSched1_PlaceOfRemoval21 = VAL293
+frm2200M:txtSched1_PlaceOfRemoval22 = VAL294
+frm2200M:txtSched1_PlaceOfRemoval23 = VAL295
+frm2200M:txtSched1_PlaceOfRemoval24 = VAL296
+... (82 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 22,
+  "month": 6,
+  "day": 30,
+  "year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "place_of_production": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "place_of_removal": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "tax_relief": true,
+  "tax_relief_specify": "1187.21",
+  "manner_of_payment": "actual_removal",
+  "other_scheme_description": "",
+  "schedule": [
+    {
+      "description": "",
+      "place_of_removal": "VAL021",
+      "volume_taxable": 1408.34,
+      "volume_exempt": 1272.26,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 1663.49,
+      "imported_taxable": 1408.34,
+      "imported_exempt": 1476.38,
+      "imported_rate": null,
+      "imported_tax_due": 1527.41,
+      "adjustment": 1595.45,
+      "total_tax_due": 1748.54
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL022",
+      "volume_taxable": 1425.35,
+      "volume_exempt": 1289.27,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 1680.5,
+      "imported_taxable": 1425.35,
+      "imported_exempt": 1493.39,
+      "imported_rate": null,
+      "imported_tax_due": 1544.42,
+      "adjustment": 1612.46,
+      "total_tax_due": 1765.55
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL023",
+      "volume_taxable": 1442.36,
+      "volume_exempt": 1306.28,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 1697.51,
+      "imported_taxable": 1578.44,
+      "imported_exempt": 1510.4,
+      "imported_rate": null,
+      "imported_tax_due": 1561.43,
+      "adjustment": 1714.52,
+      "total_tax_due": 1782.56
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL042",
+      "volume_taxable": 1731.53,
+      "volume_exempt": 1323.29,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 1816.58,
+      "imported_taxable": 1680.5,
+      "imported_exempt": 1629.47,
+      "imported_rate": null,
+      "imported_tax_due": 1663.49,
+      "adjustment": 1731.53,
+      "total_tax_due": 1799.57
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL049",
+      "volume_taxable": 1850.6,
+      "volume_exempt": 1340.3,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 1935.65,
+      "imported_taxable": 1697.51,
+      "imported_exempt": 1646.48,
+      "imported_rate": null,
+      "imported_tax_due": 1850.6,
+      "adjustment": 1918.64,
+      "total_tax_due": 1952.66
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL056",
+      "volume_taxable": 1969.67,
+      "volume_exempt": 1357.31,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 2054.72,
+      "imported_taxable": 1884.62,
+      "imported_exempt": 1816.58,
+      "imported_rate": null,
+      "imported_tax_due": 1867.61,
+      "adjustment": 1935.65,
+      "total_tax_due": 1969.67
+    },
+    {
+      "description": "",
+      "place_of_removal": "VAL063",
+      "volume_taxable": 2088.74,
+      "volume_exempt": 1374.32,
+      "local_value_taxable": 10.0,
+      "local_value_exempt": 10.0,
+      "local_rate": null,
+      "local_tax_due": 2173.79,
+      "imported_taxable": 1901.63,
+      "imported_exempt": 1833.59,
+      "imported_rate": null,
+      "imported_tax_due": 2003.69,
+      "adjustment": 2054.72,
+      
+... (truncated)

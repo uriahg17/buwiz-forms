@@ -1,0 +1,147 @@
+# Form 1604F — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 10,
+  "taxable_year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "agent_category": "private",
+  "top_withholding_agent": true,
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "tax_relief": true,
+  "tax_relief_details": "1102.16",
+  "schedules": [
+    [
+      {
+        "date": "03/15/2025",
+        "reference": "VAL008",
+        "taxes_withheld": 1153.19,
+        "penalties": 1170.2,
+        "total_remitted": 2323.39
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL012",
+        "taxes_withheld": 1221.23,
+        "penalties": 1187.21,
+        "total_remitted": 2408.44
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL016",
+        "taxes_withheld": 1289.27,
+        "penalties": 1221.23,
+        "total_remitted": 2510.5
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL020",
+        "taxes_withheld": 1357.31,
+        "penalties": 1238.24,
+        "total_remitted": 2595.55
+      }
+    ],
+    [
+      {
+        "date": "03/15/2025",
+        "reference": "VAL024",
+        "taxes_withheld": 1425.35,
+        "penalties": 1255.25,
+        "total_remitted": 2680.6
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL028",
+        "taxes_withheld": 1493.39,
+        "penalties": 1272.26,
+        "total_remitted": 2765.65
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL032",
+        "taxes_withheld": 1561.43,
+        "penalties": 1289.27,
+        "total_remitted": 2850.7
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL036",
+        "taxes_withheld": 1629.47,
+        "penalties": 1306.28,
+        "total_remitted": 2935.75
+      }
+    ],
+    [
+      {
+        "date": "03/15/2025",
+        "reference": "VAL040",
+        "taxes_withheld": 1697.51,
+        "penalties": 1323.29,
+        "total_remitted": 3020.8
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL044",
+        "taxes_withheld": 1765.55,
+        "penalties": 1340.3,
+        "total_remitted": 3105.85
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL048",
+        "taxes_withheld": 1833.59,
+        "penalties": 1357.31,
+        "total_remitted": 3190.9
+      },
+      {
+        "date": "03/15/2025",
+        "reference": "VAL052",
+        "taxes_withheld": 1901.63,
+        "penalties": 1374.32,
+        "total_remitted": 3275.95
+      }
+    ]
+  ],
+  "totals": [
+    {
+      "taxes_withheld": 5021.0,
+      "penalties": 4816.88,
+      "total_remitted": 9837.88
+    },
+    {
+      "taxes_withheld": 6109.64,
+      "penalties": 5123.06,
+      "total_remitted": 11232.7
+    },
+    {
+      "taxes_withheld": 7198.28,
+      "penalties": 5395.22,
+      "total_remitted": 12593.5
+    }
+  ],
+  "status": "Draft",
+  "created_at": "2026-11-25T09:28:01.187051628+00:00",
+  "updated_at": "2026-11-25T09:28:01.187051628+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

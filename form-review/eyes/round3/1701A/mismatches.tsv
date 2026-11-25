@@ -1,0 +1,37 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1701A:txt23A	Item 23	1	1,170.20	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt47A	Item 47	1	1,476.38	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt48A	Item 48	1	1,510.40	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt50A	Item 50	1	1,544.42	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt54A	Item 54	1	1,595.45	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt57A	Item 57	1	1,629.47	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt58A	Item 58	1	1,663.49	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt59A	Item 59	1	1,697.51	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt60A	Item 60	1	1,731.53	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt61A	Item 61	1	1,765.55	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt62A	Item 62	1	1,799.57	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txt63A	Item 63	1	1,833.59	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the 8-slot comb, no centavo comb; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1701A:txtmodalPartIVBDesc_10C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 10	2	VAL110	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_11C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 11	2	VAL111	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_12C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 12	2	VAL112	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_1C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 1	2	VAL113	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_2C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 2	2	VAL114	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_3C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 3	2	VAL115	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_4C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 4	2	VAL116	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_5C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 5	2	VAL117	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_6C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 6	2	VAL118	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_7C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 7	2	VAL119	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_8C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 8	2	VAL120	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVBDesc_9C1	Runtime modal row field frm1701A:txtmodalPartIVBDesc_{N>=1}C1, row 9	2	VAL121	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_10C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 10	2	2,156.78	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_11C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 11	2	2,173.79	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_12C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 12	2	2,190.80	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_1C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 1	2	2,207.81	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_2C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 2	2	2,224.82	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_3C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 3	2	2,241.83	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_4C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 4	2	2,258.84	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_5C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 5	2	2,275.85	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_6C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 6	2	2,292.86	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_7C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 7	2	2,309.87	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_8C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 8	2	2,326.88	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json
+frm1701A:txtmodalPartIVB_9C2	Runtime modal row field frm1701A:txtmodalPartIVB_{N>=1}C2, row 9	2	2,343.89	BLANK	PRINTED(AddlSheet)	yes	no	R	not in writer-cells.json

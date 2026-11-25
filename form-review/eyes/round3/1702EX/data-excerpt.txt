@@ -1,0 +1,290 @@
+# Form 1702EX — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1702EX:rdoPg1I5ATCR = 1C3
+frm1702EX:txtPg1Pt2I21PenaltyCompromise = 1,289.27
+frm1702EX:txtPg2Pt4I28SalesReceiptsRevFees = 1,306.28
+frm1702EX:txtPg2Pt4I29SalesRetAllowanceDisc = 1,323.29
+frm1702EX:txtPg2Pt4I31CostOfSalesServ = 1,340.30
+frm1702EX:txtPg2Pt4I33AddOther = 1,221.23
+frm1702EX:txtPg2Pt4I43IncomeTaxPmtFromPreviousQrt = 1,408.34
+frm1702EX:txtPg2Pt4I44CreditableTaxWithheldFromPrevQrt = 1,425.35
+frm1702EX:txtPg2Pt4I45CreditableTaxWithheldFor4thQrt = 1,442.36
+frm1702EX:txtPg2Pt4I46ForeignTaxCr = 1,459.37
+frm1702EX:txtPg2Pt4I48OtherTaxCrPmtAmt = 1,476.38
+frm1702EX:txtPg2Pt5I52RegularIncomeOtherwiseDue = 1,527.41
+frm1702EX:txtPg2Pt5I53SpecialAllowableItemizedDeduc = 1,544.42
+frm1702EX:txtPg3Pt6I17OthersDAmt = 1,578.44
+frm1702EX:txtPg3Pt6S1I10PensionTrust = 1,323.29
+frm1702EX:txtPg3Pt6S1I11Rental = 1,340.30
+frm1702EX:txtPg3Pt6S1I12RnD = 1,357.31
+frm1702EX:txtPg3Pt6S1I13SalaryWageAllowance = 1,374.32
+frm1702EX:txtPg3Pt6S1I14SssGsisPHealthHDMFOthers = 1,391.33
+frm1702EX:txtPg3Pt6S1I15TaxAndLicense = 1,765.55
+frm1702EX:txtPg3Pt6S1I16TranspoAndTravel = 1,408.34
+frm1702EX:txtPg3Pt6S1I17aJanitorAndMessengerServ = 1,425.35
+frm1702EX:txtPg3Pt6S1I17bProfessionalFee = 1,442.36
+frm1702EX:txtPg3Pt6S1I17cSecurityServices = 1,459.37
+frm1702EX:txtPg3Pt6S1I1Ammortization = 1,476.38
+frm1702EX:txtPg3Pt6S1I3CharitableContrib = 1,510.40
+frm1702EX:txtPg3Pt6S1I4Depletion = 1,527.41
+frm1702EX:txtPg3Pt6S1I5Depreciation = 1,544.42
+frm1702EX:txtPg3Pt6S1I6EntertainmentAmuseRecreate = 1,561.43
+frm1702EX:txtPg3Pt6S1I7FringeBenefits = 1,578.44
+frm1702EX:txtPg3Pt6S1I8Interest = 1,969.67
+frm1702EX:txtPg3Pt6S1I9Losses = 1,595.45
+frm1702EX:txtPg3Pt6S2I1Amount = 2,003.69
+frm1702EX:txtPg3Pt6S3I1NetIncomePerBook = 1,680.50
+frm1702EX:txtPg3Pt6S3I2NonDeductExpenseOtherIncomeAmt = 2,156.78
+frm1702EX:txtPg3Pt6S3I5NonTaxIncomeAndIncomeSubjectToFinTaxAmt = 2,190.80
+frm1702EX:txtPg3Pt6S3I7SpecialDeductAmt = 2,224.82
+frm1702EX:txtPg3Pt6S1I17_10Col1 = VAL075
+frm1702EX:txtPg3Pt6S1I17_10Col2 = 1,697.00
+frm1702EX:txtPg3Pt6S1I17_11Col1 = VAL077
+frm1702EX:txtPg3Pt6S1I17_11Col2 = 1,714.00
+frm1702EX:txtPg3Pt6S1I17_12Col1 = VAL079
+frm1702EX:txtPg3Pt6S1I17_12Col2 = 1,731.00
+frm1702EX:txtPg3Pt6S1I17_13Col1 = VAL081
+frm1702EX:txtPg3Pt6S1I17_13Col2 = 1,748.00
+frm1702EX:txtPg3Pt6S1I17_1Col1 = VAL083
+frm1702EX:txtPg3Pt6S1I17_1Col2 = 1,765.00
+frm1702EX:txtPg3Pt6S1I17_2Col1 = VAL085
+frm1702EX:txtPg3Pt6S1I17_2Col2 = 1,782.00
+frm1702EX:txtPg3Pt6S1I17_3Col1 = VAL087
+frm1702EX:txtPg3Pt6S1I17_3Col2 = 1,799.00
+frm1702EX:txtPg3Pt6S1I17_4Col1 = VAL089
+frm1702EX:txtPg3Pt6S1I17_4Col2 = 1,816.00
+frm1702EX:txtPg3Pt6S1I17_5Col1 = VAL091
+frm1702EX:txtPg3Pt6S1I17_5Col2 = 1,833.00
+frm1702EX:txtPg3Pt6S1I17_6Col1 = VAL093
+frm1702EX:txtPg3Pt6S1I17_6Col2 = 1,850.00
+frm1702EX:txtPg3Pt6S1I17_7Col1 = VAL095
+frm1702EX:txtPg3Pt6S1I17_7Col2 = 1,867.00
+frm1702EX:txtPg3Pt6S1I17_8Col1 = VAL097
+frm1702EX:txtPg3Pt6S1I17_8Col2 = 1,884.00
+frm1702EX:txtPg3Pt6S1I17_9Col1 = VAL099
+frm1702EX:txtPg3Pt6S1I17_9Col2 = 1,901.00
+frm1702EX:txtPg3Pt6S2I4_10Col1 = VAL101
+frm1702EX:txtPg3Pt6S2I4_10Col2 = VAL102
+frm1702EX:txtPg3Pt6S2I4_10Col3 = 1,918.00
+frm1702EX:txtPg3Pt6S2I4_11Col1 = VAL104
+frm1702EX:txtPg3Pt6S2I4_11Col2 = VAL105
+frm1702EX:txtPg3Pt6S2I4_11Col3 = 1,935.00
+frm1702EX:txtPg3Pt6S2I4_12Col1 = VAL107
+frm1702EX:txtPg3Pt6S2I4_12Col2 = VAL108
+frm1702EX:txtPg3Pt6S2I4_12Col3 = 1,952.00
+frm1702EX:txtPg3Pt6S2I4_1Col1 = VAL110
+frm1702EX:txtPg3Pt6S2I4_1Col3 = 1,969.00
+frm1702EX:txtPg3Pt6S2I4_2Col1 = VAL113
+frm1702EX:txtPg3Pt6S2I4_2Col2 = VAL114
+frm1702EX:txtPg3Pt6S2I4_2Col3 = 1,986.00
+frm1702EX:txtPg3Pt6S2I4_3Col1 = VAL116
+frm1702EX:txtPg3Pt6S2I4_3Col2 = VAL117
+frm1702EX:txtPg3Pt6S2I4_3Col3 = 2,003.00
+... (89 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 14,
+  "tin": "00012345300000",
+  "tax_period_basis": "fiscal",
+  "year_end_month": 12,
+  "taxable_year": 2025,
+  "is_amended": false,
+  "is_short_period": false,
+  "atc": "i_c011",
+  "rdo_code": "008",
+  "registered_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "date_of_incorporation": "03/15/2025",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "deduction": "itemized",
+  "legal_basis": "VAL011",
+  "promotion_agency": "VAL012",
+  "registered_activity": "VAL013",
+  "effectivity_from": "03/15/2025",
+  "effectivity_to": "03/15/2025",
+  "line_of_business": "",
+  "tax_due": -3226.0,
+  "total_credits": 9237.0,
+  "net_payable": -12463.0,
+  "penalties": 1289.27,
+  "total_amount_payable": 1289.27,
+  "overpayment": "none",
+  "number_of_attachments": 2,
+  "sales": 1306.28,
+  "sales_returns": 1323.29,
+  "net_sales": -17.0,
+  "cost_of_sales": 1340.3,
+  "gross_income": -1357.0,
+  "other_income": 1221.23,
+  "total_gross_income": -136.0,
+  "ordinary_deductions": 30123.0,
+  "special_deductions": 2004.0,
+  "total_itemized": 32127.0,
+  "osd": 0.0,
+  "net_taxable_income": -32263.0,
+  "tax_rate": 10.0,
+  "prior_year_excess": 2025.0,
+  "quarterly_payments": 1408.34,
+  "cwt_previous_quarters": 1425.35,
+  "cwt_q4": 1442.36,
+  "foreign_tax_credits": 1459.37,
+  "previously_filed": 0.0,
+  "other_credits": [
+    {
+      "description": "1493.39",
+      "amount": 1476.38
+    }
+  ],
+  "regular_income_tax": 1527.41,
+  "special_allowable_relief": 1544.42,
+  "tax_relief": 3072.0,
+  "ordinary_items": [
+    1476.38,
+    1493.39,
+    1510.4,
+    1527.41,
+    1544.42,
+    1561.43,
+    1578.44,
+    1969.67,
+    1595.45,
+    1323.29,
+    1340.3,
+    1357.31,
+    1374.32,
+    1391.33,
+    1765.55,
+    1408.34,
+    1425.35,
+    1442.36,
+    1459.37
+  ],
+  "other_deductions": [
+    {
+      "description": "VAL035",
+      "amount": 1578.44
+    },
+    {
+      "description": "",
+      "amount": 0.0
+    },
+    {
+      "description": "",
+      "amount": 0.0
+    },
+    {
+      "description": "",
+      "amount": 0.0
+    },
+    {
+      "description": "",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL083",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL085",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL087",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL089",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL091",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL093",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL095",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL097",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL099",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL075",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL077",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL079",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL081",
+      "amount": 0.0
+    }
+  ],
+  "special_rows": [
+    {
+      "description": "VAL060",
+      "legal_basis": "VAL061",
+      "amount": 2003.69
+    },
+    {
+      "description": "",
+      "legal_basis": "",
+      "amount": 0.0
+    },
+    {
+      "description": "",
+      "legal_basis": "",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL110",
+      "legal_basis": "VAL111",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL113",
+      "legal_basis": "VAL114",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL116",
+      "legal_basis": "VAL117",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL119",
+      "legal_basis": "VAL120",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL122",
+      "legal_basis": "VAL123",
+      "amount": 0.0
+    },
+    {
+      "description": "VAL125",
+      "legal_basis": "VAL126",
+      "amount": 0.0
+    },
+    {
+      
+... (truncated)

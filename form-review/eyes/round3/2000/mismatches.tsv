@@ -1,0 +1,42 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm2000:txtTax15A	15A Balance Carried Over from Previous Return	1	1,119.17	BLANK	BLANK	yes	yes	F	html-frozen/2000-dst-2018/writer-cells.json (money_joins -> )
+drpATCCode10	drpATCCode{index}, row 10	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode11	drpATCCode{index}, row 11	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode12	drpATCCode{index}, row 12	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode13	drpATCCode{index}, row 13	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode3	drpATCCode{index}, row 3	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode4	drpATCCode{index}, row 4	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode5	drpATCCode{index}, row 5	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode6	drpATCCode{index}, row 6	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode7	drpATCCode{index}, row 7	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode8	drpATCCode{index}, row 8	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+drpATCCode9	drpATCCode{index}, row 9	1	IC010	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase10	frm2000:sched1:txtTaxBase{index}, row 10	2	2,105.75	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase11	frm2000:sched1:txtTaxBase{index}, row 11	2	2,122.76	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase12	frm2000:sched1:txtTaxBase{index}, row 12	2	2,139.77	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase13	frm2000:sched1:txtTaxBase{index}, row 13	2	2,156.78	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase3	frm2000:sched1:txtTaxBase{index}, row 3	2	2,173.79	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase4	frm2000:sched1:txtTaxBase{index}, row 4	2	2,190.80	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase5	frm2000:sched1:txtTaxBase{index}, row 5	2	2,207.81	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase6	frm2000:sched1:txtTaxBase{index}, row 6	2	2,224.82	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase7	frm2000:sched1:txtTaxBase{index}, row 7	2	2,241.83	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase8	frm2000:sched1:txtTaxBase{index}, row 8	2	2,258.84	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched1:txtTaxBase9	frm2000:sched1:txtTaxBase{index}, row 9	2	2,275.85	BLANK	BLANK	yes	yes	R	Schedule 1 row past the 3 rows the sheet prints: an add-more row of the page, uploaded with the return; the sheet has no box for it
+frm2000:sched3:txtAmountPaid10	frm2000:sched3:txtAmountPaid{index}, row 10	2	2,853.30	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid11	frm2000:sched3:txtAmountPaid{index}, row 11	2	2,870.31	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid3	frm2000:sched3:txtAmountPaid{index}, row 3	2	2,887.32	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid4	frm2000:sched3:txtAmountPaid{index}, row 4	2	2,904.33	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid5	frm2000:sched3:txtAmountPaid{index}, row 5	2	2,921.34	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid6	frm2000:sched3:txtAmountPaid{index}, row 6	2	2,938.35	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid7	frm2000:sched3:txtAmountPaid{index}, row 7	2	2,955.36	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid8	frm2000:sched3:txtAmountPaid{index}, row 8	2	2,972.37	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtAmountPaid9	frm2000:sched3:txtAmountPaid{index}, row 9	2	2,989.38	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm2000:sched3:txtReceipt10	frm2000:sched3:txtReceipt{index}, row 10	2	VAL127	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt11	frm2000:sched3:txtReceipt{index}, row 11	2	VAL128	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt3	frm2000:sched3:txtReceipt{index}, row 3	2	VAL129	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt4	frm2000:sched3:txtReceipt{index}, row 4	2	VAL130	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt5	frm2000:sched3:txtReceipt{index}, row 5	2	VAL131	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt6	frm2000:sched3:txtReceipt{index}, row 6	2	VAL132	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt7	frm2000:sched3:txtReceipt{index}, row 7	2	VAL133	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt8	frm2000:sched3:txtReceipt{index}, row 8	2	VAL134	BLANK	PRINTED	yes	no	N	not in writer-cells.json
+frm2000:sched3:txtReceipt9	frm2000:sched3:txtReceipt{index}, row 9	2	VAL135	BLANK	PRINTED	yes	no	N	not in writer-cells.json

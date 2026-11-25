@@ -1,0 +1,234 @@
+# Form 2200P — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2200P:rdoPg1Pt2MOP = PaymentActual
+frm2200P:txtSched1BasicExciseTaxDue28 = 8,259.81
+frm2200P:txtSched1BasicExciseTaxDue29 = 8,276.82
+frm2200P:txtSched1BasicExciseTaxDue30 = 8,293.83
+frm2200P:txtSched1BasicExciseTaxDue31 = 8,310.84
+frm2200P:txtSched1BasicExciseTaxDue32 = 8,327.85
+frm2200P:txtSched1BasicExciseTaxDue33 = 8,344.86
+frm2200P:txtSched1BasicExciseTaxDue34 = 8,361.87
+frm2200P:txtSched1BasicExciseTaxDue35 = 8,378.88
+frm2200P:txtSched1BasicExciseTaxDue36 = 8,395.89
+frm2200P:txtSched1BasicExciseTaxDue37 = 8,412.90
+frm2200P:txtSched1BasicExciseTaxDue38 = 8,429.91
+frm2200P:txtSched1BasicExciseTaxDue39 = 8,446.92
+frm2200P:txtSched1BasicExciseTaxDue40 = 8,463.93
+frm2200P:txtSched1BasicExciseTaxDue41 = 8,480.94
+frm2200P:txtSched1Description28 = VAL441
+frm2200P:txtSched1Description29 = VAL442
+frm2200P:txtSched1Description30 = VAL443
+frm2200P:txtSched1Description31 = VAL444
+frm2200P:txtSched1Description32 = VAL445
+frm2200P:txtSched1Description33 = VAL446
+frm2200P:txtSched1Description34 = VAL447
+frm2200P:txtSched1Description35 = VAL448
+frm2200P:txtSched1Description36 = VAL449
+frm2200P:txtSched1Description37 = VAL450
+frm2200P:txtSched1Description38 = VAL451
+frm2200P:txtSched1Description39 = VAL452
+frm2200P:txtSched1Description40 = VAL453
+frm2200P:txtSched1Description41 = VAL454
+frm2200P:txtSched1Exports28 = 3,567.72
+frm2200P:txtSched1Exports29 = 3,584.73
+frm2200P:txtSched1Exports30 = 3,601.74
+frm2200P:txtSched1Exports33 = 3,652.77
+frm2200P:txtSched1Exports34 = 3,669.78
+frm2200P:txtSched1Exports35 = 3,686.79
+frm2200P:txtSched1Exports38 = 3,737.82
+frm2200P:txtSched1Exports39 = 3,754.83
+frm2200P:txtSched1Exports40 = 3,771.84
+frm2200P:txtSched1Exports41 = 3,788.85
+frm2200P:txtSched1Imported28 = 3,805.86
+frm2200P:txtSched1Imported29 = 3,822.87
+frm2200P:txtSched1Imported30 = 3,839.88
+frm2200P:txtSched1Imported33 = 3,890.91
+frm2200P:txtSched1Imported34 = 3,907.92
+frm2200P:txtSched1Imported35 = 3,924.93
+frm2200P:txtSched1Imported38 = 3,975.96
+frm2200P:txtSched1Imported39 = 3,992.97
+frm2200P:txtSched1Imported40 = 4,009.98
+frm2200P:txtSched1Imported41 = 4,026.10
+frm2200P:txtSched1LocalManuProd28 = 4,043.11
+frm2200P:txtSched1LocalManuProd29 = 4,060.12
+frm2200P:txtSched1LocalManuProd30 = 4,077.13
+frm2200P:txtSched1LocalManuProd33 = 4,128.16
+frm2200P:txtSched1LocalManuProd34 = 4,145.17
+frm2200P:txtSched1LocalManuProd35 = 4,162.18
+frm2200P:txtSched1LocalManuProd38 = 4,213.21
+frm2200P:txtSched1LocalManuProd39 = 4,230.22
+frm2200P:txtSched1LocalManuProd40 = 4,247.23
+frm2200P:txtSched1LocalManuProd41 = 4,264.24
+frm2200P:txtSched1Others28 = 4,281.25
+frm2200P:txtSched1Others29 = 4,298.26
+frm2200P:txtSched1Others30 = 4,315.27
+frm2200P:txtSched1Others33 = 4,366.30
+frm2200P:txtSched1Others34 = 4,383.31
+frm2200P:txtSched1Others35 = 4,400.32
+frm2200P:txtSched1Others38 = 4,451.35
+frm2200P:txtSched1Others39 = 4,468.36
+frm2200P:txtSched1Others40 = 4,485.37
+frm2200P:txtSched1Others41 = 4,502.38
+frm2200P:txtSched1PlaceOfRemoval28 = VAL511
+frm2200P:txtSched1PlaceOfRemoval29 = VAL512
+frm2200P:txtSched1PlaceOfRemoval30 = VAL513
+frm2200P:txtSched1PlaceOfRemoval31 = VAL514
+frm2200P:txtSched1PlaceOfRemoval32 = VAL515
+frm2200P:txtSched1PlaceOfRemoval33 = VAL516
+frm2200P:txtSched1PlaceOfRemoval34 = VAL517
+frm2200P:txtSched1PlaceOfRemoval35 = VAL518
+frm2200P:txtSched1PlaceOfRemoval36 = VAL519
+frm2200P:txtSched1PlaceOfRemoval37 = VAL520
+frm2200P:txtSched1PlaceOfRemoval38 = VAL521
+... (69 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 23,
+  "month": 6,
+  "day": 30,
+  "year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "place_of_production": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "place_of_removal": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "tax_relief": true,
+  "tax_relief_specify": "1187.21",
+  "manner_of_payment": "actual_removal",
+  "other_scheme_description": "",
+  "schedule": [
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL025",
+      "local_manufactured": 1306.28,
+      "imported": 1289.27,
+      "total_taxable_removals": 1476.38,
+      "tax_paid_imported": 1493.39,
+      "under_bond": 1340.3,
+      "exports": 1272.26,
+      "others": 1323.29,
+      "total_tax_paid": 1561.43,
+      "basic_excise_tax_due": 1578.44
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL039",
+      "local_manufactured": 1391.33,
+      "imported": 1374.32,
+      "total_taxable_removals": 1714.52,
+      "tax_paid_imported": 1731.53,
+      "under_bond": 1425.35,
+      "exports": 1357.31,
+      "others": 1408.34,
+      "total_tax_paid": 1799.57,
+      "basic_excise_tax_due": 1816.58
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL053",
+      "local_manufactured": 1459.37,
+      "imported": 1442.36,
+      "total_taxable_removals": 1952.66,
+      "tax_paid_imported": 1969.67,
+      "under_bond": 1476.38,
+      "exports": 1493.39,
+      "others": 1544.42,
+      "total_tax_paid": 2037.71,
+      "basic_excise_tax_due": 2054.72
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL067",
+      "local_manufactured": 1527.41,
+      "imported": 1510.4,
+      "total_taxable_removals": 2190.8,
+      "tax_paid_imported": 2207.81,
+      "under_bond": 1612.46,
+      "exports": 1561.43,
+      "others": 1595.45,
+      "total_tax_paid": 2275.85,
+      "basic_excise_tax_due": 2292.86
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL081",
+      "local_manufactured": 1578.44,
+      "imported": 1646.48,
+      "total_taxable_removals": 2428.94,
+      "tax_paid_imported": 2445.95,
+      "under_bond": 1680.5,
+      "exports": 1629.47,
+      "others": 1663.49,
+      "total_tax_paid": 2513.1,
+      "basic_excise_tax_due": 2530.11
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL095",
+      "local_manufactured": 1731.53,
+      "imported": 1714.52,
+      "total_taxable_removals": 2666.19,
+      "tax_paid_imported": 2683.2,
+      "under_bond": 1765.55,
+      "exports": 1697.51,
+      "others": 1748.54,
+      "total_tax_paid": 2751.24,
+      "basic_excise_tax_due": 2768.25
+    },
+    {
+      "atc_digits": "",
+      "description": "",
+      "unit_of_measure": "",
+      "applicable_rate": null,
+      "place_of_removal": "VAL109",
+      "local_manufactured": 1816.58,
+      "imported": 1799.57,
+      "total_taxable_removals": 2904.33,
+      "tax_paid_imported": 2921.34,
+      "under_bond": 1850.6,
+      "exports": 1782.56,
+      "others": 1833.59,
+      "total_tax_paid": 2989.38,
+      "basic_excise_tax_due": 3006.39
+    },
+    {
+      "atc_digits": "",
+  
+... (truncated)

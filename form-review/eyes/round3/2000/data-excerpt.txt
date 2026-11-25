@@ -1,0 +1,236 @@
+# Form 2000 — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2000:txtTax15A = 1,119.17
+drpATCCode10 = IC010
+drpATCCode11 = IC010
+drpATCCode12 = IC010
+drpATCCode13 = IC010
+drpATCCode3 = IC010
+drpATCCode4 = IC010
+drpATCCode5 = IC010
+drpATCCode6 = IC010
+drpATCCode7 = IC010
+drpATCCode8 = IC010
+drpATCCode9 = IC010
+frm2000:sched1:txtTaxBase10 = 2,105.75
+frm2000:sched1:txtTaxBase11 = 2,122.76
+frm2000:sched1:txtTaxBase12 = 2,139.77
+frm2000:sched1:txtTaxBase13 = 2,156.78
+frm2000:sched1:txtTaxBase3 = 2,173.79
+frm2000:sched1:txtTaxBase4 = 2,190.80
+frm2000:sched1:txtTaxBase5 = 2,207.81
+frm2000:sched1:txtTaxBase6 = 2,224.82
+frm2000:sched1:txtTaxBase7 = 2,241.83
+frm2000:sched1:txtTaxBase8 = 2,258.84
+frm2000:sched1:txtTaxBase9 = 2,275.85
+frm2000:sched3:txtAmountPaid10 = 2,853.30
+frm2000:sched3:txtAmountPaid11 = 2,870.31
+frm2000:sched3:txtAmountPaid3 = 2,887.32
+frm2000:sched3:txtAmountPaid4 = 2,904.33
+frm2000:sched3:txtAmountPaid5 = 2,921.34
+frm2000:sched3:txtAmountPaid6 = 2,938.35
+frm2000:sched3:txtAmountPaid7 = 2,955.36
+frm2000:sched3:txtAmountPaid8 = 2,972.37
+frm2000:sched3:txtAmountPaid9 = 2,989.38
+frm2000:sched3:txtReceipt10 = VAL127
+frm2000:sched3:txtReceipt11 = VAL128
+frm2000:sched3:txtReceipt3 = VAL129
+frm2000:sched3:txtReceipt4 = VAL130
+frm2000:sched3:txtReceipt5 = VAL131
+frm2000:sched3:txtReceipt6 = VAL132
+frm2000:sched3:txtReceipt7 = VAL133
+frm2000:sched3:txtReceipt8 = VAL134
+frm2000:sched3:txtReceipt9 = VAL135
+
+## Raw saved draft JSON excerpt
+{
+  "id": 18,
+  "month": 6,
+  "taxable_year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "other_party": "creditor",
+  "other_party_name": "VAL004",
+  "other_party_tin": "000-987-105-00001",
+  "affixture_mode": "edst",
+  "schedule1": [
+    {
+      "atc_code": "",
+      "description": "",
+      "tax_base": 1204.22,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "",
+      "description": "",
+      "tax_base": 1238.24,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "",
+      "description": "",
+      "tax_base": 1272.26,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2173.79,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2190.8,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2207.81,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2224.82,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2241.83,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2258.84,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2275.85,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2105.75,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2122.76,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2139.77,
+      "tax_due": 0.0
+    },
+    {
+      "atc_code": "IC010",
+      "description": "",
+      "tax_base": 2156.78,
+      "tax_due": 0.0
+    }
+  ],
+  "ds106_term_under_a_year": null,
+  "ds106_term_days": 0,
+  "schedule2": [],
+  "schedule3": [
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL027",
+      "amount": 1476.38
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL030",
+      "amount": 1527.41
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL033",
+      "amount": 1578.44
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL129",
+      "amount": 2887.32
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL130",
+      "amount": 2904.33
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL131",
+      "amount": 2921.34
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL132",
+      "amount": 2938.35
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL133",
+      "amount": 2955.36
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL134",
+      "amount": 2972.37
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL135",
+      "amount": 2989.38
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL127",
+      "amount": 2853.3
+    },
+    {
+      "date": "03/15/2025",
+      "receipt_number": "VAL128",
+      "amount": 2870.31
+    }
+  ],
+  "schedule4": [],
+  "tax_due": 0.0,
+  "balance_carried_over": 1119.17,
+  "constructive_affixture_payments": 0.0,
+  "advance_payments": 30874.29,
+  "total_credits": 31993.46,
+  "net_tax_payable": -31993.46,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_payable": -31993.46,
+  "stamps_sold": 0.0,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:31:53.907076236+00:00",
+  "upda
+... (truncated)

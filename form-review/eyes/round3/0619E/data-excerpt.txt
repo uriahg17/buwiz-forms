@@ -1,0 +1,98 @@
+# Form 0619E — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 2,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "month": 6,
+  "is_amended": false,
+  "any_taxes_withheld": true,
+  "withholding_agent_category": "Private",
+  "due_day": 10,
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "line_of_business": "",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "registered_address_2": "",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "item_14_amount_of_remittance": 1068.14,
+  "item_15_amount_remitted_previously": 0.0,
+  "item_16_net_amount_of_remittance": 1068.14,
+  "item_17a_surcharge": 267.04,
+  "item_17b_interest": 176.64,
+  "item_17c_compromise": 1000.0,
+  "penalty_model_version": 1,
+  "penalty_due_date": "2025-07-10",
+  "computed_penalties": {
+    "surcharge": 267.04,
+    "interest": 176.64,
+    "compromise": 1000.0,
+    "inputs": {
+      "due_date": "2025-07-10",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 503,
+      "basic_tax_due": 1068.14,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "Withholding"
+    }
+  },
+  "penalty_overrides": {},
+  "item_17d_total_penalties": 1443.68,
+  "item_18_total_amount_of_remittance": 2511.82,
+  "tax_agent_accreditation_number": "",
+  "tax_agent_date_of_issue": "",
+  "tax_agent_date_of_expiry": "",
+  "payment_details": {
+    "cash_or_bank_debit_memo": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "check": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "tax_debit_memo": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "others": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "others_description": ""
+  },
+  "xml_final_flag": "One",
+  "preserved_unmodeled_xml_fields": {},
+  "last_error": null,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:22:29.390091368+00:00",
+  "updated_at": "2026-11-25T09:22:29.390091368+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/withholding_agent_category": "Private",
+    "/zip_code": "1003"
+  }
+}

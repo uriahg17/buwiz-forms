@@ -1,0 +1,212 @@
+# Form 2552 — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: O0
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2552:txtPg2Pt5Sch1_1Col3 = VAL125
+frm2552:txtPg2Pt5Sch1_1Col4 = VAL126
+frm2552:txtPg2Pt5Sch1_1Col5 = 1,255.25
+frm2552:txtPg2Pt5Sch1_1Col6 = 1,272.26
+frm2552:txtPg2Pt5Sch1_2Col2 = VAL130
+frm2552:txtPg2Pt5Sch1_2Col3 = VAL131
+frm2552:txtPg2Pt5Sch1_2Col4 = VAL132
+frm2552:txtPg2Pt5Sch1_2Col5 = 1,306.00
+frm2552:txtPg2Pt5Sch1_2Col6 = 1,323.00
+frm2552:txtPg2Pt5Sch1_3Col2 = VAL136
+frm2552:txtPg2Pt5Sch1_3Col3 = VAL137
+frm2552:txtPg2Pt5Sch1_3Col4 = VAL138
+frm2552:txtPg2Pt5Sch1_3Col5 = 1,357.00
+frm2552:txtPg2Pt5Sch1_3Col6 = 1,374.00
+frm2552:txtPg2Pt5Sch1_4Col2 = VAL142
+frm2552:txtPg2Pt5Sch1_4Col3 = VAL143
+frm2552:txtPg2Pt5Sch1_4Col4 = VAL144
+frm2552:txtPg2Pt5Sch1_4Col5 = 1,408.00
+frm2552:txtPg2Pt5Sch1_4Col6 = 1,425.00
+frm2552:txtPg2Pt5Sch1_5Col2 = VAL148
+frm2552:txtPg2Pt5Sch1_5Col3 = VAL149
+frm2552:txtPg2Pt5Sch1_5Col4 = VAL150
+frm2552:txtPg2Pt5Sch1_5Col5 = 1,459.00
+frm2552:txtPg2Pt5Sch1_5Col6 = 1,476.00
+frm2552:txtPg2Pt5Sch1_6Col2 = VAL154
+frm2552:txtPg2Pt5Sch1_6Col3 = VAL155
+frm2552:txtPg2Pt5Sch1_6Col4 = VAL156
+frm2552:txtPg2Pt5Sch1_7Col2 = VAL160
+frm2552:txtPg2Pt5Sch1_7Col3 = VAL161
+frm2552:txtPg2Pt5Sch1_7Col4 = VAL162
+frm2552:txtPg2Pt5Sch1_7Col6 = 1,578.00
+frm2552:txtPg2Pt5Sch1_8Col2 = VAL166
+frm2552:txtPg2Pt5Sch1_8Col3 = VAL167
+frm2552:txtPg2Pt5Sch1_8Col4 = VAL168
+frm2552:txtPg2Pt5Sch1_8Col5 = 1,612.00
+frm2552:txtPg2Pt5Sch1_8Col6 = 1,629.00
+frm2552:txtPg2Pt5Sch1_9Col2 = VAL172
+frm2552:txtPg2Pt5Sch1_9Col3 = VAL173
+frm2552:txtPg2Pt5Sch1_9Col4 = VAL174
+
+## Raw saved draft JSON excerpt
+{
+  "id": 27,
+  "transaction_month": 0,
+  "transaction_day": 0,
+  "transaction_year": 2025,
+  "is_amended": false,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "tax_relief": true,
+  "tax_relief_specification": "1170.20",
+  "transaction": "local_stock_exchange",
+  "shares_sold": "",
+  "outstanding_shares": "",
+  "tax_due_lse": 110.0,
+  "tax_due_primary": 0.0,
+  "tax_due_secondary": 0.0,
+  "total_tax_due": 110.0,
+  "tax_paid_previous": 0.0,
+  "creditable_tax_withheld": 1102.16,
+  "total_tax_credits": 1102.0,
+  "tax_still_due": -992.0,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_payable": -992.0,
+  "overpayment": "none",
+  "exempt_transactions": [
+    {
+      "classification": "VAL013",
+      "amount": 1204.22
+    },
+    {
+      "classification": "VAL014",
+      "amount": 0.0
+    },
+    {
+      "classification": "VAL015",
+      "amount": 0.0
+    },
+    {
+      "classification": "VAL016",
+      "amount": 0.0
+    },
+    {
+      "classification": "VAL017",
+      "amount": 0.0
+    }
+  ],
+  "schedule": [
+    {
+      "date": "03/15/2025",
+      "seller": "VAL034",
+      "buyer": "VAL018",
+      "issuing_corporation": "VAL022",
+      "number_of_shares": 1510.4,
+      "tax_base": 1646.48,
+      "tax_rate": 0.6,
+      "tax_due": 10.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL035",
+      "buyer": "VAL019",
+      "issuing_corporation": "VAL023",
+      "number_of_shares": 1527.41,
+      "tax_base": 1663.49,
+      "tax_rate": 0.6,
+      "tax_due": 10.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL036",
+      "buyer": "VAL020",
+      "issuing_corporation": "VAL024",
+      "number_of_shares": 1544.42,
+      "tax_base": 1680.5,
+      "tax_rate": 0.6,
+      "tax_due": 10.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL037",
+      "buyer": "VAL021",
+      "issuing_corporation": "VAL025",
+      "number_of_shares": 1561.43,
+      "tax_base": 1697.51,
+      "tax_rate": 0.6,
+      "tax_due": 10.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "",
+      "buyer": "VAL125",
+      "issuing_corporation": "VAL126",
+      "number_of_shares": 1255.25,
+      "tax_base": 1272.26,
+      "tax_rate": 0.6,
+      "tax_due": 8.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL130",
+      "buyer": "VAL131",
+      "issuing_corporation": "VAL132",
+      "number_of_shares": 1306.0,
+      "tax_base": 1323.0,
+      "tax_rate": 0.6,
+      "tax_due": 8.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL136",
+      "buyer": "VAL137",
+      "issuing_corporation": "VAL138",
+      "number_of_shares": 1357.0,
+      "tax_base": 1374.0,
+      "tax_rate": 0.6,
+      "tax_due": 8.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL142",
+      "buyer": "VAL143",
+      "issuing_corporation": "VAL144",
+      "number_of_shares": 1408.0,
+      "tax_base": 1425.0,
+      "tax_rate": 0.6,
+      "tax_due": 9.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL148",
+      "buyer": "VAL149",
+      "issuing_corporation": "VAL150",
+      "number_of_shares": 1459.0,
+      "tax_base": 1476.0,
+      "tax_rate": 0.6,
+      "tax_due": 9.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL154",
+      "buyer": "VAL155",
+      "issuing_corporation": "VAL156",
+      "number_of_shares": 1510.0,
+      "tax_base": 1527.0,
+      "tax_rate": 0.6,
+      "tax_due": 9.0
+    },
+    {
+      "date": "03/15/2025",
+      "seller": "VAL160",
+      "buyer": "VAL161",
+      "issuing_corporation": "VAL162",
+      
+... (truncated)

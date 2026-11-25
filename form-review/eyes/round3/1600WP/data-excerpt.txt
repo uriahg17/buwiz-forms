@@ -1,0 +1,203 @@
+# Form 1600WP — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 6 | Period: M06
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1600WP:dtSched:txtTin7 = 000-987-134-00001
+frm1600WP:dtSched:txtFullname7 = VAL035
+frm1600WP:dtSched:amount7 = 1,629.47
+frm1600WP:dtSched:txtTin8 = 000-987-138-00001
+frm1600WP:dtSched:txtFullname8 = VAL039
+frm1600WP:dtSched:amount8 = 1,697.51
+frm1600WP:dtSched:txtTin9 = 000-987-142-00001
+frm1600WP:dtSched:txtFullname9 = VAL043
+frm1600WP:dtSched:amount9 = 1,765.55
+frm1600WP:dtSched:txtTin10 = 000-987-146-00001
+frm1600WP:dtSched:txtFullname10 = VAL047
+frm1600WP:dtSched:amount10 = 1,833.59
+frm1600WP:txtTaxBase1 = 1,850.60
+frm1600WP:txtTaxBase10 = 1,867.61
+frm1600WP:txtTaxBase11 = 1,884.62
+frm1600WP:txtTaxBase12 = 1,901.63
+frm1600WP:txtTaxBase2 = 1,918.64
+frm1600WP:txtTaxBase3 = 1,935.65
+frm1600WP:txtTaxBase4 = 1,952.66
+frm1600WP:txtTaxBase5 = 1,969.67
+frm1600WP:txtTaxBase6 = 1,986.68
+frm1600WP:txtTaxBase7 = 2,003.69
+frm1600WP:txtTaxBase8 = 2,020.70
+frm1600WP:txtTaxBase9 = 2,037.71
+
+## Raw saved draft JSON excerpt
+{
+  "id": 6,
+  "month": 6,
+  "day": 25,
+  "year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "taxes_withheld": true,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "agent_category": "private",
+  "agent_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "email": "juana.santos@example.com",
+  "atc_rows": [
+    {
+      "atc_code": "",
+      "tax_base": 1850.6,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1918.64,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1935.65,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1952.66,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1969.67,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1986.68,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 2003.69,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 2020.7,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 2037.71,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1867.61,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1884.62,
+      "tax_withheld": 0.0
+    },
+    {
+      "atc_code": "",
+      "tax_base": 1901.63,
+      "tax_withheld": 0.0
+    }
+  ],
+  "total_tax_withheld": 0.0,
+  "tax_remitted_previous": 1102.16,
+  "tax_still_due": -1102.16,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_due": -1102.16,
+  "schedule": [
+    {
+      "tin": "000-987-110-00001",
+      "payee_name": "VAL011",
+      "atc_code": "IC010",
+      "amount": 1221.23,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-114-00001",
+      "payee_name": "VAL015",
+      "atc_code": "IC010",
+      "amount": 1289.27,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-118-00001",
+      "payee_name": "VAL019",
+      "atc_code": "IC010",
+      "amount": 1357.31,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-122-00001",
+      "payee_name": "VAL023",
+      "atc_code": "IC010",
+      "amount": 1425.35,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-126-00001",
+      "payee_name": "VAL027",
+      "atc_code": "IC010",
+      "amount": 1493.39,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-130-00001",
+      "payee_name": "VAL031",
+      "atc_code": "IC010",
+      "amount": 1561.43,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-134-00001",
+      "payee_name": "VAL035",
+      "atc_code": "IC010",
+      "amount": 1629.47,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-138-00001",
+      "payee_name": "VAL039",
+      "atc_code": "IC010",
+      "amount": 1697.51,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-142-00001",
+      "payee_name": "VAL043",
+      "atc_code": "IC010",
+      "amount": 1765.55,
+      "tax_withheld": 0.0
+    },
+    {
+      "tin": "000-987-146-00001",
+      "payee_name": "VAL047",
+      "atc_code": "IC010",
+      "amount": 1833.59,
+      "tax_withheld": 0.0
+    }
+  ],
+  "schedule_total": 0.0,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:26:04.961854722+00:00",
+  "updated_at": "2026-11-25T09:26:04.961854722+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/agent_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/email": "juana.santos@example.com",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/zip_code": "1003"
+  }
+}

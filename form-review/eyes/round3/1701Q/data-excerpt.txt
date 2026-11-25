@@ -1,0 +1,203 @@
+# Form 1701Q — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 1 | Period: Q1
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 13,
+  "taxable_year": 2025,
+  "quarter": 1,
+  "is_amended": true,
+  "number_of_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "filer_type": "SingleProprietor",
+  "atc": "Ii013",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "taxpayer_last_name": "",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "registered_address_2": "",
+  "zip_code": "1003",
+  "date_of_birth": "01/15/1988",
+  "email": "juana.santos@example.com",
+  "citizenship": "VAL008",
+  "foreign_tax_number": "1153.19",
+  "claims_foreign_tax_credits": true,
+  "tax_rate": "Graduated",
+  "deduction_method": "Itemized",
+  "contact_number": "09171234567",
+  "line_of_business": "",
+  "has_spouse": false,
+  "spouse_tin": "",
+  "spouse_rdo_code": "",
+  "spouse_type": null,
+  "spouse_atc": null,
+  "spouse_name": "",
+  "spouse_citizenship": "",
+  "spouse_foreign_tax_number": "",
+  "spouse_claims_foreign_tax_credits": null,
+  "spouse_tax_rate": null,
+  "spouse_deduction_method": null,
+  "amounts": {
+    "item_26": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_27": {
+      "taxpayer": 13248.0,
+      "spouse": 0.0
+    },
+    "item_28": {
+      "taxpayer": -13248.0,
+      "spouse": 0.0
+    },
+    "item_29": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_30": {
+      "taxpayer": -13248.0,
+      "spouse": 0.0
+    },
+    "item_36": {
+      "taxpayer": 1374.32,
+      "spouse": 0.0
+    },
+    "item_37": {
+      "taxpayer": 1408.34,
+      "spouse": 0.0
+    },
+    "item_38": {
+      "taxpayer": -34.0,
+      "spouse": 0.0
+    },
+    "item_39": {
+      "taxpayer": 1442.36,
+      "spouse": 0.0
+    },
+    "item_40": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_41": {
+      "taxpayer": -1476.0,
+      "spouse": 0.0
+    },
+    "item_42": {
+      "taxpayer": 1476.38,
+      "spouse": 0.0
+    },
+    "item_43": {
+      "taxpayer": 1187.21,
+      "spouse": 0.0
+    },
+    "item_44": {
+      "taxpayer": 1561.43,
+      "spouse": 0.0
+    },
+    "item_45": {
+      "taxpayer": 2749.0,
+      "spouse": 0.0
+    },
+    "item_46": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_47": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_48": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_49": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_50": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_51": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_52": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_53": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_54": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_55": {
+      "taxpayer": 2025.0,
+      "spouse": 0.0
+    },
+    "item_56": {
+      "taxpayer": 1782.56,
+      "spouse": 0.0
+    },
+    "item_57": {
+      "taxpayer": 1816.58,
+      "spouse": 0.0
+    },
+    "item_58": {
+      "taxpayer": 1850.6,
+      "spouse": 0.0
+    },
+    "item_59": {
+      "taxpayer": 1884.62,
+      "spouse": 0.0
+    },
+    "item_60": {
+      "taxpayer": 1918.64,
+      "spouse": 0.0
+    },
+    "item_61": {
+      "taxpayer": 1969.67,
+      "spouse": 0.0
+    },
+    "item_62": {
+      "taxpayer": 13248.0,
+      "spouse": 0.0
+    },
+    "item_63": {
+      "taxpayer": -13248.0,
+      "spouse": 0.0
+    },
+    "item_64": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_65": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_66": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_67": {
+      "taxpayer": 0.0,
+      "spouse": 0.0
+    },
+    "item_68": {
+      "taxpayer": -13248.0,
+      "spouse": 0.0
+    }
+  },
+  "item_31_aggregate_amount_payable": -13248.0,
+  "item_43_non_operating_income_description": "000-987-130-00001",
+  "item_48_non_operating_income_description": "",
+  "item_61_other_tax_credit_description": "1952.66",
+  "penalty": {
+    "pen
+... (truncated)

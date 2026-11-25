@@ -1,0 +1,241 @@
+# Form 2000OT — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: O0
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2000OT:sched1A:txtArea10 = VAL071
+frm2000OT:sched1A:txtArea11 = VAL072
+frm2000OT:sched1A:txtArea12 = VAL073
+frm2000OT:sched1A:txtArea13 = VAL074
+frm2000OT:sched1A:txtArea14 = VAL075
+frm2000OT:sched1A:txtArea15 = VAL076
+frm2000OT:sched1A:txtArea5 = VAL077
+frm2000OT:sched1A:txtArea6 = VAL078
+frm2000OT:sched1A:txtArea7 = VAL079
+frm2000OT:sched1A:txtArea8 = VAL080
+frm2000OT:sched1A:txtArea9 = VAL081
+frm2000OT:sched1A:txtClassification10 = VAL082
+frm2000OT:sched1A:txtClassification11 = VAL083
+frm2000OT:sched1A:txtClassification12 = VAL084
+frm2000OT:sched1A:txtClassification13 = VAL085
+frm2000OT:sched1A:txtClassification14 = VAL086
+frm2000OT:sched1A:txtClassification15 = VAL087
+frm2000OT:sched1A:txtClassification5 = VAL088
+frm2000OT:sched1A:txtClassification6 = VAL089
+frm2000OT:sched1A:txtClassification7 = VAL090
+frm2000OT:sched1A:txtClassification8 = VAL091
+frm2000OT:sched1A:txtClassification9 = VAL092
+frm2000OT:sched1A:txtFMVCol110 = 2,581.14
+frm2000OT:sched1A:txtFMVCol111 = 2,598.15
+frm2000OT:sched1A:txtFMVCol112 = 2,615.16
+frm2000OT:sched1A:txtFMVCol113 = 2,632.17
+frm2000OT:sched1A:txtFMVCol114 = 2,649.18
+frm2000OT:sched1A:txtFMVCol115 = 2,666.19
+frm2000OT:sched1A:txtFMVCol15 = 2,683.20
+frm2000OT:sched1A:txtFMVCol16 = 2,700.21
+frm2000OT:sched1A:txtFMVCol17 = 2,717.22
+frm2000OT:sched1A:txtFMVCol18 = 2,734.23
+frm2000OT:sched1A:txtFMVCol19 = 2,751.24
+frm2000OT:sched1A:txtFMVCol210 = 2,768.25
+frm2000OT:sched1A:txtFMVCol211 = 2,785.26
+frm2000OT:sched1A:txtFMVCol212 = 2,802.27
+frm2000OT:sched1A:txtFMVCol213 = 2,819.28
+frm2000OT:sched1A:txtFMVCol214 = 2,836.29
+frm2000OT:sched1A:txtFMVCol215 = 2,853.30
+frm2000OT:sched1A:txtFMVCol25 = 2,870.31
+frm2000OT:sched1A:txtFMVCol26 = 2,887.32
+frm2000OT:sched1A:txtFMVCol27 = 2,904.33
+frm2000OT:sched1A:txtFMVCol28 = 2,921.34
+frm2000OT:sched1A:txtFMVCol29 = 2,938.35
+frm2000OT:sched1A:txtLoc10 = VAL115
+frm2000OT:sched1A:txtLoc11 = VAL116
+frm2000OT:sched1A:txtLoc12 = VAL117
+frm2000OT:sched1A:txtLoc13 = VAL118
+frm2000OT:sched1A:txtLoc14 = VAL119
+frm2000OT:sched1A:txtLoc15 = VAL120
+frm2000OT:sched1A:txtLoc5 = VAL121
+frm2000OT:sched1A:txtLoc6 = VAL122
+frm2000OT:sched1A:txtLoc7 = VAL123
+frm2000OT:sched1A:txtLoc8 = VAL124
+frm2000OT:sched1A:txtLoc9 = VAL125
+frm2000OT:sched1A:txtLot10 = VAL126
+frm2000OT:sched1A:txtLot11 = VAL127
+frm2000OT:sched1A:txtLot12 = VAL128
+frm2000OT:sched1A:txtLot13 = VAL129
+frm2000OT:sched1A:txtLot14 = VAL130
+frm2000OT:sched1A:txtLot15 = VAL131
+frm2000OT:sched1A:txtLot5 = VAL132
+frm2000OT:sched1A:txtLot6 = VAL133
+frm2000OT:sched1A:txtLot7 = VAL134
+frm2000OT:sched1A:txtLot8 = VAL135
+frm2000OT:sched1A:txtLot9 = VAL136
+frm2000OT:sched1A:txtOCTNo10 = VAL137
+frm2000OT:sched1A:txtOCTNo11 = VAL138
+frm2000OT:sched1A:txtOCTNo12 = VAL139
+frm2000OT:sched1A:txtOCTNo13 = VAL140
+frm2000OT:sched1A:txtOCTNo14 = VAL141
+frm2000OT:sched1A:txtOCTNo15 = VAL142
+frm2000OT:sched1A:txtOCTNo5 = VAL143
+frm2000OT:sched1A:txtOCTNo6 = VAL144
+frm2000OT:sched1A:txtOCTNo7 = VAL145
+frm2000OT:sched1A:txtOCTNo8 = VAL146
+frm2000OT:sched1A:txtOCTNo9 = VAL147
+frm2000OT:sched1A:txtTaxDecNo10 = 3516.69
+frm2000OT:sched1A:txtTaxDecNo11 = 3533.70
+frm2000OT:sched1A:txtTaxDecNo12 = 3550.71
+... (63 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 19,
+  "transaction_date": "",
+  "year": 2025,
+  "is_amended": true,
+  "atc": "Do102",
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "other_party": "creditor",
+  "other_party_name": "VAL005",
+  "other_party_tin": "000-987-106-00001",
+  "nature": "shares_of_stock",
+  "real_property_location": "",
+  "properties": [
+    {
+      "title_number": "VAL013",
+      "tax_declaration_number": "1238.24",
+      "location": "VAL015",
+      "lot": "VAL028",
+      "classification": "VAL029",
+      "area": "VAL030",
+      "fmv_per_td": 1527.41,
+      "fmv_zonal": 1544.42,
+      "fmv": 1544.42
+    },
+    {
+      "title_number": "VAL016",
+      "tax_declaration_number": "1289.27",
+      "location": "VAL018",
+      "lot": "VAL033",
+      "classification": "VAL034",
+      "area": "VAL035",
+      "fmv_per_td": 1612.46,
+      "fmv_zonal": 1629.47,
+      "fmv": 1629.47
+    },
+    {
+      "title_number": "VAL019",
+      "tax_declaration_number": "1340.30",
+      "location": "VAL021",
+      "lot": "VAL038",
+      "classification": "VAL039",
+      "area": "VAL040",
+      "fmv_per_td": 1697.51,
+      "fmv_zonal": 1714.52,
+      "fmv": 1714.52
+    },
+    {
+      "title_number": "VAL022",
+      "tax_declaration_number": "1391.33",
+      "location": "VAL024",
+      "lot": "VAL043",
+      "classification": "VAL044",
+      "area": "VAL045",
+      "fmv_per_td": 1782.56,
+      "fmv_zonal": 1799.57,
+      "fmv": 1799.57
+    },
+    {
+      "title_number": "VAL025",
+      "tax_declaration_number": "1442.36",
+      "location": "VAL027",
+      "lot": "VAL048",
+      "classification": "VAL049",
+      "area": "VAL050",
+      "fmv_per_td": 1867.61,
+      "fmv_zonal": 1884.62,
+      "fmv": 1884.62
+    },
+    {
+      "title_number": "VAL143",
+      "tax_declaration_number": "3618.75",
+      "location": "VAL121",
+      "lot": "VAL132",
+      "classification": "VAL088",
+      "area": "VAL077",
+      "fmv_per_td": 2683.2,
+      "fmv_zonal": 2870.31,
+      "fmv": 2870.31
+    },
+    {
+      "title_number": "VAL144",
+      "tax_declaration_number": "3635.76",
+      "location": "VAL122",
+      "lot": "VAL133",
+      "classification": "VAL089",
+      "area": "VAL078",
+      "fmv_per_td": 2700.21,
+      "fmv_zonal": 2887.32,
+      "fmv": 2887.32
+    },
+    {
+      "title_number": "VAL145",
+      "tax_declaration_number": "3652.77",
+      "location": "VAL123",
+      "lot": "VAL134",
+      "classification": "VAL090",
+      "area": "VAL079",
+      "fmv_per_td": 2717.22,
+      "fmv_zonal": 2904.33,
+      "fmv": 2904.33
+    },
+    {
+      "title_number": "VAL146",
+      "tax_declaration_number": "3669.78",
+      "location": "VAL124",
+      "lot": "VAL135",
+      "classification": "VAL091",
+      "area": "VAL080",
+      "fmv_per_td": 2734.23,
+      "fmv_zonal": 2921.34,
+      "fmv": 2921.34
+    },
+    {
+      "title_number": "VAL147",
+      "tax_declaration_number": "3686.79",
+      "location": "VAL125",
+      "lot": "VAL136",
+      "classification": "VAL092",
+      "area": "VAL081",
+      "fmv_per_td": 2751.24,
+      "fmv_zonal": 2938.35,
+      "fmv": 2938.35
+    },
+    {
+      "title_number": "VAL137",
+      "tax_declaration_number": "3516.69",
+      "location": "VAL115",
+      "lot": "VAL126",
+      "classification": "VAL082",
+      "area": "VAL071",
+      "fmv_per_td": 2581.14,
+      "fmv_zonal": 2768.25,
+      "fmv": 2768.25
+    },
+    {
+      "title_number": "VAL138",
+      "tax_declaration_number": "3533.70",
+      "location": "VAL116",
+      "lot": "VAL127",
+      "classification": "VAL083",
+      "area": "VAL072",
+      "fmv_per_td": 2598.15,
+      "fmv_zonal": 2785.26,
+      "fmv": 2785.2
+... (truncated)

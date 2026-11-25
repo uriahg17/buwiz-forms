@@ -1,0 +1,199 @@
+# Form 2550Q — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 1 | Period: Q1
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2550qv2024:amendedReturn = No5
+frm2550qv2024:item1 = calendarNo1
+frm2550qv2024:sched2AmountInputTax = 1,204.22
+frm2550qv2024:sched2VatExemptSale = 1,221.23
+frm2550qv2024:totalTaxPayableNo19Amount0 = 1,816.58
+frm2550qv2024:totalTaxPayableNo19Amount1 = 1,833.59
+frm2550qv2024:totalTaxPayableNo19Amount10 = 1,850.60
+frm2550qv2024:totalTaxPayableNo19Amount11 = 1,867.61
+frm2550qv2024:totalTaxPayableNo19Amount12 = 1,884.62
+frm2550qv2024:totalTaxPayableNo19Amount2 = 1,901.63
+frm2550qv2024:totalTaxPayableNo19Amount3 = 1,918.64
+frm2550qv2024:totalTaxPayableNo19Amount4 = 1,935.65
+frm2550qv2024:totalTaxPayableNo19Amount5 = 1,952.66
+frm2550qv2024:totalTaxPayableNo19Amount6 = 1,969.67
+frm2550qv2024:totalTaxPayableNo19Amount7 = 1,986.68
+frm2550qv2024:totalTaxPayableNo19Amount8 = 2,003.69
+frm2550qv2024:totalTaxPayableNo19Amount9 = 2,020.70
+frm2550qv2024:totalTaxPayableNo19Description0 = 2037.71
+frm2550qv2024:totalTaxPayableNo19Description1 = 2054.72
+frm2550qv2024:totalTaxPayableNo19Description10 = 2071.73
+frm2550qv2024:totalTaxPayableNo19Description11 = 2088.74
+frm2550qv2024:totalTaxPayableNo19Description12 = 2105.75
+frm2550qv2024:totalTaxPayableNo19Description2 = 2122.76
+frm2550qv2024:totalTaxPayableNo19Description3 = 2139.77
+frm2550qv2024:totalTaxPayableNo19Description4 = 2156.78
+frm2550qv2024:totalTaxPayableNo19Description5 = 2173.79
+frm2550qv2024:totalTaxPayableNo19Description6 = 2190.80
+frm2550qv2024:totalTaxPayableNo19Description7 = 2207.81
+frm2550qv2024:totalTaxPayableNo19Description8 = 2224.82
+frm2550qv2024:totalTaxPayableNo19Description9 = 2241.83
+frm2550qv2024:totalTaxPayableNo42Amount0 = 2,258.84
+frm2550qv2024:totalTaxPayableNo42Amount1 = 2,275.85
+frm2550qv2024:totalTaxPayableNo42Amount10 = 2,292.86
+frm2550qv2024:totalTaxPayableNo42Amount11 = 2,309.87
+frm2550qv2024:totalTaxPayableNo42Amount2 = 2,326.88
+frm2550qv2024:totalTaxPayableNo42Amount3 = 2,343.89
+frm2550qv2024:totalTaxPayableNo42Amount4 = 2,360.90
+frm2550qv2024:totalTaxPayableNo42Amount5 = 2,377.91
+frm2550qv2024:totalTaxPayableNo42Amount6 = 2,394.92
+frm2550qv2024:totalTaxPayableNo42Amount7 = 2,411.93
+frm2550qv2024:totalTaxPayableNo42Amount8 = 2,428.94
+frm2550qv2024:totalTaxPayableNo42Amount9 = 2,445.95
+frm2550qv2024:totalTaxPayableNo42Description0 = 2462.96
+frm2550qv2024:totalTaxPayableNo42Description1 = 2479.97
+frm2550qv2024:totalTaxPayableNo42Description10 = 2496.98
+frm2550qv2024:totalTaxPayableNo42Description11 = 2513.10
+frm2550qv2024:totalTaxPayableNo42Description2 = 2530.11
+frm2550qv2024:totalTaxPayableNo42Description3 = 2547.12
+frm2550qv2024:totalTaxPayableNo42Description4 = 2564.13
+frm2550qv2024:totalTaxPayableNo42Description5 = 2581.14
+frm2550qv2024:totalTaxPayableNo42Description6 = 2598.15
+frm2550qv2024:totalTaxPayableNo42Description7 = 2615.16
+frm2550qv2024:totalTaxPayableNo42Description8 = 2632.17
+frm2550qv2024:totalTaxPayableNo42Description9 = 2649.18
+frm2550qv2024:totalTaxPayableNo47Amount0 = 2,666.19
+frm2550qv2024:totalTaxPayableNo47Amount1 = 2,683.20
+frm2550qv2024:totalTaxPayableNo47Amount10 = 2,700.21
+frm2550qv2024:totalTaxPayableNo47Amount11 = 2,717.22
+frm2550qv2024:totalTaxPayableNo47Amount12 = 2,734.23
+frm2550qv2024:totalTaxPayableNo47Amount2 = 2,751.24
+frm2550qv2024:totalTaxPayableNo47Amount3 = 2,768.25
+frm2550qv2024:totalTaxPayableNo47Amount4 = 2,785.26
+frm2550qv2024:totalTaxPayableNo47Amount5 = 2,802.27
+frm2550qv2024:totalTaxPayableNo47Amount6 = 2,819.28
+frm2550qv2024:totalTaxPayableNo47Amount7 = 2,836.29
+frm2550qv2024:totalTaxPayableNo47Amount8 = 2,853.30
+frm2550qv2024:totalTaxPayableNo47Amount9 = 2,870.31
+frm2550qv2024:totalTaxPayableNo47Description0 = 2887.32
+frm2550qv2024:totalTaxPayableNo47Description1 = 2904.33
+frm2550qv2024:totalTaxPayableNo47Description10 = 2921.34
+frm2550qv2024:totalTaxPayableNo47Description11 = 2938.35
+frm2550qv2024:totalTaxPayableNo47Description12 = 2955.36
+frm2550qv2024:totalTaxPayableNo47Description2 = 2972.37
+frm2550qv2024:totalTaxPayableNo47Description3 = 2989.38
+frm2550qv2024:totalTaxPayableNo47Description4 = 3006.39
+frm2550qv2024:totalTaxPayableNo47Description5 = 3023.40
+frm2550qv2024:totalTaxPayableNo47Description6 = 3040.41
+frm2550qv2024:totalTaxPayableNo47Description7 = 3057.42
+frm2550qv2024:totalTaxPayableNo47Description8 = 3074.43
+frm2550qv2024:totalTaxPayableNo47Description9 = 3091.44
+... (26 additional cited boxes; full list in mismatches.tsv)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 25,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "filing_basis": "Calendar",
+  "year_end_month": 12,
+  "quarter": "First",
+  "return_period_from": {
+    "year": 2025,
+    "month": 1,
+    "day": 1
+  },
+  "return_period_to": {
+    "year": 2025,
+    "month": 3,
+    "day": 31
+  },
+  "is_amended": false,
+  "is_short_period_return": false,
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "taxpayer_classification": "Micro",
+  "is_availing_tax_relief": false,
+  "tax_relief_details": "VAL025",
+  "part_ii": {
+    "item_15_net_vat_payable_or_excess": 10340.93,
+    "item_16_creditable_vat_withheld": 0.0,
+    "item_17_advance_vat_payments": 0.0,
+    "item_18_paid_on_previous_return": 1527.41,
+    "item_19_description": "VARIOUS",
+    "item_19_other_credit_or_payment": 24942.32,
+    "item_20_total_credits_or_payments": 26469.73,
+    "item_21_tax_payable_or_excess_credits": -16128.8,
+    "item_22_surcharge": 1442.36,
+    "item_23_interest": 1255.25,
+    "item_24_compromise": 1136.18,
+    "item_25_total_penalties": 3833.79,
+    "item_26_total_amount_payable_or_excess": 3833.79
+  },
+  "part_iv": {
+    "item_31a_vatable_sales": 1493.39,
+    "item_31b_output_tax": 179.21,
+    "item_32a_zero_rated_sales": 10.0,
+    "item_33a_exempt_sales": 1221.23,
+    "item_34a_total_sales": 2724.62,
+    "item_34b_output_tax_due": 179.21,
+    "item_35b_less_output_vat_uncollected": 0.0,
+    "item_36b_add_output_vat_recovered": 0.0,
+    "item_37b_adjusted_output_tax_due": 179.21,
+    "item_38b_input_tax_carried": 1221.23,
+    "item_39b_input_tax_deferred": 0.0,
+    "item_40b_transitional_input_tax": 1476.38,
+    "item_41b_presumptive_input_tax": 1306.28,
+    "item_42_description": "VARIOUS",
+    "item_42b_other_input_tax": 28228.74,
+    "item_43b_total_prior_input_tax": 32232.63,
+    "item_44a_domestic_purchases": 1170.2,
+    "item_44b_domestic_input_tax": 140.42,
+    "item_45a_nonresident_services": 1238.24,
+    "item_45b_nonresident_service_input_tax": 148.59,
+    "item_46a_importations": 1187.21,
+    "item_46b_import_input_tax": 142.47,
+    "item_47_description": "VARIOUS",
+    "item_47a_other_purchases": 35987.25,
+    "item_47b_other_input_tax": 4318.47,
+    "item_48a_domestic_purchases_no_input_tax": 1170.2,
+    "item_49a_vat_exempt_importations": 1255.25,
+    "item_50a_total_current_purchases": 42008.35,
+    "item_50b_total_current_input_tax": 4749.95,
+    "item_51b_total_available_input_tax": 36982.58,
+    "item_52b_deferred_capital_goods_input_tax": 0.0,
+    "item_53b_input_tax_attributable_to_exempt_sales": 1880.06,
+    "item_54b_vat_refund_or_tcc_claimed": 1272.26,
+    "item_55b_input_vat_on_unpaid_payables": 1238.24,
+    "item_56_description": "VARIOUS",
+    "item_56b_other_deduction": 41736.63,
+    "item_57b_total_deductions": 46127.19,
+    "item_58b_input_vat_on_settled_payables": 1017.11,
+    "item_59b_adjusted_deductions": 47144.3,
+    "item_60b_total_allowable_input_tax": -10161.72,
+    "item_61b_net_vat_payable_or_excess": 10340.93
+  },
+  "schedule_1": [
+    {
+      "instance_id": "row-00000000000000000001",
+      "purchase_or_import_date": null,
+      "source_code": "",
+      "description": "",
+      "purchase_or_import_amount": 0.0,
+      "input_tax": 0.0,
+      "estimated_life_months": 0,
+      "recognized_life_months": 0,
+      "allowable_input_tax_for_period": 0.0,
+      "balance_to_next_period": 0.0
+    },
+    {
+      "instance_id": "row-00000000000000000002",
+      "purchase_or_import_date": null,
+      "source_code": "",
+      "description": "",
+      "purchase_or_import_amount": 0.0,
+      "input_tax": 0.0,
+      "estimated_life_months": 0,
+      "recognized_life_months": 0,
+      "allowable_input_tax_for_period": 0.0,
+      "bal
+... (truncated)

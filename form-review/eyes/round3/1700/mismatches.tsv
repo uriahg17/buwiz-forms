@@ -1,0 +1,6 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1700:rdoPg1I15CivilStatus	15 Civil Status	1	LS	BLANK	BLANK	yes	yes	N	not in writer-cells.json
+frm1700:txtPg1I29A	Page 1 Item 29 A	1	1,170.20	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the comb, the sheet says DO NOT enter centavos; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1700:txtPg2I43A	Page 2 Item 43 A	2	1,408.34	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the comb, the sheet says DO NOT enter centavos; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1700:txtPg2I45A	Page 2 Item 45 A	2	1,442.36	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the comb, the sheet says DO NOT enter centavos; an overpayment in parentheses; zero and a non-joint column B blank)
+frm1700:txtPg2I57A	Page 2 Item 57 A	2	1,646.48	BLANK	BLANK	yes	yes	N	prints from its derived:amount_* key (whole pesos right-aligned in the comb, the sheet says DO NOT enter centavos; an overpayment in parentheses; zero and a non-joint column B blank)

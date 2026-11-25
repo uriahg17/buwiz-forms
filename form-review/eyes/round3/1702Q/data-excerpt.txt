@@ -1,0 +1,133 @@
+# Form 1702Q — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 1 | Period: Q1
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1702q:cbATC_2 = IC010_25%
+frm1702q:Sched1:txtTax10B = 12,626.00
+
+## Raw saved draft JSON excerpt
+{
+  "id": 15,
+  "tin": "00012345300000",
+  "tax_period_basis": "calendar",
+  "year_end_month": 12,
+  "taxable_year": 2025,
+  "quarter": 1,
+  "is_amended": true,
+  "atc_mcit": false,
+  "atc": "IC010_25%",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "deduction": "itemized",
+  "tax_relief": true,
+  "tax_relief_specify": "10909",
+  "exempt": {
+    "sales": 11616.0,
+    "cost_of_sales": 11818.0,
+    "gross_income": -202.0,
+    "other_income": 12020.0,
+    "total_gross_income": 11818.0,
+    "deductions": 12222.0,
+    "taxable_income": -404.0,
+    "previous_quarters": 0.0,
+    "total_taxable_income": -404.0,
+    "rate": 0.0,
+    "tax_due": 0.0
+  },
+  "special": {
+    "sales": 11717.0,
+    "cost_of_sales": 11919.0,
+    "gross_income": -202.0,
+    "other_income": 12121.0,
+    "total_gross_income": 11919.0,
+    "deductions": 12323.0,
+    "taxable_income": -404.0,
+    "previous_quarters": 0.0,
+    "total_taxable_income": -404.0,
+    "rate": 12626.0,
+    "tax_due": 0.0
+  },
+  "share_of_other_agencies": 12727.0,
+  "special_net_tax_due": -12727.0,
+  "sales": 12828.0,
+  "cost_of_sales": 12929.0,
+  "gross_income": -101.0,
+  "other_income": 13030.0,
+  "total_gross_income": 12929.0,
+  "deductions": 13131.0,
+  "taxable_income": -202.0,
+  "previous_quarters_taxable_income": 0.0,
+  "total_taxable_income": -202.0,
+  "regular_rate_text": "0.00",
+  "regular_tax_due": 0.0,
+  "mcit": 0.0,
+  "income_tax_due": 0.0,
+  "mcit_gross_income_q1": 0.0,
+  "mcit_gross_income_q2": 0.0,
+  "mcit_gross_income_q3": 0.0,
+  "mcit_total_gross_income": 0.0,
+  "mcit_rate_text": "0.00",
+  "prior_year_excess_credits": 13636.0,
+  "previous_quarters_payments": 0.0,
+  "previous_quarters_mcit_payments": 0.0,
+  "previous_quarters_cwt": 0.0,
+  "cwt_this_quarter": 14040.0,
+  "previously_filed": 14141.0,
+  "other_credits": [
+    {
+      "description": "14242",
+      "amount": 14343.0
+    },
+    {
+      "description": "14444",
+      "amount": 14545.0
+    }
+  ],
+  "total_credits": 70705.0,
+  "prior_year_mcit_excess": 0.0,
+  "regular_tax_still_due": 0.0,
+  "aggregate_tax_due": -12727.0,
+  "net_tax_payable": -83432.0,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_due_date": "2025-05-30",
+  "computed_penalties": {
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "inputs": {
+      "due_date": "2025-05-30",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 544,
+      "basic_tax_due": 0.0,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "StandardFiling"
+    }
+  },
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_payable": -83432.0,
+  "number_of_attachments": 2,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:30:26.909426345+00:00",
+  "updated_at": "2026-11-25T09:30:26.909426345+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

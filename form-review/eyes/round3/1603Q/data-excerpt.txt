@@ -1,0 +1,80 @@
+# Form 1603Q — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 1 | Period: Q1
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 9,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "quarter": 1,
+  "is_amended": true,
+  "any_tax_withheld": true,
+  "number_of_attached_sheets": 2,
+  "rdo_code": "008",
+  "line_of_business": "",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "category": "private",
+  "email": "juana.santos@example.com",
+  "tax_relief": "special_rate",
+  "monetary_value": [
+    1204.22,
+    1221.23
+  ],
+  "grossed_up_value": [
+    1852.65,
+    1628.31
+  ],
+  "fringe_benefit_tax": [
+    648.43,
+    407.08
+  ],
+  "schedule_total": 1055.51,
+  "total_taxes_withheld": 1055.51,
+  "tax_remitted_previous": 1102.16,
+  "other_remittances_specify": "VAL007",
+  "other_remittances": 1136.18,
+  "total_remittances": 2238.34,
+  "tax_still_due": -1182.83,
+  "surcharge": 0.0,
+  "interest": 0.0,
+  "compromise": 0.0,
+  "penalty_model_version": 1,
+  "penalty_due_date": "2025-04-30",
+  "computed_penalties": {
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "inputs": {
+      "due_date": "2025-04-30",
+      "filing_date": "2026-11-25",
+      "payment_date": "2026-11-25",
+      "days_late": 574,
+      "basic_tax_due": 0.0,
+      "taxpayer_class": "Regular",
+      "class_from_profile": false,
+      "schedule": "Withholding"
+    }
+  },
+  "penalty_overrides": {},
+  "total_penalties": 0.0,
+  "total_amount_due": -1182.83,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:27:32.685012473+00:00",
+  "updated_at": "2026-11-25T09:27:32.685012473+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

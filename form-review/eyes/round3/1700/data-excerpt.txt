@@ -1,0 +1,152 @@
+# Form 1700 — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1700:rdoPg1I15CivilStatus = LS
+frm1700:txtPg1I29A = 1,170.20
+frm1700:txtPg2I43A = 1,408.34
+frm1700:txtPg2I45A = 1,442.36
+frm1700:txtPg2I57A = 1,646.48
+
+## Raw saved draft JSON excerpt
+{
+  "id": 11,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "is_amended": false,
+  "rdo_code": "008",
+  "taxpayer_type": "employee",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "birth_date": "01/15/1988",
+  "email": "juana.santos@example.com",
+  "citizenship": "VAL013",
+  "foreign_tax_credits": false,
+  "foreign_tax_number": "",
+  "contact_number": "09171234567",
+  "civil_status": "separated",
+  "spouse_has_income": null,
+  "filing_status": "unanswered",
+  "line_of_business": "",
+  "spouse": {
+    "tin": "",
+    "rdo_code": "",
+    "taxpayer_type": "unanswered",
+    "name": "",
+    "contact_number": "",
+    "citizenship": "",
+    "foreign_tax_credits": null,
+    "foreign_tax_number": ""
+  },
+  "taxpayer": {
+    "gross_compensation": 0.0,
+    "non_taxable": 1408.34,
+    "taxable_compensation": -1408.0,
+    "other_income": 1442.36,
+    "taxable_income": 34.0,
+    "graduated_tax_due": 0.0,
+    "flat_gross_compensation": 0.0,
+    "flat_non_taxable": 0.0,
+    "flat_taxable_compensation": 0.0,
+    "flat_other_income": 0.0,
+    "flat_taxable_income": 0.0,
+    "flat_tax_due": 0.0,
+    "tax_withheld": 0.0,
+    "previously_filed": 0.0,
+    "foreign_tax_credits": 0.0,
+    "other_credits": 1646.48,
+    "total_credits": 1646.0,
+    "net_payable": -1646.0,
+    "tax_due": 0.0,
+    "second_installment": 1170.2,
+    "amount_payable": -2816.0,
+    "interest": 0.0,
+    "surcharge": 0.0,
+    "compromise": 0.0,
+    "penalty_model_version": 1,
+    "penalty_due_date": "2026-04-15",
+    "computed_penalties": {
+      "surcharge": 0.0,
+      "interest": 0.0,
+      "compromise": 0.0,
+      "inputs": {
+        "due_date": "2026-04-15",
+        "filing_date": "2026-11-25",
+        "payment_date": "2026-11-25",
+        "days_late": 224,
+        "basic_tax_due": 0.0,
+        "taxpayer_class": "Regular",
+        "class_from_profile": false,
+        "schedule": "StandardFiling"
+      }
+    },
+    "penalty_overrides": {},
+    "total_penalties": 0.0,
+    "total_amount_payable": -2816.0
+  },
+  "spouse_column": {
+    "gross_compensation": 0.0,
+    "non_taxable": 0.0,
+    "taxable_compensation": 0.0,
+    "other_income": 0.0,
+    "taxable_income": 0.0,
+    "graduated_tax_due": 0.0,
+    "flat_gross_compensation": 0.0,
+    "flat_non_taxable": 0.0,
+    "flat_taxable_compensation": 0.0,
+    "flat_other_income": 0.0,
+    "flat_taxable_income": 0.0,
+    "flat_tax_due": 0.0,
+    "tax_withheld": 0.0,
+    "previously_filed": 0.0,
+    "foreign_tax_credits": 0.0,
+    "other_credits": 0.0,
+    "total_credits": 0.0,
+    "net_payable": 0.0,
+    "tax_due": 0.0,
+    "second_installment": 0.0,
+    "amount_payable": 0.0,
+    "interest": 0.0,
+    "surcharge": 0.0,
+    "compromise": 0.0,
+    "penalty_model_version": 0,
+    "penalty_overrides": {},
+    "total_penalties": 0.0,
+    "total_amount_payable": 0.0
+  },
+  "other_income_description": "VAL039",
+  "flat_non_taxable_description": "",
+  "flat_other_income_description": "",
+  "other_credits_description": "VAL054",
+  "employers": [],
+  "schedule_totals": [
+    [
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0
+    ]
+  ],
+  "aggregate_amount_payable": -2816.0,
+  "number_of_attachments": 2,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:28:30.037272752+00:00",
+  "updated_at": "2026-11-25T09:28:30.037272752+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/birth_date": "01/15/1988",
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  }
+}

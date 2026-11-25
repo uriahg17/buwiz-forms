@@ -1,0 +1,192 @@
+# Form 1701A — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 0 | Period: A
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm1701A:txt23A = 1,170.20
+frm1701A:txt47A = 1,476.38
+frm1701A:txt48A = 1,510.40
+frm1701A:txt50A = 1,544.42
+frm1701A:txt54A = 1,595.45
+frm1701A:txt57A = 1,629.47
+frm1701A:txt58A = 1,663.49
+frm1701A:txt59A = 1,697.51
+frm1701A:txt60A = 1,731.53
+frm1701A:txt61A = 1,765.55
+frm1701A:txt62A = 1,799.57
+frm1701A:txt63A = 1,833.59
+frm1701A:txtmodalPartIVBDesc_10C1 = VAL110
+frm1701A:txtmodalPartIVBDesc_11C1 = VAL111
+frm1701A:txtmodalPartIVBDesc_12C1 = VAL112
+frm1701A:txtmodalPartIVBDesc_1C1 = VAL113
+frm1701A:txtmodalPartIVBDesc_2C1 = VAL114
+frm1701A:txtmodalPartIVBDesc_3C1 = VAL115
+frm1701A:txtmodalPartIVBDesc_4C1 = VAL116
+frm1701A:txtmodalPartIVBDesc_5C1 = VAL117
+frm1701A:txtmodalPartIVBDesc_6C1 = VAL118
+frm1701A:txtmodalPartIVBDesc_7C1 = VAL119
+frm1701A:txtmodalPartIVBDesc_8C1 = VAL120
+frm1701A:txtmodalPartIVBDesc_9C1 = VAL121
+frm1701A:txtmodalPartIVB_10C2 = 2,156.78
+frm1701A:txtmodalPartIVB_11C2 = 2,173.79
+frm1701A:txtmodalPartIVB_12C2 = 2,190.80
+frm1701A:txtmodalPartIVB_1C2 = 2,207.81
+frm1701A:txtmodalPartIVB_2C2 = 2,224.82
+frm1701A:txtmodalPartIVB_3C2 = 2,241.83
+frm1701A:txtmodalPartIVB_4C2 = 2,258.84
+frm1701A:txtmodalPartIVB_5C2 = 2,275.85
+frm1701A:txtmodalPartIVB_6C2 = 2,292.86
+frm1701A:txtmodalPartIVB_7C2 = 2,309.87
+frm1701A:txtmodalPartIVB_8C2 = 2,326.88
+frm1701A:txtmodalPartIVB_9C2 = 2,343.89
+
+## Raw saved draft JSON excerpt
+{
+  "id": 12,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "month": 12,
+  "is_amended": true,
+  "is_short_period": true,
+  "rdo_code": "008",
+  "filer_type": "single_proprietor",
+  "atc": "i_i015",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "birth_date": "01/15/1988",
+  "email": "juana.santos@example.com",
+  "citizenship": "VAL011",
+  "foreign_tax_credits": true,
+  "foreign_tax_number": "1221.23",
+  "contact_number": "09171234567",
+  "civil_status": "single",
+  "spouse_has_income": null,
+  "filing_status": "unanswered",
+  "line_of_business": "",
+  "taxpayer": {
+    "sales": 0.0,
+    "sales_returns": 0.0,
+    "net_sales": 0.0,
+    "osd": 0.0,
+    "net_income": 0.0,
+    "other_income_41": 0.0,
+    "other_income_42": 0.0,
+    "gpp_share": 0.0,
+    "total_other_income": 0.0,
+    "taxable_income": 0.0,
+    "graduated_tax_due": 0.0,
+    "eight_sales": 1476.38,
+    "eight_sales_returns": 1510.4,
+    "eight_net_sales": -34.0,
+    "eight_other_income_50": 1544.42,
+    "eight_other_income_51": 27006.0,
+    "eight_total_other_income": 28550.0,
+    "eight_total_income": 28516.0,
+    "eight_reduction": 1595.45,
+    "eight_taxable_income": 26921.0,
+    "eight_tax_due": 2154.0,
+    "prior_year_excess": 1629.47,
+    "quarterly_payments": 1663.49,
+    "cwt_q1_q3": 1697.51,
+    "cwt_q4": 1731.53,
+    "previously_filed": 1765.55,
+    "foreign_tax_credits": 1799.57,
+    "other_credits": 1833.59,
+    "total_credits": 12121.0,
+    "net_payable": -9967.0,
+    "tax_due": 2154.0,
+    "second_installment": 1170.2,
+    "amount_payable": -11137.0,
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "penalty_model_version": 1,
+    "penalty_overrides": {},
+    "total_penalties": 0.0,
+    "total_amount_payable": -11137.0
+  },
+  "spouse_column": {
+    "sales": 0.0,
+    "sales_returns": 0.0,
+    "net_sales": 0.0,
+    "osd": 0.0,
+    "net_income": 0.0,
+    "other_income_41": 0.0,
+    "other_income_42": 0.0,
+    "gpp_share": 0.0,
+    "total_other_income": 0.0,
+    "taxable_income": 0.0,
+    "graduated_tax_due": 0.0,
+    "eight_sales": 0.0,
+    "eight_sales_returns": 0.0,
+    "eight_net_sales": 0.0,
+    "eight_other_income_50": 0.0,
+    "eight_other_income_51": 0.0,
+    "eight_total_other_income": 0.0,
+    "eight_total_income": 0.0,
+    "eight_reduction": 0.0,
+    "eight_taxable_income": 0.0,
+    "eight_tax_due": 0.0,
+    "prior_year_excess": 0.0,
+    "quarterly_payments": 0.0,
+    "cwt_q1_q3": 0.0,
+    "cwt_q4": 0.0,
+    "previously_filed": 0.0,
+    "foreign_tax_credits": 0.0,
+    "other_credits": 0.0,
+    "total_credits": 0.0,
+    "net_payable": 0.0,
+    "tax_due": 0.0,
+    "second_installment": 0.0,
+    "amount_payable": 0.0,
+    "surcharge": 0.0,
+    "interest": 0.0,
+    "compromise": 0.0,
+    "penalty_model_version": 0,
+    "penalty_overrides": {},
+    "total_penalties": 0.0,
+    "total_amount_payable": 0.0
+  },
+  "spouse": {
+    "tin": "",
+    "rdo_code": "",
+    "filer_type": "unanswered",
+    "atc": "unanswered",
+    "name": "",
+    "contact_number": "",
+    "citizenship": "",
+    "foreign_tax_credits": null,
+    "foreign_tax_number": ""
+  },
+  "other_income_41_description": "",
+  "other_income_42_description": "",
+  "eight_other_income_50_description": "000-987-145-00001",
+  "eight_other_income_51_description": "OTHERS",
+  "other_credits_description": "2088.74",
+  "other_income_more": [],
+  "eight_other_income_more": [
+    {
+      "description": "VAL113",
+      "taxpayer": 2207.81,
+      "spouse": 0.0
+    },
+    {
+      "description": "VAL114",
+      "taxpayer": 2224.82,
+      "spouse": 0.0
+    },
+    {
+      "description": "VAL115",
+      "taxpayer": 2241.83,
+      "spouse": 0.0
+    },
+    {
+      "description": "VAL116",
+      "taxpayer": 2258.84,
+      "spouse": 0.0
+    },
+    {
+      "description": "VAL117",
+      "taxpa
+... (truncated)

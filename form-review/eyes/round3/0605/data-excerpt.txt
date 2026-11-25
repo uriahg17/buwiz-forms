@@ -1,0 +1,101 @@
+# Form 0605 — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 1 | Period: O1
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm0605:txtNumOfInstallment = 11111
+
+## Raw saved draft JSON excerpt
+{
+  "id": 1,
+  "tin": "00012345300000",
+  "taxable_year": 2025,
+  "month": 1,
+  "filing_basis": "Calendar",
+  "quarter": 0,
+  "year_end_month": 12,
+  "due_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 15
+  },
+  "return_period": null,
+  "return_period_typed": {
+    "month": 3,
+    "day": null,
+    "year": 2025
+  },
+  "number_of_sheets": 2,
+  "atc": null,
+  "tax_type": null,
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "classification": "Individual",
+  "line_of_business": "",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "manner_of_payment": "SelfAssessment",
+  "other_manner_description": "",
+  "type_of_payment": "Installment",
+  "number_of_installments": 11111,
+  "item_19_basic_tax_or_payment": 1272.26,
+  "item_20a_surcharge": 1289.27,
+  "item_20b_interest": 1306.28,
+  "item_20c_compromise": 1323.29,
+  "penalty_model_version": 1,
+  "penalty_overrides": {
+    "surcharge": 1289.27,
+    "interest": 1306.28,
+    "compromise": 1323.29
+  },
+  "item_20d_total_penalties": 3918.84,
+  "item_21_total_amount_payable": 5191.1,
+  "approval_selection": "None",
+  "signatures": {
+    "taxpayer_or_authorized_representative": "",
+    "title_or_position": "",
+    "head_of_office": ""
+  },
+  "payment_details": {
+    "cash_or_bank_debit_memo_amount": null,
+    "check": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "tax_debit_memo": {
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "others": {
+      "drawee_bank_or_agency": "",
+      "number": "",
+      "date": "",
+      "amount": null
+    },
+    "machine_validation_or_receipt_details": ""
+  },
+  "preserved_unmodeled_xml_fields": {},
+  "last_error": null,
+  "status": "Draft",
+  "created_at": "2026-11-25T09:22:00.720715306+00:00",
+  "updated_at": "2026-11-25T09:22:00.720715306+00:00",
+  "submission_attempts": 0,
+  "profile_baseline": {
+    "/contact_number": "09171234567",
+    "/email": "juana.santos@example.com",
+    "/line_of_business": "",
+    "/rdo_code": "008",
+    "/registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+    "/taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+    "/zip_code": "1003"
+  },
+  "trigger_date_entered": true,
+  "trigger_parts_typed": [
+    "due_date"
+  ]
+}

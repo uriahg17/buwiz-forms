@@ -1,0 +1,4 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1702q:PartII_Items14..25	Part II Items 14-25 whole-peso combs	1	Whole-peso amounts	Prints .00 shifted across combs + doubled commas on Item 25	Prints .00 shifted across combs + doubled commas on Item 25	yes	yes	D	crates/bir-core/src/forms/form_1702q.rs formats Part II with centavos into whole-peso combs
+frm1702q:cbATC_2	Other corporate income-tax ATC	1	IC010_25%	BLANK	BLANK	yes	yes	N	prints from derived:atc_code / derived:atc_description (the print map shapes the Item 5 ATC code and description line for the sheet)
+frm1702q:Sched1:txtTax10B	Schedule 1 Item 10B	2	12,626.00	BLANK	BLANK	yes	yes	N	prints from derived:sched1_rate_b_whole / derived:sched1_rate_b_tenths (the print map shapes the Schedule 1 B rate over its whole and tenths boxes for the sheet)

@@ -1,0 +1,25 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm1600WP:dtSched:txtTin7	dtSched:txtTin7	2	000-987-134-00001	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtFullname7	dtSched:txtFullname7	2	VAL035	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:amount7	dtSched:amount7	2	1,629.47	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtTin8	dtSched:txtTin8	2	000-987-138-00001	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtFullname8	dtSched:txtFullname8	2	VAL039	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:amount8	dtSched:amount8	2	1,697.51	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtTin9	dtSched:txtTin9	2	000-987-142-00001	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtFullname9	dtSched:txtFullname9	2	VAL043	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:amount9	dtSched:amount9	2	1,765.55	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtTin10	dtSched:txtTin10	2	000-987-146-00001	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:txtFullname10	dtSched:txtFullname10	2	VAL047	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:dtSched:amount10	dtSched:amount10	2	1,833.59	BLANK	PRINTED(AddlSheet)	yes	no	R	Schedule 1.1 prints six rows; rows 7-10 of the page belong on an attached sheet
+frm1600WP:txtTaxBase1	frm1600WP:txtTaxBase{index}, row 1	1	1,850.60	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase10	frm1600WP:txtTaxBase{index}, row 10	1	1,867.61	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase11	frm1600WP:txtTaxBase{index}, row 11	1	1,884.62	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase12	frm1600WP:txtTaxBase{index}, row 12	1	1,901.63	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase2	frm1600WP:txtTaxBase{index}, row 2	1	1,918.64	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase3	frm1600WP:txtTaxBase{index}, row 3	1	1,935.65	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase4	frm1600WP:txtTaxBase{index}, row 4	1	1,952.66	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase5	frm1600WP:txtTaxBase{index}, row 5	1	1,969.67	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase6	frm1600WP:txtTaxBase{index}, row 6	1	1,986.68	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase7	frm1600WP:txtTaxBase{index}, row 7	1	2,003.69	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase8	frm1600WP:txtTaxBase{index}, row 8	1	2,020.70	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld
+frm1600WP:txtTaxBase9	frm1600WP:txtTaxBase{index}, row 9	1	2,037.71	BLANK	BLANK	yes	yes	R	Part II popup row: the 2010 sheet has one fixed row per ATC (WB191-WB194), and the row prints there from derived:<ATC>_base / derived:<ATC>_withheld

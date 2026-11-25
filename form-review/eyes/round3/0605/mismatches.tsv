@@ -1,0 +1,3 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm0605:txtAddress	Item 15 Registered Address	1	UNIT 2804-B ... METRO MANILA (123 chars)	UNIT 2804-B ... METRO M (clipped)	Full 2-line wrapped address	yes	no	D	Single-line overflow:hidden cell in html-frozen/0605-1999/sheet.html (fixed on rules)
+frm0605:txtNumOfInstallment	Item 18	1	11111	BLANK	BLANK	yes	yes	N	not in writer-cells.json

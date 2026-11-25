@@ -1,0 +1,175 @@
+# Form 2200AN — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 630 | Period: O630
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+
+## Raw saved draft JSON excerpt
+{
+  "id": 20,
+  "month": 6,
+  "day": 30,
+  "year": 2025,
+  "is_amended": true,
+  "number_of_attached_sheets": 2,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "place_of_production": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "place_of_removal": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "tax_relief": true,
+  "tax_relief_specify": "1170.20",
+  "manner": "other",
+  "manner_other": "VAL014",
+  "automobiles": [
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1272.26,
+      "taxable_value": 1306.28,
+      "tax_due": 1289.27
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1323.29,
+      "taxable_value": 1357.31,
+      "tax_due": 1340.3
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1374.32,
+      "taxable_value": 1391.33,
+      "tax_due": 1408.34
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1425.35,
+      "taxable_value": 1459.37,
+      "tax_due": 1442.36
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1476.38,
+      "taxable_value": 1510.4,
+      "tax_due": 1493.39
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1527.41,
+      "taxable_value": 1561.43,
+      "tax_due": 1544.42
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1578.44,
+      "taxable_value": 1612.46,
+      "tax_due": 1595.45
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1629.47,
+      "taxable_value": 1663.49,
+      "tax_due": 1646.48
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1731.53,
+      "taxable_value": 1765.55,
+      "tax_due": 1748.54
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1680.5,
+      "taxable_value": 1714.52,
+      "tax_due": 1697.51
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1782.56,
+      "taxable_value": 1816.58,
+      "tax_due": 1799.57
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1833.59,
+      "taxable_value": 1867.61,
+      "tax_due": 1850.6
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1884.62,
+      "taxable_value": 1918.64,
+      "tax_due": 1901.63
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1935.65,
+      "taxable_value": 1969.67,
+      "tax_due": 1952.66
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 1986.68,
+      "taxable_value": 2003.69,
+      "tax_due": 2020.7
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 2037.71,
+      "taxable_value": 2071.73,
+      "tax_due": 2054.72
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 2088.74,
+      "taxable_value": 2122.76,
+      "tax_due": 2105.75
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 2207.81,
+      "taxable_value": 2241.83,
+      "tax_due": 2224.82
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 2139.77,
+      "taxable_value": 2173.79,
+      "tax_due": 2156.78
+    },
+    {
+      "exempt_units": "IC010",
+      "taxable_units": "IC010",
+      "exempt_value": 2190.8,
+      "taxable_
+... (truncated)

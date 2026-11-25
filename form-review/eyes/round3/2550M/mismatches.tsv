@@ -1,0 +1,4 @@
+box_key	printed_item_or_label	page	saved_data_value	paper_main	paper_rules	main	rules	class	cause_or_reason
+frm2550m:txtAddress	Item 9 Registered Address	1	UNIT 2804-B ... METRO MANILA (123 chars)	UNIT 2804-B ... METRO MAN (clipped)	p1 shortened + p3 Additional Sheet with full address	yes	no	D	Single-line overflow:hidden cell in html-frozen/2550m-2007/sheet.html (fixed on rules)
+frm2550m:txtTax13A	Item 13A	1	1,493.39	1,085.15	1,085.15	yes	yes	F	html-frozen/2550m-2007/writer-cells.json (joins -> p1c28)
+frm2550m:txtTax15	Item 15	1	1,527.41	1,119.17	1,119.17	yes	yes	F	html-frozen/2550m-2007/writer-cells.json (joins -> p1c31)

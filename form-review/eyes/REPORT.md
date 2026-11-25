@@ -378,3 +378,51 @@ Re-audited box-by-box from persisted SQLite drafts (`r3-redo-g1.db`, reopened `f
 - **Printed Page 2 (`round3/1701/main/compare.png` and `round3/1701/rules/compare.png`, right)**:
   - **Nine TIN digits (`000-987-654`)**: **DO PRINT** cleanly in the 9-digit comb (`p2c5`) on both `origin/main` (`93820d0f`) and `rules` (`8c3a7b53`).
   - **Five-digit branch code (`00001`)**: **DOES NOT PRINT** — remains preprinted `0 0 0 0 0` on both commits (`html-frozen/1701-2018/writer-cells.json` lists `frm1701:txtPg2I1BranchCode` as unfillable because the sheet preprints `0 0 0 0 0`).
+
+
+---
+
+## Round 3 Redo — Part 2: Remaining 28 Forms + `1600PT` Reconciliation
+
+Re-audited box-by-box from persisted SQLite drafts (`r3-redo-g2.db`, reopened `form.fields`, demo taxpayer Juana Santos `000-123-453`, 0 code changes) at `origin/main` (`93820d0f`) vs `origin/feat/store-launch-field-rules` (`8c3a7b53`). Every one of the 28 forms below has `round3/<CODE>/mismatches.tsv`, `data-excerpt.txt`, and `README.md`; the 2 forms with `F > 0` (`2000`, `2550M`) also have `main/compare.png`, `rules/compare.png`, and `<CODE>-flow.mp4`.
+
+### Question 4 — `1600PT` Reconciliation
+- **Why Batch 2 reported 93 values absent (`no writer-cells.json`)**: the Batch 2 script looked for `html-frozen/1600pt-2018/writer-cells.json` (without a hyphen) and missed the real file **`html-frozen/1600-pt-2018/writer-cells.json`** (same for `1600-vt-2018`).
+- **Actual result**: with Item 3 = `Yes` and Item 10 = `Government`, **`1600PT` has `F=0, R=0, D=0, N=1`** on both `main` (`93820d0f`) and `rules` (`8c3a7b53`). Every drawn Part I, Part II (including `WB030`, `100,000.00`, `3,000.00` from Round 2), and Schedule 1 box prints cleanly; the single `N` entry is `frm1600PT:rdoPg1I10CategoryofWthholdAgent = Govt`, which prints via the `Government` `X` checkbox on Page 1 Item 10.
+
+### Per-form class totals — Remaining 28 forms (`main` `93820d0f` / `rules` `8c3a7b53`)
+
+| Form | Main `F` | Main `R` | Main `D` | Main `N` | Rules `F` | Rules `R` | Rules `D` | Rules `N` | Notes |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---|
+| **0605** | **0** | 0 | 1 | 1 | **0** | 0 | 0 | 1 | Item 15 Address clipped on `main` (`D=1`), wraps cleanly on `rules` (`D=0`); 1 `N` (`txtNumOfInstallment`). |
+| **0619E** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **0619F** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1600PT** | **0** | 0 | 0 | 1 | **0** | 0 | 0 | 1 | Reconciled: `html-frozen/1600-pt-2018/writer-cells.json`; all drawn boxes print cleanly (`F=0`). |
+| **1600VT** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Reconciled: `html-frozen/1600-vt-2018/writer-cells.json`; all drawn boxes print cleanly (`F=0`). |
+| **1600WP** | **0** | 24 | 0 | 0 | **0** | 12 | 0 | 0 | Sched 1.1 rows 7–10 (`R=24` on `main`, 12 printed on `rules` Add'l Sheets). |
+| **1601EQ** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1601FQ** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1603Q** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1604F** | **0** | 0 | 1 | 0 | **0** | 0 | 1 | 0 | Item 7 Address clipped (`...845 ARNAIZ AV`) on both (`D=1`). |
+| **1700** | **0** | 0 | 0 | 5 | **0** | 0 | 0 | 5 | All drawn boxes print cleanly (`F=0`); 5 `N` (derived whole-peso source keys + civil status radio). |
+| **1701A** | **0** | 24 | 0 | 12 | **0** | 0 | 0 | 12 | Part IV.B modal rows (`R=24` on `main`, printed on `rules` p3–4 Add'l Sheets, `R=0`). |
+| **1701Q** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1702EX** | **0** | 132 | 0 | 37 | **0** | 44 | 0 | 37 | Sched 1 attached rows (`R=132` on `main`, reduced to `R=44` on `rules` p4–11 Add'l Sheets). |
+| **1702Q** | **0** | 0 | 1 | 2 | **0** | 0 | 1 | 2 | Part II Items 14–25 `.00` shifted across whole-peso combs + doubled commas on Item 25 on both (`D=1`). |
+| **1706** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **1707** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **2000** | **1** | 22 | 0 | 18 | **1** | 22 | 0 | 9 | **Class F**: p1 Item 15A (`frm2000:txtTax15A = 1,119.17`) prints BLANK on both + Sched 1 overflow rows (`R=22`). |
+| **2000OT** | **0** | 143 | 0 | 0 | **0** | 0 | 0 | 0 | Sched 1A/1B overflow rows (`R=143` on `main`, all printed on `rules` p3–6 Add'l Sheets, `R=0`). |
+| **2200AN** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **2200C** | **0** | 0 | 0 | 1 | **0** | 0 | 0 | 1 | Clean on both commits (`F=0, R=0, D=0`). |
+| **2200M** | **0** | 161 | 0 | 1 | **0** | 37 | 0 | 1 | Sched 1 overflow/ad-valorem `VOMRI` rows (`R=161` on `main`, `R=37` on `rules` p3–4 Add'l Sheets). |
+| **2200P** | **0** | 148 | 0 | 1 | **0** | 148 | 0 | 1 | Sched 1 rows past row 27 (`R=148` on both). |
+| **2550M** | **2** | 0 | 1 | 0 | **2** | 0 | 0 | 0 | **Class F**: p1 Items 13A & 15 print different computed totals on `origin/main` & `rules` (pre-#315 compute bug) + Item 9 Address clipped on `main` (`D=1`), fixed on `rules` (`D=0`). |
+| **2550Q** | **0** | 0 | 0 | 106 | **0** | 0 | 0 | 106 | Modal rows & Sched 2 operands (`N=106`; summary `VARIOUS` + sum prints on p1). |
+| **2551Q** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+| **2552** | **0** | 39 | 0 | 0 | **0** | 39 | 0 | 0 | Sched 1 rows past row 4 rolled into Row 5 `OTHERS` (`R=39` on both; `F=0`). |
+| **2553** | **0** | 0 | 0 | 0 | **0** | 0 | 0 | 0 | Clean on both commits (`F=0, R=0, D=0`). |
+
+### All-43 Final Summary
+- **Genuine Class F forms (12/43)**: Part 1 (`1801`, `1800`, `1702MX`, `2200S`, `2200T`, `2200A`, `1707A`, `1604C`, `1604E`, `1701`) + Part 2 (`2000`, `2550M`).
+- **Class F = 0 forms (31/43)**: all drawn boxes with persisted data print cleanly on both commits (any entries in their `mismatches.tsv` are Class `R` overflow rows, Class `D` clipping/decimal formatting, or Class `N` internal/derived/radio keys).

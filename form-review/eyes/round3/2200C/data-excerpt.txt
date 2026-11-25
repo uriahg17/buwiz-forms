@@ -1,0 +1,151 @@
+# Form 2200C — Saved Return Data Excerpt (r3-redo-g2.db)
+# Taxable year: 2025 | Quarter: 630 | Period: O630
+# Saved via form.save_draft (demo taxpayer Juana Santos 000-123-453)
+
+## Cited box values from reopened form.fields (persisted DB state)
+frm2200C:rdoPg1Pt2MOP = PaymentActual
+
+## Raw saved draft JSON excerpt
+{
+  "id": 21,
+  "month": 6,
+  "day": 30,
+  "year": 2025,
+  "is_amended": false,
+  "tin": "00012345300000",
+  "rdo_code": "008",
+  "taxpayer_name": "SANTOS, JUANA MARIA DELA CRUZ-VILLANUEVA",
+  "registered_address": "UNIT 2804-B, 28TH FLOOR, ONE CORPORATE PLAZA TOWER NORTH, 845 ARNAIZ AVENUE COR. PASEO DE ROXAS, SAN LORENZO, MAKATI CITY, METRO MANILA",
+  "zip_code": "1003",
+  "contact_number": "09171234567",
+  "email": "juana.santos@example.com",
+  "line_of_business": "",
+  "place": {
+    "region": "",
+    "province": "",
+    "city": ""
+  },
+  "tax_relief": true,
+  "tax_relief_specify": "1119.17",
+  "manner": "actual_removal",
+  "manner_other": "",
+  "schedule": [
+    {
+      "exempt_procedures": 1187.21,
+      "excisable_procedures": 1170.2,
+      "non_excisable_procedures": 1340.3,
+      "net_of_vat": 1340.3,
+      "excisable_net": 1357.31,
+      "excisable_vat_exempt": 1374.32,
+      "non_excisable": 1391.33,
+      "excise_tax": 137.0,
+      "vat": 507.0,
+      "total_billed": 6107.0
+    },
+    {
+      "exempt_procedures": 1323.29,
+      "excisable_procedures": 1306.28,
+      "non_excisable_procedures": 1357.31,
+      "net_of_vat": 1459.37,
+      "excisable_net": 1476.38,
+      "excisable_vat_exempt": 1493.39,
+      "non_excisable": 1510.4,
+      "excise_tax": 148.0,
+      "vat": 551.0,
+      "total_billed": 6639.0
+    },
+    {
+      "exempt_procedures": 1408.34,
+      "excisable_procedures": 1374.32,
+      "non_excisable_procedures": 1442.36,
+      "net_of_vat": 1578.44,
+      "excisable_net": 1595.45,
+      "excisable_vat_exempt": 1612.46,
+      "non_excisable": 1629.47,
+      "excise_tax": 160.0,
+      "vat": 596.0,
+      "total_billed": 7172.0
+    },
+    {
+      "exempt_procedures": 1425.35,
+      "excisable_procedures": 1391.33,
+      "non_excisable_procedures": 1459.37,
+      "net_of_vat": 1697.51,
+      "excisable_net": 1714.52,
+      "excisable_vat_exempt": 1731.53,
+      "non_excisable": 1748.54,
+      "excise_tax": 172.0,
+      "vat": 640.0,
+      "total_billed": 7704.0
+    },
+    {
+      "exempt_procedures": 1510.4,
+      "excisable_procedures": 1476.38,
+      "non_excisable_procedures": 1544.42,
+      "net_of_vat": 1816.58,
+      "excisable_net": 1833.59,
+      "excisable_vat_exempt": 1850.6,
+      "non_excisable": 1867.61,
+      "excise_tax": 184.0,
+      "vat": 684.0,
+      "total_billed": 8236.0
+    },
+    {
+      "exempt_procedures": 1527.41,
+      "excisable_procedures": 1493.39,
+      "non_excisable_procedures": 1561.43,
+      "net_of_vat": 1935.65,
+      "excisable_net": 1952.66,
+      "excisable_vat_exempt": 1969.67,
+      "non_excisable": 1986.68,
+      "excise_tax": 196.0,
+      "vat": 729.0,
+      "total_billed": 8770.0
+    },
+    {
+      "exempt_procedures": 1595.45,
+      "excisable_procedures": 1578.44,
+      "non_excisable_procedures": 1629.47,
+      "net_of_vat": 2054.72,
+      "excisable_net": 2071.73,
+      "excisable_vat_exempt": 2088.74,
+      "non_excisable": 2105.75,
+      "excise_tax": 208.0,
+      "vat": 773.0,
+      "total_billed": 9302.0
+    },
+    {
+      "exempt_procedures": 1612.46,
+      "excisable_procedures": 1646.48,
+      "non_excisable_procedures": 1697.51,
+      "net_of_vat": 2173.79,
+      "excisable_net": 2190.8,
+      "excisable_vat_exempt": 2207.81,
+      "non_excisable": 2224.82,
+      "excise_tax": 220.0,
+      "vat": 817.0,
+      "total_billed": 9834.0
+    },
+    {
+      "exempt_procedures": 1680.5,
+      "excisable_procedures": 1663.49,
+      "non_excisable_procedures": 1714.52,
+      "net_of_vat": 2292.86,
+      "excisable_net": 2309.87,
+      "excisable_vat_exempt": 2326.88,
+      "non_excisable": 2343.89,
+      "excise_tax": 232.0,
+      "vat": 861.0,
+      "total_billed": 10367.0
+    },
+    {
+      "exempt_procedures": 1748.54,
+      "excisable_procedures": 1731.53,
+      "non_excisable_procedures": 1765.55,
+      "net_of_vat": 2411.93,
+      "excisable_net": 2428.94,
+      "excisable_vat_exempt": 2445.95,
+      "non_excisable": 2462.96,
+      "excise_tax": 244.0,
+ 
+... (truncated)
