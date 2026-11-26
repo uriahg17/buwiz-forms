@@ -1,0 +1,23 @@
+{
+ "device": "ipad",
+ "case": "case6-sequential-valid-row-delete",
+ "rows_initial": [
+  {
+   "atc": "PT010",
+   "atc_description": "PERSON EXEMPT FROM VAT UNDER SEC. 109(BB) (SEC. 116)",
+   "taxable_amount": 1000.0,
+   "tax_rate": 3.0,
+   "tax_due": 30.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "PERSON EXEMPT FROM VAT UNDER SEC. 109(BB) (SEC. 116)",
+   "taxable_amount": 3000.0,
+   "tax_rate": 3.0,
+   "tax_due": 90.0
+  }
+ ],
+ "expanded": false,
+ "exception": "RuntimeError('cannot open row 1')",
+ "trace": "Traceback (most recent call last):\n  File \"/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6seq.py\", line 36, in runone\n    rec['opened_row2']=open_row_index(W,1);time.sleep(.3);shot(udid,cdir+'/001-row2-before-type.jpg')\n  File \"/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py\", line 33, in open_row_index\n    raise RuntimeError('cannot open row '+str(idx))\nRuntimeError: cannot open row 1\n"
+}

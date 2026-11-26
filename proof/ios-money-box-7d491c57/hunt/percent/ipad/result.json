@@ -1,0 +1,52 @@
+{
+ "device": "ipad",
+ "case": "percent-1601fq-tax-rate",
+ "initial": {
+  "treaty_code": "US",
+  "atc_code": "WI330",
+  "income_payment": 0.0,
+  "tax_rate": 0.0,
+  "tax_withheld": 0.0
+ },
+ "field_before": {
+  "value": "0.00",
+  "pos": [
+   664.3410852713179,
+   915.6126453488372
+  ],
+  "size": [
+   440.0562015503875,
+   28.60029069767441
+  ]
+ },
+ "keypad": [
+  ".",
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "Delete"
+ ],
+ "closed": true,
+ "saved_after_leaving": {
+  "treaty_code": "US",
+  "atc_code": "WI330",
+  "income_payment": 0.0,
+  "tax_rate": 42.0,
+  "tax_withheld": 0.0
+ },
+ "shown_after_reopen": "42.00",
+ "saved_after_reopen": {
+  "treaty_code": "US",
+  "atc_code": "WI330",
+  "income_payment": 0.0,
+  "tax_rate": 42.0,
+  "tax_withheld": 0.0
+ }
+}
