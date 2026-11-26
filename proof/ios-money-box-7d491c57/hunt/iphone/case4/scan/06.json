@@ -1,0 +1,660 @@
+[
+ {
+  "role": "AXButton",
+  "text": "Action",
+  "value": "",
+  "pos": [
+   20.0,
+   301.0
+  ],
+  "size": [
+   18.0,
+   36.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Volume Up",
+  "value": "",
+  "pos": [
+   20.0,
+   362.0
+  ],
+  "size": [
+   18.0,
+   66.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Volume Down",
+  "value": "",
+  "pos": [
+   20.0,
+   441.0
+  ],
+  "size": [
+   18.0,
+   66.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Sleep/Wake",
+  "value": "",
+  "pos": [
+   458.0,
+   403.0
+  ],
+  "size": [
+   18.0,
+   103.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Back",
+  "value": "",
+  "pos": [
+   55.0,
+   222.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "nb-back"
+ },
+ {
+  "role": "AXButton",
+  "text": "New return",
+  "value": "",
+  "pos": [
+   301.0,
+   222.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "nb-new"
+ },
+ {
+  "role": "AXButton",
+  "text": "Search",
+  "value": "",
+  "pos": [
+   349.0,
+   222.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "nb-search"
+ },
+ {
+  "role": "AXButton",
+  "text": "Account",
+  "value": "collapsed",
+  "pos": [
+   397.0,
+   222.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "nb-avatar"
+ },
+ {
+  "role": "AXStaticText",
+  "text": "Form 2550M",
+  "value": "",
+  "pos": [
+   103.0,
+   232.66666412353516
+  ],
+  "size": [
+   194.0,
+   23.0
+  ],
+  "id": "nb-title"
+ },
+ {
+  "role": "AXStaticText",
+  "text": "BIR Form 2550M",
+  "value": "",
+  "pos": [
+   63.0,
+   -421.6666666666665
+  ],
+  "size": [
+   97.33333587646484,
+   20.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "Revision 2007",
+  "value": "",
+  "pos": [
+   179.33334350585938,
+   -420.3333333333335
+  ],
+  "size": [
+   80.0,
+   20.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "Monthly Value-Added Tax Declaration",
+  "value": "",
+  "pos": [
+   63.0,
+   -396.3333333333335
+  ],
+  "size": [
+   370.0,
+   33.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "Monthly",
+  "value": "",
+  "pos": [
+   71.0,
+   -353.3333333333335
+  ],
+  "size": [
+   43.0,
+   18.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "2 pages",
+  "value": "",
+  "pos": [
+   137.99999809265137,
+   -353.3333333333335
+  ],
+  "size": [
+   42.33333206176758,
+   18.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "566 fields",
+  "value": "",
+  "pos": [
+   204.33332633972168,
+   -353.3333333333335
+  ],
+  "size": [
+   52.66666793823242,
+   18.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Print preview",
+  "value": "",
+  "pos": [
+   63.0,
+   -319.3333333333335
+  ],
+  "size": [
+   129.6666717529297,
+   44.0
+  ],
+  "id": "fp-print"
+ },
+ {
+  "role": "AXButton",
+  "text": "Check",
+  "value": "",
+  "pos": [
+   200.6666717529297,
+   -319.3333333333335
+  ],
+  "size": [
+   88.0,
+   44.0
+  ],
+  "id": "fp-check"
+ },
+ {
+  "role": "AXButton",
+  "text": "Queue",
+  "value": "",
+  "pos": [
+   296.66668701171875,
+   -319.3333333333335
+  ],
+  "size": [
+   89.0,
+   44.0
+  ],
+  "id": "fp-queue"
+ },
+ {
+  "role": "AXStaticText",
+  "text": "\u2713 Saved",
+  "value": "",
+  "pos": [
+   63.0,
+   -269.3333333333335
+  ],
+  "size": [
+   49.33333206176758,
+   20.0
+  ],
+  "id": "fp-save-state"
+ },
+ {
+  "role": "AXButton",
+  "text": "Return details",
+  "value": "",
+  "pos": [
+   64.0,
+   -211.33333333333348
+  ],
+  "size": [
+   368.0,
+   52.0
+  ],
+  "id": "fp-part-0-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Part I \u00b7 Background Information",
+  "value": "",
+  "pos": [
+   64.0,
+   -141.33333333333326
+  ],
+  "size": [
+   368.0,
+   52.0
+  ],
+  "id": "fp-part-1-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Part II \u00b7 Computation of Tax (Attach additional sheets, if necessary)",
+  "value": "",
+  "pos": [
+   64.0,
+   -71.33333333333348
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-2-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Part III \u00b7 Details of Payment",
+  "value": "",
+  "pos": [
+   64.0,
+   6.333333333333485
+  ],
+  "size": [
+   368.0,
+   52.000000000000114
+  ],
+  "id": "fp-part-3-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 1 \u2013 Schedule of Sales/Receipts and Output Tax",
+  "value": "",
+  "pos": [
+   64.0,
+   76.33333333333348
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-4-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 2 \u2013 Purchases/Importation of Capital Goods (Aggregate Amount Not Exceeding P1 Million)",
+  "value": "",
+  "pos": [
+   64.0,
+   154.0
+  ],
+  "size": [
+   368.0,
+   80.0
+  ],
+  "id": "fp-part-5-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 3 \u2013 Purchases/Importation of Capital Goods (Aggregate Amount Exceeds P1 Million)",
+  "value": "",
+  "pos": [
+   64.0,
+   252.0
+  ],
+  "size": [
+   368.0,
+   80.0
+  ],
+  "id": "fp-part-6-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 4 \u2013 Input Tax Attributable to Sale to Government",
+  "value": "",
+  "pos": [
+   64.0,
+   350.0
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-7-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 5 \u2013 Input Tax Attributable to Exempt Sales",
+  "value": "",
+  "pos": [
+   64.0,
+   427.66666666666663
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-8-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 6 \u2013 Tax Withheld Claimed as Tax Credit",
+  "value": "",
+  "pos": [
+   64.0,
+   504.6666666666665
+  ],
+  "size": [
+   368.0,
+   58.99999999999994
+  ],
+  "id": "fp-part-9-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 7 \u2013 Schedule of Advance Payment",
+  "value": "",
+  "pos": [
+   64.0,
+   581.6666666666666
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-10-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Schedule 8 \u2013 VAT Withheld on Sales to Government",
+  "value": "",
+  "pos": [
+   64.0,
+   658.6666666666666
+  ],
+  "size": [
+   368.0,
+   59.0
+  ],
+  "id": "fp-part-11-toggle"
+ },
+ {
+  "role": "AXButton",
+  "text": "Previous to do",
+  "value": "",
+  "pos": [
+   70.0,
+   874.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "fp-pill-prev"
+ },
+ {
+  "role": "AXButton",
+  "text": "All sections",
+  "value": "",
+  "pos": [
+   120.0,
+   874.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "fp-pill-list"
+ },
+ {
+  "role": "AXButton",
+  "text": "All sections \u00b7 2 to do \u00b7 Section 7 \u00b7 Schedule 3 \u2013 Purchases/Importation of Capital Goods (Aggregate Amount Exceeds P1 Million) \u00b7 2 items need attention",
+  "value": "",
+  "pos": [
+   164.0,
+   867.6666660308838
+  ],
+  "size": [
+   212.0,
+   57.000000000000014
+  ],
+  "id": "fp-pill-open"
+ },
+ {
+  "role": "AXButton",
+  "text": "Check",
+  "value": "",
+  "pos": [
+   382.0,
+   874.0
+  ],
+  "size": [
+   44.0,
+   44.0
+  ],
+  "id": "fp-pill-next"
+ },
+ {
+  "role": "AXButton",
+  "text": "Home",
+  "value": "",
+  "pos": [
+   47.0,
+   944.0
+  ],
+  "size": [
+   100.66666412353517,
+   56.0
+  ],
+  "id": "tab-home"
+ },
+ {
+  "role": "AXButton",
+  "text": "Forms",
+  "value": "",
+  "pos": [
+   147.6666603088379,
+   944.0
+  ],
+  "size": [
+   100.33333587646483,
+   56.0
+  ],
+  "id": "tab-library"
+ },
+ {
+  "role": "AXButton",
+  "text": "Filings",
+  "value": "",
+  "pos": [
+   247.99999618530273,
+   944.0
+  ],
+  "size": [
+   100.66666412353516,
+   56.0
+  ],
+  "id": "tab-filings"
+ },
+ {
+  "role": "AXButton",
+  "text": "Calendar",
+  "value": "",
+  "pos": [
+   348.6666450500488,
+   944.0
+  ],
+  "size": [
+   100.33333587646484,
+   56.0
+  ],
+  "id": "tab-calendar"
+ },
+ {
+  "role": "AXButton",
+  "text": "Home",
+  "value": "",
+  "pos": [
+   343.0,
+   80.0
+  ],
+  "size": [
+   45.0,
+   52.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Save Screen",
+  "value": "",
+  "pos": [
+   388.0,
+   80.0
+  ],
+  "size": [
+   43.0,
+   52.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "Rotate",
+  "value": "",
+  "pos": [
+   431.0,
+   80.0
+  ],
+  "size": [
+   41.0,
+   52.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "",
+  "value": "",
+  "pos": [
+   38.0,
+   98.0
+  ],
+  "size": [
+   16.0,
+   16.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "",
+  "value": "",
+  "pos": [
+   84.0,
+   98.0
+  ],
+  "size": [
+   16.0,
+   16.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXButton",
+  "text": "",
+  "value": "",
+  "pos": [
+   61.0,
+   98.0
+  ],
+  "size": [
+   16.0,
+   16.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "iPhone 17 Pro",
+  "value": "iPhone 17 Pro",
+  "pos": [
+   112.0,
+   80.0
+  ],
+  "size": [
+   223.0,
+   52.0
+  ],
+  "id": ""
+ },
+ {
+  "role": "AXStaticText",
+  "text": "iOS 26.5",
+  "value": "iOS 26.5",
+  "pos": [
+   112.0,
+   80.0
+  ],
+  "size": [
+   223.0,
+   52.0
+  ],
+  "id": ""
+ }
+]
