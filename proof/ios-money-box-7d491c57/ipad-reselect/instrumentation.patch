@@ -1,0 +1,32 @@
+diff --git a/nsh/ui/fields.tsx b/nsh/ui/fields.tsx
+index 9da1b3e5..867e8e4f 100644
+--- a/nsh/ui/fields.tsx
++++ b/nsh/ui/fields.tsx
+@@ -256,6 +256,11 @@ const WINDOWS_RESELECT = platform.os === "windows";
+  */
+ function MaskedField(props: MaskedProps) {
+   let input: InputRef | undefined;
++  const traceId = () => `${props.field.testID ?? ""}|${props.field.accessibilityLabel ?? ""}|${props.field.label ?? ""}`;
++  const trace = (event: string, detail = "") => {
++    const id = traceId();
++    if (id.includes("13B") || id.includes("Output Tax Due")) console.log(`RESELECT_TRACE ${Date.now()} ${event} ${id} ${detail}`);
++  };
+   const focused = signal(false);
+   const text = signal(props.shown(props.value ?? "", false));
+   const same = (a: string, b: string) => (props.same ? props.same(a, b) : a === b);
+@@ -417,6 +422,7 @@ function MaskedField(props: MaskedProps) {
+       onSubmit={props.field.onSubmit}
+       testID={props.field.testID}
+       onSelectionChange={(e) => {
++        trace("selection", `start=${e.start} end=${e.end}`);
+         if (WINDOWS_RESELECT && armWindowsReselect && !windowsReselectDone) {
+           const len = untracked(text).length;
+           const now = Date.now();
+@@ -438,6 +444,7 @@ function MaskedField(props: MaskedProps) {
+         props.field.onKeyPress?.(e);
+       }}
+       onFocus={() => {
++        trace("focus", `value=${props.value ?? ""}`);
+         // A duplicate focus without a blur is not a new edit session: no reset, rewrite, reselect or renotify.
+         if (untracked(focused)) {
+           programmaticFocus = false;

@@ -1,0 +1,131 @@
+diff --git a/nsh/ui/fields.tsx b/nsh/ui/fields.tsx
+index 9da1b3e5..6c9b936c 100644
+--- a/nsh/ui/fields.tsx
++++ b/nsh/ui/fields.tsx
+@@ -18,6 +18,12 @@ import { Icon, Text } from "./text";
+ 
+ // ---------------------------------------------------------------- text field
+ 
++let maskedTraceCounter = 0;
++const maskedTrace = (event: string, detail = "") => {
++  maskedTraceCounter += 1;
++  console.log(`MASKED_TRACE ${maskedTraceCounter} ${Date.now()} ${event} ${detail}`);
++};
++
+ type KeyboardType = "default" | "number-pad" | "decimal-pad" | "numeric" | "numbers-and-punctuation" | "email-address" | "phone-pad" | "url";
+ 
+ /** Props of TextField. */
+@@ -289,7 +295,8 @@ function MaskedField(props: MaskedProps) {
+   // The zero text a focus is clearing, while its empty write waits one turn so same-turn input can supersede it.
+   let zeroFocusText: string | undefined;
+   let zeroWriteTimer: ReturnType<typeof setTimeout> | undefined;
+-  const writeText = (value: string) => {
++  const writeText = (value: string, caller = "untagged") => {
++    maskedTrace("writeText", `caller=${caller} value=${JSON.stringify(value)}`);
+     if (untracked(text) !== value) props.field.writeProbe?.("text");
+     text.set(value);
+   };
+@@ -315,7 +322,7 @@ function MaskedField(props: MaskedProps) {
+     const now = untracked(text);
+     if (!same(props.valueOf(now), value)) {
+       if (WINDOWS_RESELECT) outsideWriteAt = Date.now();
+-      writeText(props.shown(value, false));
++      writeText(props.shown(value, false), "outside-effect");
+       invalidActive = false;
+       rollbackReported = false;
+     }
+@@ -323,6 +330,7 @@ function MaskedField(props: MaskedProps) {
+   const change = (raw: string) => {
+     armWindowsReselect = false;
+     const prev = untracked(text);
++    maskedTrace("change", `raw=${JSON.stringify(raw)} prev=${JSON.stringify(prev)} focused=${untracked(focused)}`);
+     const from = editFrom;
+     const typed = editTyped;
+     editFrom = undefined;
+@@ -365,8 +373,8 @@ function MaskedField(props: MaskedProps) {
+     boxText = next.rejected || next.text === prev ? next.text : raw;
+     // The native box holds `raw`. A signal that already holds the answer would send nothing: show `raw` first so the
+     // answer is a change the box must take.
+-    if (next.text === prev && raw !== prev) writeText(raw);
+-    writeText(next.text);
++    if (next.text === prev && raw !== prev) writeText(raw, "change-raw-first");
++    writeText(next.text, "change-mask");
+     // The box puts the caret at the end of a text it takes, so a caret that belongs there is not sent: sent, it would
+     // arrive after the keys typed since this edit and put the next ones inside the number.
+     if (next.rejected || (next.text !== raw && next.caret !== next.text.length)) writeCaret(next.caret);
+@@ -417,6 +425,7 @@ function MaskedField(props: MaskedProps) {
+       onSubmit={props.field.onSubmit}
+       testID={props.field.testID}
+       onSelectionChange={(e) => {
++        maskedTrace("selection", `start=${e.start} end=${e.end}`);
+         if (WINDOWS_RESELECT && armWindowsReselect && !windowsReselectDone) {
+           const len = untracked(text).length;
+           const now = Date.now();
+@@ -438,8 +447,10 @@ function MaskedField(props: MaskedProps) {
+         props.field.onKeyPress?.(e);
+       }}
+       onFocus={() => {
++        maskedTrace("focus-enter", `text=${JSON.stringify(untracked(text))} value=${JSON.stringify(props.value ?? "")}`);
+         // A duplicate focus without a blur is not a new edit session: no reset, rewrite, reselect or renotify.
+         if (untracked(focused)) {
++          maskedTrace("focus-duplicate", `text=${JSON.stringify(untracked(text))} value=${JSON.stringify(props.value ?? "")}`);
+           programmaticFocus = false;
+           return;
+         }
+@@ -458,6 +469,7 @@ function MaskedField(props: MaskedProps) {
+         outsideWriteAt = 0;
+         const before = untracked(text);
+         const focusShown = props.shown(props.value ?? "", true);
++        maskedTrace("focus-branch", `before=${JSON.stringify(before)} focusShown=${JSON.stringify(focusShown)} branch=${focusShown === before ? "same" : focusShown === "" ? "zero-empty-timer" : "write-focus-shown"}`);
+         if (focusShown !== before) {
+           if (focusShown === "") {
+             // Give same-turn input one chance to win over the zero-to-empty write; otherwise that write can land after
+@@ -465,13 +477,15 @@ function MaskedField(props: MaskedProps) {
+             zeroFocusText = before;
+             zeroWriteTimer = setTimeout(() => {
+               zeroWriteTimer = undefined;
+-              if (!edited && untracked(focused) && untracked(text) === before) {
+-                writeText("");
++              const canWrite = !edited && untracked(focused) && untracked(text) === before;
++              maskedTrace("zero-timer", `didWrite=${canWrite} text=${JSON.stringify(untracked(text))} before=${JSON.stringify(before)} edited=${edited} focused=${untracked(focused)}`);
++              if (canWrite) {
++                writeText("", "zero-timer");
+                 zeroFocusText = undefined;
+               }
+             }, 0);
+           } else {
+-            writeText(focusShown);
++            writeText(focusShown, "focus");
+           }
+         }
+         // One of exactly two deliberate selection writes in typed boxes: the page's own focus(), never platform focus.
+@@ -483,6 +497,7 @@ function MaskedField(props: MaskedProps) {
+         props.field.onFocus?.();
+       }}
+       onBlur={() => {
++        maskedTrace("blur", `text=${JSON.stringify(untracked(text))} value=${JSON.stringify(props.value ?? "")}`);
+         if (zeroWriteTimer !== undefined) {
+           clearTimeout(zeroWriteTimer);
+           zeroWriteTimer = undefined;
+@@ -497,18 +512,18 @@ function MaskedField(props: MaskedProps) {
+           const fallback = outsideValue ?? focusValue;
+           const shownFallback = props.shown(fallback, false);
+           const kept = shownFallback === "" ? props.shown("0", false) : shownFallback;
+-          writeText(kept);
++          writeText(kept, "blur-invalid-kept");
+           if (props.field.onLeftUnreadable) props.field.onLeftUnreadable(held, kept);
+           else leftUnreadable.set(`${held} is not an amount. The box kept ${kept}.`);
+           invalidActive = false;
+           rollbackReported = false;
+         } else {
+-          if (!edited && outsideValue !== undefined) writeText(props.shown(outsideValue, false));
++          if (!edited && outsideValue !== undefined) writeText(props.shown(outsideValue, false), "blur-held-outside");
+           const laidOut = edited ? props.shown(props.valueOf(reading), false) : props.shown(outsideValue ?? props.value ?? "", false);
+           const semanticShown = edited && props.settle ? props.settle(laidOut) : laidOut;
+           // An empty money amount is zero; once the box is left it shows that zero rather than staying blank.
+           const shown = props.noLiveFormat && semanticShown === "" ? props.shown("0", false) : semanticShown;
+-          if (shown !== text()) writeText(shown);
++          if (shown !== text()) writeText(shown, "blur-layout");
+           const value = props.valueOf(semanticShown);
+           if (!same(value, last)) {
+             last = value;
