@@ -1,0 +1,9 @@
+Pad Pro 13-inch (M5)): RESELECT_TRACE 1795716497028 selection start=4 end=4 text="0.00" focused=false
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716497035 focus value="0.00" text="0.00"
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716497035 writeText caller=zero-timer value="" prop="0.00" before="0.00" focused=true
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716497135 selection start=0 end=0 text="" focused=true
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716498142 selection start=1 end=1 text="" focused=true
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716498332 selection start=2 end=2 text="1" focused=true
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716498548 selection start=3 end=3 text="10" focused=true
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716498862 writeText caller=outside-effect value="12.00" prop="12.00" before="0.00" focused=false
+iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716500808 writeText caller=blur-layout value="100.00" prop="100" before="100" focused=true

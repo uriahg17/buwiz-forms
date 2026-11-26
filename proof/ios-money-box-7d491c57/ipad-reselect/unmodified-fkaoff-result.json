@@ -1,0 +1,25 @@
+{
+ "fka": false,
+ "vals_end": {
+  "sales_to_government": 1005.0,
+  "output_tax_government": 120.6,
+  "zero_rated_sales": 0.0,
+  "total_sales": 1005.0,
+  "total_output_tax": 120.6
+ },
+ "trace_lines": [
+  "Pro 13-inch (M5)): RESELECT_TRACE 1795716544770 selection start=4 end=4 text=\"0.00\" focused=false",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716544771 focus value=\"0.00\" text=\"0.00\"",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716544771 writeText caller=zero-timer value=\"\" prop=\"0.00\" before=\"0.00\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716544822 selection start=0 end=0 text=\"\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716545923 selection start=1 end=1 text=\"\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716546132 selection start=2 end=2 text=\"1\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716546348 selection start=3 end=3 text=\"10\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716546662 writeText caller=outside-effect value=\"12.00\" prop=\"12.00\" before=\"0.00\" focused=false",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716551385 selection start=4 end=4 text=\"100\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716551701 writeText caller=outside-effect value=\"120.60\" prop=\"120.60\" before=\"12.00\" focused=false",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716553190 writeText caller=blur-layout value=\"1,005.00\" prop=\"1005\" before=\"1005\" focused=true",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716553199 selection start=6 end=6 text=\"120.60\" focused=false",
+  "iOS Simulator (iPad Pro 13-inch (M5)): RESELECT_TRACE 1795716553199 focus value=\"120.60\" text=\"120.60\""
+ ]
+}

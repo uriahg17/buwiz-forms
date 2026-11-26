@@ -1,0 +1,1 @@
+FKA on: first Tab sequence did not focus 13B; saved remained sales 100/output 12. FKA off: key 5 appended in 13A (sales 1005/output 120.6); later computed-field focus showed collapse selection start=end=6, not select-all. See unmodified-result.json and unmodified-fkaoff-result.json.
