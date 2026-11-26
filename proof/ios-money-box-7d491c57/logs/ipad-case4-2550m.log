@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4new.py", line 62, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:4000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4new.py", line 49, in run
+    n=bring_static(W,'13A'); shot(udid,cdir+'/000-13A-visible.jpg')
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4new.py", line 37, in bring_static
+    raise RuntimeError('no '+txt)
+RuntimeError: no 13A

@@ -1,0 +1,39 @@
+{
+ "device": "ipad",
+ "case": "case3-comma-lone",
+ "sequence": ",",
+ "keys": [
+  {
+   "key": ",",
+   "shown": ",",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case3/comma-lone/key-1-comma.jpg"
+  }
+ ],
+ "saved_after_done": {
+  "taxable_amount": 1000.0,
+  "tax_due": 30.0,
+  "total_tax_due": 30.0,
+  "updated_at": "2026-11-26T13:32:09.429155+00:00"
+ },
+ "shown_after_row_reopen": "1,000.00",
+ "texts": [
+  "Row 1",
+  "Alphanumeric Tax Code (ATC)",
+  "Taxable Amount",
+  "\u20b1",
+  "Taxable Amount: , is not an amount. The box kept 1,000.00.",
+  "Tax Rate",
+  "Tax Due",
+  "iPad Pro 13-inch (M5)",
+  "iOS 26.5"
+ ],
+ "sentence": [
+  "Taxable Amount: , is not an amount. The box kept 1,000.00."
+ ],
+ "saved_after_row_reopen": {
+  "taxable_amount": 1000.0,
+  "tax_due": 30.0,
+  "total_tax_due": 30.0,
+  "updated_at": "2026-11-26T13:32:09.429155+00:00"
+ }
+}

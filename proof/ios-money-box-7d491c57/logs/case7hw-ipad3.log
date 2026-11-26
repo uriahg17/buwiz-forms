@@ -1,0 +1,33 @@
+{
+ "device": "ipad",
+ "case": "case7-hardware-tab-shift-tab",
+ "tab_after_tab": "1,234.56",
+ "tab_after_type": "1,234.56",
+ "tab_saved": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T15:05:53.735630+00:00"
+ },
+ "shift_after_shift_tab": "1,234.56",
+ "shift_after_type": "1,234.56",
+ "shift_saved": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T15:05:53.735630+00:00"
+ },
+ "comma_saved": {
+  "taxable_amount": 1000.0,
+  "tax_due": 30.0,
+  "total_tax_due": 30.0,
+  "updated_at": "2026-11-26T15:05:53.735630+00:00"
+ },
+ "comma_sentence": [],
+ "comma_reopen_saved": {
+  "taxable_amount": 1000.0,
+  "tax_due": 30.0,
+  "total_tax_due": 30.0,
+  "updated_at": "2026-11-26T15:05:53.735630+00:00"
+ }
+}

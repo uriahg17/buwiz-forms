@@ -1,0 +1,368 @@
+[
+ {
+  "device": "ipad",
+  "case": "case1-fast",
+  "run": 1,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 577.3990154266357,
+   "stdout": [
+    "start 12853849070",
+    "click 12853904835 12853928851 612 861",
+    "click 12853979958 12853996436 805 861",
+    "click 12854051495 12854068213 1047 861",
+    "click 12854123450 12854140016 1047 861",
+    "click 12854193626 12854210068 1047 861",
+    "click 12854265160 12854281621 770 995",
+    "click 12854336652 12854353089 805 861",
+    "click 12854405022 12854421455 1047 861",
+    "end 12854421465"
+   ],
+   "clicks": [
+    {
+     "at_usec": 12853904835,
+     "done_usec": 12853928851,
+     "x": 612,
+     "y": 861
+    },
+    {
+     "at_usec": 12853979958,
+     "done_usec": 12853996436,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 51.107
+    },
+    {
+     "at_usec": 12854051495,
+     "done_usec": 12854068213,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.059
+    },
+    {
+     "at_usec": 12854123450,
+     "done_usec": 12854140016,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.237
+    },
+    {
+     "at_usec": 12854193626,
+     "done_usec": 12854210068,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 53.61
+    },
+    {
+     "at_usec": 12854265160,
+     "done_usec": 12854281621,
+     "x": 770,
+     "y": 995,
+     "interval_ms": 55.092
+    },
+    {
+     "at_usec": 12854336652,
+     "done_usec": 12854353089,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.031
+    },
+    {
+     "at_usec": 12854405022,
+     "done_usec": 12854421455,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 51.933
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:53:16.002337+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:53:16.002337+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "ipad",
+  "case": "case1-fast",
+  "run": 2,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 580.125093460083,
+   "stdout": [
+    "start 12899650632",
+    "click 12899708418 12899732248 612 861",
+    "click 12899787301 12899803779 805 861",
+    "click 12899858975 12899875345 1047 861",
+    "click 12899930392 12899946847 1047 861",
+    "click 12899999422 12900015864 1047 861",
+    "click 12900071384 12900087837 770 995",
+    "click 12900138635 12900155089 805 861",
+    "click 12900210303 12900226757 1047 861",
+    "end 12900226765"
+   ],
+   "clicks": [
+    {
+     "at_usec": 12899708418,
+     "done_usec": 12899732248,
+     "x": 612,
+     "y": 861
+    },
+    {
+     "at_usec": 12899787301,
+     "done_usec": 12899803779,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.053
+    },
+    {
+     "at_usec": 12899858975,
+     "done_usec": 12899875345,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.196
+    },
+    {
+     "at_usec": 12899930392,
+     "done_usec": 12899946847,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.047
+    },
+    {
+     "at_usec": 12899999422,
+     "done_usec": 12900015864,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 52.575
+    },
+    {
+     "at_usec": 12900071384,
+     "done_usec": 12900087837,
+     "x": 770,
+     "y": 995,
+     "interval_ms": 55.52
+    },
+    {
+     "at_usec": 12900138635,
+     "done_usec": 12900155089,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 50.798
+    },
+    {
+     "at_usec": 12900210303,
+     "done_usec": 12900226757,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.214
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:54:01.784964+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:54:01.784964+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "ipad",
+  "case": "case1-fast",
+  "run": 3,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 592.6449298858643,
+   "stdout": [
+    "start 12943050706",
+    "click 12943108821 12943132840 612 861",
+    "click 12943188764 12943204236 805 861",
+    "click 12943259286 12943275905 1047 861",
+    "click 12943330991 12943347855 1047 861",
+    "click 12943402891 12943419260 1047 861",
+    "click 12943475064 12943491787 770 995",
+    "click 12943547016 12943566492 805 861",
+    "click 12943622127 12943638689 1047 861",
+    "end 12943638698"
+   ],
+   "clicks": [
+    {
+     "at_usec": 12943108821,
+     "done_usec": 12943132840,
+     "x": 612,
+     "y": 861
+    },
+    {
+     "at_usec": 12943188764,
+     "done_usec": 12943204236,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.924
+    },
+    {
+     "at_usec": 12943259286,
+     "done_usec": 12943275905,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.05
+    },
+    {
+     "at_usec": 12943330991,
+     "done_usec": 12943347855,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.086
+    },
+    {
+     "at_usec": 12943402891,
+     "done_usec": 12943419260,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.036
+    },
+    {
+     "at_usec": 12943475064,
+     "done_usec": 12943491787,
+     "x": 770,
+     "y": 995,
+     "interval_ms": 55.804
+    },
+    {
+     "at_usec": 12943547016,
+     "done_usec": 12943566492,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.229
+    },
+    {
+     "at_usec": 12943622127,
+     "done_usec": 12943638689,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.635
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:54:45.207147+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:54:45.207147+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "ipad",
+  "case": "case1-fast",
+  "run": 4,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 584.9728584289551,
+   "stdout": [
+    "start 12987449455",
+    "click 12987504498 12987530017 612 861",
+    "click 12987585064 12987601507 805 861",
+    "click 12987656583 12987673090 1047 861",
+    "click 12987728126 12987744935 1047 861",
+    "click 12987799970 12987816450 1047 861",
+    "click 12987870661 12987886893 770 995",
+    "click 12987941943 12987958631 805 861",
+    "click 12988013664 12988030171 1047 861",
+    "end 12988030179"
+   ],
+   "clicks": [
+    {
+     "at_usec": 12987504498,
+     "done_usec": 12987530017,
+     "x": 612,
+     "y": 861
+    },
+    {
+     "at_usec": 12987585064,
+     "done_usec": 12987601507,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.047
+    },
+    {
+     "at_usec": 12987656583,
+     "done_usec": 12987673090,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.076
+    },
+    {
+     "at_usec": 12987728126,
+     "done_usec": 12987744935,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.036
+    },
+    {
+     "at_usec": 12987799970,
+     "done_usec": 12987816450,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.035
+    },
+    {
+     "at_usec": 12987870661,
+     "done_usec": 12987886893,
+     "x": 770,
+     "y": 995,
+     "interval_ms": 54.211
+    },
+    {
+     "at_usec": 12987941943,
+     "done_usec": 12987958631,
+     "x": 805,
+     "y": 861,
+     "interval_ms": 55.05
+    },
+    {
+     "at_usec": 12988013664,
+     "done_usec": 12988030171,
+     "x": 1047,
+     "y": 861,
+     "interval_ms": 55.033
+    }
+   ],
+   "stderr": "",
+   "nominal_spa

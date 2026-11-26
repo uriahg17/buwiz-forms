@@ -1,0 +1,14 @@
+=== ipad-case2 Thu Nov 26 05:00:28 PST 2026
+exit 1 ipad-case2
+=== ipad-case5 Thu Nov 26 05:01:31 PST 2026
+exit 0 ipad-case5
+=== ipad-case4home Thu Nov 26 05:02:03 PST 2026
+exit 1 ipad-case4home
+=== iphone-case4-2550m Thu Nov 26 05:03:02 PST 2026
+exit 1 iphone-case4-2550m
+=== ipad-case4-2550m Thu Nov 26 05:03:43 PST 2026
+exit 1 ipad-case4-2550m
+=== iphone-case6 Thu Nov 26 05:04:23 PST 2026
+exit 0 iphone-case6
+=== ipad-case6 Thu Nov 26 05:05:21 PST 2026
+exit 1 ipad-case6

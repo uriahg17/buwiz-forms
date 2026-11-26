@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4manual.py", line 81, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:5000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4manual.py", line 79, in run
+    open_return2(W); time.sleep(.5); shot(udid,cdir+'/008-after-reopen.jpg'); rec['saved_after_reopen']=vals(db)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case4manual.py", line 30, in open_return2
+    raise RuntimeError('return-2 missing')
+RuntimeError: return-2 missing

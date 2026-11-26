@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/comma_sentence.py", line 71, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:5000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/comma_sentence.py", line 61, in run
+    press_done(W); time.sleep(.7); shot(udid,cdir+'/030-after-done.jpg'); rec['saved_after_done']=draft_money(db)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/huntlib.py", line 60, in press_done
+    simutil.click_id(win,'fp-table-drpATC1-done',.8)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/simutil.py", line 60, in click_id
+    if not xs: raise RuntimeError(f'id not found {idpart}')
+RuntimeError: id not found fp-table-drpATC1-done

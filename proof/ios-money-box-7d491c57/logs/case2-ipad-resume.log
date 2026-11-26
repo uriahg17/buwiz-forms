@@ -1,0 +1,42 @@
+{
+ "device": "ipad",
+ "case": "case2-caret-digit-delete",
+ "initial": "1,234.56",
+ "keypad": [
+  ".",
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "Delete"
+ ],
+ "digit": {
+  "key": "7",
+  "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case2/002-after-digit.jpg",
+  "shown": null
+ },
+ "delete": {
+  "key": "Delete",
+  "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case2/003-after-delete.jpg",
+  "shown": null
+ },
+ "saved_after_leaving": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T14:57:40.864205+00:00"
+ },
+ "shown_after_reopening": "1,234.56",
+ "saved_after_reopening": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T14:57:40.864205+00:00"
+ }
+}

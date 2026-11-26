@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 71, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:6000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 65, in run
+    rec['opened_row1']=open_row_index(W,0);time.sleep(.3);shot(udid,cdir+'/020-row1-open-before-delete.jpg')
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 33, in open_row_index
+    raise RuntimeError('cannot open row '+str(idx))
+RuntimeError: cannot open row 0

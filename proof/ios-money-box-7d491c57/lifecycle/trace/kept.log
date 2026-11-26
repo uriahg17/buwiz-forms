@@ -1,0 +1,10 @@
+MASKED_TRACE 35 1795709225056 selection start=4 end=4
+MASKED_TRACE 36 1795709225056 focus-enter text="0.00" value="0.00"
+MASKED_TRACE 37 1795709225056 focus-branch before="0.00" focusShown="" branch=zero-empty-timer
+MASKED_TRACE 38 1795709225056 zero-timer didWrite=true text="0.00" before="0.00" edited=false focused=true
+MASKED_TRACE 39 1795709225056 writeText caller=zero-timer value=""
+MASKED_TRACE 40 1795709225118 selection start=0 end=0
+MASKED_TRACE 41 1795709225999 selection start=1 end=1
+MASKED_TRACE 42 1795709226000 change raw="1" prev="" focused=true
+MASKED_TRACE 43 1795709226257 selection start=2 end=2
+MASKED_TRACE 44 1795709226257 change raw="12" prev="1" focused=true

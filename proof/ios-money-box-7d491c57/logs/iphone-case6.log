@@ -1,0 +1,86 @@
+{
+ "device": "iphone",
+ "case": "case6-rows",
+ "empty_delete_button": true,
+ "empty_rows_after_reopen": [
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  }
+ ],
+ "empty_amount": 0.0,
+ "rowbuttons": [],
+ "typed_keys": [
+  {
+   "key": "7",
+   "x": 118,
+   "y": 885,
+   "shown": "1,000.007",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case6/key-01-7.jpg",
+   "t": 1795698303.574934
+  },
+  {
+   "key": "7",
+   "x": 118,
+   "y": 885,
+   "shown": "1,000.0077",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case6/key-02-7.jpg",
+   "t": 1795698305.510082
+  },
+  {
+   "key": "7",
+   "x": 118,
+   "y": 885,
+   "shown": "1,000.00777",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case6/key-03-7.jpg",
+   "t": 1795698307.4608462
+  },
+  {
+   "key": "7",
+   "x": 118,
+   "y": 885,
+   "shown": "1,000.007777",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case6/key-04-7.jpg",
+   "t": 1795698309.399082
+  }
+ ],
+ "shown_after_typing": "1,000.007777",
+ "done_closed": false,
+ "delete_blur_note": "Done/close definitely blurred the amount before Delete in this UI-feasible sequence",
+ "delete_button": true,
+ "rows_after_delete": [
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 1000.01,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "PERSON EXEMPT FROM VAT UNDER SEC. 109(BB) (SEC. 116)",
+   "taxable_amount": 3000.0,
+   "tax_rate": 0.03,
+   "tax_due": 90.0
+  }
+ ],
+ "rows_after_reopen": [
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 1000.01,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "PERSON EXEMPT FROM VAT UNDER SEC. 109(BB) (SEC. 116)",
+   "taxable_amount": 3000.0,
+   "tax_rate": 0.03,
+   "tax_due": 90.0
+  }
+ ]
+}

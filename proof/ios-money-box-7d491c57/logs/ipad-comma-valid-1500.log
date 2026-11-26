@@ -1,0 +1,51 @@
+{
+ "device": "ipad",
+ "case": "case3-comma-valid-1500",
+ "sequence": "1500",
+ "keys": [
+  {
+   "key": "1",
+   "shown": "1",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case3/comma-valid-1500/key-1-1.jpg"
+  },
+  {
+   "key": "5",
+   "shown": "15",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case3/comma-valid-1500/key-2-5.jpg"
+  },
+  {
+   "key": "0",
+   "shown": "150",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case3/comma-valid-1500/key-3-0.jpg"
+  },
+  {
+   "key": "0",
+   "shown": "1500",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case3/comma-valid-1500/key-4-0.jpg"
+  }
+ ],
+ "saved_after_done": {
+  "taxable_amount": 1500.0,
+  "tax_due": 45.0,
+  "total_tax_due": 45.0,
+  "updated_at": "2026-11-26T13:32:52.638132+00:00"
+ },
+ "shown_after_row_reopen": "1,500.00",
+ "texts": [
+  "Row 1",
+  "Alphanumeric Tax Code (ATC)",
+  "Taxable Amount",
+  "\u20b1",
+  "Tax Rate",
+  "Tax Due",
+  "iPad Pro 13-inch (M5)",
+  "iOS 26.5"
+ ],
+ "sentence": [],
+ "saved_after_row_reopen": {
+  "taxable_amount": 1500.0,
+  "tax_due": 45.0,
+  "total_tax_due": 45.0,
+  "updated_at": "2026-11-26T13:32:52.638132+00:00"
+ }
+}

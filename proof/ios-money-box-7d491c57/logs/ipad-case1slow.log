@@ -1,0 +1,304 @@
+[
+ {
+  "device": "ipad",
+  "case": "case1-value",
+  "typed": "0.50",
+  "precondition": "0.00",
+  "keys": [
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "0",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-0p50/key-01-0.jpg",
+    "t": 1795697006.075368
+   },
+   {
+    "key": ".",
+    "x": 770,
+    "y": 995,
+    "shown": "0.",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-0p50/key-02-dot.jpg",
+    "t": 1795697008.216838
+   },
+   {
+    "key": "5",
+    "x": 805,
+    "y": 861,
+    "shown": "0.5",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-0p50/key-03-5.jpg",
+    "t": 1795697010.347417
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "0.50",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-0p50/key-04-0.jpg",
+    "t": 1795697012.4943979
+   }
+  ],
+  "saved_after_leaving": {
+   "taxable_amount": 0.5,
+   "tax_due": 0.02,
+   "total_tax_due": 0.02,
+   "updated_at": "2026-11-26T12:43:32.502889+00:00"
+  },
+  "shown_after_reopening": "0.50",
+  "saved_after_reopening": {
+   "taxable_amount": 0.5,
+   "tax_due": 0.02,
+   "total_tax_due": 0.02,
+   "updated_at": "2026-11-26T12:43:32.502889+00:00"
+  }
+ },
+ {
+  "device": "ipad",
+  "case": "case1-value",
+  "typed": "1234.56",
+  "precondition": "0.00",
+  "keys": [
+   {
+    "key": "1",
+    "x": 612,
+    "y": 861,
+    "shown": "1",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-01-1.jpg",
+    "t": 1795697048.689877
+   },
+   {
+    "key": "2",
+    "x": 660,
+    "y": 861,
+    "shown": "12",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-02-2.jpg",
+    "t": 1795697050.882986
+   },
+   {
+    "key": "3",
+    "x": 709,
+    "y": 861,
+    "shown": "123",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-03-3.jpg",
+    "t": 1795697052.953952
+   },
+   {
+    "key": "4",
+    "x": 757,
+    "y": 861,
+    "shown": "1234",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-04-4.jpg",
+    "t": 1795697055.0040882
+   },
+   {
+    "key": ".",
+    "x": 770,
+    "y": 995,
+    "shown": "1234.",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-05-dot.jpg",
+    "t": 1795697057.86577
+   },
+   {
+    "key": "5",
+    "x": 805,
+    "y": 861,
+    "shown": "1234.5",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-06-5.jpg",
+    "t": 1795697059.932398
+   },
+   {
+    "key": "6",
+    "x": 854,
+    "y": 861,
+    "shown": "1234.56",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1234p56/key-07-6.jpg",
+    "t": 1795697062.013721
+   }
+  ],
+  "saved_after_leaving": {
+   "taxable_amount": 1234.56,
+   "tax_due": 37.04,
+   "total_tax_due": 37.04,
+   "updated_at": "2026-11-26T12:44:22.030488+00:00"
+  },
+  "shown_after_reopening": "1,234.56",
+  "saved_after_reopening": {
+   "taxable_amount": 1234.56,
+   "tax_due": 37.04,
+   "total_tax_due": 37.04,
+   "updated_at": "2026-11-26T12:44:22.030488+00:00"
+  }
+ },
+ {
+  "device": "ipad",
+  "case": "case1-value",
+  "typed": "99999.99",
+  "precondition": "0.00",
+  "keys": [
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "9",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-01-9.jpg",
+    "t": 1795697098.455095
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "99",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-02-9.jpg",
+    "t": 1795697100.754281
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "999",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-03-9.jpg",
+    "t": 1795697103.0004768
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "9999",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-04-9.jpg",
+    "t": 1795697105.259329
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "99999",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-05-9.jpg",
+    "t": 1795697107.487463
+   },
+   {
+    "key": ".",
+    "x": 770,
+    "y": 995,
+    "shown": "99999.",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-06-dot.jpg",
+    "t": 1795697109.772815
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "99999.9",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-07-9.jpg",
+    "t": 1795697112.016992
+   },
+   {
+    "key": "9",
+    "x": 999,
+    "y": 861,
+    "shown": "99999.99",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-99999p99/key-08-9.jpg",
+    "t": 1795697114.26981
+   }
+  ],
+  "saved_after_leaving": {
+   "taxable_amount": 99999.99,
+   "tax_due": 3000.0,
+   "total_tax_due": 3000.0,
+   "updated_at": "2026-11-26T12:45:14.235741+00:00"
+  },
+  "shown_after_reopening": "99,999.99",
+  "saved_after_reopening": {
+   "taxable_amount": 99999.99,
+   "tax_due": 3000.0,
+   "total_tax_due": 3000.0,
+   "updated_at": "2026-11-26T12:45:14.235741+00:00"
+  }
+ },
+ {
+  "device": "ipad",
+  "case": "case1-value",
+  "typed": "100000",
+  "precondition": "0.00",
+  "keys": [
+   {
+    "key": "1",
+    "x": 612,
+    "y": 861,
+    "shown": "1",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-01-1.jpg",
+    "t": 1795697151.0377312
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "10",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-02-0.jpg",
+    "t": 1795697153.106672
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "100",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-03-0.jpg",
+    "t": 1795697155.2180212
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "1000",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-04-0.jpg",
+    "t": 1795697157.292788
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "10000",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-05-0.jpg",
+    "t": 1795697159.3995311
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "100000",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-100000/key-06-0.jpg",
+    "t": 1795697161.666487
+   }
+  ],
+  "saved_after_leaving": {
+   "taxable_amount": 100000.0,
+   "tax_due": 3000.0,
+   "total_tax_due": 3000.0,
+   "updated_at": "2026-11-26T12:46:01.632707+00:00"
+  },
+  "shown_after_reopening": "100,000.00",
+  "saved_after_reopening": {
+   "taxable_amount": 100000.0,
+   "tax_due": 3000.0,
+   "total_tax_due": 3000.0,
+   "updated_at": "2026-11-26T12:46:01.632707+00:00"
+  }
+ },
+ {
+  "device": "ipad",
+  "case": "case1-value",
+  "typed": "1000000.01",
+  "precondition": "0.00",
+  "keys": [
+   {
+    "key": "1",
+    "x": 612,
+    "y": 861,
+    "shown": "1",
+    "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case1/value-1000000p01/key-01-1.jpg",
+    "t": 1795697198.77928
+   },
+   {
+    "key": "0",
+    "x": 1047,
+    "y": 861,
+    "shown": "10",

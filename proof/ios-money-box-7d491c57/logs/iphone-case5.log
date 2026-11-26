@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case5.py", line 43, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1))
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case5.py", line 32, in run
+    x,y=kp[k]; click_xy(x,y); time.sleep(.13); fn=os.path.join(cdir,f'key-{i}-{k}.jpg'); shot(udid,fn); rec['keys'].append({'key':k,'shown':sheets_field(W).get('value') if sheets_field(W) else None,'screenshot':fn})
+KeyError: '4'

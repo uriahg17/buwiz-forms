@@ -1,0 +1,6 @@
+launch com.longbridge.nsh.host: 57486
+
+comma-lone ERROR RuntimeError('missing , keys {}')
+comma-valid-1500 ERROR RuntimeError('missing 1 keys {}')
+relaunch-reset com.longbridge.nsh.host: 57704
+

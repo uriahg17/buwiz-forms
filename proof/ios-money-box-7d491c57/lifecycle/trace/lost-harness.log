@@ -1,0 +1,14 @@
+label lost
+target_gap_ms 80
+measured_gap_ms 119.903
+second_digit_gap_ms 267.357
+click before_us=24575663275 after_us=24575712028 x=1105 y=873
+click before_us=24575783178 after_us=24575825504 x=1064 y=718
+click before_us=24576050535 after_us=24576091977 x=1119 y=718
+fastclick_raw_begin
+start 24575663244
+click 24575663275 24575712028 1105 873
+click 24575783178 24575825504 1064 718
+click 24576050535 24576091977 1119 718
+end 24576091995
+fastclick_raw_end

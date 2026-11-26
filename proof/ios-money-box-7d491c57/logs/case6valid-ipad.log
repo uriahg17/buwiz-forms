@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 63, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:6000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 47, in run
+    done=simutil.find(W,idpart='fp-table-drpATC1-done'); done_xy=(round(done['pos'][0]+done['size'][0]/2),round(done['pos'][1]+done['size'][1]/2)) if done else None
+TypeError: list indices must be integers or slices, not str

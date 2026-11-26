@@ -1,0 +1,20 @@
+{
+ "device": "ipad",
+ "case": "case5-sheets",
+ "precondition": "",
+ "keys": [
+  {
+   "key": "4",
+   "shown": "4",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case5/key-1-4.jpg"
+  },
+  {
+   "key": "2",
+   "shown": "42",
+   "screenshot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/ipad/case5/key-2-2.jpg"
+  }
+ ],
+ "saved_after_leaving": 42,
+ "shown_after_reopening": "42",
+ "saved_after_reopening": 42
+}

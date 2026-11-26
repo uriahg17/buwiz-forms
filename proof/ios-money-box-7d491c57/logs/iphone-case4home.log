@@ -1,0 +1,39 @@
+{
+ "device": "iphone",
+ "case": "case4-home-resume",
+ "before": "",
+ "keys_before_home": [
+  {
+   "key": "1",
+   "shown": "1"
+  },
+  {
+   "key": "2",
+   "shown": "12"
+  },
+  {
+   "key": "3",
+   "shown": "123"
+  }
+ ],
+ "shown_after_return": "123",
+ "keys_after_return": [
+  {
+   "key": "4",
+   "shown": "1234"
+  }
+ ],
+ "saved_after_leaving": {
+  "taxable_amount": 1234.0,
+  "tax_due": 37.02,
+  "total_tax_due": 37.02,
+  "updated_at": "2026-11-26T12:33:02.980521+00:00"
+ },
+ "shown_after_reopening": "1,234.00",
+ "saved_after_reopening": {
+  "taxable_amount": 1234.0,
+  "tax_due": 37.02,
+  "total_tax_due": 37.02,
+  "updated_at": "2026-11-26T12:33:02.980521+00:00"
+ }
+}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case2.py", line 27, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1))
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case2.py", line 11, in run
+    open_filings(W); update_2551q(db,1234.56); open_form(W,'2551Q'); open_row_fast(W)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/comma_sentence.py", line 21, in open_row_fast
+    raise RuntimeError('row not open')
+RuntimeError: row not open

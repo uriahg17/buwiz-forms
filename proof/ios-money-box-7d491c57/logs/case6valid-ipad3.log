@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 67, in <module>
+    if __name__=='__main__': print(json.dumps(run(sys.argv[1],sys.argv[2],sys.argv[3]),indent=1)[:6000])
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case6valid.py", line 40, in run
+    setrows(db,[(1000.0,'PT010'),(3000.0,'PT040')]); open_filings(W);open_form(W,'2551Q');time.sleep(.5)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/case1.py", line 26, in open_form
+    raise RuntimeError('form not found '+code)
+RuntimeError: form not found 2551Q

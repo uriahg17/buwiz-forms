@@ -1,0 +1,113 @@
+{
+ "device": "iphone",
+ "case": "case4-2550m-final",
+ "pre_fields": [
+  "March 2026",
+  "0",
+  "",
+  "0.00",
+  "0.00",
+  "0.00",
+  "0.00"
+ ],
+ "keypad_visible": true,
+ "keypad_labels": [
+  ".",
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "Delete"
+ ],
+ "keys": [
+  {
+   "key": "1",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case4/2550m-final/key-1-1.jpg",
+   "fields": [
+    "March 2026",
+    "0",
+    "1",
+    "0.00",
+    "0.00",
+    "0.00",
+    "0.00"
+   ]
+  },
+  {
+   "key": "0",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case4/2550m-final/key-2-0.jpg",
+   "fields": [
+    "March 2026",
+    "0",
+    "10",
+    "0.00",
+    "0.00",
+    "0.00",
+    "0.00"
+   ]
+  },
+  {
+   "key": "0",
+   "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case4/2550m-final/key-3-0.jpg",
+   "fields": [
+    "March 2026",
+    "0",
+    "100",
+    "0.00",
+    "0.00",
+    "0.00",
+    "0.00"
+   ]
+  }
+ ],
+ "db_after_100": {
+  "sales_to_government": 100.0,
+  "output_tax_government": 12.0,
+  "zero_rated_sales": 0.0,
+  "total_sales": 100.0,
+  "total_output_tax": 12.0
+ },
+ "keys_after_hardware_connect": 0,
+ "after_tab_fields": [
+  "March 2026",
+  "0",
+  "100.00",
+  "12.00",
+  "0.00",
+  "0.00",
+  "0.00",
+  "0.00",
+  "0.00"
+ ],
+ "after_5_fields": [
+  "March 2026",
+  "0",
+  "100.00",
+  "12.00",
+  "0.00",
+  "0.00",
+  "0.00",
+  "0.00",
+  "0.00"
+ ],
+ "saved_after_blur": {
+  "sales_to_government": 100.0,
+  "output_tax_government": 12.0,
+  "zero_rated_sales": 0.0,
+  "total_sales": 100.0,
+  "total_output_tax": 12.0
+ },
+ "saved_after_reopen": {
+  "sales_to_government": 100.0,
+  "output_tax_government": 12.0,
+  "zero_rated_sales": 0.0,
+  "total_sales": 100.0,
+  "total_output_tax": 12.0
+ }
+}

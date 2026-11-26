@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/lifecycle_b_fast.py", line 63, in <module>
+    run_device(W,udid,db,int(sys.argv[2]) if len(sys.argv)>2 else 10)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/lifecycle_b_fast.py", line 28, in run_device
+    nav=setup_fast(W,db)
+  File "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/bin/lifecycle_a_fast.py", line 18, in setup_fast
+    if not ret: raise RuntimeError('return coordinate missing')
+RuntimeError: return coordinate missing

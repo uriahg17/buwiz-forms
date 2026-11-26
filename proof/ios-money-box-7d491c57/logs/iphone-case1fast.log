@@ -1,0 +1,370 @@
+[
+ {
+  "device": "iphone",
+  "case": "case1-fast",
+  "run": 1,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 579.937219619751,
+   "stdout": [
+    "start 11693595611",
+    "click 11693650754 11693677094 118 777",
+    "click 11693727612 11693741851 250 831",
+    "click 11693796908 11693813548 250 939",
+    "click 11693868584 11693884988 250 939",
+    "click 11693937383 11693953766 250 939",
+    "click 11694008856 11694025765 118 939",
+    "click 11694080893 11694097713 250 831",
+    "click 11694152745 11694169185 250 939",
+    "end 11694169194"
+   ],
+   "clicks": [
+    {
+     "at_usec": 11693650754,
+     "done_usec": 11693677094,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "at_usec": 11693727612,
+     "done_usec": 11693741851,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 50.518
+    },
+    {
+     "at_usec": 11693796908,
+     "done_usec": 11693813548,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.057
+    },
+    {
+     "at_usec": 11693868584,
+     "done_usec": 11693884988,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.036
+    },
+    {
+     "at_usec": 11693937383,
+     "done_usec": 11693953766,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 52.395
+    },
+    {
+     "at_usec": 11694008856,
+     "done_usec": 11694025765,
+     "x": 118,
+     "y": 939,
+     "interval_ms": 55.09
+    },
+    {
+     "at_usec": 11694080893,
+     "done_usec": 11694097713,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 55.128
+    },
+    {
+     "at_usec": 11694152745,
+     "done_usec": 11694169185,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.032
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:33:55.734305+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:33:55.734305+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "iphone",
+  "case": "case1-fast",
+  "run": 2,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 583.0347537994385,
+   "stdout": [
+    "start 11738601847",
+    "click 11738656898 11738683323 118 777",
+    "click 11738738426 11738755350 250 831",
+    "click 11738810441 11738827473 250 939",
+    "click 11738882526 11738899292 250 939",
+    "click 11738954882 11738971606 250 939",
+    "click 11739021767 11739037576 118 939",
+    "click 11739092671 11739109210 250 831",
+    "click 11739162884 11739180586 250 939",
+    "end 11739180594"
+   ],
+   "clicks": [
+    {
+     "at_usec": 11738656898,
+     "done_usec": 11738683323,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "at_usec": 11738738426,
+     "done_usec": 11738755350,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 55.103
+    },
+    {
+     "at_usec": 11738810441,
+     "done_usec": 11738827473,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.091
+    },
+    {
+     "at_usec": 11738882526,
+     "done_usec": 11738899292,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.053
+    },
+    {
+     "at_usec": 11738954882,
+     "done_usec": 11738971606,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.59
+    },
+    {
+     "at_usec": 11739021767,
+     "done_usec": 11739037576,
+     "x": 118,
+     "y": 939,
+     "interval_ms": 50.161
+    },
+    {
+     "at_usec": 11739092671,
+     "done_usec": 11739109210,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 55.095
+    },
+    {
+     "at_usec": 11739162884,
+     "done_usec": 11739180586,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 53.674
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:34:40.729005+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:34:40.729005+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "iphone",
+  "case": "case1-fast",
+  "run": 3,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 577.150821685791,
+   "stdout": [
+    "start 11783331464",
+    "click 11783386919 11783411635 118 777",
+    "click 11783462149 11783479423 250 831",
+    "click 11783534468 11783552639 250 939",
+    "click 11783608507 11783624449 250 939",
+    "click 11783675038 11783691697 250 939",
+    "click 11783746732 11783763227 118 939",
+    "click 11783815693 11783832796 250 831",
+    "click 11783887845 11783904501 250 939",
+    "end 11783904510"
+   ],
+   "clicks": [
+    {
+     "at_usec": 11783386919,
+     "done_usec": 11783411635,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "at_usec": 11783462149,
+     "done_usec": 11783479423,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 50.514
+    },
+    {
+     "at_usec": 11783534468,
+     "done_usec": 11783552639,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.045
+    },
+    {
+     "at_usec": 11783608507,
+     "done_usec": 11783624449,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.868
+    },
+    {
+     "at_usec": 11783675038,
+     "done_usec": 11783691697,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 50.589
+    },
+    {
+     "at_usec": 11783746732,
+     "done_usec": 11783763227,
+     "x": 118,
+     "y": 939,
+     "interval_ms": 55.035
+    },
+    {
+     "at_usec": 11783815693,
+     "done_usec": 11783832796,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 52.466
+    },
+    {
+     "at_usec": 11783887845,
+     "done_usec": 11783904501,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.049
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "shown_before_leaving": "15000.50",
+  "saved_after_leaving": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:35:25.460492+00:00"
+  },
+  "shown_after_reopening": "15,000.50",
+  "saved_after_reopening": {
+   "taxable_amount": 15000.5,
+   "tax_due": 450.02,
+   "total_tax_due": 450.02,
+   "updated_at": "2026-11-26T12:35:25.460492+00:00"
+  },
+  "misplaced_point": false
+ },
+ {
+  "device": "iphone",
+  "case": "case1-fast",
+  "run": 4,
+  "typed": "15000.50",
+  "precondition": "0.00",
+  "timing": {
+   "process_ms": 567.2821998596191,
+   "stdout": [
+    "start 11827980620",
+    "click 11828037384 11828061158 118 777",
+    "click 11828116199 11828131163 250 831",
+    "click 11828186202 11828202610 250 939",
+    "click 11828257641 11828271683 250 939",
+    "click 11828327294 11828341969 250 939",
+    "click 11828392251 11828408390 118 939",
+    "click 11828459343 11828475158 250 831",
+    "click 11828527136 11828543532 250 939",
+    "end 11828543543"
+   ],
+   "clicks": [
+    {
+     "at_usec": 11828037384,
+     "done_usec": 11828061158,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "at_usec": 11828116199,
+     "done_usec": 11828131163,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 55.041
+    },
+    {
+     "at_usec": 11828186202,
+     "done_usec": 11828202610,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.039
+    },
+    {
+     "at_usec": 11828257641,
+     "done_usec": 11828271683,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.031
+    },
+    {
+     "at_usec": 11828327294,
+     "done_usec": 11828341969,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 55.611
+    },
+    {
+     "at_usec": 11828392251,
+     "done_usec": 11828408390,
+     "x": 118,
+     "y": 939,
+     "interval_ms": 50.282
+    },
+    {
+     "at_usec": 11828459343,
+     "done_usec": 11828475158,
+     "x": 250,
+     "y": 831,
+     "interval_ms": 50.953
+    },
+    {
+     "at_usec": 11828527136,
+     "done_usec": 11828543532,
+     "x": 250,
+     "y": 939,
+     "interval_ms": 51.978
+    }
+   ],
+   "stderr": "",
+   "nominal_spacing_ms": 50
+  },
+  "sh

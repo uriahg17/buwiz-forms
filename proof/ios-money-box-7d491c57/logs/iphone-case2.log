@@ -1,0 +1,40 @@
+{
+ "device": "iphone",
+ "case": "case2-caret-digit-delete",
+ "initial": "1,234.56",
+ "tap": {
+  "x": 363,
+  "y": 725,
+  "field": [
+   89.0,
+   704.0,
+   332.0,
+   42.0
+  ],
+  "shown_after_tap": "1,234.56"
+ },
+ "digit": {
+  "key": "7",
+  "shown": "71,234.56",
+  "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case2/002-after-digit.jpg"
+ },
+ "delete": {
+  "key": "Delete",
+  "shown": "1,234.56",
+  "shot": "/Users/devin/moneybox-7d491c57/proof/ios-money-box-7d491c57/hunt/iphone/case2/003-after-delete.jpg"
+ },
+ "saved_after_leaving": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T12:28:14.379146+00:00"
+ },
+ "shown_after_reopening": "1,234.56",
+ "saved_after_reopening": {
+  "taxable_amount": 1234.56,
+  "tax_due": 37.04,
+  "total_tax_due": 37.04,
+  "updated_at": "2026-11-26T12:28:14.379146+00:00"
+ },
+ "saved_equals_shown": true
+}
