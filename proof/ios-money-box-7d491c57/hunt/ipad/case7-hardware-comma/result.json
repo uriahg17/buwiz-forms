@@ -1,0 +1,42 @@
+{
+ "device": "ipad",
+ "case": "case7-hardware-german-comma",
+ "field_before": {
+  "value": "0.00",
+  "pos": [
+   673.8779069767442,
+   858.4120639534883
+  ],
+  "size": [
+   442.781007751938,
+   28.60029069767444
+  ]
+ },
+ "texts_before_tab": [
+  "Taxable Amount"
+ ],
+ "sentences_after_tab": [],
+ "saved_after_tab": 0.0,
+ "closed": true,
+ "saved_after_leaving": 0.0,
+ "shown_after_reopen": "0.00",
+ "saved_after_reopen": 0.0,
+ "sentences_after_reopen": [],
+ "german_software_keypad": [
+  ",",
+  "0",
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8",
+  "9",
+  "Delete"
+ ],
+ "software_dot_offered": false,
+ "software_comma_offered": true,
+ "globe_or_layout_labels": []
+}
