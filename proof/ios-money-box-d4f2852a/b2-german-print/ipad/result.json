@@ -1,0 +1,26 @@
+{
+ "device": "iPad Pro 13-inch",
+ "build": "d4f2852a28c323e3f6da85eae4f61d970d84ff0e",
+ "field": "item15 creditable_tax_withheld",
+ "initial_value": "2,000.00",
+ "input_method": "real onscreen German decimal pad",
+ "typed_text_visible": "1500,50",
+ "comma_key_used": true,
+ "manual_done_or_blur_before_print": false,
+ "focus_evidence": "002-after-1500comma50.jpg shows focused 1500,50 with keypad; 003-after-dock-attempt.jpg shows blue focus ring/caret still in field after the floating keypad was dismissed while attempting to dock it; scrolling then exposed Print preview without tapping another field.",
+ "print_opened": true,
+ "preview_item15_visual": "1,500.50",
+ "preview_item18_visual": "1,500.50",
+ "saved_creditable_tax_withheld_after_print": 1500.5,
+ "saved_total_tax_credits_after_print": 1500.5,
+ "pass": true,
+ "artifacts": {
+  "before_focus": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/000-before-focus.jpg",
+  "focused_keypad": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/001-focused-keypad.jpg",
+  "after_typed": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/002-after-1500comma50.jpg",
+  "focus_after_keypad_dismissal": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/003-after-dock-attempt.jpg",
+  "before_print_scrolled": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/005-scroll-attempt.jpg",
+  "print_preview": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/006-after-print-tap.jpg",
+  "print_preview_enlarged": "/Users/devin/moneybox-d4f2852a/proof/ios-money-box-d4f2852a/b2-german-print/ipad/007-page1-preview-enlarged.png"
+ }
+}

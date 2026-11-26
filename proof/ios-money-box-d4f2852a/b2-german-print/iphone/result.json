@@ -1,0 +1,262 @@
+{
+ "initial_field": {
+  "value": "2,000.00",
+  "pos": [
+   101,
+   570
+  ]
+ },
+ "keypad": {
+  "1": [
+   118,
+   777
+  ],
+  "2": [
+   250,
+   777
+  ],
+  "3": [
+   383,
+   777
+  ],
+  "4": [
+   118,
+   831
+  ],
+  "5": [
+   250,
+   831
+  ],
+  "6": [
+   383,
+   831
+  ],
+  "7": [
+   118,
+   885
+  ],
+  "8": [
+   250,
+   885
+  ],
+  "9": [
+   383,
+   885
+  ],
+  "0": [
+   250,
+   939
+  ],
+  "Delete": [
+   383,
+   939
+  ],
+  ",": [
+   118,
+   939
+  ]
+ },
+ "comma_offered": true,
+ "after_typing_fields": [
+  {
+   "value": "1500,50",
+   "pos": [
+    101,
+    570
+   ]
+  },
+  {
+   "value": "0.00",
+   "pos": [
+    101,
+    690
+   ]
+  },
+  {
+   "value": "2,000.00",
+   "pos": [
+    101,
+    1258
+   ]
+  },
+  {
+   "value": "0.00",
+   "pos": [
+    101,
+    1582
+   ]
+  }
+ ],
+ "keyboard_still_visible_after_typing": true,
+ "keyboard_visible_before_print": false,
+ "print_frame": {
+  "pos": [
+   63,
+   -221
+  ],
+  "size": [
+   129.6666717529297,
+   44
+  ]
+ },
+ "saved_creditable_tax_withheld": 2000.0,
+ "texts_after_print": [
+  [
+   "AXButton",
+   "Action",
+   [
+    20,
+    301
+   ]
+  ],
+  [
+   "AXButton",
+   "Volume Up",
+   [
+    20,
+    362
+   ]
+  ],
+  [
+   "AXButton",
+   "Volume Down",
+   [
+    20,
+    441
+   ]
+  ],
+  [
+   "AXButton",
+   "Sleep/Wake",
+   [
+    458,
+    403
+   ]
+  ],
+  [
+   "AXButton",
+   "Printer, No Printer Selected",
+   [
+    67,
+    307
+   ]
+  ],
+  [
+   "AXButton",
+   "Copies",
+   [
+    67,
+    395.00000063578284
+   ]
+  ],
+  [
+   "AXButton",
+   "Decrement",
+   [
+    315,
+    405.6666673024496
+   ]
+  ],
+  [
+   "AXButton",
+   "Increment",
+   [
+    362,
+    405.6666673024496
+   ]
+  ],
+  [
+   "AXButton",
+   "Range, Pages 1-2",
+   [
+    67,
+    448.00000063578284
+   ]
+  ],
+  [
+   "AXButton",
+   "Paper Size, A4",
+   [
+    67,
+    501.00000063578295
+   ]
+  ],
+  [
+   "AXButton",
+   "Layout, 1 page per sheet",
+   [
+    67,
+    589.0000012715657
+   ]
+  ],
+  [
+   "AXStaticText",
+   "Page 1 of 2",
+   [
+    162,
+    742
+   ]
+  ],
+  [
+   "AXStaticText",
+   "Page 2 of 2",
+   [
+    346,
+    742
+   ]
+  ],
+  [
+   "AXButton",
+   "Home",
+   [
+    343,
+    80
+   ]
+  ],
+  [
+   "AXButton",
+   "Save Screen",
+   [
+    388,
+    80
+   ]
+  ],
+  [
+   "AXButton",
+   "Rotate",
+   [
+    431,
+    80
+   ]
+  ],
+  [
+   "AXStaticText",
+   "iPhone 17 Pro",
+   [
+    112,
+    80
+   ]
+  ],
+  [
+   "AXStaticText",
+   "iOS 26.5",
+   [
+    112,
+    80
+   ]
+  ]
+ ],
+ "print_frame_visible": {
+  "pos": [
+   63,
+   388.33333333333326
+  ],
+  "size": [
+   129.6666717529297,
+   44
+  ]
+ },
+ "saved_creditable_tax_withheld_after_print": 1500.5,
+ "keyboard_visible_before_print_evidence": "002-before-print-keyboard-still-up.jpg shows German comma keypad still visible with Print preview exposed; result field keyboard_visible_before_print=false is an instrumentation ordering artifact because it was reread after the print tap.",
+ "preview_visual_result": "004-preview-crop-items14-19.png visibly shows item 15 as 1,500.50"
+}

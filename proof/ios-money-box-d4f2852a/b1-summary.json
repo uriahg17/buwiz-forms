@@ -1,0 +1,730 @@
+[
+ {
+  "device": "iphone",
+  "case": "control-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": false
+ },
+ {
+  "device": "iphone",
+  "case": "row2-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "iphone",
+  "case": "row2-r2",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "iphone",
+  "case": "row2-r3",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "iphone",
+  "case": "row3-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "iphone",
+  "case": "row3-r2",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "iphone",
+  "case": "row3-r3",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "control-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row2-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row2-r2",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row2-r3",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ],
+   [
+    "PT010",
+    3000.0,
+    90.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-2"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row3-r1",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row3-r2",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ },
+ {
+  "device": "ipad",
+  "case": "row3-r3",
+  "strict_draft_pass": false,
+  "rows": [
+   [
+    "PT010",
+    1000.0,
+    30.0
+   ],
+   [
+    "PT040",
+    2000.0,
+    60.0
+   ],
+   [
+    "",
+    0.0,
+    0.0
+   ]
+  ],
+  "slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "slot": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 90.0,
+   "tax_payable": 90.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 90.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  },
+  "screen_row_ids": [
+   "fp-row-drpATC1-0",
+   "fp-row-drpATC1-1"
+  ],
+  "delete_above_keyboard": true,
+  "keyboard_at_delete": true
+ }
+]

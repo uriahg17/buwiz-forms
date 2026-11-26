@@ -1,0 +1,331 @@
+{
+ "device": "ipad",
+ "row_index": 1,
+ "keyboard_visible": false,
+ "delete_frame": {
+  "pos": [
+   989.2742248062016,
+   1021.8422965116279
+  ],
+  "size": [
+   83.78779069767438,
+   29.962209302325576
+  ]
+ },
+ "draft_after_delete": {
+  "row_count": 3,
+  "rows": [
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 1000.0,
+    "tax_rate": 0.03,
+    "tax_due": 30.0
+   },
+   {
+    "atc": "",
+    "atc_description": "",
+    "taxable_amount": 0.0,
+    "tax_rate": 0.0,
+    "tax_due": 0.0
+   },
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 3000.0,
+    "tax_rate": 0.03,
+    "tax_due": 90.0
+   }
+  ],
+  "nonblank_rows": [
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 1000.0,
+    "tax_rate": 0.03,
+    "tax_due": 30.0
+   },
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 3000.0,
+    "tax_rate": 0.03,
+    "tax_due": 90.0
+   }
+  ],
+  "deleted_slot_index": 1,
+  "deleted_slot_exists": true,
+  "deleted_slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "deleted_slot_object": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  }
+ },
+ "screen_after_delete": {
+  "row_ids": [
+   [
+    "fp-row-drpATC1-0",
+    [
+     622.1065891472869,
+     747.4156976744187
+    ],
+    [
+     536.7868217054264,
+     35.409883720930225
+    ]
+   ],
+   [
+    "fp-row-drpATC1-2",
+    [
+     622.1065891472869,
+     782.8255813953489
+    ],
+    [
+     536.7868217054264,
+     35.409883720930225
+    ]
+   ]
+  ],
+  "texts": [
+   {
+    "text": "\u2713 Saved",
+    "pos": [
+     612.5697674418604,
+     310.9207848837209
+    ],
+    "id": "fp-save-state"
+   },
+   {
+    "text": "Set the tax profile's business start date to determine whether Item 13 applies to this quarter.",
+    "pos": [
+     621.4253875968992,
+     347.0116279069766
+    ],
+    "id": null
+   },
+   {
+    "text": "Record the tax profile's annual income-tax election for 2026 before filing this later-quarter return.",
+    "pos": [
+     621.4253875968992,
+     421.9171511627907
+    ],
+    "id": null
+   },
+   {
+    "text": "Schedule 1 \u2013 Computation of Tax, Items 1 to 6",
+    "pos": [
+     621.4253875968992,
+     724.9440406976745
+    ],
+    "id": "fp-label-4:0"
+   },
+   {
+    "text": "2 rows",
+    "pos": [
+     1133.3483527131782,
+     724.9440406976745
+    ],
+    "id": null
+   },
+   {
+    "text": "7",
+    "pos": [
+     628.9186046511628,
+     876.1170058139535
+    ],
+    "id": null
+   },
+   {
+    "text": "Total Tax Due (Sum of Items 1 to 6) (To Part II Item 14)",
+    "pos": [
+     645.9486434108527,
+     875.4360465116279
+    ],
+    "id": "fp-label-4:1"
+   }
+  ]
+ },
+ "draft_after_reopen": {
+  "row_count": 3,
+  "rows": [
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 1000.0,
+    "tax_rate": 0.03,
+    "tax_due": 30.0
+   },
+   {
+    "atc": "",
+    "atc_description": "",
+    "taxable_amount": 0.0,
+    "tax_rate": 0.0,
+    "tax_due": 0.0
+   },
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 3000.0,
+    "tax_rate": 0.03,
+    "tax_due": 90.0
+   }
+  ],
+  "nonblank_rows": [
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 1000.0,
+    "tax_rate": 0.03,
+    "tax_due": 30.0
+   },
+   {
+    "atc": "PT010",
+    "atc_description": "Persons exempt",
+    "taxable_amount": 3000.0,
+    "tax_rate": 0.03,
+    "tax_due": 90.0
+   }
+  ],
+  "deleted_slot_index": 1,
+  "deleted_slot_exists": true,
+  "deleted_slot_keys": [
+   "atc",
+   "atc_description",
+   "tax_due",
+   "tax_rate",
+   "taxable_amount"
+  ],
+  "deleted_slot_object": {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  "totals": {
+   "total_tax_due": 120.0,
+   "tax_payable": 120.0,
+   "total_tax_credits": 0.0,
+   "total_penalties": 0.0,
+   "total_amount_payable": 120.0,
+   "surcharge": 0.0,
+   "interest": 0.0,
+   "compromise": 0.0
+  }
+ },
+ "screen_after_reopen": {
+  "row_ids": [
+   [
+    "fp-row-drpATC1-0",
+    [
+     622.1065891472869,
+     747.4156976744187
+    ],
+    [
+     536.7868217054264,
+     35.409883720930225
+    ]
+   ],
+   [
+    "fp-row-drpATC1-2",
+    [
+     622.1065891472869,
+     782.8255813953489
+    ],
+    [
+     536.7868217054264,
+     35.409883720930225
+    ]
+   ]
+  ],
+  "texts": [
+   {
+    "text": "\u2713 Saved",
+    "pos": [
+     612.5697674418604,
+     310.9207848837209
+    ],
+    "id": "fp-save-state"
+   },
+   {
+    "text": "Set the tax profile's business start date to determine whether Item 13 applies to this quarter.",
+    "pos": [
+     621.4253875968992,
+     347.0116279069766
+    ],
+    "id": null
+   },
+   {
+    "text": "Record the tax profile's annual income-tax election for 2026 before filing this later-quarter return.",
+    "pos": [
+     621.4253875968992,
+     421.9171511627907
+    ],
+    "id": null
+   },
+   {
+    "text": "Schedule 1 \u2013 Computation of Tax, Items 1 to 6",
+    "pos": [
+     621.4253875968992,
+     724.9440406976745
+    ],
+    "id": "fp-label-4:0"
+   },
+   {
+    "text": "2 rows",
+    "pos": [
+     1133.3483527131782,
+     724.9440406976745
+    ],
+    "id": null
+   },
+   {
+    "text": "7",
+    "pos": [
+     628.9186046511628,
+     876.1170058139535
+    ],
+    "id": null
+   },
+   {
+    "text": "Total Tax Due (Sum of Items 1 to 6) (To Part II Item 14)",
+    "pos": [
+     645.9486434108527,
+     875.4360465116279
+    ],
+    "id": "fp-label-4:1"
+   }
+  ]
+ },
+ "expected_remaining_amounts": [
+  1000.0,
+  3000.0
+ ],
+ "nonblank_amounts_after_reopen": [
+  1000.0,
+  3000.0
+ ],
+ "draft_rows_ok": true,
+ "deleted_slot_no_amount_ok": false,
+ "totals_ok": true,
+ "strict_draft_pass": false
+}
