@@ -1,0 +1,50 @@
+{
+  "driver": "gpui-agent-cli 0.5.0",
+  "pull_request": 488,
+  "head": "12a4edf83f44844acee63139d3c2fcac5ddff42d",
+  "generated_at": "2026-11-27T23:47:47Z",
+  "safety": {
+    "BUWIZ_NO_KEYCHAIN": "1",
+    "EBIR_TEST_ENV": "1",
+    "BIR_AUTH_BYPASS": "1",
+    "BIR_SFTP_DRY_RUN": "1",
+    "BIR_SFTP_LIVE": "never set"
+  },
+  "runs": [
+    {
+      "name": "macos-light",
+      "platform": "macos",
+      "theme": "light",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/macos-light/recording.mp4",
+      "receipt": "proof/lockpages/evidence/macos-light/receipt.json"
+    },
+    {
+      "name": "macos-dark",
+      "platform": "macos",
+      "theme": "dark",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/macos-dark/recording.mp4",
+      "receipt": "proof/lockpages/evidence/macos-dark/receipt.json"
+    }
+  ],
+  "not_run": [
+    {
+      "platform": "ios",
+      "devices": [
+        "iPhone 17 Pro simulator",
+        "iPad Pro 13-inch simulator"
+      ],
+      "reason": "Only 6 GB was free after cleaning session-created folders; the orchestrator required about 25 GB before simulator builds, so the simulator proof moves to a freer Mac."
+    }
+  ],
+  "known_gaps": [],
+  "method": "gpui-agent recipes only for input. PinCells text inputs are found dynamically with scroll_until (zero scrolls) and used through returned .node references; no simctl input, osascript, CGEvent, or coordinate fallback.",
+  "harness": "proof/lockpages/run-one.sh generates a temporary NSH proof entry that mounts the real Shell with view=lockdebug because the shipping App entry cannot see BIR_SHELL_START through NSH capabilities. The route, pages, interface stub, theme, and all UI input are the exact PR-head code path."
+}

@@ -1,0 +1,28 @@
+# Every lock-page and Set-PIN state through the debug-only route. Screenshots are marked on the assertions.
+# PinCells keeps its real text input inside the cells; scroll_until finds that input without scrolling (steps: 0),
+# and the next steps use its returned node. This avoids depending on generated node names.
+wait_until owner-lock-page --timeout-ms 10000 --screenshot
+assert owner-lock-account name=an•••@example.com
+scroll_until owner-lock-pin "PIN, 4 digits" --dy 1
+click $s3.node
+type $s3.node 1234
+wait_until owner-lock-error name="Wrong PIN." --timeout-ms 5000 --screenshot
+click fx-wait
+wait_until owner-lock-wait name="Try again in 1:05" --timeout-ms 5000 --screenshot
+click fx-lost
+wait_until owner-lock-lost name="This device's lock can't be read. Sign out and sign in again, or write to support@buwiz.com." --timeout-ms 5000 --screenshot
+click fx-set
+wait_until set-pin-page --timeout-ms 5000 --screenshot
+scroll_until set-pin-first "PIN, 4 digits" --dy 1
+click $s13.node
+type $s13.node 1234
+scroll_until set-pin-again "Enter it again, 4 digits" --dy 1
+click $s16.node
+type $s16.node 1235
+wait_until set-pin-mismatch name="The PINs don't match. Try again." --timeout-ms 5000 --screenshot
+click $s13.node
+type $s13.node 1234
+click $s16.node
+type $s16.node 1234
+click set-pin-done
+wait_until fx-calls name="calls: verify,set" --timeout-ms 5000 --screenshot
