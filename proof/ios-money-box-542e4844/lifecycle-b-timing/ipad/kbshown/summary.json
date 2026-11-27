@@ -1,0 +1,925 @@
+{
+ "case": "kbshown-summary",
+ "device": "ipad",
+ "mp4": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle-b-timing/ipad/kbshown/ipad-kbshown.mp4",
+ "results": [
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1626.14,
+   "post_detect_first_key_invocation_ms": 37.47,
+   "achieved_first_key_after_detect_ms": 37.47,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1923.02,
+   "post_detect_first_key_invocation_ms": 31.12,
+   "achieved_first_key_after_detect_ms": 31.12,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 2025.86,
+   "post_detect_first_key_invocation_ms": 35.82,
+   "achieved_first_key_after_detect_ms": 35.82,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 2175.3,
+   "post_detect_first_key_invocation_ms": 53.45,
+   "achieved_first_key_after_detect_ms": 53.45,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1495.8,
+   "post_detect_first_key_invocation_ms": 32.09,
+   "achieved_first_key_after_detect_ms": 32.09,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1361.28,
+   "post_detect_first_key_invocation_ms": 28.87,
+   "achieved_first_key_after_detect_ms": 28.87,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1995.37,
+   "post_detect_first_key_invocation_ms": 39.87,
+   "achieved_first_key_after_detect_ms": 39.87,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1615.71,
+   "post_detect_first_key_invocation_ms": 38.25,
+   "achieved_first_key_after_detect_ms": 38.25,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 2079.71,
+   "post_detect_first_key_invocation_ms": 40.27,
+   "achieved_first_key_after_detect_ms": 40.27,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 0,
+   "detect_after_focus_ms": 1752.45,
+   "post_detect_first_key_invocation_ms": 35.23,
+   "achieved_first_key_after_detect_ms": 35.23,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1391.17,
+   "post_detect_first_key_invocation_ms": 32.57,
+   "achieved_first_key_after_detect_ms": 232.57,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1754.97,
+   "post_detect_first_key_invocation_ms": 35.55,
+   "achieved_first_key_after_detect_ms": 235.55,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 2057.37,
+   "post_detect_first_key_invocation_ms": 34.74,
+   "achieved_first_key_after_detect_ms": 234.74,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1583.58,
+   "post_detect_first_key_invocation_ms": 38.22,
+   "achieved_first_key_after_detect_ms": 238.22,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 2015.09,
+   "post_detect_first_key_invocation_ms": 34.14,
+   "achieved_first_key_after_detect_ms": 234.14,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1801.85,
+   "post_detect_first_key_invocation_ms": 38.03,
+   "achieved_first_key_after_detect_ms": 238.03,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1361.96,
+   "post_detect_first_key_invocation_ms": 45.64,
+   "achieved_first_key_after_detect_ms": 245.64,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1462.19,
+   "post_detect_first_key_invocation_ms": 39.71,
+   "achieved_first_key_after_detect_ms": 239.71,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1867.05,
+   "post_detect_first_key_invocation_ms": 33.82,
+   "achieved_first_key_after_detect_ms": 233.82,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 200,
+   "detect_after_focus_ms": 1370.61,
+   "post_detect_first_key_invocation_ms": 39.77,
+   "achieved_first_key_after_detect_ms": 239.77,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1399.62,
+   "post_detect_first_key_invocation_ms": 31.04,
+   "achieved_first_key_after_detect_ms": 431.04,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1381.67,
+   "post_detect_first_key_invocation_ms": 37.38,
+   "achieved_first_key_after_detect_ms": 437.38,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1815.46,
+   "post_detect_first_key_invocation_ms": 37.72,
+   "achieved_first_key_after_detect_ms": 437.72,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1798.96,
+   "post_detect_first_key_invocation_ms": 34.94,
+   "achieved_first_key_after_detect_ms": 434.94,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1804.59,
+   "post_detect_first_key_invocation_ms": 36.53,
+   "achieved_first_key_after_detect_ms": 436.53,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 2056.58,
+   "post_detect_first_key_invocation_ms": 35.16,
+   "achieved_first_key_after_detect_ms": 435.15999999999997,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1505.96,
+   "post_detect_first_key_invocation_ms": 34.24,
+   "achieved_first_key_after_detect_ms": 434.24,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1391.98,
+   "post_detect_first_key_invocation_ms": 33.02,
+   "achieved_first_key_after_detect_ms": 433.02,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1512.93,
+   "post_detect_first_key_invocation_ms": 34.86,
+   "achieved_first_key_after_detect_ms": 434.86,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-kbshown",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 400,
+   "detect_after_focus_ms": 1408.02,
+   "post_detect_first_key_invocation_ms": 35.54,
+   "achieved_first_key_after_detect_ms": 435.54,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  }
+ ],
+ "0": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ },
+ "200": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ },
+ "400": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ }
+}

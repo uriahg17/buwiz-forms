@@ -1,0 +1,66 @@
+{
+ "device": "iphone",
+ "run": 6,
+ "keyboard_key1": [
+  118,
+  777
+ ],
+ "done_frame": {
+  "pos": [
+   365,
+   670
+  ],
+  "size": [
+   67,
+   44
+  ]
+ },
+ "done_above_keyboard": true,
+ "rows_after_delete": [
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 7777.0,
+   "tax_rate": 0.03,
+   "tax_due": 233.31
+  },
+  {
+   "atc": "PT010",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 3000.0,
+   "tax_rate": 0.03,
+   "tax_due": 90.0
+  }
+ ],
+ "rows_after_reopen": [
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 0.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 7777.0,
+   "tax_rate": 0.03,
+   "tax_due": 233.31
+  },
+  {
+   "atc": "PT010",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 3000.0,
+   "tax_rate": 0.03,
+   "tax_due": 90.0
+  }
+ ],
+ "right": true
+}

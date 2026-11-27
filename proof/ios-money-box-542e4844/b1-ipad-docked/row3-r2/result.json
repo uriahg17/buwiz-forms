@@ -1,0 +1,78 @@
+{
+ "device": "ipad",
+ "row_index": 2,
+ "run": 2,
+ "control": false,
+ "docked_keypad": true,
+ "delete_frame": {
+  "pos": [
+   989.2742248062016,
+   764.4396802325582
+  ],
+  "size": [
+   83.78779069767438,
+   29.96220930232556
+  ]
+ },
+ "keyboard_key1": [
+  612,
+  861
+ ],
+ "keyboard_delete": [
+  1205,
+  861
+ ],
+ "delete_above_keyboard": true,
+ "delete_click_xy": [
+  1031,
+  779
+ ],
+ "last_type_to_delete_ms": 0.1,
+ "last_type_to_delete_done_ms": 32.9,
+ "rows_after_delete": [
+  {
+   "atc": "PT010",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 1000.0,
+   "tax_rate": 0.03,
+   "tax_due": 30.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 2000.0,
+   "tax_rate": 0.03,
+   "tax_due": 60.0
+  },
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 500.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  }
+ ],
+ "rows_after_reopen": [
+  {
+   "atc": "PT010",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 1000.0,
+   "tax_rate": 0.03,
+   "tax_due": 30.0
+  },
+  {
+   "atc": "PT040",
+   "atc_description": "Persons exempt",
+   "taxable_amount": 2000.0,
+   "tax_rate": 0.03,
+   "tax_due": 60.0
+  },
+  {
+   "atc": "",
+   "atc_description": "",
+   "taxable_amount": 500.0,
+   "tax_rate": 0.0,
+   "tax_due": 0.0
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "commit": "542e484401494623a7ccbae9e25832985739a3a8",
+ "required_lines": [
+  "Sheets at 542e4844 iPhone: 42 in 0/10 tap-and-type, 10/10 kb-shown",
+  "(b) 542e4844: iPhone lost 0/0/0; iPad lost 10/10/10; iPad kb-shown 0/0/0",
+  "row sheet points: iPad amount 42, Delete 44, Done 44; iPhone amount 42, Delete 44, Done 44",
+  "blocked by the Simulator: hardware input does not reach the field"
+ ],
+ "sheets": {
+  "summary": {
+   "tap_correct": 0,
+   "tap_runs": 10,
+   "shown_correct": 10,
+   "shown_runs": 10,
+   "mp4": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/sheets/iphone/sheets-matrix.mp4"
+  },
+  "initial_display_note": "screenshot/accessibility show grey single 0, not 0.00"
+ },
+ "lifecycle_a": {
+  "iphone": {
+   "home": {
+    "runs": 10,
+    "unchanged_before_any_key": 10,
+    "saved_1234_56": 10
+   },
+   "switcher": {
+    "runs": 10,
+    "unchanged_before_any_key": 10,
+    "saved_1234_56": 10
+   }
+  },
+  "ipad": {
+   "home": {
+    "runs": 10,
+    "unchanged_before_any_key": 10,
+    "saved_1234_56": 10
+   },
+   "switcher": {
+    "runs": 10,
+    "unchanged_before_any_key": 10,
+    "saved_1234_56": 10
+   }
+  }
+ },
+ "lifecycle_b": {
+  "iphone-tapdelay": {
+   "120": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   },
+   "200": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   },
+   "400": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   }
+  },
+  "ipad-tapdelay": {
+   "120": {
+    "runs": 10,
+    "lost": 10,
+    "saved": [
+     0.0,
+     4.56,
+     0.0,
+     0.0,
+     0.0,
+     4.56,
+     4.56,
+     0.0,
+     4.56,
+     0.0
+    ]
+   },
+   "200": {
+    "runs": 10,
+    "lost": 10,
+    "saved": [
+     34.56,
+     34.56,
+     4.56,
+     4.56,
+     4.56,
+     34.56,
+     4.56,
+     34.56,
+     4.56,
+     4.56
+    ]
+   },
+   "400": {
+    "runs": 10,
+    "lost": 10,
+    "saved": [
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     34.56,
+     234.56
+    ]
+   }
+  },
+  "ipad-kbshown": {
+   "0": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   },
+   "200": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   },
+   "400": {
+    "runs": 10,
+    "lost": 0,
+    "saved": [
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56,
+     1234.56
+    ]
+   }
+  }
+ },
+ "row_sheet_points": {
+  "iphone": {
+   "amount": {
+    "window_frame_height": 42,
+    "device_point_height": 42.0
+   },
+   "delete": {
+    "window_frame_height": 44,
+    "device_point_height": 44.0
+   },
+   "done": {
+    "window_frame_height": 44,
+    "device_point_height": 44.0
+   },
+   "ratio": 1.0,
+   "annotated": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/iphone/annotated-device-points.png"
+  },
+  "ipad": {
+   "amount": {
+    "window_frame_height": 28.60029069767444,
+    "device_point_height": 41.985064011379826
+   },
+   "delete": {
+    "window_frame_height": 29.962209302325576,
+    "device_point_height": 43.984352773826444
+   },
+   "done": {
+    "window_frame_height": 29.962209302325576,
+    "device_point_height": 43.984352773826444
+   },
+   "ratio": 1.4679943100995732,
+   "annotated": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/ipad/annotated-device-points.png"
+  }
+ },
+ "lifecycle_c": {
+  "ipad": {
+   "left": {
+    "shown_before_8": null,
+    "shown_after_8": null,
+    "saved_after_leaving": 81234.56,
+    "saved_after_reopen": 81234.56,
+    "shown_after_reopen": "81,234.56",
+    "keypad8": [
+     1080,
+     794
+    ]
+   },
+   "middle": {
+    "shown_before_8": null,
+    "shown_after_8": null,
+    "saved_after_leaving": 81234.56,
+    "saved_after_reopen": 81234.56,
+    "shown_after_reopen": "81,234.56",
+    "keypad8": [
+     1080,
+     794
+    ]
+   },
+   "right": {
+    "shown_before_8": null,
+    "shown_after_8": null,
+    "saved_after_leaving": 1234.56,
+    "saved_after_reopen": 1234.56,
+    "shown_after_reopen": "1,234.568",
+    "keypad8": [
+     1119,
+     794
+    ]
+   }
+  },
+  "iphone": {
+   "left": {
+    "shown_before_8": "1,234.56",
+    "shown_after_8": "81,234.56",
+    "saved_after_leaving": 81234.56,
+    "saved_after_reopen": 81234.56,
+    "shown_after_reopen": "81,234.56",
+    "keypad8": [
+     250,
+     885
+    ]
+   },
+   "middle": {
+    "shown_before_8": "1,234.56",
+    "shown_after_8": "81,234.56",
+    "saved_after_leaving": 81234.56,
+    "saved_after_reopen": 81234.56,
+    "shown_after_reopen": "81,234.56",
+    "keypad8": [
+     250,
+     885
+    ]
+   },
+   "right": {
+    "shown_before_8": "1,234.56",
+    "shown_after_8": "1,234.568",
+    "saved_after_leaving": 1234.57,
+    "saved_after_reopen": 1234.57,
+    "shown_after_reopen": "1,234.57",
+    "keypad8": [
+     250,
+     885
+    ]
+   }
+  }
+ },
+ "placeholder": {
+  "iphone": {
+   "device": "iphone",
+   "case": "zero-placeholder",
+   "unfocused": {
+    "value": "0.00",
+    "frame": {
+     "pos": [
+      89,
+      704
+     ],
+     "size": [
+      332,
+      42
+     ]
+    }
+   },
+   "focused_before_key": "0.00",
+   "after_typed_0": "0",
+   "after_delete_0": "0.00"
+  },
+  "ipad": {
+   "device": "ipad",
+   "case": "zero-placeholder",
+   "unfocused": {
+    "value": "0.00",
+    "frame": {
+     "pos": [
+      673.8779069767442,
+      858.4120639534883
+     ],
+     "size": [
+      442.781007751938,
+      28.60029069767444
+     ]
+    }
+   },
+   "focused_before_key": null,
+   "after_typed_0": null,
+   "after_delete_0": null
+  }
+ },
+ "german_comma": {
+  "iphone": {
+   "pass": true,
+   "saved": 1500.5,
+   "shown_after_reopen": "1,500.50"
+  },
+  "ipad": {
+   "pass": true,
+   "saved": 1500.5,
+   "shown_after_reopen": "1,500.50"
+  }
+ },
+ "artifacts": {
+  "sheets": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/sheets/iphone/",
+  "lifecycle": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle/",
+  "timing": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle-b-timing/",
+  "row_points": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/",
+  "placeholder": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle-c-placeholder/",
+  "german": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/german-comma/"
+ },
+ "video_caveat": "simctl recordVideo later failed with Resource busy / Host recording is already in progress; valid mp4 exists for sheets and iPad lifecycle-a plus older B1 evidence, but not every later item/device.",
+ "lifecycle_c_interpretation": {
+  "left_middle": "both devices: tapping left/middle empty leading area places caret before leading 1; typing 8 yields/saves 81,234.56",
+  "iphone_right": "typing 8 at end yields 1,234.568, then iPhone rounds/saves/reopens 1,234.57",
+  "ipad_right": "typing 8 at end yields 1,234.568 and validation blocks sheet close/Done; saved draft remains 1234.56 while visible sheet still shows invalid 1,234.568",
+  "placeholder": "grey 0.00 remains visible under caret before first key, is replaced by black typed 0, and returns after deleting typed 0"
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "device": "iphone",
+ "amount": {
+  "pos": [
+   89,
+   704
+  ],
+  "size": [
+   332,
+   42
+  ],
+  "height": 42,
+  "window_frame_height": 42,
+  "device_point_height": 42.0
+ },
+ "delete": {
+  "pos": [
+   234.33332443237305,
+   944
+  ],
+  "size": [
+   122.66666412353516,
+   44
+  ],
+  "height": 44,
+  "window_frame_height": 44,
+  "device_point_height": 44.0
+ },
+ "done": {
+  "pos": [
+   365,
+   944
+  ],
+  "size": [
+   67,
+   44
+  ],
+  "height": 44,
+  "window_frame_height": 44,
+  "device_point_height": 44.0
+ },
+ "annotation_mapping": {
+  "content_origin_points": [
+   47,
+   160
+  ],
+  "content_width_points": 402,
+  "screenshot_width_px": 1206.0,
+  "scale": 3.0
+ },
+ "screenshot_raw": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/iphone/raw.jpg",
+ "screenshot_annotated": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/iphone/annotated.png",
+ "height_interpretation": "AX frames are macOS Simulator-window points; device UI points use screenshot_scale/device_scale ratio",
+ "window_to_device_point_ratio": 1.0,
+ "screenshot_annotated_device_points": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/iphone/annotated-device-points.png"
+}

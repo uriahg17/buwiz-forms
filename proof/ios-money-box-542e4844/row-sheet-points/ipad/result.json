@@ -1,0 +1,56 @@
+{
+ "device": "ipad",
+ "amount": {
+  "pos": [
+   673.8779069767442,
+   858.4120639534883
+  ],
+  "size": [
+   442.781007751938,
+   28.60029069767444
+  ],
+  "height": 28.60029069767444,
+  "window_frame_height": 28.60029069767444,
+  "device_point_height": 41.985064011379826
+ },
+ "delete": {
+  "pos": [
+   989.2742248062016,
+   1021.8422965116279
+  ],
+  "size": [
+   83.78779069767438,
+   29.962209302325576
+  ],
+  "height": 29.962209302325576,
+  "window_frame_height": 29.962209302325576,
+  "device_point_height": 43.984352773826444
+ },
+ "done": {
+  "pos": [
+   1078.5116279069766,
+   1021.8422965116279
+  ],
+  "size": [
+   45.64050387596899,
+   29.962209302325576
+  ],
+  "height": 29.962209302325576,
+  "window_frame_height": 29.962209302325576,
+  "device_point_height": 43.984352773826444
+ },
+ "annotation_mapping": {
+  "content_origin_points": [
+   539,
+   140
+  ],
+  "content_width_points": 703,
+  "screenshot_width_px": 2064.0,
+  "scale": 2.9359886201991463
+ },
+ "screenshot_raw": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/ipad/raw.jpg",
+ "screenshot_annotated": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/ipad/annotated.png",
+ "height_interpretation": "AX frames are macOS Simulator-window points; device UI points use screenshot_scale/device_scale ratio",
+ "window_to_device_point_ratio": 1.4679943100995732,
+ "screenshot_annotated_device_points": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/row-sheet-points/ipad/annotated-device-points.png"
+}

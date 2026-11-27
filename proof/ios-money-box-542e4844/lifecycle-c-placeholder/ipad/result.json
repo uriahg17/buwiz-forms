@@ -1,0 +1,20 @@
+{
+ "device": "ipad",
+ "case": "zero-placeholder",
+ "unfocused": {
+  "value": "0.00",
+  "frame": {
+   "pos": [
+    673.8779069767442,
+    858.4120639534883
+   ],
+   "size": [
+    442.781007751938,
+    28.60029069767444
+   ]
+  }
+ },
+ "focused_before_key": null,
+ "after_typed_0": null,
+ "after_delete_0": null
+}

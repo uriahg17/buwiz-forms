@@ -1,0 +1,20 @@
+{
+ "device": "iphone",
+ "case": "zero-placeholder",
+ "unfocused": {
+  "value": "0.00",
+  "frame": {
+   "pos": [
+    89,
+    704
+   ],
+   "size": [
+    332,
+    42
+   ]
+  }
+ },
+ "focused_before_key": "0.00",
+ "after_typed_0": "0",
+ "after_delete_0": "0.00"
+}

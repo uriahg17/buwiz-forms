@@ -1,0 +1,2365 @@
+{
+ "case": "tapdelay-summary",
+ "device": "iphone",
+ "mp4": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle-b-timing/iphone/tapdelay/iphone-tapdelay.mp4",
+ "results": [
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 1,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14636170123,
+     "after_us": 14636176664,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14636286055,
+     "after_us": 14636286091,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14636471448,
+     "after_us": 14636471488,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14636656549,
+     "after_us": 14636656625,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14636841726,
+     "after_us": 14636841760,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14637027967,
+     "after_us": 14637028038,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14637214417,
+     "after_us": 14637214464,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14637399500,
+     "after_us": 14637399548,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 115.93,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 2,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14654170758,
+     "after_us": 14654179338,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14654288937,
+     "after_us": 14654288987,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14654472740,
+     "after_us": 14654472784,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14654657859,
+     "after_us": 14654657904,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14654843119,
+     "after_us": 14654843160,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14655029508,
+     "after_us": 14655029555,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14655217556,
+     "after_us": 14655217615,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14655400685,
+     "after_us": 14655400823,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 118.18,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 3,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14671896333,
+     "after_us": 14671903099,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14672014225,
+     "after_us": 14672014267,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14672197446,
+     "after_us": 14672197479,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14672382922,
+     "after_us": 14672382977,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14672568066,
+     "after_us": 14672568117,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14672756505,
+     "after_us": 14672756558,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14672943056,
+     "after_us": 14672943099,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14673125810,
+     "after_us": 14673125854,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 117.89,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 4,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14689392879,
+     "after_us": 14689400035,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14689510081,
+     "after_us": 14689510110,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14689695216,
+     "after_us": 14689695300,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14689876846,
+     "after_us": 14689876919,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14690059738,
+     "after_us": 14690059789,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14690252678,
+     "after_us": 14690252753,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14690438639,
+     "after_us": 14690438703,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14690625812,
+     "after_us": 14690625861,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 117.2,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 5,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14706925145,
+     "after_us": 14706932933,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14707040651,
+     "after_us": 14707040691,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14707223159,
+     "after_us": 14707223190,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14707408252,
+     "after_us": 14707408381,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14707589793,
+     "after_us": 14707589826,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14707779452,
+     "after_us": 14707779488,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14707965459,
+     "after_us": 14707965535,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14708150850,
+     "after_us": 14708150894,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 115.51,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 6,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14724335571,
+     "after_us": 14724341992,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14724453580,
+     "after_us": 14724453649,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14724638827,
+     "after_us": 14724638857,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14724824121,
+     "after_us": 14724824168,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14725009627,
+     "after_us": 14725009671,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14725197025,
+     "after_us": 14725197061,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14725382101,
+     "after_us": 14725382140,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14725563480,
+     "after_us": 14725563554,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 118.01,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 7,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14741097480,
+     "after_us": 14741106108,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14741214609,
+     "after_us": 14741214648,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14741397962,
+     "after_us": 14741397997,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14741583087,
+     "after_us": 14741583175,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14741763252,
+     "after_us": 14741763309,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14741949288,
+     "after_us": 14741949332,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14742130825,
+     "after_us": 14742130893,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14742319227,
+     "after_us": 14742319296,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 117.13,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 8,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14758446310,
+     "after_us": 14758453740,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14758563780,
+     "after_us": 14758563816,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14758748916,
+     "after_us": 14758748946,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14758934217,
+     "after_us": 14758934290,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14759119334,
+     "after_us": 14759119377,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14759310470,
+     "after_us": 14759310511,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14759495833,
+     "after_us": 14759495875,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14759681336,
+     "after_us": 14759681382,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 117.47,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 9,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14776053349,
+     "after_us": 14776061952,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14776172148,
+     "after_us": 14776172190,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14776357247,
+     "after_us": 14776357299,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14776541569,
+     "after_us": 14776541636,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14776726228,
+     "after_us": 14776726258,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14776912448,
+     "after_us": 14776912529,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14777097700,
+     "after_us": 14777097776,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14777281397,
+     "after_us": 14777281444,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 118.8,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 10,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 14793676777,
+     "after_us": 14793683103,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14793792391,
+     "after_us": 14793792439,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14793976835,
+     "after_us": 14793976887,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14794161959,
+     "after_us": 14794162023,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14794345916,
+     "after_us": 14794345956,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14794528337,
+     "after_us": 14794528377,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14794713424,
+     "after_us": 14794713464,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14794899609,
+     "after_us": 14794899656,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 115.61,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 1,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14811247345,
+     "after_us": 14811253671,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14811443997,
+     "after_us": 14811444028,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14811629206,
+     "after_us": 14811629235,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14811815190,
+     "after_us": 14811815268,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14812000853,
+     "after_us": 14812000900,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14812185963,
+     "after_us": 14812186009,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14812371101,
+     "after_us": 14812371148,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14812556191,
+     "after_us": 14812556238,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 196.65,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 2,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14828756640,
+     "after_us": 14828763179,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14828953226,
+     "after_us": 14828953296,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14829138544,
+     "after_us": 14829138581,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14829323623,
+     "after_us": 14829323669,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14829508717,
+     "after_us": 14829508759,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14829694098,
+     "after_us": 14829694140,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14829879108,
+     "after_us": 14829879171,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14830068081,
+     "after_us": 14830068126,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 196.59,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 3,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14845803448,
+     "after_us": 14845809865,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14845998082,
+     "after_us": 14845998126,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14846183200,
+     "after_us": 14846183241,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14846365566,
+     "after_us": 14846365648,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14846550698,
+     "after_us": 14846550735,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14846739208,
+     "after_us": 14846739286,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14846924647,
+     "after_us": 14846924713,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14847109782,
+     "after_us": 14847109828,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 194.63,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 4,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14862811092,
+     "after_us": 14862819542,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14863009976,
+     "after_us": 14863010011,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14863195071,
+     "after_us": 14863195108,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14863380150,
+     "after_us": 14863380200,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14863567442,
+     "after_us": 14863567517,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14863752621,
+     "after_us": 14863752715,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14863937759,
+     "after_us": 14863937803,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14864130169,
+     "after_us": 14864130230,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 198.88,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 5,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14880619848,
+     "after_us": 14880627598,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14880817634,
+     "after_us": 14880817675,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14881002709,
+     "after_us": 14881002747,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14881185114,
+     "after_us": 14881185155,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14881368948,
+     "after_us": 14881368995,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14881549452,
+     "after_us": 14881549490,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14881734526,
+     "after_us": 14881734567,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14881920012,
+     "after_us": 14881920098,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 197.79,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 6,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14897954006,
+     "after_us": 14897960427,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14898151873,
+     "after_us": 14898151918,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14898336967,
+     "after_us": 14898336995,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14898522180,
+     "after_us": 14898522231,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14898711209,
+     "after_us": 14898711247,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14898896820,
+     "after_us": 14898896868,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14899081912,
+     "after_us": 14899081960,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14899267476,
+     "after_us": 14899267526,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 197.87,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 7,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14915142474,
+     "after_us": 14915148844,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14915341019,
+     "after_us": 14915341059,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14915526094,
+     "after_us": 14915526121,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14915711189,
+     "after_us": 14915711253,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14915894955,
+     "after_us": 14915895002,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14916084200,
+     "after_us": 14916084246,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14916269469,
+     "after_us": 14916269524,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14916459861,
+     "after_us": 14916459926,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 198.54,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 8,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14932479379,
+     "after_us": 14932485752,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14932675797,
+     "after_us": 14932675828,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14932860886,
+     "after_us": 14932860921,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14933045960,
+     "after_us": 14933046016,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14933228614,
+     "after_us": 14933228659,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14933415714,
+     "after_us": 14933415789,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14933600828,
+     "after_us": 14933600871,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14933788698,
+     "after_us": 14933788762,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 196.42,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 9,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14950108538,
+     "after_us": 14950114822,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14950304868,
+     "after_us": 14950304933,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14950490189,
+     "after_us": 14950490255,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14950671494,
+     "after_us": 14950671562,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14950857201,
+     "after_us": 14950857269,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14951047859,
+     "after_us": 14951047944,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14951233440,
+     "after_us": 14951233498,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14951417541,
+     "after_us": 14951417586,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 196.33,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 10,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 14967626580,
+     "after_us": 14967633270,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14967823801,
+     "after_us": 14967823850,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14968008887,
+     "after_us": 14968008919,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14968194624,
+     "after_us": 14968194718,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14968380024,
+     "after_us": 14968380079,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14968565136,
+     "after_us": 14968565208,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14968752264,
+     "after_us": 14968752307,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14968935283,
+     "after_us": 14968935328,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 197.22,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 1,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 14984987446,
+     "after_us": 14984993575,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 14985383775,
+     "after_us": 14985383830,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 14985569909,
+     "after_us": 14985569943,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 14985751795,
+     "after_us": 14985751851,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 14985939482,
+     "after_us": 14985939527,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 14986124562,
+     "after_us": 14986124598,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 14986310771,
+     "after_us": 14986310840,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 14986493856,
+     "after_us": 14986493919,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.33,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 2,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15002688381,
+     "after_us": 15002694795,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15003085521,
+     "after_us": 15003085565,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15003271507,
+     "after_us": 15003271542,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15003451689,
+     "after_us": 15003451750,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15003640725,
+     "after_us": 15003640769,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15003827100,
+     "after_us": 15003827170,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15004013021,
+     "after_us": 15004013102,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15004198749,
+     "after_us": 15004198834,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 397.14,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 3,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15019944313,
+     "after_us": 15019950699,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15020341208,
+     "after_us": 15020341255,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15020526344,
+     "after_us": 15020526373,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15020711848,
+     "after_us": 15020711914,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15020897989,
+     "after_us": 15020898033,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15021083071,
+     "after_us": 15021083113,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15021269211,
+     "after_us": 15021269248,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15021457523,
+     "after_us": 15021457602,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.89,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 4,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15037816285,
+     "after_us": 15037823564,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15038212386,
+     "after_us": 15038212428,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15038397550,
+     "after_us": 15038397594,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15038579440,
+     "after_us": 15038579490,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15038767409,
+     "after_us": 15038767445,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15038956290,
+     "after_us": 15038956335,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15039141375,
+     "after_us": 15039141417,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15039326907,
+     "after_us": 15039326978,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.1,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 5,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15055139145,
+     "after_us": 15055145952,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15055536039,
+     "after_us": 15055536100,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15055717331,
+     "after_us": 15055717372,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15055902447,
+     "after_us": 15055902495,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15056087532,
+     "after_us": 15056087583,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15056272625,
+     "after_us": 15056272673,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15056453026,
+     "after_us": 15056453073,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15056638193,
+     "after_us": 15056638241,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.89,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 6,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15072924301,
+     "after_us": 15072930771,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15073320928,
+     "after_us": 15073320969,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15073506753,
+     "after_us": 15073506810,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15073694795,
+     "after_us": 15073694875,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15073879913,
+     "after_us": 15073879962,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15074065035,
+     "after_us": 15074065079,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15074250118,
+     "after_us": 15074250173,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15074435209,
+     "after_us": 15074435254,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.63,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 7,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15090397657,
+     "after_us": 15090404071,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15090794183,
+     "after_us": 15090794232,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15090979196,
+     "after_us": 15090979232,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15091169560,
+     "after_us": 15091169638,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15091353528,
+     "after_us": 15091353609,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15091536806,
+     "after_us": 15091536842,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15091718092,
+     "after_us": 15091718137,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15091903167,
+     "after_us": 15091903207,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.53,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 8,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15107681640,
+     "after_us": 15107687598,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15108079158,
+     "after_us": 15108079356,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15108264454,
+     "after_us": 15108264526,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15108451397,
+     "after_us": 15108451457,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15108634574,
+     "after_us": 15108634627,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15108826903,
+     "after_us": 15108826962,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15109012071,
+     "after_us": 15109012118,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15109197163,
+     "after_us": 15109197210,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 397.52,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 9,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15124854091,
+     "after_us": 15124861307,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15125251001,
+     "after_us": 15125251040,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15125435952,
+     "after_us": 15125436021,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15125621873,
+     "after_us": 15125621939,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15125807916,
+     "after_us": 15125807998,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15125993046,
+     "after_us": 15125993084,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15126178068,
+     "after_us": 15126178124,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15126362412,
+     "after_us": 15126362463,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.91,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "iphone",
+   "timing_run": 10,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 15142118036,
+     "after_us": 15142124811,
+     "x": 409,
+     "y": 725
+    },
+    {
+     "before_us": 15142514915,
+     "after_us": 15142514961,
+     "x": 118,
+     "y": 777
+    },
+    {
+     "before_us": 15142700070,
+     "after_us": 15142700096,
+     "x": 250,
+     "y": 777
+    },
+    {
+     "before_us": 15142883878,
+     "after_us": 15142883956,
+     "x": 383,
+     "y": 777
+    },
+    {
+     "before_us": 15143069255,
+     "after_us": 15143069307,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 15143256274,
+     "after_us": 15143256316,
+     "x": 118,
+     "y": 939
+    },
+    {
+     "before_us": 15143444783,
+     "after_us": 15143444844,
+     "x": 250,
+     "y": 831
+    },
+    {
+     "before_us": 15143629883,
+     "after_us": 15143629929,
+     "x": 383,
+     "y": 831
+    }
+   ],
+   "measured_gap_ms": 396.88,
+   "shown_after_typing": "1234.56",
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      365,
+      944
+     ],
+     "size": [
+      67,
+      44
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "1,234.56"
+   },
+   "saved_after_leaving": 1234.56,
+   "saved_after_reopen": 1234.56,
+   "correct": true,
+   "lost_or_not_correct": false
+  }
+ ],
+ "120": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ },
+ "200": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ },
+ "400": {
+  "runs": 10,
+  "lost": 0,
+  "saved": [
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56,
+   1234.56
+  ]
+ }
+}

@@ -1,0 +1,2293 @@
+{
+ "case": "tapdelay-summary",
+ "device": "ipad",
+ "mp4": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/lifecycle-b-timing/ipad/tapdelay/ipad-tapdelay.mp4",
+ "results": [
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12876518768,
+     "after_us": 12876527031,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12876637957,
+     "after_us": 12876638027,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12876823063,
+     "after_us": 12876823096,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12877008127,
+     "after_us": 12877008195,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12877194877,
+     "after_us": 12877194934,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12877379987,
+     "after_us": 12877380031,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12877565069,
+     "after_us": 12877565107,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12877749888,
+     "after_us": 12877749983,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 119.19,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12899771251,
+     "after_us": 12899779420,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12899884971,
+     "after_us": 12899885010,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12900070105,
+     "after_us": 12900070145,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12900255237,
+     "after_us": 12900255302,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12900440363,
+     "after_us": 12900440413,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12900625330,
+     "after_us": 12900625375,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12900812803,
+     "after_us": 12900812853,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12900998075,
+     "after_us": 12900998121,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 113.72,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12910133584,
+     "after_us": 12910142105,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12910252151,
+     "after_us": 12910252194,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12910437236,
+     "after_us": 12910437267,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12910619039,
+     "after_us": 12910619136,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12910804194,
+     "after_us": 12910804238,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12910988798,
+     "after_us": 12910988843,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12911169301,
+     "after_us": 12911169421,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12911350354,
+     "after_us": 12911350397,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 118.57,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12931006988,
+     "after_us": 12931014951,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12931124009,
+     "after_us": 12931124088,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12931309161,
+     "after_us": 12931309188,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12931494657,
+     "after_us": 12931494714,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12931680511,
+     "after_us": 12931680588,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12931865629,
+     "after_us": 12931865668,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12932050892,
+     "after_us": 12932050940,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12932235975,
+     "after_us": 12932236020,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 117.02,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12951035400,
+     "after_us": 12951042055,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12951152116,
+     "after_us": 12951152157,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12951333785,
+     "after_us": 12951333838,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12951520689,
+     "after_us": 12951520772,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12951713850,
+     "after_us": 12951713953,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12951899725,
+     "after_us": 12951899821,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12952090034,
+     "after_us": 12952090096,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12952278075,
+     "after_us": 12952278109,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 116.72,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12971944235,
+     "after_us": 12971950767,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12972061100,
+     "after_us": 12972061159,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12972246325,
+     "after_us": 12972246486,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12972428579,
+     "after_us": 12972428640,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12972613675,
+     "after_us": 12972613741,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12972799627,
+     "after_us": 12972799673,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12972983789,
+     "after_us": 12972983938,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12973170402,
+     "after_us": 12973170481,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 116.86,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12981981391,
+     "after_us": 12981988061,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12982098106,
+     "after_us": 12982098146,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12982284795,
+     "after_us": 12982284835,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12982473513,
+     "after_us": 12982473561,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12982656938,
+     "after_us": 12982657011,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12982842439,
+     "after_us": 12982842478,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12983027527,
+     "after_us": 12983027575,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12983211042,
+     "after_us": 12983211118,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 116.72,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 12992181466,
+     "after_us": 12992188050,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 12992298102,
+     "after_us": 12992298139,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 12992479304,
+     "after_us": 12992479376,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 12992663383,
+     "after_us": 12992663453,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 12992846253,
+     "after_us": 12992846314,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 12993032743,
+     "after_us": 12993032812,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 12993219034,
+     "after_us": 12993219122,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 12993404610,
+     "after_us": 12993404699,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 116.64,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 13012631533,
+     "after_us": 13012637639,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13012745387,
+     "after_us": 13012745429,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13012930867,
+     "after_us": 13012930903,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13013115722,
+     "after_us": 13013115782,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13013296253,
+     "after_us": 13013296289,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13013476422,
+     "after_us": 13013476486,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13013664520,
+     "after_us": 13013664612,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13013855890,
+     "after_us": 13013855986,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 113.85,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 120,
+   "clicks": [
+    {
+     "before_us": 13022554536,
+     "after_us": 13022562101,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13022671263,
+     "after_us": 13022671313,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13022856446,
+     "after_us": 13022856488,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13023036897,
+     "after_us": 13023036951,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13023226406,
+     "after_us": 13023226501,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13023409977,
+     "after_us": 13023410022,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13023603583,
+     "after_us": 13023603629,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13023788685,
+     "after_us": 13023788730,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 116.73,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": false
+   },
+   "saved_after_leaving": 0.0,
+   "saved_after_reopen": 0.0,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13043229770,
+     "after_us": 13043236187,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13043422557,
+     "after_us": 13043422591,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13043607651,
+     "after_us": 13043607718,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13043792778,
+     "after_us": 13043792855,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13043977901,
+     "after_us": 13043977949,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13044163025,
+     "after_us": 13044163059,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13044351695,
+     "after_us": 13044351787,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13044536862,
+     "after_us": 13044536903,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 192.79,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13054603328,
+     "after_us": 13054610240,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13054796174,
+     "after_us": 13054796224,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13054981536,
+     "after_us": 13054981585,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13055166698,
+     "after_us": 13055166775,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13055351817,
+     "after_us": 13055351866,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13055539261,
+     "after_us": 13055539328,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13055724612,
+     "after_us": 13055724659,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13055909722,
+     "after_us": 13055909768,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 192.85,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13065104817,
+     "after_us": 13065111510,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13065301576,
+     "after_us": 13065301627,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13065486734,
+     "after_us": 13065486768,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13065672481,
+     "after_us": 13065672569,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13065857612,
+     "after_us": 13065857656,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13066039300,
+     "after_us": 13066039339,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13066225202,
+     "after_us": 13066225244,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13066405395,
+     "after_us": 13066405458,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 196.76,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13075596692,
+     "after_us": 13075603028,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13075793118,
+     "after_us": 13075793161,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13075976605,
+     "after_us": 13075976642,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13076161860,
+     "after_us": 13076161909,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13076347021,
+     "after_us": 13076347067,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13076533487,
+     "after_us": 13076533535,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13076718977,
+     "after_us": 13076719022,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13076907067,
+     "after_us": 13076907117,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 196.43,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13086040217,
+     "after_us": 13086046893,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13086234853,
+     "after_us": 13086234890,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13086418396,
+     "after_us": 13086418463,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13086606515,
+     "after_us": 13086606564,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13086792999,
+     "after_us": 13086793043,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13086979849,
+     "after_us": 13086979903,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13087164944,
+     "after_us": 13087165048,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13087354058,
+     "after_us": 13087354118,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 194.64,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13096332935,
+     "after_us": 13096339478,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13096529566,
+     "after_us": 13096529604,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13096714127,
+     "after_us": 13096714158,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13096899883,
+     "after_us": 13096899947,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13097084985,
+     "after_us": 13097085025,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13097270191,
+     "after_us": 13097270273,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13097456040,
+     "after_us": 13097456096,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13097641019,
+     "after_us": 13097641088,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 196.63,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13106787918,
+     "after_us": 13106794815,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13106984864,
+     "after_us": 13106984956,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13107170024,
+     "after_us": 13107170061,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13107355116,
+     "after_us": 13107355185,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13107540255,
+     "after_us": 13107540298,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13107725513,
+     "after_us": 13107725550,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13107910597,
+     "after_us": 13107910652,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13108101612,
+     "after_us": 13108101662,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 196.95,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13117113131,
+     "after_us": 13117121250,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13117311439,
+     "after_us": 13117311473,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13117496626,
+     "after_us": 13117496655,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13117681721,
+     "after_us": 13117681772,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13117866810,
+     "after_us": 13117866858,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13118052374,
+     "after_us": 13118052422,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13118237636,
+     "after_us": 13118237690,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13118426899,
+     "after_us": 13118426953,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 198.31,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13127361158,
+     "after_us": 13127368408,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13127558500,
+     "after_us": 13127558549,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13127743591,
+     "after_us": 13127743627,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13127928682,
+     "after_us": 13127928734,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13128109290,
+     "after_us": 13128109366,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13128294821,
+     "after_us": 13128294892,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13128480018,
+     "after_us": 13128480059,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13128666254,
+     "after_us": 13128666314,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 197.34,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 200,
+   "clicks": [
+    {
+     "before_us": 13137330427,
+     "after_us": 13137336744,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13137525392,
+     "after_us": 13137525455,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13137705958,
+     "after_us": 13137706017,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13137891064,
+     "after_us": 13137891116,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13138076188,
+     "after_us": 13138076239,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13138261370,
+     "after_us": 13138261409,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13138446802,
+     "after_us": 13138446874,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13138632858,
+     "after_us": 13138632914,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 194.97,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "4.56"
+   },
+   "saved_after_leaving": 4.56,
+   "saved_after_reopen": 4.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 1,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13147624929,
+     "after_us": 13147631022,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13148021140,
+     "after_us": 13148021261,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13148206359,
+     "after_us": 13148206396,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13148391424,
+     "after_us": 13148391475,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13148574361,
+     "after_us": 13148574406,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13148756248,
+     "after_us": 13148756323,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13148943740,
+     "after_us": 13148943821,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13149128871,
+     "after_us": 13149128912,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.21,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 2,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13158828819,
+     "after_us": 13158835078,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13159225182,
+     "after_us": 13159225233,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13159410735,
+     "after_us": 13159410772,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13159594210,
+     "after_us": 13159594263,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13159784644,
+     "after_us": 13159784686,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13159979781,
+     "after_us": 13159979856,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13160166861,
+     "after_us": 13160166915,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13160353752,
+     "after_us": 13160353799,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.36,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 3,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13169637679,
+     "after_us": 13169644309,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13170034358,
+     "after_us": 13170034462,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13170219602,
+     "after_us": 13170219684,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13170405709,
+     "after_us": 13170405782,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13170595498,
+     "after_us": 13170595587,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13170786167,
+     "after_us": 13170786211,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13170974274,
+     "after_us": 13170974325,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13171159445,
+     "after_us": 13171159498,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.68,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 4,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13179920351,
+     "after_us": 13179926685,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13180316725,
+     "after_us": 13180316833,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13180497426,
+     "after_us": 13180497461,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13180677670,
+     "after_us": 13180677721,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13180865502,
+     "after_us": 13180865582,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13181050715,
+     "after_us": 13181050760,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13181236931,
+     "after_us": 13181236974,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13181421806,
+     "after_us": 13181421870,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.37,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 5,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13190298785,
+     "after_us": 13190304942,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13190695883,
+     "after_us": 13190695914,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13190881113,
+     "after_us": 13190881153,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13191071127,
+     "after_us": 13191071213,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13191252262,
+     "after_us": 13191252310,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13191441786,
+     "after_us": 13191441858,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13191635637,
+     "after_us": 13191635702,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13191820786,
+     "after_us": 13191820833,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 397.1,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 6,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13200450018,
+     "after_us": 13200456647,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13200846692,
+     "after_us": 13200846725,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13201031772,
+     "after_us": 13201031817,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13201213193,
+     "after_us": 13201213252,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13201398300,
+     "after_us": 13201398342,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13201584430,
+     "after_us": 13201584503,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13201770035,
+     "after_us": 13201770100,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13201955427,
+     "after_us": 13201955512,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.67,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 7,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13210672661,
+     "after_us": 13210680184,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13211070286,
+     "after_us": 13211070480,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13211255038,
+     "after_us": 13211255076,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13211440383,
+     "after_us": 13211440441,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13211631663,
+     "after_us": 13211631717,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13211817502,
+     "after_us": 13211817584,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13212002898,
+     "after_us": 13212002968,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13212188002,
+     "after_us": 13212188053,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 397.62,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 8,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13221248255,
+     "after_us": 13221255203,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13221644772,
+     "after_us": 13221644808,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13221829921,
+     "after_us": 13221829956,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13222015738,
+     "after_us": 13222015793,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13222200832,
+     "after_us": 13222200879,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13222384928,
+     "after_us": 13222384968,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13222566160,
+     "after_us": 13222566231,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13222754237,
+     "after_us": 13222754283,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.52,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 9,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13231796898,
+     "after_us": 13231804837,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13232194886,
+     "after_us": 13232194930,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13232380091,
+     "after_us": 13232380115,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13232563077,
+     "after_us": 13232563124,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13232748774,
+     "after_us": 13232748843,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13232933902,
+     "after_us": 13232933943,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13233122260,
+     "after_us": 13233122317,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13233307399,
+     "after_us": 13233307477,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 397.99,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "34.56"
+   },
+   "saved_after_leaving": 34.56,
+   "saved_after_reopen": 34.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  },
+  {
+   "case": "lifecycle-b-tapdelay",
+   "device": "ipad",
+   "timing_run": 10,
+   "delay_target_ms": 400,
+   "clicks": [
+    {
+     "before_us": 13242246775,
+     "after_us": 13242253161,
+     "x": 1105,
+     "y": 873
+    },
+    {
+     "before_us": 13242643368,
+     "after_us": 13242643411,
+     "x": 1064,
+     "y": 718
+    },
+    {
+     "before_us": 13242827741,
+     "after_us": 13242827775,
+     "x": 1119,
+     "y": 718
+    },
+    {
+     "before_us": 13243008172,
+     "after_us": 13243008227,
+     "x": 1174,
+     "y": 718
+    },
+    {
+     "before_us": 13243196353,
+     "after_us": 13243196441,
+     "x": 1064,
+     "y": 756
+    },
+    {
+     "before_us": 13243381809,
+     "after_us": 13243381848,
+     "x": 1064,
+     "y": 833
+    },
+    {
+     "before_us": 13243567632,
+     "after_us": 13243567721,
+     "x": 1119,
+     "y": 756
+    },
+    {
+     "before_us": 13243753338,
+     "after_us": 13243753421,
+     "x": 1174,
+     "y": 756
+    }
+   ],
+   "measured_gap_ms": 396.59,
+   "shown_after_typing": null,
+   "leave": {
+    "done_hittable": true,
+    "done_frame": {
+     "pos": [
+      1078.5116279069766,
+      1021.8422965116279
+     ],
+     "size": [
+      45.64050387596899,
+      29.962209302325576
+     ]
+    },
+    "keyboard_at_done": false,
+    "value_after_blur": "234.56"
+   },
+   "saved_after_leaving": 234.56,
+   "saved_after_reopen": 234.56,
+   "correct": false,
+   "lost_or_not_correct": true
+  }
+ ],
+ "120": {
+  "runs": 10,
+  "lost": 10,
+  "saved": [
+   0.0,
+   4.56,
+   0.0,
+   0.0,
+   0.0,
+   4.56,
+   4.56,
+   0.0,
+   4.56,
+   0.0
+  ]
+ },
+ "200": {
+  "runs": 10,
+  "lost": 10,
+  "saved": [
+   34.56,
+   34.56,
+   4.56,
+   4.56,
+   4.56,
+   34.56,
+   4.56,
+   34.56,
+   4.56,
+   4.56
+  ]
+ },
+ "400": {
+  "runs": 10,
+  "lost": 10,
+  "saved": [
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   34.56,
+   234.56
+  ]
+ }
+}

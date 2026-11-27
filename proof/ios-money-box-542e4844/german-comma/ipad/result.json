@@ -1,0 +1,51 @@
+{
+ "device": "ipad",
+ "case": "german-comma",
+ "values_after_keys": [
+  [
+   "1",
+   null
+  ],
+  [
+   "5",
+   null
+  ],
+  [
+   "0",
+   null
+  ],
+  [
+   "0",
+   null
+  ],
+  [
+   ",",
+   null
+  ],
+  [
+   "5",
+   null
+  ],
+  [
+   "0",
+   null
+  ]
+ ],
+ "shown_after_typing": null,
+ "done_activated": true,
+ "shown_after_blur": "1500,50",
+ "saved_after_done": {
+  "taxable_amount": 1500.5,
+  "tax_due": 45.02,
+  "total_tax_due": 45.02,
+  "updated_at": "2026-11-26T23:49:22.994984+00:00"
+ },
+ "shown_after_reopen": "1,500.50",
+ "saved_after_reopen": {
+  "taxable_amount": 1500.5,
+  "tax_due": 45.02,
+  "total_tax_due": 45.02,
+  "updated_at": "2026-11-26T23:49:22.994984+00:00"
+ },
+ "pass": true
+}

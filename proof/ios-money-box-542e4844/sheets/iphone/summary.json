@@ -1,0 +1,700 @@
+{
+ "case": "sheets-summary",
+ "mp4": "/Users/devin/moneybox-542e4844/proof/ios-money-box-542e4844/sheets/iphone/sheets-matrix.mp4",
+ "tap_correct": 0,
+ "tap_runs": 10,
+ "shown_correct": 10,
+ "shown_runs": 10,
+ "results": [
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 1,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     377
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8422565952,
+     "after_us": 8422578264,
+     "x": 248,
+     "y": 403
+    },
+    {
+     "before_us": 8422578285,
+     "after_us": 8422578298,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8422701233,
+     "after_us": 8422701278,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 2,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8457553510,
+     "after_us": 8457560692,
+     "x": 248,
+     "y": 403
+    },
+    {
+     "before_us": 8457560710,
+     "after_us": 8457560720,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8457685751,
+     "after_us": 8457685792,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 3,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     376.33333333333337
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8494019435,
+     "after_us": 8494027074,
+     "x": 248,
+     "y": 397
+    },
+    {
+     "before_us": 8494027093,
+     "after_us": 8494027106,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8494152453,
+     "after_us": 8494152521,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 4,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8525222646,
+     "after_us": 8525229507,
+     "x": 248,
+     "y": 403
+    },
+    {
+     "before_us": 8525229550,
+     "after_us": 8525229608,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8525355921,
+     "after_us": 8525355966,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.04,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 5,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8557073446,
+     "after_us": 8557080882,
+     "x": 248,
+     "y": 403
+    },
+    {
+     "before_us": 8557080899,
+     "after_us": 8557080910,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8557206205,
+     "after_us": 8557206243,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 6,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     375.6666666666665
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8589542483,
+     "after_us": 8589550259,
+     "x": 248,
+     "y": 397
+    },
+    {
+     "before_us": 8589550279,
+     "after_us": 8589550296,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8589672995,
+     "after_us": 8589673044,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 7,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     378.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8623808973,
+     "after_us": 8623816425,
+     "x": 248,
+     "y": 400
+    },
+    {
+     "before_us": 8623816444,
+     "after_us": 8623816456,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8623941669,
+     "after_us": 8623941694,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "0",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 8,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.33333333333337
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8660939957,
+     "after_us": 8660951141,
+     "x": 248,
+     "y": 402
+    },
+    {
+     "before_us": 8660951158,
+     "after_us": 8660951171,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8661076207,
+     "after_us": 8661076235,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "0",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 9,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     380.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8702339536,
+     "after_us": 8702345993,
+     "x": 248,
+     "y": 402
+    },
+    {
+     "before_us": 8702346010,
+     "after_us": 8702346024,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8702470452,
+     "after_us": 8702470496,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "tap",
+   "run": 10,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     376.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "clicks": [
+    {
+     "before_us": 8736854207,
+     "after_us": 8736861066,
+     "x": 248,
+     "y": 398
+    },
+    {
+     "before_us": 8736861082,
+     "after_us": 8736861094,
+     "x": 118,
+     "y": 831
+    },
+    {
+     "before_us": 8736987227,
+     "after_us": 8736987267,
+     "x": 250,
+     "y": 777
+    }
+   ],
+   "tap_to_key4_ms": 0.02,
+   "shown_after_typing": "2",
+   "left_field": true,
+   "saved_after_leave": 2,
+   "shown_after_reopen": "2",
+   "saved_after_reopen": 2,
+   "correct": false
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 1,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     370.33333333333337
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 212.98,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 2,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.9999999999999
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 227.01,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 3,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     378.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 219.48,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 4,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     377.9999999999999
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 212.62,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 5,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     378.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 221.34,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 6,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     372.33333333333337
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 219.54,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 7,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     379
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 220.75,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 8,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.33333333333337
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 214.33,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 9,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     371
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 214.87,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  },
+  {
+   "case": "sheets",
+   "device": "iphone",
+   "mode": "shown",
+   "run": 10,
+   "precondition_value": "0",
+   "field_frame": {
+    "pos": [
+     87,
+     381.66666666666663
+    ],
+    "size": [
+     322,
+     42
+    ]
+   },
+   "keyboard_detected": true,
+   "post_detect_first_key_ms": 219.69,
+   "shown_after_typing": "42",
+   "left_field": true,
+   "saved_after_leave": 42,
+   "shown_after_reopen": "42",
+   "saved_after_reopen": 42,
+   "correct": true
+  }
+ ]
+}
