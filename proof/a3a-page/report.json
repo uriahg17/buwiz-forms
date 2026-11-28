@@ -62,5 +62,7 @@
       "recording": "proof/a3a-page/evidence/iphone-signin/recording.mov",
       "receipt": "proof/a3a-page/evidence/iphone-signin/receipt.json"
     }
-  ]
+  ],
+  "final_head": "dc87e13ec840c42243900a0ca1875b91e77c191a",
+  "final_head_note": "No proof re-run was required: the recipes exercise the host-driven opening/moving screens, whose recipe-visible wording and outcome are unchanged at the final head. The review fixes concerned the permanent note, non-recipe blocked pages, sign-out errors, and the no-state fallback."
 }
