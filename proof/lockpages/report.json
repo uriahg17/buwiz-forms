@@ -2,7 +2,7 @@
   "driver": "gpui-agent-cli 0.5.0",
   "pull_request": 488,
   "head": "12a4edf83f44844acee63139d3c2fcac5ddff42d",
-  "generated_at": "2026-11-27T23:47:47Z",
+  "generated_at": "2026-11-28T00:05:29Z",
   "safety": {
     "BUWIZ_NO_KEYCHAIN": "1",
     "EBIR_TEST_ENV": "1",
@@ -14,6 +14,7 @@
     {
       "name": "macos-light",
       "platform": "macos",
+      "device": "macOS desktop",
       "theme": "light",
       "status": "passed",
       "steps": 25,
@@ -25,6 +26,7 @@
     {
       "name": "macos-dark",
       "platform": "macos",
+      "device": "macOS desktop",
       "theme": "dark",
       "status": "passed",
       "steps": 25,
@@ -32,19 +34,71 @@
       "screenshots": 7,
       "recording": "proof/lockpages/evidence/macos-dark/recording.mp4",
       "receipt": "proof/lockpages/evidence/macos-dark/receipt.json"
-    }
-  ],
-  "not_run": [
+    },
     {
+      "name": "iphone-light",
       "platform": "ios",
-      "devices": [
-        "iPhone 17 Pro simulator",
-        "iPad Pro 13-inch simulator"
-      ],
-      "reason": "Only 6 GB was free after cleaning session-created folders; the orchestrator required about 25 GB before simulator builds, so the simulator proof moves to a freer Mac."
+      "device": "iPhone 17 Pro simulator",
+      "theme": "light",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/iphone-light/recording.mov",
+      "receipt": "proof/lockpages/evidence/iphone-light/receipt.json"
+    },
+    {
+      "name": "iphone-dark",
+      "platform": "ios",
+      "device": "iPhone 17 Pro simulator",
+      "theme": "dark",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/iphone-dark/recording.mov",
+      "receipt": "proof/lockpages/evidence/iphone-dark/receipt.json"
+    },
+    {
+      "name": "ipad-light",
+      "platform": "ios",
+      "device": "iPad Pro 13-inch simulator",
+      "theme": "light",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/ipad-light/recording.mov",
+      "receipt": "proof/lockpages/evidence/ipad-light/receipt.json"
+    },
+    {
+      "name": "ipad-dark",
+      "platform": "ios",
+      "device": "iPad Pro 13-inch simulator",
+      "theme": "dark",
+      "status": "passed",
+      "steps": 25,
+      "failed_steps": [],
+      "screenshots": 7,
+      "recording": "proof/lockpages/evidence/ipad-dark/recording.mov",
+      "receipt": "proof/lockpages/evidence/ipad-dark/receipt.json"
     }
   ],
+  "not_run": [],
   "known_gaps": [],
-  "method": "gpui-agent recipes only for input. PinCells text inputs are found dynamically with scroll_until (zero scrolls) and used through returned .node references; no simctl input, osascript, CGEvent, or coordinate fallback.",
-  "harness": "proof/lockpages/run-one.sh generates a temporary NSH proof entry that mounts the real Shell with view=lockdebug because the shipping App entry cannot see BIR_SHELL_START through NSH capabilities. The route, pages, interface stub, theme, and all UI input are the exact PR-head code path."
+  "method": "gpui-agent recipes only for input. PinCells text inputs are found dynamically with scroll_until (zero scrolls) and used through returned .node references; no simctl input, osascript, CGEvent, or coordinate fallback. iOS recording uses simctl recordVideo only as an observer.",
+  "harness": "proof/lockpages/run-one.sh generates a temporary NSH proof entry that mounts the real Shell with view=lockdebug because the shipping App entry cannot see BIR_SHELL_START through NSH capabilities. The route, pages, interface stub, theme, and all UI input are the exact PR-head code path. iOS runs use the NSH development host as just nsh-run-agent provides.",
+  "gates_at_head": {
+    "just nsh-check": "passed",
+    "screens/auth/lockPages.test.tsx": "9 passed, 0 failed",
+    "shell/lockDebugRoute.test.tsx": "5 passed, 0 failed",
+    "shell/routes.test.ts": "2 passed, 0 failed",
+    "shell/start.test.ts": "4 passed, 0 failed",
+    "shell/startGate.test.ts": "1 passed, 0 failed",
+    "screens/auth/gate.test.tsx": "77 passed, 0 failed",
+    "shots/lockpages.test.tsx": "30 passed, 0 failed",
+    "cargo test -p nsh-app-ebirforms": "165 passed, 0 failed, 2 ignored",
+    "cargo fmt --all -- --check": "passed",
+    "cargo clippy --locked --workspace --all-targets -- -D warnings": "passed in the nsh workspace"
+  }
 }

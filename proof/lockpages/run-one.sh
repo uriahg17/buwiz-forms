@@ -18,7 +18,13 @@ export CARGO_TARGET_DIR=/Users/devin/lockpages-job/build-target CARGO_INCREMENTA
 export BUWIZ_NO_KEYCHAIN=1 EBIR_TEST_ENV=1 BIR_AUTH_BYPASS=1 BIR_SFTP_DRY_RUN=1
 export BIR_LOG_DIR=/Users/devin/lockpages-job/logs
 unset BIR_SFTP_LIVE BIR_SFTP_HOST BIR_SFTP_PORT BIR_SFTP_USERNAME BIR_SFTP_PASSWORD BIR_SFTP_ACCEPT_ANY_HOST_KEY BIR_RELAY_URL BUWIZ_RELAY_SEND
-export GPUI_AGENT_TOKEN="$(openssl rand -hex 16)" GPUI_AGENT_ADDR=127.0.0.1:17421
+if [ -z "${GPUI_AGENT_TOKEN:-}" ]; then
+  token_file=/Users/devin/lockpages-job/scratch/gpui-agent-token
+  mkdir -p "$(dirname "$token_file")"
+  if [ ! -f "$token_file" ]; then (umask 077; openssl rand -hex 16 >"$token_file"); fi
+  GPUI_AGENT_TOKEN="$(cat "$token_file")"
+fi
+export GPUI_AGENT_TOKEN GPUI_AGENT_ADDR=127.0.0.1:17421
 route="view=lockdebug;theme=$THEME;wrong=1"
 entry="$ROOT/nsh/lockpages-proof-entry.tsx"
 cat >"$entry" <<EOF2
@@ -39,7 +45,12 @@ function ProofEntry() {
 mount(ProofEntry);
 EOF2
 if [ "$TARGET" = ios ]; then
+  pkill -f 'agent/ios-handoff.sh token' >/dev/null 2>&1 || true
+  pkill -f 'nsh run --target ios' >/dev/null 2>&1 || true
   xcrun simctl boot "$DEVICE" >/dev/null 2>&1 || true
+  xcrun simctl terminate "$DEVICE" com.longbridge.nsh.host >/dev/null 2>&1 || true
+  token_container="$(xcrun simctl get_app_container "$DEVICE" com.longbridge.nsh.host data 2>/dev/null || true)"
+  [ -z "$token_container" ] || rm -f "$token_container/Library/Caches/gpui-agent-token"
   args=(--device "$DEVICE")
 else
   args=()
@@ -59,6 +70,11 @@ cleanup() {
   [ -z "$recpid" ] || kill -INT "$recpid" 2>/dev/null || true
   kill -INT "$launcher" 2>/dev/null || kill "$launcher" 2>/dev/null || true
   for pid in $(lsof -tiTCP:17421 -sTCP:LISTEN 2>/dev/null || true); do kill -INT "$pid" 2>/dev/null || kill "$pid" 2>/dev/null || true; done
+  if [ "$TARGET" = ios ]; then
+    xcrun simctl terminate "$DEVICE" com.longbridge.nsh.host >/dev/null 2>&1 || true
+    pkill -f 'agent/ios-handoff.sh token' >/dev/null 2>&1 || true
+    pkill -f 'nsh run --target ios' >/dev/null 2>&1 || true
+  fi
   rm -f "$db" "$db-shm" "$db-wal"
   rm -f "$entry"
 }
