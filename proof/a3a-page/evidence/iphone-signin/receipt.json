@@ -1,0 +1,191 @@
+{
+  "v": 1,
+  "ok": true,
+  "recipe": "signin",
+  "fingerprint": "fnv1a64:b71aa0c83d2c19d2",
+  "session_reused": true,
+  "steps": [
+    {
+      "id": "s1",
+      "ok": true,
+      "elapsed_ms": 3
+    },
+    {
+      "id": "s2",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 420
+    },
+    {
+      "id": "s3",
+      "ok": true,
+      "elapsed_ms": 2
+    },
+    {
+      "id": "s4",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 673
+    },
+    {
+      "id": "s5",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 595
+    },
+    {
+      "id": "s6",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 603
+    },
+    {
+      "id": "s7",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 620
+    },
+    {
+      "id": "s8",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 577
+    },
+    {
+      "id": "s9",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 610
+    },
+    {
+      "id": "s10",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 612
+    },
+    {
+      "id": "s11",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 603
+    },
+    {
+      "id": "s12",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 616
+    },
+    {
+      "id": "s13",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 622
+    },
+    {
+      "id": "s14",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 613
+    },
+    {
+      "id": "s15",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 601
+    },
+    {
+      "id": "s16",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 608
+    },
+    {
+      "id": "s17",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 639
+    },
+    {
+      "id": "s18",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 610
+    },
+    {
+      "id": "s19",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 617
+    },
+    {
+      "id": "s20",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 641
+    },
+    {
+      "id": "s21",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 604
+    },
+    {
+      "id": "s22",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 448
+    },
+    {
+      "id": "s23",
+      "ok": true,
+      "elapsed_ms": 234
+    },
+    {
+      "id": "s24",
+      "ok": true,
+      "delivery_status": "delivered_verified",
+      "elapsed_ms": 50,
+      "result": {
+        "found": true,
+        "node": "n3",
+        "revision": null,
+        "steps": 0
+      }
+    },
+    {
+      "id": "s25",
+      "ok": true,
+      "delivery_status": "delivered_unverified",
+      "elapsed_ms": 1632
+    },
+    {
+      "id": "s26",
+      "ok": true,
+      "elapsed_ms": 1008,
+      "screenshot": {
+        "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-signin/shots/026-s26.png",
+        "ok": true
+      }
+    },
+    {
+      "id": "s27",
+      "ok": true,
+      "elapsed_ms": 2036,
+      "screenshot": {
+        "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-signin/shots/027-s27.png",
+        "ok": true
+      }
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-signin/shots/026-s26.png",
+      "ok": true
+    },
+    {
+      "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-signin/shots/027-s27.png",
+      "ok": true
+    }
+  ],
+  "elapsed_ms": 16908
+}

@@ -1,0 +1,48 @@
+{
+  "v": 1,
+  "ok": true,
+  "recipe": "relaunch",
+  "fingerprint": "fnv1a64:4abd81f869e2f1d4",
+  "session_reused": true,
+  "steps": [
+    {
+      "id": "s1",
+      "ok": true,
+      "elapsed_ms": 154,
+      "screenshot": {
+        "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-relaunch/shots/001-s1.png",
+        "ok": true
+      }
+    },
+    {
+      "id": "s2",
+      "ok": true,
+      "elapsed_ms": 2
+    },
+    {
+      "id": "s3",
+      "ok": true,
+      "elapsed_ms": 339,
+      "screenshot": {
+        "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-relaunch/shots/003-s3.png",
+        "ok": true
+      }
+    },
+    {
+      "id": "s4",
+      "ok": true,
+      "elapsed_ms": 6
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-relaunch/shots/001-s1.png",
+      "ok": true
+    },
+    {
+      "path": "/Users/devin/lockpages-job/a3a-proofwork/results/ios-relaunch/shots/003-s3.png",
+      "ok": true
+    }
+  ],
+  "elapsed_ms": 502
+}

@@ -1,0 +1,5 @@
+# Relaunch with a stored sign-in: Opening, never the sign-in page, then Home.
+wait_until migration-moving-title name="Opening your account…" --timeout-ms 10000 --screenshot
+assert gate-start exists=false
+wait_until frame --timeout-ms 10000 --screenshot
+assert gate-start exists=false

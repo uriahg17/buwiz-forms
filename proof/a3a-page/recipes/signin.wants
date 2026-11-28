@@ -1,0 +1,28 @@
+# Sign in: the Moving page stays until commit, then Home.
+wait_until gate-start --timeout-ms 10000
+click gate-start-continue
+wait_until gate-email-page --timeout-ms 10000
+click gate-email
+key gate-email j
+key gate-email u
+key gate-email a
+key gate-email n
+key gate-email a
+key gate-email shift+2
+key gate-email e
+key gate-email x
+key gate-email a
+key gate-email m
+key gate-email p
+key gate-email l
+key gate-email e
+key gate-email .
+key gate-email c
+key gate-email o
+key gate-email m
+click gate-continue
+wait_until gate-code-page --timeout-ms 10000
+scroll_until gate-code-boxes "Sign-in code, 6 digits" --dy 1 --max-steps 1
+type $s24.node 246810
+wait_until migration-moving-title name="Moving your returns…" --timeout-ms 10000 --screenshot
+wait_until frame --timeout-ms 10000 --screenshot

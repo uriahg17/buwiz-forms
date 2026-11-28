@@ -1,0 +1,66 @@
+{
+  "driver": "gpui-agent-cli 0.5.0",
+  "head": "4f66556faea083acd962c76ab3e0f670d7cafdb6",
+  "generated_at": "2026-11-28T00:41:09Z",
+  "safety": {
+    "BUWIZ_NO_KEYCHAIN": "1",
+    "EBIR_TEST_ENV": "1",
+    "BIR_AUTH_BYPASS": "1",
+    "BIR_SFTP_DRY_RUN": "1",
+    "BIR_SFTP_LIVE": "never set"
+  },
+  "runs": [
+    {
+      "name": "macos-relaunch",
+      "platform": "macos",
+      "device": "macOS desktop",
+      "theme": "light",
+      "scenario": "relaunch",
+      "status": "passed",
+      "steps": 4,
+      "failed_steps": [],
+      "screenshots": 2,
+      "recording": "proof/a3a-page/evidence/macos-relaunch/recording.mp4",
+      "receipt": "proof/a3a-page/evidence/macos-relaunch/receipt.json"
+    },
+    {
+      "name": "macos-signin",
+      "platform": "macos",
+      "device": "macOS desktop",
+      "theme": "light",
+      "scenario": "signin",
+      "status": "passed",
+      "steps": 27,
+      "failed_steps": [],
+      "screenshots": 2,
+      "recording": "proof/a3a-page/evidence/macos-signin/recording.mp4",
+      "receipt": "proof/a3a-page/evidence/macos-signin/receipt.json"
+    },
+    {
+      "name": "iphone-relaunch",
+      "platform": "ios",
+      "device": "iPhone 17 Pro simulator",
+      "theme": "light",
+      "scenario": "relaunch",
+      "status": "passed",
+      "steps": 4,
+      "failed_steps": [],
+      "screenshots": 2,
+      "recording": "proof/a3a-page/evidence/iphone-relaunch/recording.mov",
+      "receipt": "proof/a3a-page/evidence/iphone-relaunch/receipt.json"
+    },
+    {
+      "name": "iphone-signin",
+      "platform": "ios",
+      "device": "iPhone 17 Pro simulator",
+      "theme": "light",
+      "scenario": "signin",
+      "status": "passed",
+      "steps": 27,
+      "failed_steps": [],
+      "screenshots": 2,
+      "recording": "proof/a3a-page/evidence/iphone-signin/recording.mov",
+      "receipt": "proof/a3a-page/evidence/iphone-signin/receipt.json"
+    }
+  ]
+}
